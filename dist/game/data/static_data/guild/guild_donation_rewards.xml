@@ -1,0 +1,6 @@
+<?xml version="1.0" encoding="utf-8"?>
+<guild_donation_rewards xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="guild_donation_rewards.xsd">
+   <guild_donation_reward id="5" name="individual_v27_01" type="INDIVIDUAL" reward_condition="5" reward_item="186000184" reward_count="16" />
+   <guild_donation_reward id="6" name="individual_v27_02" type="INDIVIDUAL" reward_condition="7" reward_item="186000184" reward_count="36" />
+   <guild_donation_reward id="7" name="guild_v27_01" type="GUILD" reward_condition="60" reward_essence_piece_count="56" />
+</guild_donation_rewards>

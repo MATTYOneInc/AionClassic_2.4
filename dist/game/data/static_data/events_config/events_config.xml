@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<events_config xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="events_config.xsd">
+<!--
+    Event
+	Make & Remake By Encom
+ -->
+    <active>Christmast Event;Valentine's Event;Halloween Event;Kakuna World</active>
+	<events>
+	    <event name="Christmast Event" start="2099-12-21T00:00:00+00:00" end="2099-01-04T00:00:00+00:00" theme="christmas"/>
+		<event name="Valentine's Event" start="2099-12-21T00:00:00+00:00" end="2099-01-04T00:00:00+00:00" theme="valentine"/>
+		<event name="Halloween Event" start="2099-12-21T00:00:00+00:00" end="2099-01-04T00:00:00+00:00" theme="halloween"/>
+		
+		<event name="Kakuna World" start="2012-12-28T00:00:00+00:00" end="2021-03-31T00:00:00+00:00">
+			<quests>
+				<maintainable>9566;9567</maintainable>
+			</quests>
+			<spawns>
+				<!-- Heiron -->
+				<spawn_map map_id="210040000">
+				    <!-- -->
+					<spawn npc_id="799986">
+						<spot x="2494.56" y="331.53616" z="412.37695" h="22"/>
+					</spawn>
+					<!-- Kakuna -->
+					<spawn npc_id="218855" respawn_time="7200">
+						<spot x="289.59674" y="2771.3396" z="107.22479" h="16" random_walk="5"/>
+					</spawn>
+				</spawn_map>
+				<!-- Beluslan -->
+				<spawn_map map_id="220040000">
+				    <!-- -->
+				    <spawn npc_id="799988">
+						<spot x="340.4465" y="337.91605" z="229.12941" h="21"/>
+					</spawn>
+					<!-- Kakuna -->
+					<spawn npc_id="218858" respawn_time="7200">
+						<spot x="2377.8933" y="2764.553" z="682.78455" h="1" random_walk="5"/>
+					</spawn>
+				</spawn_map>
+			</spawns>
+		</event>
+	</events>
+</events_config>

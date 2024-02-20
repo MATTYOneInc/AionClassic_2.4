@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+<!--
+    Quest Dark Poeta
+	Make By Encom
+ -->
+	<!-- [Group] Trial Of Transcendence -->
+	<item_collecting id="3503" start_npc_ids="204656"/>
+	<!-- [Group] Door Into Darkness -->
+	<item_collecting id="3705" start_npc_ids="278536" end_npc_ids="204656"/>
+	<!-- [Group] I Need Materials! -->
+	<item_collecting id="3706" start_npc_ids="279060"/>
+	<!-- A Secret Summons -->
+	<report_to_many id="3913" start_npc_ids="203725" end_npc_ids="278536" start_dialog_id="1011">
+        <npc_infos npc_id="203752" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="278536" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- [Group] Obtaining The Dragel -->
+	<item_collecting id="3915" start_npc_ids="203384"/>
+	<!-- [Group] The Danger Of Drana -->
+	<item_collecting id="3916" start_npc_ids="203384"/>
+	<!-- Mutual Benefits -->
+    <report_to id="3917" start_npc_ids="203384" end_npc_ids="798357"/>
+	<!-- [Group] Gathering The Surkana -->
+	<item_collecting id="3918" start_npc_ids="798357"/>
+	<!-- [Group] Obtaining The Drazma -->
+	<item_collecting id="3919" start_npc_ids="798357"/>
+	<!-- Shoshinerk's Reward -->
+	<report_to_many id="3921" start_npc_ids="798357" end_npc_ids="279022" start_dialog_id="1011">
+        <npc_infos npc_id="279022" var="0" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- [Coin/Group] Expunge The Drana Fed -->
+    <monster_hunt id="3977" start_npc_ids="203384" end_dialog_id="1352">
+	    <monster var="0" npc_ids="214849 214850 214851 214880 214894 214895 214896 214897 215388 215389" end_var="8"/>
+    </monster_hunt>
+	
+	<!-- [Group] The Road To Dark Poeta -->
+	<item_collecting id="4503" start_npc_ids="204837"/>
+	<!-- [Group] Essential Material -->
+	<item_collecting id="4705" start_npc_ids="279027" end_npc_ids="204837"/>
+	<!-- [Group] Artifact Activation -->
+	<item_collecting id="4706" start_npc_ids="279060"/>
+	<!-- A Future Threat -->
+	<report_to_many id="4913" start_npc_ids="204182" end_npc_ids="279027" start_dialog_id="1011">
+        <npc_infos npc_id="279027" var="0" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- [Group] Obtaining The Dragel -->
+	<item_collecting id="4915" start_npc_ids="203385"/>
+	<!-- [Group] Acquiring The Drana -->
+	<item_collecting id="4916" start_npc_ids="203385"/>
+	<!-- Information Collector Chopirunerk -->
+	<report_to id="4917" start_npc_ids="203385" end_npc_ids="798358"/>
+	<!-- [Group] Gathering The Surkana -->
+	<item_collecting id="4918" start_npc_ids="798358"/>
+	<!-- [Group] Acquiring The Drazma -->
+	<item_collecting id="4919" start_npc_ids="798358"/>
+	<!-- Chopirunerk's Reward -->
+	<report_to_many id="4921" start_npc_ids="798358" end_npc_ids="279022" start_dialog_id="1011">
+        <npc_infos npc_id="279022" var="0" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- [Coin/Group] Drana Gluttony -->
+	<monster_hunt id="4977" start_npc_ids="203385" end_dialog_id="1352">
+		<monster var="0" npc_ids="214850 214851 214849 215389 214880 215388 214894 214896 214897 214895" end_var="8"/>
+	</monster_hunt>
+</quest_scripts>

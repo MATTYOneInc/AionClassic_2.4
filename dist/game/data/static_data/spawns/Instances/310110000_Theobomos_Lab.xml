@@ -1,0 +1,337 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Theobomos Lab
+	Re-newed By Rinzler
+ -->
+<spawns>
+	<spawn_map map_id="310110000">
+		<!-- idlf2a_statuet_50_ae -->
+        <spawn npc_id="219140">
+            <spot x="509.6364" y="406.10773" z="185.78325" h="0"/>
+            <spot x="354.13788" y="418.8727" z="187.76947" h="0"/>
+            <spot x="466.34528" y="280.79837" z="172.19547" h="0"/>
+            <spot x="554.31586" y="406.89368" z="185.78215" h="59"/>
+            <spot x="531.5004" y="386.0939" z="187.78087" h="89"/>
+            <spot x="488.56262" y="278.07928" z="172.19547" h="60"/>
+            <spot x="378.3899" y="242.23036" z="169.00648" h="29"/>
+            <spot x="374.4259" y="242.23068" z="169.0584" h="30"/>
+            <spot x="408.61136" y="404.18362" z="187.7913" h="60"/>
+            <spot x="383.34393" y="642.0753" z="187.76869" h="90"/>
+            <spot x="376.86343" y="642.2143" z="187.76868" h="90"/>
+            <spot x="549.1323" y="581.42334" z="203.67267" h="43"/>
+            <spot x="513.0939" y="627.8116" z="203.67358" h="105"/>
+            <spot x="510.2047" y="624.7881" z="203.67358" h="105"/>
+            <spot x="480.92868" y="232.02599" z="173.04799" h="90"/>
+            <spot x="474.87192" y="231.85532" z="173.05061" h="90"/>
+            <spot x="573.72504" y="592.76636" z="203.73122" h="0"/>
+            <spot x="573.5165" y="599.5137" z="203.72975" h="0"/>
+            <spot x="383.1047" y="365.2697" z="187.83495" h="90"/>
+            <spot x="377.83463" y="365.15338" z="187.83583" h="90"/>
+        </spawn>
+        <!-- idlf2a_bat_50_ae -->
+        <spawn npc_id="214642">
+            <spot x="469.6932" y="266.63763" z="172.19547" h="0"/>
+            <spot x="487.695" y="290.6825" z="172.19499" h="60"/>
+            <spot x="372.8749" y="302.35797" z="170.29732" h="108"/>
+            <spot x="497.06406" y="840.7844" z="164.40794" h="59"/>
+			<spot x="588.4577" y="742.4107" z="165.6622" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_83"/>
+			<spot x="580.6456" y="639.2648" z="162.9129" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_84"/>
+        </spawn>
+        <!-- idlf2a_vivre_50_ae -->
+        <spawn npc_id="214643">
+            <spot x="457.6456" y="263.17032" z="172.95158" h="0"/>
+            <spot x="498.74042" y="254.7171" z="172.95157" h="60"/>
+            <spot x="405.32162" y="310.2973" z="169.10449" h="90"/>
+            <spot x="405.4337" y="290.03876" z="169.10449" h="30"/>
+            <spot x="380.25064" y="302.22897" z="169.10449" h="112"/>
+            <spot x="372.76453" y="295.27884" z="169.10449" h="99"/>
+        </spawn>
+        <!-- idlf2a_holyservant_50_ae -->
+        <spawn npc_id="214644">
+            <spot x="497.29578" y="318.0244" z="176.14333" h="90"/>
+            <spot x="459.11136" y="318.02502" z="176.14333" h="90"/>
+            <spot x="477.9643" y="229.87228" z="173.08112" h="90"/>
+            <spot x="529.6404" y="595.3112" z="202.9366" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_95a"/>
+            <spot x="521.7268" y="601.8359" z="202.9391" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_119b"/>
+        </spawn>
+        <!-- idlf2a_divinecrusader_50_ae -->
+        <spawn npc_id="214645">
+            <spot x="525.0351" y="414.07388" z="185.78548" h="90"/>
+            <spot x="539.0673" y="414.0397" z="185.7851" h="90"/>
+            <spot x="477.81662" y="352.4337" z="176.12785" h="90"/>
+            <spot x="380.5745" y="345.2055" z="185.5950" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_45"/>
+            <spot x="529.1174" y="343.0977" z="183.9307" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_44"/>
+            <spot x="436.0067" y="343.1424" z="176.0681" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_46"/>
+            <spot x="366.8672" y="618.1608" z="186.7744" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_61a"/>
+            <spot x="387.4111" y="602.0268" z="186.7744" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_64b"/>
+            <spot x="388.7346" y="625.1520" z="186.7744" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_66c"/>
+            <spot x="389.3106" y="684.2356" z="187.1464" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_70"/>
+            <spot x="395.0127" y="678.7518" z="187.1128" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_71"/>
+            <spot x="394.7537" y="684.3617" z="187.1021" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_72"/>
+            <spot x="389.1395" y="678.5766" z="187.1188" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_73"/>
+        </spawn>
+        <!-- idlf2a_lightnessservant_50_ae -->
+        <spawn npc_id="219138">
+            <spot x="380.35864" y="614.0878" z="187.0348" h="103"/>
+            <spot x="391.79776" y="681.95337" z="187.13232" h="90"/>
+            <spot x="542.1385" y="496.1360" z="196.76024" h="91"/>
+            <spot x="542.2650" y="485.5946" z="196.75607" h="31"/>
+            <spot x="522.1214" y="490.9263" z="196.7593" h="2"/>
+        </spawn>
+        <!-- idlf2a_shelukviolet_50_ae -->
+        <spawn npc_id="214647">
+            <spot x="247.99265" y="204.10194" z="174.69316" h="0"/>
+            <spot x="380.07697" y="167.58041" z="170.29732" h="46"/>
+            <spot x="298.217" y="158.3415" z="174.35683" h="40"/>
+            <spot x="270.59003" y="165.41367" z="174.35683" h="30"/>
+            <spot x="298.23843" y="208.93315" z="174.60486" h="82"/>
+            <spot x="275.6495" y="203.86688" z="174.99982" h="90"/>
+            <spot x="253.8705" y="159.63538" z="174.62723" h="29"/>
+            <spot x="451.74857" y="773.4384" z="157.90195" h="88"/>
+            <spot x="460.9662" y="773.3787" z="157.89705" h="89"/>
+            <spot x="570.96045" y="844.5305" z="166.0553" h="89"/>
+            <spot x="587.525" y="844.19183" z="165.53493" h="78"/>
+            <spot x="599.95325" y="832.9564" z="165.53493" h="78"/>
+            <spot x="542.7938" y="815.6235" z="165.5496" h="22"/>
+			<spot x="377.2575" y="185.8288" z="169.1044" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_16"/>
+			<spot x="283.5307" y="192.6235" z="173.1851" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_22"/>
+			<spot x="347.6796" y="168.7309" z="169.1044" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_117"/>
+        </spawn>
+        <!-- idlf2a_shelukvioletbaby_50_ae -->
+        <spawn npc_id="214648">
+            <spot x="247.28017" y="183.52885" z="173.89787" h="0"/>
+            <spot x="247.06435" y="189.32268" z="174.05812" h="0"/>
+            <spot x="243.9812" y="169.69392" z="174.73743" h="0"/>
+            <spot x="384.57452" y="170.81624" z="170.29732" h="46"/>
+            <spot x="377.4178" y="163.15532" z="170.29732" h="45"/>
+            <spot x="317.69012" y="177.4207" z="172.29086" h="106"/>
+            <spot x="316.33615" y="161.55939" z="172.47354" h="10"/>
+            <spot x="589.4033" y="842.53925" z="165.53493" h="78"/>
+            <spot x="592.4003" y="786.47864" z="165.6635" h="30"/>
+            <spot x="585.67004" y="786.4077" z="165.66385" h="30"/>
+			<spot x="377.2575" y="185.8288" z="169.1044" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_16"/>
+			<spot x="283.5307" y="192.6235" z="173.1851" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_22"/>
+			<spot x="347.6796" y="168.7309" z="169.1044" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_117"/>
+        </spawn>
+        <!-- idlf2a_icedfoam_50_ae -->
+        <spawn npc_id="214649">
+            <spot x="549.6381" y="230.7578" z="177.6328" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_114"/>
+            <spot x="622.5800" y="203.1476" z="166.1859" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_40"/>
+            <spot x="682.3976" y="203.5331" z="169.5965" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_39"/>
+            <spot x="701.0707" y="231.3068" z="177.6336" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_115"/>
+            <spot x="688.7770" y="264.0355" z="174.3084" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_37"/>
+            <spot x="575.8251" y="203.0798" z="171.4518" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_41"/>
+            <spot x="645.5265" y="263.9671" z="165.9882" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_34"/>
+        </spawn>
+        <!-- idlf2a_elementalfire1_50_ae -->
+        <spawn npc_id="214651">
+            <spot x="635.4870" y="153.00266" z="166.09023" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_42"/>
+        </spawn>
+        <!-- idlf2a_elementalair1_50_ae -->
+        <spawn npc_id="214653">
+            <spot x="476.6417" y="530.8516" z="187.79453" h="90"/>
+            <spot x="495.26224" y="512.5332" z="187.79453" h="62"/>
+			<spot x="431.0978" y="467.2787" z="187.8273" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_53"/>
+			<spot x="431.0978" y="467.2787" z="187.8273" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_53"/>
+			<spot x="430.3069" y="557.4689" z="187.8269" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_57"/>
+        </spawn>
+        <!-- idlf2a_elementalearth1_50_ae -->
+        <spawn npc_id="214654">
+            <spot x="393.40625" y="493.24963" z="186.20251" h="46"/>
+            <spot x="367.83167" y="518.9814" z="186.20251" h="107"/>
+			<spot x="391.6231" y="545.5308" z="184.2323" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_56"/>
+			<spot x="381.8129" y="455.5980" z="186.9144" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_119a"/>
+			<spot x="379.7602" y="455.5980" z="186.9144" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_119a2"/>
+        </spawn>
+        <!-- idlf2a_elementalwater1_50_ae -->
+        <spawn npc_id="214655">
+            <spot x="266.00885" y="512.264" z="187.79453" h="0"/>
+            <spot x="284.15787" y="530.2205" z="187.79453" h="92"/>
+			<spot x="332.6938" y="464.6587" z="187.8273" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_54"/>
+			<spot x="332.6938" y="464.6587" z="187.8273" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_54"/>
+			<spot x="332.1208" y="559.5536" z="187.8270" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_58"/>
+        </spawn>
+        <!-- idlf2a_kuillusstatue_50_ae -->
+        <spawn npc_id="219137">
+            <spot x="509.62842" y="407.99725" z="185.78387" h="0"/>
+            <spot x="554.3097" y="408.52667" z="185.78253" h="58"/>
+            <spot x="398.07474" y="390.68814" z="187.76881" h="43"/>
+            <spot x="361.67053" y="389.99023" z="187.76869" h="17"/>
+            <spot x="547.7601" y="580.41956" z="203.67268" h="43"/>
+			<spot x="579.0787" y="596.1372" z="203.7298" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_103"/>
+        </spawn>
+        <!-- idlf2a_wormblue_50_ae -->
+        <spawn npc_id="214657">
+            <spot x="479.4285" y="844.9624" z="161.3438" h="0"/>
+            <spot x="452.19238" y="847.49536" z="158.55855" h="0"/>
+            <spot x="593.46625" y="814.4019" z="164.09773" h="0"/>
+        </spawn>
+        <!-- idlf2a_mimicviolet_50_ae -->
+        <spawn npc_id="214658">
+            <spot x="478.74326" y="778.5493" z="158.20042" h="0"/>
+            <spot x="433.05615" y="763.81335" z="158.63127" h="0"/>
+            <spot x="430.2571" y="786.1011" z="158.6304" h="0"/>
+            <spot x="444.0043" y="749.00116" z="158.63138" h="0"/>
+            <spot x="473.31055" y="749.56274" z="158.63158" h="0"/>
+            <spot x="556.4359" y="812.3512" z="166.06996" h="30"/>
+        </spawn>
+		<!-- idlf2a_shelukkeynamed_50_ae -->
+        <spawn npc_id="214659">
+            <spot x="250.18434" y="186.50235" z="174.0684" h="0"/>
+        </spawn>
+        <!-- idlf2a_cyclopsrekeynmd_50_ae -->
+        <spawn npc_id="214660">
+            <spot x="648.2821" y="212.34795" z="166.04839" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_118"/>
+        </spawn>
+		<!-- idlf2a_samvioletkeynmd_50_ae -->
+        <spawn npc_id="214661">
+            <spot x="531.2078" y="430.1618" z="187.1389" h="91"/>
+        </spawn>
+        <!-- idlf2a_beholderkeynmd_43_ae -->
+        <spawn npc_id="214662">
+            <spot x="595.76483" y="593.9722" z="159.42337" h="61"/>
+        </spawn>
+		<!-- idlf2a_elementalfire4nmd_50_ae -->
+        <spawn npc_id="214663">
+            <spot x="654.29285" y="157.3868" z="165.93904" h="30"/>
+        </spawn>
+		<!-- idlf2a_elementalair4nmd_50_Ae -->
+        <spawn npc_id="214664">
+            <spot x="475.19656" y="511.2923" z="187.63083" h="75"/>
+        </spawn>
+		<!-- idlf2a_elementalearth4nmd_50_ae -->
+        <spawn npc_id="214665">
+            <spot x="380.58093" y="505.20343" z="186.03194" h="91"/>
+        </spawn>
+		<!-- idlf2a_elementalwater4nmd_50_ae -->
+        <spawn npc_id="214666">
+            <spot x="285.1394" y="511.52716" z="187.60928" h="105"/>
+        </spawn>
+		<!-- idlf2a_holyservantvioletnmd_50_ah -->
+        <spawn npc_id="214668">
+            <spot x="394.65115" y="744.5640" z="189.38643" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_113"/>
+        </spawn>
+		<!-- idlf2a_elementalkingnmd_50_ah -->
+        <spawn npc_id="214669">
+            <spot x="616.16900" y="488.75800" z="196.01500" h="62"/>
+        </spawn>
+        <!-- idlf2a_tesinonwatcher_50_ae -->
+        <spawn npc_id="219141">
+            <spot x="512.00995" y="433.35956" z="187.53395" h="103"/>
+            <spot x="502.20392" y="599.5219" z="203.60428" h="0"/>
+            <spot x="552.2628" y="433.73917" z="187.53395" h="78"/>
+            <spot x="477.90454" y="311.98547" z="176.17323" h="90"/>
+            <spot x="380.15112" y="410.11636" z="187.0348" h="90"/>
+            <spot x="529.5139" y="571.9359" z="203.67258" h="30"/>
+            <spot x="546.1062" y="625.90765" z="203.68385" h="75"/>
+            <spot x="529.69824" y="687.61755" z="202.11754" h="91"/>
+            <spot x="412.638" y="682.0935" z="187.76295" h="60"/>
+            <spot x="529.86523" y="522.10114" z="200.81732" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_110"/>
+        </spawn>
+        <!-- d1_spakle_1_n -->
+        <spawn npc_id="214714">
+            <spot x="457.99988" y="840.20514" z="158.54143" h="0"/>
+            <spot x="468.39517" y="791.6657" z="158.6304" h="0"/>
+            <spot x="456.68292" y="846.2849" z="158.67908" h="0"/>
+            <spot x="451.8969" y="739.28546" z="158.6308" h="0"/>
+            <spot x="548.9243" y="826.28754" z="164.71877" h="0"/>
+            <spot x="558.1513" y="835.5464" z="164.72374" h="0"/>
+            <spot x="441.52808" y="752.87994" z="158.6336" h="0"/>
+            <spot x="512.97974" y="842.18353" z="165.66544" h="0"/>
+            <spot x="462.17935" y="743.2158" z="158.63164" h="0"/>
+            <spot x="455.51212" y="708.05615" z="157.03299" h="0"/>
+            <spot x="589.3691" y="797.71313" z="165.3828" h="0"/>
+            <spot x="574.13666" y="828.2123" z="164.71877" h="0"/>
+            <spot x="430.9846" y="779.2684" z="158.62761" h="0"/>
+            <spot x="596.6457" y="799.7862" z="165.3828" h="0"/>
+            <spot x="443.30576" y="792.5264" z="158.6304" h="0"/>
+            <spot x="456.77884" y="823.45105" z="158.58086" h="0"/>
+            <spot x="518.3546" y="841.0242" z="165.66318" h="0"/>
+            <spot x="455.3256" y="694.4803" z="157.0225" h="0"/>
+        </spawn>
+        <!-- idlf2a_souledstonereric_50_ae -->
+        <spawn npc_id="214729">
+            <spot x="584.5448" y="299.8699" z="166.1524" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_32"/>
+            <spot x="571.1227" y="262.1220" z="168.7423" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_112"/>
+            <spot x="545.4537" y="300.6577" z="171.3623" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_30"/>
+            <spot x="609.2525" y="264.2383" z="166.0479" h="0" walker_id="idlf2a_lab_npcpathidlf2a_lab_mob_33"/>
+        </spawn>
+        <!-- idlf2a_souledstonerericmini_50_ae -->
+        <spawn npc_id="214730">
+            <spot x="603.6542" y="266.3725" z="166.0479" h="90"/>
+        </spawn>
+        <!-- idlf2a_statuefnamedq_50_ae -->
+        <spawn npc_id="219139">
+            <spot x="543.8335" y="733.5002" z="202.06831" h="87"/>
+        </spawn>
+		<!-- bidlf2a_holyservantsum_melee_50_ah -->
+	    <spawn npc_id="280971">
+	        <spot x="377.00055" y="762.53436" z="189.24725" h="93"/>
+	    </spawn>
+	    <!-- bidlf2a_holyservantsum_caster_50_ah -->
+	    <spawn npc_id="280972">
+	        <spot x="407.00735" y="763.01984" z="189.24725" h="85"/>
+	    </spawn>
+		<!-- bidlf2a_holyservantsum_roamer_50_n -->
+		<spawn npc_id="280973" respawn_time="1">
+            <spot x="412.0883" y="771.8738" z="188.92519" h="0" walker_id="idlf2a_lab_bidlf2a_holyservantsum_roamer_mobpath_50_an"/>
+        </spawn>
+		<!-- idlf2a_corefx_50_n -->
+		<spawn npc_id="281032">
+            <spot x="407.00735" y="763.01984" z="189.24725" h="0"/>
+            <spot x="377.00055" y="762.53436" z="189.24725" h="0"/>
+        </spawn>
+        <!-- bidlf2a_corebattery_50_n -->
+        <spawn npc_id="281033" respawn_time="30">
+            <spot x="392.6172" y="744.1420" z="189.38992" h="0"/>
+            <spot x="385.86676" y="761.20935" z="189.38628" h="0"/>
+            <spot x="397.61127" y="761.9753" z="189.38629" h="0"/>
+            <spot x="391.9376" y="763.77905" z="189.38632" h="0"/>
+            <spot x="402.2114" y="754.9758" z="189.38647" h="0"/>
+            <spot x="398.4403" y="746.84656" z="189.3864" h="0"/>
+            <spot x="382.57108" y="754.5477" z="189.38634" h="0"/>
+            <spot x="385.94455" y="746.85486" z="189.38641" h="0"/>
+        </spawn>
+		
+        <!-- lf2a_book_q3095 -->
+        <spawn npc_id="700422">
+            <spot x="542.870789" y="741.053101" z="203.546036" entity_id="268"/>
+        </spawn>
+        <!-- lf2a_coregear_q3096a -->
+        <spawn npc_id="700423">
+            <spot x="654.481628" y="153.307602" z="167.215775" entity_id="267"/>
+        </spawn>
+        <!-- lf2a_coregear_q3096b -->
+        <spawn npc_id="700424">
+            <spot x="282.029663" y="514.511414" z="188.762589" entity_id="265"/>
+        </spawn>
+        <!-- lf2a_coregear_q3096c -->
+        <spawn npc_id="700425">
+            <spot x="380.647583" y="509.348114" z="187.003571" entity_id="264"/>
+        </spawn>
+        <!-- lf2a_coregear_q3096d -->
+        <spawn npc_id="700426">
+            <spot x="478.518677" y="514.654602" z="188.250519" entity_id="266"/>
+        </spawn>
+        <!-- lf2a_book_q1094b -->
+        <spawn npc_id="730153">
+            <spot x="525.695068" y="740.504944" z="204.297272" entity_id="92"/>
+        </spawn>
+        <!-- idlf2a_lab_door_q1094 -->
+        <spawn npc_id="730168">
+            <spot x="477.629364" y="198.350098" z="171.012131" entity_id="74"/>
+        </spawn>
+        <!-- idlf2a_lab_bossroom_in -->
+        <spawn npc_id="730177">
+            <spot x="569.837524" y="490.797211" z="198.115540" entity_id="37"/>
+        </spawn>
+		<!-- shugo_lf2a_23 -->
+		<spawn npc_id="798223">
+			<spot x="598.15784" y="601.6157" z="211.57518" h="0"/>
+		</spawn>
+        <!-- cyprus -->
+        <spawn npc_id="798226">
+            <spot x="473.8976" y="634.0264" z="199.2172" h="0"/>
+        </spawn>
+	</spawn_map>
+</spawns>

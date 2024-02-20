@@ -1,0 +1,113 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Karamatis
+	Re-newed By Rinzler
+ -->
+<spawns>
+    <spawn_map map_id="310010000">
+        <!-- abprol2_talk -->
+        <spawn npc_id="205000">
+            <spot x="84.92836" y="190.96606" z="231.64119" h="97"/>
+        </spawn>
+        <!-- abprol2_guardian_m -->
+        <spawn npc_id="205001">
+            <spot x="63.50667" y="183.71465" z="228.72026" h="101"/>
+        </spawn>
+        <!-- abprol2_guardian_f -->
+        <spawn npc_id="205002">
+            <spot x="69.82939" y="181.37740" z="228.41191" h="39"/>
+        </spawn>
+        <!-- abprol2_air_guardian_m -->
+        <spawn npc_id="205007">
+            <spot x="185.000000" y="238.000000" z="223.000000" h="0" fly="1"/>
+            <spot x="190.000000" y="202.000000" z="219.000000" h="0" fly="1"/>
+            <spot x="164.000000" y="188.000000" z="203.000000" h="0" fly="1"/>
+            <spot x="110.000000" y="206.000000" z="213.000000" h="0" fly="1"/>
+            <spot x="162.000000" y="219.000000" z="220.000000" h="0" fly="1"/>
+            <spot x="126.000000" y="205.000000" z="225.000000" h="0" fly="1"/>
+        </spawn>
+        <!-- abprol2_air_guardian_f -->
+        <spawn npc_id="205008">
+            <spot x="150.000000" y="222.000000" z="213.000000" h="0" fly="1"/>
+            <spot x="162.000000" y="240.000000" z="220.000000" h="0" fly="1"/>
+            <spot x="173.000000" y="267.000000" z="212.000000" h="0" fly="1"/>
+            <spot x="141.000000" y="234.000000" z="199.000000" h="0" fly="1"/>
+        </spawn>
+        <!-- abprol2_air_archon_m -->
+        <spawn npc_id="205009">
+            <spot x="164.000000" y="239.000000" z="220.000000" h="0" fly="1"/>
+            <spot x="164.000000" y="221.000000" z="220.000000" h="0" fly="1"/>
+            <spot x="127.000000" y="203.000000" z="225.000000" h="0" fly="1"/>
+            <spot x="166.000000" y="190.000000" z="203.000000" h="0" fly="1"/>
+            <spot x="175.000000" y="268.000000" z="212.000000" h="0" fly="1"/>
+        </spawn>
+        <!-- abprol2_air_archon_f -->
+        <spawn npc_id="205010">
+            <spot x="185.000000" y="236.000000" z="223.000000" h="0" fly="1"/>
+            <spot x="152.000000" y="224.000000" z="213.000000" h="0" fly="1"/>
+            <spot x="188.000000" y="204.000000" z="219.000000" h="0" fly="1"/>
+            <spot x="143.000000" y="232.000000" z="199.000000" h="0" fly="1"/>
+            <spot x="109.000000" y="208.000000" z="213.000000" h="0" fly="1"/>
+        </spawn>
+		<!-- abprol2_path3_leader -->
+		<spawn npc_id="205011">
+			<spot x="127.000000" y="199.000000" z="222.100006" h="0" fly="1" walker_id="npcpath_idabprol2_3"/>
+			<spot x="117.875000" y="214.250000" z="222.100006" h="0" fly="1" walker_id="npcpath_idabprol2_3_1"/>
+		</spawn>
+		<!-- abprol2_path3 -->
+		<spawn npc_id="205012">
+			<spot x="127.000000" y="199.000000" z="222.100006" h="0" fly="1" walker_id="npcpath_idabprol2_3"/>
+			<spot x="117.875000" y="214.250000" z="222.100006" h="0" fly="1" walker_id="npcpath_idabprol2_3_1"/>
+		</spawn>
+		<!-- abprol2_path4_leader -->
+		<spawn npc_id="205013">
+			<spot x="193.000000" y="255.000000" z="220.100006" h="0" fly="1" walker_id="npcpath_idabprol2_4"/>
+			<spot x="198.125000" y="236.875000" z="220.100006" h="0" fly="1" walker_id="npcpath_idabprol2_4_1"/>
+		</spawn>
+		<!-- abprol2_path4 -->
+		<spawn npc_id="205014">
+			<spot x="193.000000" y="255.000000" z="220.100006" h="0" fly="1" walker_id="npcpath_idabprol2_4"/>
+			<spot x="198.125000" y="236.875000" z="220.100006" h="0" fly="1" walker_id="npcpath_idabprol2_4_1"/>
+		</spawn>
+		<!-- abprol2_path5 -->
+		<spawn npc_id="205015">
+		    <spot x="40.000000" y="173.000000" z="228.100006" h="0" fly="1" walker_id="npcpath_idabprol2_1"/>
+		    <spot x="27.000000" y="154.000000" z="228.100006" h="0" fly="1" walker_id="npcpath_idabprol2_2"/>
+			<spot x="204.00000" y="282.000000" z="216.100006" h="0" fly="1" walker_id="npcpath_idabprol2_5"/>
+		</spawn>
+        <!-- abprol2_ground_guardian_m -->
+        <spawn npc_id="205016">
+            <spot x="286.4868" y="231.04366" z="209.68857" h="90"/>
+            <spot x="253.37209" y="302.10706" z="205.7583" h="110"/>
+        </spawn>
+        <!-- abprol2_ground_guardian_f -->
+        <spawn npc_id="205017">
+            <spot x="296.9759" y="277.96832" z="206.68723" h="90"/>
+        </spawn>
+        <!-- abprol2_guardian_m2 -->
+        <spawn npc_id="205018">
+            <spot x="59.515053" y="181.67654" z="228.75444" h="101"/>
+            <spot x="65.76095" y="179.41322" z="228.84425" h="39"/>
+        </spawn>
+        <!-- abprol2_guardian_f2 -->
+        <spawn npc_id="205019">
+            <spot x="67.4828" y="185.69699" z="228.43707" h="101"/>
+            <spot x="61.79395" y="176.32977" z="228.98264" h="38"/>
+        </spawn>
+        <!-- lizardmanassassin_30_an -->
+        <spawn npc_id="211044">
+            <spot x="288.09180" y="228.90125" z="209.36565" h="34"/>
+            <spot x="285.06564" y="228.91347" z="209.32695" h="24"/>
+            <spot x="296.02466" y="275.96180" z="206.35168" h="29"/>
+            <spot x="299.04670" y="275.96590" z="206.44385" h="40"/>
+            <spot x="256.21436" y="303.01940" z="206.01457" h="60"/>
+            <spot x="254.06326" y="299.90344" z="206.81757" h="40"/>
+            <spot x="221.0000" y="285.6250" z="206.78662" h="0" walker_id="assassinpath_idabprol2_1"/>
+			<spot x="236.5000" y="290.6250" z="206.41006" h="0" walker_id="assassinpath_idabprol2_2"/>
+			<spot x="252.0000" y="238.0000" z="207.45906" h="0" walker_id="assassinpath_idabprol2_3"/>
+			<spot x="248.1250" y="217.8750" z="205.95549" h="0" walker_id="assassinpath_idabprol2_4"/>
+			<spot x="277.0000" y="296.6250" z="205.81271" h="0" walker_id="assassinpath_idabprol2_5"/>
+			<spot x="300.0000" y="255.0000" z="205.46250" h="0" walker_id="assassinpath_idabprol2_6"/>
+        </spawn>
+	</spawn_map>
+</spawns>

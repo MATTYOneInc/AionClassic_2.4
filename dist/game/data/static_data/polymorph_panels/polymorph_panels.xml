@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Polymorph Panel
+	Develop: ADev.Team
+ -->
+<polymorph_panels xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="polymorph_panels.xsd">
+	<!-- Formula:
+	Multiply the "SkillId" you find in client by 255 + next "SkillId"
+	Ex: <id>21057</id> x 255 + <id>21058</id> ==> 5390593 -->
+	
+	<!-- 비행 스테이지 폴리모프 대공포 스킬 46레벨 세트 -->
+	<panel panel_id="9" panel_skills="5133057 5133313"/>
+	<!-- 비행 스테이지 폴리모프 대공포 스킬 51레벨 세트 -->
+	<panel panel_id="10" panel_skills="5133057 5133313"/>
+	<!-- 비행 스테이지 폴리모프 대공포 스킬 56레벨 세트 -->
+	<panel panel_id="11" panel_skills="5133057 5133313"/>
+	<!-- 자쿠룽 게임 제5 게임 폴리모프 스킬 세트 -->
+	<panel panel_id="12" panel_skills="5238785 5239041"/>
+	<!-- 솔로형 훈련소 폴리모프 스킬 세트 -->
+	<panel panel_id="13" panel_skills="5240065 5240321"/>
+	<!-- IDF4Re_Solo_폴리모프 스킬_단일공격 스킬 세트 -->
+	<panel panel_id="14" panel_skills="5248001 2708993 2709249"/>
+	<!-- IDF4Re_Solo_폴리모프 스킬_광역 공격 스킬 세트 -->
+	<panel panel_id="15" panel_skills="5248001 2708993 2709249"/>
+	<!-- IDF4Re_Solo_Q_폴리모프 스킬_모든공격 스킬 세트 -->
+	<panel panel_id="16" panel_skills="5248257 2708993 2709249"/>
+	<!-- IDF4Re_Solo_폴리모프 해제 스킬 -->
+	<panel panel_id="17" panel_skills="5249025"/>
+</polymorph_panels>

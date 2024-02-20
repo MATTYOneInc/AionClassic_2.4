@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Spawn Helper
+	Develop: ADev.Team
+ -->
+<ai_templates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="ai.xsd">
+    <ai npcId="-1">
+		<summons>
+			<percentage percent="1">
+				<summonGroup npcId="0" count="0" distance="0"/>
+			</percentage>
+		</summons>
+	</ai>
+</ai_templates>

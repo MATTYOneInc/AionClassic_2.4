@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!-- 
+	Dimensional Forge Reward
+	Develop: ADev.Team
+ -->
+<arcadelist xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="arcadelist.xsd">
+	<tab id="1">
+	    <item item_id="152014020" normalcount="1" frenzycount="2"/>
+	    <item item_id="169000014" normalcount="100" frenzycount="1000"/>
+		<item item_id="152014020" normalcount="3" frenzycount="6"/>
+		<item item_id="169000013" normalcount="100" frenzycount="200"/>
+		<item item_id="164000073" normalcount="10" frenzycount="20"/>
+		<item item_id="164000076" normalcount="10" frenzycount="20"/>
+		<item item_id="164000079" normalcount="10" frenzycount="20"/>
+		<item item_id="164000134" normalcount="10" frenzycount="20"/>
+	</tab>
+	<tab id="2">
+	    <item item_id="162000107" normalcount="10" frenzycount="20"/>
+	    <item item_id="162002046" normalcount="10" frenzycount="20"/>
+		<item item_id="167002038" normalcount="1" frenzycount="1"/>
+		<item item_id="167002046" normalcount="1" frenzycount="1"/>
+		<item item_id="167002047" normalcount="1" frenzycount="1"/>
+		<item item_id="167002048" normalcount="1" frenzycount="1"/>
+		<item item_id="167002049" normalcount="1" frenzycount="1"/>
+		<item item_id="167002050" normalcount="1" frenzycount="1"/>
+		<item item_id="167002051" normalcount="1" frenzycount="1"/>
+		<item item_id="167002052" normalcount="1" frenzycount="1"/>
+		<item item_id="167002053" normalcount="1" frenzycount="1"/>
+		<item item_id="167002054" normalcount="1" frenzycount="1"/>
+		<item item_id="167002055" normalcount="1" frenzycount="1"/>
+		<item item_id="167002056" normalcount="1" frenzycount="1"/>
+		<item item_id="167002057" normalcount="1" frenzycount="1"/>
+	</tab>
+	<tab id="3">
+		<item item_id="190020128" normalcount="1" frenzycount="1"/>
+		<item item_id="152014019" normalcount="1" frenzycount="2"/>
+		<item item_id="152011059" normalcount="1" frenzycount="2"/>
+		<item item_id="152011060" normalcount="1" frenzycount="2"/>
+		<item item_id="152011061" normalcount="1" frenzycount="2"/>
+		<item item_id="152011062" normalcount="1" frenzycount="2"/>
+		<item item_id="152011063" normalcount="1" frenzycount="2"/>
+		<item item_id="152011064" normalcount="1" frenzycount="2"/>
+		<item item_id="152011068" normalcount="1" frenzycount="2"/>
+		<item item_id="152011073" normalcount="1" frenzycount="2"/>
+		<item item_id="152011078" normalcount="1" frenzycount="2"/>
+		<item item_id="167002038" normalcount="2" frenzycount="4"/>
+		<item item_id="167002046" normalcount="2" frenzycount="4"/>
+		<item item_id="167002047" normalcount="2" frenzycount="4"/>
+		<item item_id="167002048" normalcount="2" frenzycount="4"/>
+		<item item_id="167002049" normalcount="2" frenzycount="4"/>
+		<item item_id="167002050" normalcount="2" frenzycount="4"/>
+		<item item_id="167002051" normalcount="2" frenzycount="4"/>
+		<item item_id="167002052" normalcount="2" frenzycount="4"/>
+		<item item_id="167002053" normalcount="2" frenzycount="4"/>
+		<item item_id="167002054" normalcount="2" frenzycount="4"/>
+		<item item_id="167002055" normalcount="2" frenzycount="4"/>
+		<item item_id="167002056" normalcount="2" frenzycount="4"/>
+		<item item_id="167002057" normalcount="2" frenzycount="4"/>
+	</tab>
+	<tab id="4">
+		<item item_id="152014016" normalcount="1" frenzycount="2"/>
+		<item item_id="152014017" normalcount="1" frenzycount="2"/>
+		<item item_id="152014018" normalcount="1" frenzycount="2"/>
+		<item item_id="152014020" normalcount="1" frenzycount="2"/>
+		<item item_id="152011059" normalcount="2" frenzycount="4"/>
+		<item item_id="152011060" normalcount="2" frenzycount="4"/>
+		<item item_id="152011061" normalcount="2" frenzycount="4"/>
+		<item item_id="152011062" normalcount="2" frenzycount="4"/>
+		<item item_id="152011063" normalcount="2" frenzycount="4"/>
+		<item item_id="152011064" normalcount="2" frenzycount="4"/>
+		<item item_id="152011068" normalcount="2" frenzycount="4"/>
+		<item item_id="152011073" normalcount="2" frenzycount="4"/>
+		<item item_id="152011078" normalcount="2" frenzycount="4"/>
+		<item item_id="187000037" normalcount="1" frenzycount="1"/>
+		<item item_id="188052786" normalcount="1" frenzycount="1"/>
+		<item item_id="188052787" normalcount="1" frenzycount="1"/>
+	</tab>
+</arcadelist>

@@ -1,0 +1,70 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Fortress [Aion Classic]
+	Made By Rinzler (Encom)
+ -->
+<siege_schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="siege_schedule.xsd">
+	<!-- RESHANTA -->
+	<!-- Divine Fortress -->
+	<fortress id="1011">
+		<siegeTime>0 0 20 ? * SUN *</siegeTime>
+	</fortress>
+	<!-- Siel's Western Fortress -->
+	<fortress id="1131">
+	    <siegeTime>0 0 21 ? * MON *</siegeTime>
+		<siegeTime>0 0 18 ? * SAT *</siegeTime>
+	</fortress>
+	<!-- Siel's Eastern Fortress -->
+	<fortress id="1132">
+	    <siegeTime>0 0 21 ? * WED *</siegeTime>
+	    <siegeTime>0 0 18 ? * SAT *</siegeTime>
+	</fortress>
+	<!-- Sulfur Fortress -->
+	<fortress id="1141">
+	    <siegeTime>0 0 21 ? * FRI *</siegeTime>
+		<siegeTime>0 0 18 ? * SAT *</siegeTime>
+	</fortress>
+	<!-- Roah Fortress -->
+	<fortress id="1211">
+	    <siegeTime>0 0 20 ? * SAT *</siegeTime>
+	</fortress>
+	<!-- Krotan Refuge -->
+	<fortress id="1221">
+	    <siegeTime>0 0 23 ? * MON *</siegeTime>
+		<siegeTime>0 0 20 ? * SAT *</siegeTime>
+	</fortress>
+	<!-- Kysis Fortress -->
+	<fortress id="1231">
+	    <siegeTime>0 0 23 ? * WED *</siegeTime>
+		<siegeTime>0 0 20 ? * SAT *</siegeTime>
+	</fortress>
+	<!-- Miren Fortress -->
+	<fortress id="1241">
+		<siegeTime>0 0 23 ? * FRI *</siegeTime>
+		<siegeTime>0 0 20 ? * SAT *</siegeTime>
+	</fortress>
+	<!-- Asteria Fortress -->
+	<fortress id="1251">
+		<siegeTime>0 0 20 ? * SAT *</siegeTime>
+	</fortress>
+	
+	<!-- INGGISON -->
+	<!-- Temple Of Scales -->
+	<fortress id="2011">
+		<siegeTime>0 0 21 ? * TUE *</siegeTime>
+	</fortress>
+	<!-- Altar Of Avarice -->
+	<fortress id="2021">
+		<siegeTime>0 0 21 ? * THU *</siegeTime>
+	</fortress>
+	
+	<!-- GELKMAROS -->
+	<!-- Vorgaltem Citadel -->
+	<fortress id="3011">
+		<siegeTime>0 0 21 ? * THU *</siegeTime>
+	</fortress>
+	<!-- Crimsom Temple -->
+	<fortress id="3021">
+		<siegeTime>0 0 21 ? * TUE *</siegeTime>
+	</fortress>
+</siege_schedule>

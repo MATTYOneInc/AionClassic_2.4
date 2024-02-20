@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+<!--
+    Quest Esoterrace
+	Make By Encom
+ -->
+	<!-- [Group] Research And Destruction -->
+	<monster_hunt id="18401" start_npc_ids="799553" start_dialog_id="1011" end_dialog_id="1352">
+		<monster var="0" npc_ids="217200 217201 217202 217203 217228 217282 217283" end_var="20"/>
+	</monster_hunt>
+	<!-- [Group] Dratamin! Foiled Again! -->
+	<item_collecting id="18403" start_npc_ids="799586"/>
+	<!-- [Group] Surkana-In-The-Box -->
+	<item_collecting id="18404" start_npc_ids="799586" action_item_ids="701016"/>
+	<!-- Playing To The Hilt -->
+    <item_order id="18406" start_item_id="182215003" end_npc_id="799552"/>
+	<!-- [Group] A Nasty Breakup -->
+	<item_collecting id="18408" start_npc_ids="799553"/>
+	<!-- [Group] Heart Of Drazma -->
+	<item_collecting id="18411" start_npc_ids="799586"/>
+	
+	<!-- [Group]RD: Researcher And Destroy -->
+	<monster_hunt id="28401" start_npc_ids="799558" start_dialog_id="1011" end_dialog_id="1352">
+		<monster var="0" npc_ids="217200 217201 217202 217203 217228 217282 217283" end_var="20"/>
+	</monster_hunt>
+	<!-- [Group] Drata Me, Drata You -->
+	<item_collecting id="28403" start_npc_ids="799589"/>
+	<!-- [Group] Surkana Collector -->
+	<item_collecting id="28404" start_npc_ids="799589" action_item_ids="701016"/>
+	<!-- Finder's Fee -->
+    <item_order id="28406" start_item_id="182215015" end_npc_id="799557"/>
+	<!-- [Group] Getting The Gang Together -->
+	<item_collecting id="28408" start_npc_ids="799558"/>
+	<!-- [Group] Esoterrace Blockade -->
+	<item_collecting id="28411" start_npc_ids="799589"/>
+</quest_scripts>

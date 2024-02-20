@@ -1,0 +1,22 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Telos Of The Forgotten [Hard]
+	Re-newed By Rinzler
+-->
+<spawns>
+    <spawn_map map_id="300560000">
+        <!-- idldf1_tiamat_55_al -->
+        <spawn npc_id="219368">
+            <spot x="1036.5121" y="1030.0994" z="339.93646" h="25"/>
+        </spawn>
+        
+		<!-- idldf1_ctrl_01 -->
+		<spawn npc_id="800729">
+            <spot x="1107.7170" y="1255.5080" z="324.42346" h="0"/>
+        </spawn>
+		<!-- idldf1_h_tiamat_barrier -->
+        <spawn npc_id="701430">
+		    <spot x="1127.668500" y="1313.073700" z="289.040410" entity_id="60"/>
+        </spawn>
+	</spawn_map>
+</spawns>

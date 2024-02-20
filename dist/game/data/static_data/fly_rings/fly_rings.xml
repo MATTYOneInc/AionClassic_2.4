@@ -1,0 +1,354 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Fly Ring
+	Develop: ADev.Team
+ -->
+<fly_rings xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="fly_rings.xsd">
+	<!-- RESHANTA -->
+	<fly_ring name="RESHANTA_AIR_BOOSTER_1" map="400010000" radius="6.0">
+		<center x="959.63165" y="2695.4968" z="1628.2689"/>
+		<left x="959.39703" y="2693.7542" z="1637.6808"/>
+		<right x="949.27795" y="2693.5806" z="1626.993"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_2" map="400010000" radius="6.0">
+		<center x="955.4701" y="2723.4272" z="1631.8672"/>
+		<left x="955.42786" y="2722.386" z="1642.6803"/>
+		<right x="945.5154" y="2723.1277" z="1632.3269"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_3" map="400010000" radius="6.0">
+		<center x="954.06696" y="2754.5063" z="1637.1816"/>
+		<left x="954.3378" y="2752.874" z="1648.2072"/>
+		<right x="943.9756" y="2754.359" z="1637.8768"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_4" map="400010000" radius="6.0">
+		<center x="954.36224" y="2787.2007" z="1642.8995"/>
+		<left x="954.4261" y="2785.5464" z="1653.543"/>
+		<right x="944.0724" y="2787.6526" z="1643.2411"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_5" map="400010000" radius="6.0">
+		<center x="1129.6411" y="2960.25" z="1642.4756"/>
+		<left x="1129.0511" y="2960.0613" z="1651.6967"/>
+		<right x="1128.3433" y="2951.1582" z="1640.4344"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_6" map="400010000" radius="6.0">
+		<center x="1159.6942" y="2954.2224" z="1643.7766"/>
+		<left x="1158.878" y="2954.0479" z="1654.3821"/>
+		<right x="1157.7297" y="2944.4524" z="1644.0953"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_7" map="400010000" radius="6.0">
+		<center x="1189.8386" y="2945.2153" z="1646.0116"/>
+		<left x="1189.4296" y="2945.3347" z="1657.1746"/>
+		<right x="1186.7686" y="2934.0903" z="1646.6698"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_8" map="400010000" radius="6.0">
+		<center x="1220.1123" y="2933.1582" z="1649.059"/>
+		<left x="1219.3486" y="2933.3296" z="1659.9158"/>
+		<right x="1224.5857" y="2941.9656" z="1649.8727"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_9" map="400010000" radius="6.0">
+		<center x="2732.2942" y="900.3903" z="1507.7603"/>
+		<left x="2729.3955" y="900.13837" z="1516.5354"/>
+		<right x="2727.5752" y="909.8849" z="1504.9298"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_10" map="400010000" radius="6.0">
+		<center x="2757.3237" y="912.3796" z="1515.6862"/>
+		<left x="2755.2163" y="911.701" z="1523.7303"/>
+		<right x="2760.7295" y="903.72876" z="1516.7268"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_11" map="400010000" radius="6.0">
+		<center x="2785.5652" y="921.45355" z="1525.7563"/>
+		<left x="2783.0083" y="922.44226" z="1533.798"/>
+		<right x="2783.4805" y="932.2337" z="1525.5326"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_12" map="400010000" radius="6.0">
+		<center x="2816.0637" y="929.0163" z="1537.1003"/>
+		<left x="2813.7102" y="929.94037" z="1544.9678"/>
+		<right x="2815.183" y="938.71185" z="1536.8525"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_13" map="400010000" radius="6.0">
+		<center x="3136.6" y="1378.5684" z="1441.0109"/>
+		<left x="3136.8591" y="1378.9669" z="1450.2238"/>
+		<right x="3144.6987" y="1373.6609" z="1443.0557"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_14" map="400010000" radius="6.0">
+		<center x="1911.6974" y="921.9247" z="1577.4385"/>
+		<left x="1907.8793" y="923.361" z="1585.7269"/>
+		<right x="1905.8958" y="913.8691" z="1574.843"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_15" map="400010000" radius="6.0">
+		<center x="1885.493" y="939.83136" z="1564.0217"/>
+		<left x="1881.6443" y="941.383" z="1574.1211"/>
+		<right x="1880.4535" y="930.6619" z="1564.1044"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_16" map="400010000" radius="6.0">
+		<center x="1891.8741" y="3065.2195" z="1707.4513"/>
+		<left x="1892.0983" y="3064.8528" z="1716.1888"/>
+		<right x="1885.7323" y="3073.6284" z="1705.9841"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_17" map="400010000" radius="6.0">
+		<center x="1917.1748" y="3082.0107" z="1705.9841"/>
+		<left x="1917.5629" y="3082.1155" z="1716.7146"/>
+		<right x="1923.2441" y="3072.4702" z="1705.3875"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_18" map="400010000" radius="6.0">
+		<center x="1016.59076" y="2222.1873" z="1548.8679"/>
+		<left x="1017.9088" y="2223.8333" z="1557.7026"/>
+		<right x="1026.2504" y="2223.0486" z="1549.5204"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_19" map="400010000" radius="6.0">
+		<center x="2975.625" y="1073.8953" z="1540.4493"/>
+		<left x="2974.8577" y="1076.5194" z="1547.034"/>
+		<right x="2964.9805" y="1075.3551" z="1538.4551"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_20" map="400010000" radius="6.0">
+		<center x="2982.044" y="1100.6014" z="1529.0009"/>
+		<left x="2983.3364" y="1103.0905" z="1537.6566"/>
+		<right x="2991.6187" y="1098.1564" z="1530.3767"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_21" map="400010000" radius="6.0">
+		<center x="2993.8472" y="1127.8864" z="1518.8151"/>
+		<left x="2994.6462" y="1130.4435" z="1527.0027"/>
+		<right x="3003.2075" y="1124.8857" z="1521.1058"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_22" map="400010000" radius="6.0">
+		<center z="1508.786" y="1156.2886" x="3007.7854"/>
+		<left x="3007.2202" y="1159.8341" z="1516.9999"/>
+		<right x="2999.6926" y="1161.3167" z="1507.84"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_23" map="400010000" radius="6.0">
+		<center x="2503.0789" y="801.549" z="1521.7606"/>
+		<left x="2504.222" y="802.0232" z="1530.4219"/>
+		<right x="2501.6921" y="810.86066" z="1520.143"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_24" map="400010000" radius="6.0">
+		<center x="2470.5068" y="794.1347" z="1527.3336"/>
+		<left x="2471.6135" y="793.94226" z="1537.9397"/>
+		<right x="2467.932" y="803.8407" z="1527.5416"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_25" map="400010000" radius="6.0">
+		<center x="1018.02405" y="2191.0186" z="1555.8004"/>
+		<left x="1018.5214" y="2192.3293" z="1564.0262"/>
+		<right x="1027.5802" y="2191.8608" z="1555.6587"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_26" map="400010000" radius="6.0">
+		<center x="3212.8882" y="1651.275" z="1441.2888"/>
+		<left x="3213.7402" y="1649.3308" z="1449.3647"/>
+		<right x="3222.6255" y="1650.7196" z="1441.4669"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_27" map="400010000" radius="6.0">
+		<center x="2090.6487" y="962.59875" z="2938.4045"/>
+		<left x="2091.333" y="962.3107" z="2947.343"/>
+		<right x="2100.1309" y="963.93115" z="2939.1047"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_28" map="400010000" radius="6.0">
+		<center x="2422.8904" y="3077.7458" z="1630.4448"/>
+		<left x="2427.6858" y="3077.4102" z="1637.4285"/>
+		<right x="2423.8577" y="3087.339" z="1632.4551"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_29" map="400010000" radius="6.0">
+		<center x="1229.4347" y="2640.92" z="2949.56"/>
+		<left x="1229.6195" y="2641.9807" z="2958.5125"/>
+		<right x="1236.0035" y="2650.4355" z="2950.664"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_30" map="400010000" radius="6.0">
+		<center x="3216.474" y="1681.8137" z="1448.836"/>
+		<left x="3217.58" y="1679.4086" z="1457.4877"/>
+		<right x="3228.024" y="1680.7103" z="1448.8965"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_31" map="400010000" radius="6.0">
+		<center x="3116.6006" y="2422.5735" z="1512.3755"/>
+		<left x="3118.1294" y="2421.072" z="1520.8594"/>
+		<right x="3125.985" y="2425.0303" z="1512.5343"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_32" map="400010000" radius="6.0">
+		<center x="3118.4907" y="1354.5409" z="1440.6559"/>
+		<left x="3119.3792" y="1354.1174" z="1449.6337"/>
+		<right x="3110.3918" y="1360.4865" z="1441.4631"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_33" map="400010000" radius="6.0">
+		<center x="2850.6538" y="2750.064" z="1487.9521"/>
+		<left x="2852.9602" y="2750.863" z="1496.4626"/>
+		<right x="2858.4612" y="2745.1743" z="1487.6542"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_34" map="400010000" radius="6.0">
+		<center x="2447.6597" y="3076.7395" z="1611.2307"/>
+		<left x="2452.6519" y="3076.205" z="1617.9214"/>
+		<right x="2448.7615" y="3086.214" z="1613.095"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_35" map="400010000" radius="6.0">
+		<center x="2764.004" y="2858.3616" z="1488.2021"/>
+		<left x="2765.569" y="2859.6387" z="1496.3223"/>
+		<right x="2762.237" y="2867.9148" z="1488.1826"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_36" map="400010000" radius="6.0">
+		<center x="2306.756" y="678.3268" z="2851.7092"/>
+		<left x="2305.0278" y="677.67255" z="2860.305"/>
+		<right x="2308.3193" y="668.7747" z="2852.8496"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_37" map="400010000" radius="6.0">
+		<center x="2337.6177" y="682.2782" z="2859.3213"/>
+		<left x="2335.8425" y="681.71515" z="2867.7139"/>
+		<right x="2338.9146" y="672.8302" z="2860.0798"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_38" map="400010000" radius="6.0">
+		<center x="2823.1648" y="969.6401" z="2886.5923"/>
+		<left x="2821.9985" y="970.41724" z="2894.2869"/>
+		<right x="2814.1846" y="973.4984" z="2886.3044"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_39" map="400010000" radius="6.0">
+		<center x="3145.7632" y="978.8408" z="2832.7446"/>
+		<left x="3146.513" y="978.8163" z="2841.6204"/>
+		<right x="3152.3972" y="971.9602" z="2833.7612"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_40" map="400010000" radius="6.0">
+		<center x="3123.42" y="2392.9656" z="1503.8997"/>
+		<left x="3124.989" y="2391.2534" z="1512.7493"/>
+		<right x="3133.009" y="2395.6467" z="1504.5786"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_41" map="400010000" radius="6.0">
+		<center x="1700.7205" y="2751.1577" z="2966.6636"/>
+		<left x="1698.6414" y="2750.777" z="2974.4744"/>
+		<right x="1691.4982" y="2746.8472" z="2966.4036"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_42" map="400010000" radius="6.0">
+		<center x="1418.8861" y="2951.7393" z="2949.4326"/>
+		<left x="1418.1794" y="2950.4414" z="2958.1877"/>
+		<right x="1417.2988" y="2941.7405" z="2949.2505"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_43" map="400010000" radius="6.0">
+		<center x="1229.6915" y="2640.576" z="2949.297"/>
+		<left x="1229.0253" y="2641.6633" z="2958.6882"/>
+		<right x="1234.6577" y="2649.0361" z="2950.2932"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_44" map="400010000" radius="6.0">
+		<center x="731.0384" y="2838.377" z="2830.8325"/>
+		<left x="732.2154" y="2830.9668" z="2830.8232"/>
+		<right x="740.38495" y="2837.6106" z="2831.2898"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_45" map="400010000" radius="6.0">
+		<center x="781.2735" y="2480.6204" z="2949.8914"/>
+		<left x="782.0503" y="2481.409" z="2958.2617"/>
+		<right x="791.08777" y="2480.2585" z="2950.5022"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_46" map="400010000" radius="6.0">
+		<center x="603.0239" y="2945.0737" z="2830.9578"/>
+		<left x="592.9262" y="2945.2761" z="2830.2905"/>
+		<right x="602.34546" y="2935.3562" z="2830.3704"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_47" map="400010000" radius="6.0">
+		<center x="716.8466" y="3075.518" z="2831.6145"/>
+		<left x="716.7812" y="3084.55" z="2831.4062"/>
+		<right x="706.595" y="3075.1953" z="2830.498"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_48" map="400010000" radius="6.0">
+		<center x="830.7127" y="2966.014" z="2831.3354"/>
+		<left x="820.94775" y="2966.1982" z="2830.5874"/>
+		<right x="831.4914" y="2975.6519" z="2830.7383"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_49" map="400010000" radius="6.0">
+		<center x="2145.2432" y="1931.704" z="2809.0178"/>
+		<left x="2145.7397" y="1923.5599" z="2809.4312"/>
+		<right x="2153.6042" y="1930.9164" z="2809.6475"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_50" map="400010000" radius="6.0">
+		<center x="2144.7524" y="1931.9662" z="2711.1143"/>
+		<left x="2135.2524" y="1932.0057" z="2711.7612"/>
+		<right x="2145.664" y="1923.3419" z="2710.874"/>
+	</fly_ring>
+	<fly_ring name="RESHANTA_AIR_BOOSTER_51" map="400010000" radius="6.0">
+		<center x="2145.1077" y="1932.262" z="2582.3381"/>
+		<left x="2154.6458" y="1931.5641" z="2582.674"/>
+		<right x="2146.0388" y="1940.7697" z="2582.8086"/>
+	</fly_ring>
+	
+	<!-- ELTNEN -->
+	<fly_ring name="ELTNEN_AIR_BOOSTER_1" map="210020000" radius="6.0">
+		<center z="262.0000" y="2727.0000" x="415.0000"/>
+		<left z="262.0000" y="2729.0000" x="412.0000"/>
+		<right z="262.0000" y="2726.0000" x="417.0000"/>
+	</fly_ring>
+	<fly_ring name="ELTNEN_AIR_BOOSTER_2" map="210020000" radius="6.0">
+		<center z="173.0000" y="2836.0000" x="446.0000"/>
+		<left z="172.0000" y="2834.0000" x="444.0000"/>
+		<right z="172.0000" y="2839.0000" x="448.0000"/>
+	</fly_ring>
+	<fly_ring name="ELTNEN_AIR_BOOSTER_3" map="210020000" radius="6.0">
+		<center z="219.0000" y="2896.0000" x="299.0000"/>
+		<left z="218.0000" y="2892.0000" x="300.0000"/>
+		<right z="219.0000" y="2899.0000" x="299.0000"/>
+	</fly_ring>
+	<fly_ring name="ELTNEN_AIR_BOOSTER_4" map="210020000" radius="6.0">
+		<center z="171.0000" y="2719.0000" x="149.0000"/>
+		<left z="171.0000" y="2719.0000" x="152.0000"/>
+		<right z="171.0000" y="2720.0000" x="147.0000"/>
+	</fly_ring>
+	<fly_ring name="ELTNEN_AIR_BOOSTER_5" map="210020000" radius="6.0">
+		<center z="235.0000" y="2654.0000" x="165.0000"/>
+		<left z="234.0000" y="2657.0000" x="165.0000"/>
+		<right z="234.0000" y="2651.0000" x="165.0000"/>
+	</fly_ring>
+	<fly_ring name="ELTNEN_AIR_BOOSTER_6" map="210020000" radius="6.0">
+		<center z="248.0000" y="2705.0000" x="294.0000"/>
+		<left z="247.0000" y="2707.0000" x="293.0000"/>
+		<right z="248.0000" y="2702.0000" x="294.0000"/>
+	</fly_ring>
+	
+	<!-- MORHEIM -->
+	<fly_ring name="MORHEIM_AIR_BOOSTER_1" map="220020000" radius="6.0">
+		<center z="472.0000" y="2294.0000" x="310.0000"/>
+		<left z="467.0000" y="2296.0000" x="306.0000"/>
+		<right z="467.0000" y="2294.0000" x="314.0000"/>
+	</fly_ring>
+	<fly_ring name="MORHEIM_AIR_BOOSTER_2" map="220020000" radius="6.0">
+		<center z="517.0000" y="2315.0000" x="375.0000"/>
+		<left z="511.0000" y="2318.0000" x="371.0000"/>
+		<right z="511.0000" y="2312.0000" x="377.0000"/>
+	</fly_ring>
+	<fly_ring name="MORHEIM_AIR_BOOSTER_3" map="220020000" radius="6.0">
+		<center z="480.0000" y="2388.0000" x="404.0000"/>
+		<left z="475.0000" y="2386.0000" x="400.0000"/>
+		<right z="476.0000" y="2384.0000" x="409.0000"/>
+	</fly_ring>
+	<fly_ring name="MORHEIM_AIR_BOOSTER_4" map="220020000" radius="6.0">
+		<center z="551.0000" y="2385.0000" x="316.0000"/>
+		<left z="549.0000" y="2379.0000" x="315.0000"/>
+		<right z="549.0000" y="2385.0000" x="309.0000"/>
+	</fly_ring>
+	<fly_ring name="MORHEIM_AIR_BOOSTER_5" map="220020000" radius="6.0">
+		<center z="578.0000" y="2383.0000" x="237.0000"/>
+		<left z="573.0000" y="2379.0000" x="237.0000"/>
+		<right z="573.0000" y="2387.0000" x="236.0000"/>
+	</fly_ring>
+	<fly_ring name="MORHEIM_AIR_BOOSTER_6" map="220020000" radius="6.0">
+		<center z="493.0000" y="2344.0000" x="262.0000"/>
+		<left z="490.0000" y="2350.0000" x="263.0000"/>
+		<right z="490.0000" y="2346.0000" x="256.0000"/>
+	</fly_ring>
+	
+	<!-- ERACUS TEMPLE -->
+	<fly_ring name="ERACUS_TEMPLE_AIR_BOOSTER_1" map="210020000" radius="6.0">
+ 		<center x="316.0000" y="362.0000" z="112.0000"/>
+ 		<left x="315.0000" y="355.0000" z="106.0000"/>
+ 		<right x="316.0000" y="368.0000" z="106.0000"/>
+ 	</fly_ring>
+ 	<fly_ring name="ERACUS_TEMPLE_AIR_BOOSTER_2" map="210020000" radius="6.0">
+ 		<center x="131.0000" y="292.0000" z="190.0000"/>
+ 		<left x="136.0000" y="291.0000" z="185.0000"/>
+ 		<right x="125.0000" y="293.0000" z="185.0000"/>
+ 	</fly_ring>
+ 	<fly_ring name="ERACUS_TEMPLE_AIR_BOOSTER_3" map="210020000" radius="6.0">
+ 		<center x="178.0000" y="150.0000" z="130.0000"/>
+ 		<left x="179.0000" y="153.0000" z="127.0000"/>
+ 		<right x="176.0000" y="148.0000" z="127.0000"/>
+ 	</fly_ring>
+ 	<fly_ring name="ERACUS_TEMPLE_AIR_BOOSTER_4" map="210020000" radius="6.0">
+ 		<center x="299.0000" y="137.0000" z="130.0000"/>
+ 		<left x="298.0000" y="140.0000" z="127.0000"/>
+ 		<right x="299.0000" y="134.0000" z="127.0000"/>
+ 	</fly_ring>
+ 	<fly_ring name="ERACUS_TEMPLE_AIR_BOOSTER_5" map="210020000" radius="6.0">
+ 		<center x="389.0000" y="214.0000" z="183.0000"/>
+ 		<left x="384.0000" y="217.0000" z="179.0000"/>
+ 		<right x="394.0000" y="216.0000" z="179.0000"/>
+ 	</fly_ring>
+</fly_rings>

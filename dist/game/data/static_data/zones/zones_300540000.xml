@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<zones>
+    <zone mapid="300540000" name="IDLDF1_GATE_ALL_300540000" area_type="POLYGON" zone_type="SUB" priority="16" flags="0">
+        <points bottom="0.100000" top="500.100006">
+            <point x="193.860107" y="180.272766"/>
+            <point x="195.370682" y="329.065216"/>
+            <point x="332.078491" y="326.799347"/>
+            <point x="332.456116" y="181.405716"/>
+        </points>
+    </zone>
+</zones>

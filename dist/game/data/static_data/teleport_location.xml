@@ -1,0 +1,130 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Teleport Location
+	Develop: ADev.Team
+ -->
+<teleport_location xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="teleport_location.xsd">
+	<teleloc_template loc_id="2" mapid="110010000" name="Sanctum" name_id="400489" posX="1313.25" posY="1512.011" posZ="568.107" heading="0"/>
+	<teleloc_template loc_id="3" mapid="210010000" name="Poeta" name_id="400490" posX="805.9061" posY="1242.6946" posZ="118.75" heading="100"/>
+	<teleloc_template loc_id="4" mapid="210030000" name="Verteron" name_id="400491" posX="1640.76" posY="1500.32" posZ="119.70999" heading="0"/>
+	<teleloc_template loc_id="5" mapid="210020000" name="Eltnen" name_id="400492" posX="344.48312" posY="2723.4956" posZ="263.88733" heading="45"/>
+	<teleloc_template loc_id="6" mapid="210040000" name="Heiron" name_id="400493" posX="2542.2327" posY="339.2828" posZ="411.66394" heading="36"/>
+	<teleloc_template loc_id="7" mapid="120010000" name="Pandaemonium" name_id="400494" posX="1685.7" posY="1400.5" posZ="195.48618" heading="60"/>
+	<teleloc_template loc_id="8" mapid="220010000" name="Ishalgen" name_id="400495" posX="570.4143" posY="2457.6738" posZ="280.74136" heading="106"/>
+	<teleloc_template loc_id="9" mapid="220030000" name="Altgard" name_id="400496" posX="1752.5322" posY="1806.6096" posZ="254.66133" heading="60"/>
+	<teleloc_template loc_id="10" mapid="220020000" name="Morheim" name_id="400497" posX="309.53" posY="2271.51" posZ="449.41266" heading="0"/>
+	<teleloc_template loc_id="11" mapid="220040000" name="Beluslan" name_id="400498" posX="398.3" posY="400.8" posZ="222.79721" heading="23"/>
+	<teleloc_template loc_id="12" mapid="210010000" name="Akarios Village" name_id="400499"/>
+	<teleloc_template loc_id="13" mapid="210010000" name="Melponeh's Campsite" name_id="400500"/>
+	<teleloc_template loc_id="14" mapid="210030000" name="Verteron Citadel" name_id="400501"/>
+	<teleloc_template loc_id="15" mapid="210030000" name="Pilgrims Respite" name_id="400502"/>
+	<teleloc_template loc_id="16" mapid="210030000" name="Verteron Observatory" name_id="400503"/>
+	<teleloc_template loc_id="17" mapid="220010000" name="Aldelle Village" name_id="400504"/>
+	<teleloc_template loc_id="18" mapid="220010000" name="Anturoon Crossing" name_id="400505"/>
+	<teleloc_template loc_id="19" mapid="220030000" name="Altgard Fortress" name_id="400506"/>
+	<teleloc_template loc_id="20" mapid="220030000" name="Trader's Berth" name_id="400507"/>
+	<teleloc_template loc_id="21" mapid="210020000" name="Eltnen Fortress" name_id="400593"/>
+	<teleloc_template loc_id="22" mapid="210020000" name="Golden Bough Garrison" name_id="400594"/>
+	<teleloc_template loc_id="23" mapid="210020000" name="Agairon Village" name_id="400595"/>
+	<teleloc_template loc_id="24" mapid="110010000" name="Elyos Square" name_id="400508" posX="1458.6332" posY="1450.5676" posZ="572.87573" heading="15"/>
+	<teleloc_template loc_id="25" mapid="110010000" name="Divine Road" name_id="400509" posX="1930.9808" posY="1514.3209" posZ="590.01074" heading="60"/>
+	<teleloc_template loc_id="28" mapid="210040000" name="New Heiron Gate" name_id="400596"/>
+	<teleloc_template loc_id="29" mapid="210040000" name="Heiron Observatory" name_id="400597"/>
+	<teleloc_template loc_id="30" mapid="210040000" name="Arbolu's Haven" name_id="400598"/>
+	<teleloc_template loc_id="31" mapid="210040000" name="Jeiaparan Village" name_id="400599"/>
+	<teleloc_template loc_id="32" mapid="220030000" name="Basfelt Village" name_id="400600"/>
+	<teleloc_template loc_id="33" mapid="120010000" name="Vifrost Bridge" name_id="400606" posX="1601.8434" posY="1412.9706" posZ="193.1286" heading="0"/>
+	<teleloc_template loc_id="34" mapid="120010000" name="Prosperity Road" name_id="400607" posX="1034.8004" posY="1473.1919" posZ="213.4775" heading="105"/>
+	<teleloc_template loc_id="35" mapid="400010000" name="Teminon Landing" name_id="400658" posX="2865.8623" posY="1036.5726" posZ="1528.1271" heading="44"/>
+	<teleloc_template loc_id="36" mapid="400010000" name="Siel's Western Fortress" name_id="400659" posX="2985.3564" posY="2595.3398" posZ="1489.0905" heading="33"/>
+	<teleloc_template loc_id="37" mapid="400010000" name="Siel's Eastern Fortress" name_id="400660" posX="2656.2722" posY="3063.4211" posZ="1483.1167" heading="33"/>
+	<teleloc_template loc_id="38" mapid="400010000" name="Primum Landing" name_id="400661" posX="1078.7183" posY="2838.5483" posZ="1636.5863" heading="0"/>
+	<teleloc_template loc_id="39" mapid="400010000" name="Sulfur Fortress" name_id="400662" posX="1345.1719" posY="1190.9126" posZ="1514.6681" heading="41"/>
+	<teleloc_template loc_id="40" mapid="400010000" name="Eastern Shard Of Latesran" name_id="400666" posX="1642" posY="3042" posZ="1669" heading="1"/>
+	<teleloc_template loc_id="41" mapid="400010000" name="Eastern Shard Of Latesran" name_id="400667" posX="1642" posY="3042" posZ="1669" heading="0"/>
+	<teleloc_template loc_id="42" mapid="400010000" name="Western Shard Of Latesran" name_id="400668" posX="2098" posY="754" posZ="1569" heading="0"/>
+	<teleloc_template loc_id="43" mapid="400010000" name="Western Shard Of Latesran" name_id="400669" posX="2098" posY="754" posZ="1569" heading="0"/>
+	<teleloc_template loc_id="44" mapid="400010000" name="Roah Fortress" name_id="400685" posX="2711.9102" posY="774.9118" posZ="2872.3818" heading="93"/>
+	<teleloc_template loc_id="45" mapid="400010000" name="Krotan Refuge" name_id="400686" posX="2033.38" posY="1294.35" posZ="2963.57" heading="60"/>
+	<teleloc_template loc_id="46" mapid="400010000" name="Kysis Fortress" name_id="400687" posX="2533.7102" posY="2090.47" posZ="3049.9705" heading="91"/>
+	<teleloc_template loc_id="47" mapid="400010000" name="Miren Fortress" name_id="400688" posX="1792.247" posY="2315.0828" posZ="2949.6829" heading="7"/>
+	<teleloc_template loc_id="48" mapid="400010000" name="Asteria Fortress" name_id="400689" posX="717.2298" posY="3002.2446" posZ="2893.0178" heading="16"/>
+	<teleloc_template loc_id="49" mapid="400010000" name="Divine Fortress" name_id="400690" posX="2125.776" posY="1913.0077" posZ="2322.0728" heading="72"/>
+	<teleloc_template loc_id="50" mapid="400010000" name="Eastern Shard Of Latesran" name_id="400721" posX="1644" posY="2881" posZ="1667" heading="0"/>
+	<teleloc_template loc_id="51" mapid="400010000" name="Eastern Shard Of Latesran" name_id="400722" posX="1644" posY="2881" posZ="1667" heading="0"/>
+	<teleloc_template loc_id="52" mapid="400010000" name="Western Shard Of Latesran" name_id="400723" posX="2100" posY="593" posZ="1567" heading="0"/>
+	<teleloc_template loc_id="53" mapid="400010000" name="Western Shard Of Latesran" name_id="400724" posX="2100" posY="593" posZ="1567" heading="0"/>
+	<teleloc_template loc_id="54" mapid="400010000" name="Siel's Western Fortress" name_id="400725" posX="2985.3564" posY="2595.3398" posZ="1489.0905" heading="33"/>
+	<teleloc_template loc_id="55" mapid="400010000" name="Siel's Eastern Fortress" name_id="400726" posX="2656.2722" posY="3063.4211" posZ="1483.1167" heading="33"/>
+	<teleloc_template loc_id="56" mapid="400010000" name="Sulfur Fortress" name_id="400727" posX="1345.1719" posY="1190.9126" posZ="1514.6681" heading="41"/>
+	<teleloc_template loc_id="57" mapid="400010000" name="Krotan Refuge" name_id="400729" posX="2033.38" posY="1294.35" posZ="2963.57" heading="60"/>
+	<teleloc_template loc_id="58" mapid="400010000" name="Kysis Fortress" name_id="400730" posX="2533.7102" posY="2090.47" posZ="3049.9705" heading="91"/>
+	<teleloc_template loc_id="59" mapid="400010000" name="Miren Fortress" name_id="400731" posX="1792.247" posY="2315.0828" posZ="2949.6829" heading="7"/>
+	<teleloc_template loc_id="60" mapid="400010000" name="Asteria Fortress" name_id="400732" posX="717.2298" posY="3002.2446" posZ="2893.0178" heading="16"/>
+	<teleloc_template loc_id="61" mapid="400010000" name="Divine Fortress" name_id="400733" posX="2125.776" posY="1913.0077" posZ="2322.0728" heading="72"/>
+	<teleloc_template loc_id="62" mapid="400010000" name="Roah Fortress" name_id="400728" posX="2711.9102" posY="774.9118" posZ="2872.3818" heading="93"/>
+	<teleloc_template loc_id="63" mapid="220020000" name="Morheim Ice Fortress" name_id="400740"/>
+	<teleloc_template loc_id="64" mapid="220020000" name="Desert Garrison" name_id="400741"/>
+	<teleloc_template loc_id="65" mapid="220020000" name="Alsig Village" name_id="400742"/>
+	<teleloc_template loc_id="72" mapid="400010000" name="Krotan Refuge" name_id="400729" posX="2033.38" posY="1294.35" posZ="2963.57" heading="60"/>
+	<teleloc_template loc_id="73" mapid="400010000" name="Kysis Fortress" name_id="400730" posX="2533.7102" posY="2090.47" posZ="3049.9705" heading="91"/>
+	<teleloc_template loc_id="74" mapid="400010000" name="Miren Fortress" name_id="400731" posX="1792.247" posY="2315.0828" posZ="2949.6829" heading="7"/>
+	<teleloc_template loc_id="75" mapid="400010000" name="Krotan Refuge" name_id="400729" posX="2033.38" posY="1294.35" posZ="2963.57" heading="60"/>
+	<teleloc_template loc_id="76" mapid="400010000" name="Kysis Fortress" name_id="400730" posX="2533.7102" posY="2090.47" posZ="3049.9705" heading="91"/>
+	<teleloc_template loc_id="77" mapid="400010000" name="Miren Fortress" name_id="400731" posX="1792.247" posY="2315.0828" posZ="2949.6829" heading="7"/>
+	<teleloc_template loc_id="78" mapid="220040000" name="Beluslan Fortress" name_id="400929"/>
+	<teleloc_template loc_id="79" mapid="220040000" name="Besfer Refugee Camp" name_id="400930"/>
+	<teleloc_template loc_id="80" mapid="220040000" name="Red Mane Cavern" name_id="400931"/>
+	<teleloc_template loc_id="81" mapid="210060000" name="Theobomos" name_id="400939" posX="1396.1299" posY="1559.8954" posZ="30.875" heading="105"/>
+	<teleloc_template loc_id="82" mapid="220050000" name="Brusthonin" name_id="400940" posX="2917.251" posY="2417.4087" posZ="15.24525" heading="23"/>
+	<teleloc_template loc_id="83" mapid="210060000" name="Meniherk Excavation Camp" name_id="401080"/>
+	<teleloc_template loc_id="84" mapid="210060000" name="Observatory Village" name_id="401081"/>
+	<teleloc_template loc_id="85" mapid="210060000" name="Jamanok Inn" name_id="401082"/>
+	<teleloc_template loc_id="86" mapid="220050000" name="Settlers Campsite" name_id="401083"/>
+	<teleloc_template loc_id="87" mapid="220050000" name="Baltasar Hill Village" name_id="401084"/>
+	<teleloc_template loc_id="88" mapid="220050000" name="BuBu Village" name_id="401085"/>
+	<teleloc_template loc_id="90" mapid="210050000" name="Temple Of Scales" name_id="401500" posX="1666.5121" posY="2190.421" posZ="324.8958" heading="7"/>
+	<teleloc_template loc_id="91" mapid="210050000" name="Altar Of Avarice" name_id="401501" posX="812.62964" posY="1986.4653" posZ="337.32233" heading="113"/>
+	<teleloc_template loc_id="93" mapid="220070000" name="Vorgaltem Citadel" name_id="401503" posX="1263.3544" posY="823.83575" posZ="310.0366" heading="56"/>
+	<teleloc_template loc_id="94" mapid="220070000" name="Crimson Temple" name_id="401504" posX="1952.8867" posY="1069.4634" posZ="326.8721" heading="68"/>
+	<teleloc_template loc_id="95" mapid="110010000" name="Outer Dock" name_id="401542" posX="1743.5588" posY="2059.158" posZ="518.0106" heading="0"/>
+	<teleloc_template loc_id="96" mapid="210050000" name="Outer Port Of Inggison" name_id="401543" posX="1369.6293" posY="360.29944" posZ="589.57605" heading="17"/>
+	<teleloc_template loc_id="97" mapid="120010000" name="Pandaemonium Airship Dock" name_id="401544" posX="943.9" posY="1126.1" posZ="206.9" heading="0"/>
+	<teleloc_template loc_id="98" mapid="220070000" name="Gelkmaros Airship Dock" name_id="401545" posX="1888.2524" posY="2847.2727" posZ="554.9964" heading="98"/>
+	<teleloc_template loc_id="99" mapid="210050000" name="Inggison Illusion Fortress" name_id="401546"/>
+	<teleloc_template loc_id="100" mapid="210050000" name="Soteria Sanctuary" name_id="401547"/>
+	<teleloc_template loc_id="101" mapid="210050000" name="Undirborg Observation Post" name_id="401548"/>
+	<teleloc_template loc_id="102" mapid="220070000" name="Gelkmaros Fortress" name_id="401549"/>
+	<teleloc_template loc_id="103" mapid="220070000" name="Rhonnam Refugee Village" name_id="401550"/>
+	<teleloc_template loc_id="104" mapid="220070000" name="Subterranea Observation Post" name_id="401551"/>
+	<teleloc_template loc_id="105" mapid="110010000" name="Outer Dock" name_id="401552" posX="1817.1605" posY="2154.2178" posZ="527.9301" heading="83"/>
+	<teleloc_template loc_id="106" mapid="120010000" name="Crandale District" name_id="401553" posX="1175.7998" posY="1167.0049" posZ="207.97896" heading="20"/>
+	<teleloc_template loc_id="107" mapid="110010000" name="Sanctum Gate" name_id="401554" posX="1366.8" posY="1539.5" posZ="569.0" heading="0"/>
+	<teleloc_template loc_id="108" mapid="110020000" name="Seraphim Gate" name_id="401555" posX="2155.6" posY="1566.9" posZ="1204.9" heading="0"/>
+	<teleloc_template loc_id="109" mapid="120010000" name="Pandaemonium Entrance" name_id="401556" posX="1609.9" posY="1390.7" posZ="193.1" heading="0"/>
+	<teleloc_template loc_id="110" mapid="120020000" name="Shedim Gate" name_id="401557" posX="1559.2" posY="1426.9" posZ="265.7" heading="0"/>
+	<teleloc_template loc_id="111" mapid="210030000" name="Tolbas Village" name_id="401640"/>
+	<teleloc_template loc_id="112" mapid="210030000" name="Ardus Shrine" name_id="401641"/>
+	<teleloc_template loc_id="113" mapid="210020000" name="Novan's Crossing" name_id="401642"/>
+	<teleloc_template loc_id="114" mapid="210020000" name="Eltnen Observatory" name_id="401643"/>
+	<teleloc_template loc_id="115" mapid="210020000" name="Kuriullu Outpost" name_id="401644"/>
+	<teleloc_template loc_id="116" mapid="210060000" name="Anangke Excavation Camp" name_id="401645"/>
+	<teleloc_template loc_id="117" mapid="210060000" name="Josnack's Vigil" name_id="401646"/>
+	<teleloc_template loc_id="118" mapid="210040000" name="Senea's Campsite" name_id="401647"/>
+	<teleloc_template loc_id="119" mapid="210040000" name="Kishar Observation Post" name_id="401648"/>
+	<teleloc_template loc_id="120" mapid="210040000" name="Changarnerk's Campsite" name_id="401649"/>
+	<teleloc_template loc_id="121" mapid="220030000" name="Heart Of Impetusium" name_id="401650"/>
+	<teleloc_template loc_id="122" mapid="220030000" name="Altgard Observatory" name_id="401651"/>
+	<teleloc_template loc_id="123" mapid="220020000" name="Kellan's Cabin" name_id="401652"/>
+	<teleloc_template loc_id="124" mapid="220020000" name="Slag Bulwark" name_id="401653"/>
+	<teleloc_template loc_id="125" mapid="220020000" name="Halabana Outpost" name_id="401654"/>
+	<teleloc_template loc_id="126" mapid="220020000" name="Morheim Observatory" name_id="401655" posX="2794.0000" posY="1119.0000" posZ="171.0000" heading="82"/>
+	<teleloc_template loc_id="127" mapid="220050000" name="Edge Of Torment" name_id="401656"/>
+	<teleloc_template loc_id="128" mapid="220050000" name="Iollu Overlook" name_id="401657"/>
+	<teleloc_template loc_id="129" mapid="220040000" name="Kidorun's Campsite" name_id="401658"/>
+	<teleloc_template loc_id="130" mapid="220040000" name="Camp Kistenian" name_id="401659"/>
+	<teleloc_template loc_id="131" mapid="220040000" name="Hoarfrost Shelter" name_id="401660"/>
+	<teleloc_template loc_id="132" mapid="110010000" name="Protector Hall's" name_id="403354" posX="1875.0000" posY="1525.0000" posZ="811.0000" heading="60"/>
+	<teleloc_template loc_id="133" mapid="110010000" name="Path Of Glory" name_id="403401" posX="1369.1033" posY="1492.7102" posZ="569.0385" heading="58"/>
+	<teleloc_template loc_id="134" mapid="120010000" name="Path Of Gold" name_id="403402" posX="1314.9084" posY="1426.8268" posZ="209.09084" heading="69"/>
+</teleport_location>

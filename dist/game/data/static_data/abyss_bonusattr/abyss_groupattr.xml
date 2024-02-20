@@ -1,0 +1,8 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Abyss Group
+	Develop: ADev.Team
+ -->
+<abyss_groupattrs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="abyss_groupattr.xsd">
+	<abyss_groupattr buff_id="2" world="400010000 210050000 220070000" name="Pvp"/>
+</abyss_groupattrs>

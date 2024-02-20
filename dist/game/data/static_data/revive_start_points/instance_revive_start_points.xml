@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	"Revive Instance Start Point"
+	Develop: ADev.Team
+ -->
+<instance_revive_start_points xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="instance_revive_start_points.xsd">
+	<!-- Nochsana Training Camp -->
+	<instance_revive_start_point world_id="300030000" x="513.0000" y="668.0000" z="331.0000" h="0"/>
+	<!-- Dark Poeta -->
+	<instance_revive_start_point world_id="300040000" x="1225.9075" y="419.7187" z="140.18988" h="0"/>
+	<!-- Asteria Chamber -->
+	<instance_revive_start_point world_id="300050000" x="469.0000" y="567.0000" z="201.0000" h="113"/>
+	<!-- Chamber Of Roah -->
+	<instance_revive_start_point world_id="300070000" x="503.740" y="395.700" z="94.3400" h="0"/>
+	<!-- 30군단의 은닉처 -->
+	<instance_revive_start_point world_id="300080000" x="672.09576" y="606.1819" z="321.19" h="0"/>
+	<!-- Steel Rake -->
+	<instance_revive_start_point world_id="300100000" x="234.7316" y="505.87134" z="948.6736" h="0"/>
+	<!-- Udas Temple -->
+	<instance_revive_start_point world_id="300150000" x="635.11" y="647.73" z="133.23" h="0"/>
+	<!-- Lower Udas Temple -->
+	<instance_revive_start_point world_id="300160000" x="1145.0000" y="283.0000" z="115.0000" h="0"/>
+	<!-- Beshmundir Temple -->
+	<instance_revive_start_point world_id="300170000" x="1480.8746" y="255.21692" z="243.45709" h="0"/>
+	<!-- Taloc's Hollow -->
+	<instance_revive_start_point world_id="300190000" x="199.87788" y="212.72118" z="1098.889" h="0"/>
+	<!-- Haramel -->
+	<instance_revive_start_point world_id="300200000" x="172.0000" y="20.0000" z="144.22" h="0"/>
+	<!-- Abyssal Splinter -->
+	<instance_revive_start_point world_id="300220000" x="704.0000" y="153.0000" z="453.0000" h="0"/>
+	<!-- Kromede's Trial -->
+	<instance_revive_start_point world_id="300230000" x="244.98566" y="244.14162" z="189.52058" h="0"/>
+	<!-- Aturam Sky Fortress -->
+	<instance_revive_start_point world_id="300240000" x="555.591" y="536.1958" z="600.8177" h="59"/>
+	<!-- Esoterrace -->
+	<instance_revive_start_point world_id="300250000" x="333.0000" y="437.0000" z="326.0000" h="0"/>
+	<!-- Elementis Forest -->
+	<instance_revive_start_point world_id="300260000" x="175.0000" y="612.0000" z="231.0000" h="107"/>
+	<!-- Rentus Base -->
+	<instance_revive_start_point world_id="300280000" x="588.0000" y="125.0000" z="47.0000" h="7"/>
+	<!-- Closed Tiak Research Center -->
+	<instance_revive_start_point world_id="300440000" x="453.0000" y="576.0000" z="147.0000" h="0"/>
+	<!-- Tempus -->
+	<instance_revive_start_point world_id="300500000" x="788.0000" y="383.0000" z="162.0000" h="0"/>
+	<!-- Tempus [Quest] -->
+	<instance_revive_start_point world_id="300510000" x="788.0000" y="383.0000" z="162.0000" h="0"/>
+	<!-- Forgotten Space -->
+	<instance_revive_start_point world_id="300540000" x="299.0000" y="254.0000" z="209.0000" h="61"/>
+	<!-- idldf1 -->
+	<instance_revive_start_point world_id="300550000" x="884.0000" y="1763.0000" z="360.0000" h="0"/>
+	<!-- idldf1_h -->
+	<instance_revive_start_point world_id="300560000" x="1150.4454" y="1361.5278" z="279.5670" h="0"/>
+	<!-- Raksang -->
+	<instance_revive_start_point world_id="300310000" x="851.6795" y="947.84424" z="1206.6846" h="69"/>
+	<!-- Karamatis A [Quest] -->
+	<instance_revive_start_point world_id="310010000" x="221.5725" y="249.4774" z="206.12137" h="27"/>
+	<!-- Karamatis B [Quest] -->
+	<instance_revive_start_point world_id="310020000" x="221.5725" y="249.4774" z="206.12137" h="27"/>
+	<!-- Aerdina [Quest] -->
+	<instance_revive_start_point world_id="310030000" x="270.0000" y="174.0000" z="204.0000" h="0"/>
+	<!-- Geranaia [Quest] -->
+	<instance_revive_start_point world_id="310040000" x="274.9307" y="167.90654" z="204.34718" h="0"/>
+	<!-- Aetherogenetics Lab -->
+	<instance_revive_start_point world_id="310050000" x="357.83603" y="230.08176" z="147.59962" h="60"/>
+	<!-- Sanctum Underground Arena [Quest] -->
+	<instance_revive_start_point world_id="310080000" x="275.0000" y="284.0000" z="161.0000" h="0"/>
+	<!-- Indratu Fortress -->
+	<instance_revive_start_point world_id="310090000" x="562.4863" y="335.8061" z="1015.81885" h="0"/>
+	<!-- Azoturan Fortress -->
+	<instance_revive_start_point world_id="310100000" x="305.0000" y="329.0000" z="1021.0000" h="27"/>
+	<!-- Theobomos Lab -->
+	<instance_revive_start_point world_id="310110000" x="476.96606" y="201.32736" z="169.98848" h="0"/>
+	<!-- Ataxiar A [Quest] -->
+	<instance_revive_start_point world_id="310120000" x="221.5725" y="249.4774" z="206.12137" h="27"/>
+	<!-- Ataxiar B [Quest] -->
+	<instance_revive_start_point world_id="320010000" x="221.5725" y="249.4774" z="206.12137" h="27"/>
+	<!-- Ataxiar C [Quest] -->
+	<instance_revive_start_point world_id="320020000" x="221.5725" y="249.4774" z="206.12137" h="27"/>
+	<!-- Bregirun [Quest] -->
+	<instance_revive_start_point world_id="320030000" x="274.0000" y="171.0000" z="204.0000" h="0"/>
+	<!-- Nidalber [Quest] -->
+	<instance_revive_start_point world_id="320040000" x="277.2907" y="170.9613" z="204.3471" h="0"/>
+	<!-- Draupnir Cave -->
+	<instance_revive_start_point world_id="320080000" x="492.83383" y="375.46542" z="622.26920" h="29"/>
+	<!-- Triniel Arena [Quest] -->
+	<instance_revive_start_point world_id="320090000" x="276.0000" y="293.0000" z="163.0000" h="0"/>
+	<!-- Fire Temple -->
+	<instance_revive_start_point world_id="320100000" x="148.256" y="460.857" z="141.713" h="0"/>
+	<!-- Alquimia Research Center -->
+	<instance_revive_start_point world_id="320110000" x="602.62976" y="526.6474" z="200.05792" h="0"/>
+	<!-- Shadow Court [Quest] -->
+	<instance_revive_start_point world_id="320120000" x="407.6533" y="399.1897" z="245.10768" h="0"/>
+	<!-- Adma Stronghold -->
+	<instance_revive_start_point world_id="320130000" x="476.61665" y="832.25867" z="165.14975" h="0"/>
+	<!-- Ataxiar D [Quest] -->
+	<instance_revive_start_point world_id="320140000" x="221.5725" y="249.4774" z="206.12137" h="27"/>
+	<!-- Padmarashka's Cave -->
+	<instance_revive_start_point world_id="320150000" x="386.2782" y="505.15237" z="65.28644" h="0"/>
+</instance_revive_start_points>

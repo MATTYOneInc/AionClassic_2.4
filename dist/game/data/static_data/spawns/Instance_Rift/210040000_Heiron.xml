@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Instance Rift
+	Re-newed By Rinzler
+ -->
+<spawns>
+    <spawn_map map_id="210040000">
+		<!-- Draupnir Cave -->
+		<instance_rift_spawn id="1">
+			<instance_rift_type estate="OPEN">
+			    <!-- lf3_df3_dragoniddoor_in -->
+				<spawn npc_id="700564">
+				    <spot x="2528.662598" y="2680.882813" z="158.871170" entity_id="1617"/>
+				</spawn>
+			</instance_rift_type>
+			<instance_rift_type estate="CLOSED">
+			</instance_rift_type>
+		</instance_rift_spawn>
+    </spawn_map>
+</spawns>

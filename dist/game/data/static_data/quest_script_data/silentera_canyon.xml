@@ -1,0 +1,36 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+<!--
+    Quest Silentera Canyon
+	Make By Encom
+-->
+	<!-- [Daily] Banishing The Shadowborn -->
+	<kill_in_world id="30051" start_npc_ids="799381" end_npc_ids="799381" start_dialog_id="1011" worlds="600010000" amount="7"/>
+	<!-- Obtain Jotun Relics -->
+	<item_collecting id="30052" start_npc_ids="799033" end_npc_ids="798929" action_item_ids="700568"/>
+	<!-- Poison Paradise -->
+	<monster_hunt id="30053" start_npc_ids="799031">
+		<monster var="0" npc_ids="216364" end_var="5"/>
+		<monster var="1" npc_ids="216365" end_var="5"/>
+		<monster var="2" npc_ids="216366" end_var="5"/>
+	</monster_hunt>
+	<!-- The Token Of Iconrunerk -->
+	<item_collecting id="38504" start_npc_ids="799087"/>
+	<!-- The Collector Of Silentera -->
+	<item_collecting id="38507" start_npc_ids="799087"/>
+	
+	<!-- [Daily] Snuff The Sunsuckers -->
+	<kill_in_world id="30151" start_npc_ids="799383" end_npc_ids="799383" start_dialog_id="1011" worlds="600010000" amount="7"/>
+	<!-- Important Relics -->
+	<item_collecting id="30152" start_npc_ids="799338" end_npc_ids="799227" action_item_ids="700568"/>
+	<!-- Poison Problem -->
+	<monster_hunt id="30153" start_npc_ids="799335">
+		<monster var="0" npc_ids="216364" end_var="5"/>
+		<monster var="1" npc_ids="216365" end_var="5"/>
+		<monster var="2" npc_ids="216366" end_var="5"/>
+	</monster_hunt>
+	<!-- Shady Dealings? -->
+	<item_collecting id="48504" start_npc_ids="799426"/>
+	<!-- A Special Deal -->
+	<item_collecting id="48507" start_npc_ids="799426"/>
+</quest_scripts>

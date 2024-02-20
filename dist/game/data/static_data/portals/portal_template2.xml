@@ -1,0 +1,819 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Portal Template
+	Develop: ADev.Team
+ -->
+<portal_templates2 xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="portal_template2.xsd">
+	<!-- BARANATH DREDGION -->
+	<!-- CAPTAIN CABIN -->
+	<!-- Captain's Cabin Teleport Device -->
+	<portal_use npc_id="730197">
+		<portal_path loc_id="3001105"/>
+	</portal_use>
+	<!-- ESCAPE HATCH -->
+	<!-- Portside Central Teleporter -->
+	<portal_use npc_id="730187">
+		<portal_path loc_id="3001102"/>
+	</portal_use>
+	<!-- No.2 Nuclear Control Room -->
+	<portal_use npc_id="730214">
+		<portal_path loc_id="3001101"/>
+	</portal_use>
+	<!-- SECONDARY ESCAPE HATCH -->
+	<!-- Starboard Central Teleporter -->
+	<portal_use npc_id="730188">
+		<portal_path loc_id="3001103"/>
+	</portal_use>
+	<!-- No.1 Nuclear Control Room -->
+	<portal_use npc_id="730213">
+		<portal_path loc_id="3001104"/>
+	</portal_use>
+	<!-- BARANATH DREDGION END -->
+	
+	<!-- CHANTRA DREDGION -->
+	<!-- CAPTAIN CABIN -->
+	<!-- Elyos Captain's Cabin Teleporter -->
+	<portal_use npc_id="730357">
+		<portal_path loc_id="3002105" race="ELYOS"/>
+	</portal_use>
+	<!-- Asmodian Captain's Cabin Teleporter -->
+	<portal_use npc_id="730358">
+		<portal_path loc_id="3002105" race="ASMODIANS"/>
+	</portal_use>
+	<!-- ESCAPE HATCH -->
+	<!-- Portside Central Teleporter -->
+	<portal_use npc_id="730312">
+		<portal_path loc_id="3002102"/>
+	</portal_use>
+	<!-- Port Supply Room Teleporter -->
+	<portal_use npc_id="730314">
+		<portal_path loc_id="3002101"/>
+	</portal_use>
+	<!-- SECONDARY ESCAPE HATCH -->
+	<!-- Portside Central Teleporter -->
+	<portal_use npc_id="730311">
+		<portal_path loc_id="3002103"/>
+	</portal_use>
+	<!-- Starboard Supply Room Teleporter -->
+	<portal_use npc_id="730315">
+		<portal_path loc_id="3002104"/>
+	</portal_use>
+	<!-- CHANTRA DREDGION END -->
+	
+	<!-- HARAMEL -->
+	<!-- Haramel Secret Entrance [Elyos] -->
+	<portal_use npc_id="730318">
+	    <portal_path loc_id="3002000" instance="true">
+			<portal_req min_level="15" max_level="22"/>
+		</portal_path>
+	</portal_use>
+	<!-- Haramel Secret Entrance [Asmodians] -->
+	<portal_use npc_id="730319">
+		<portal_path loc_id="3002000" instance="true">
+			<portal_req min_level="15" max_level="22"/>
+		</portal_path>
+	</portal_use>
+	<!-- HARAMEL END -->
+	
+	<!-- NOCHSANA TRAINING CAMP -->
+	<!-- Abyss Gate Exit -->
+	<portal_use npc_id="700438">
+		<portal_path loc_id="4000100" race="ELYOS"/>
+		<portal_path loc_id="4000101" race="ASMODIANS"/>
+	</portal_use>
+	<!-- NOCHSANA TRAINING CAMP END -->
+	
+	<!-- KROMEDE'S TRIAL -->
+	<!-- Kromede's Trial Emergency Exit -->
+	<portal_use npc_id="700928">
+		<portal_path loc_id="2100401" race="ELYOS"/>
+		<portal_path loc_id="2200402" race="ASMODIANS"/>
+	</portal_use>
+	<!-- Kromede's Trial Exit -->
+	<portal_use npc_id="700949">
+		<portal_path loc_id="2100401" race="ELYOS"/>
+		<portal_path loc_id="2200402" race="ASMODIANS"/>
+	</portal_use>
+	<!-- KROMEDE'S TRIAL END -->
+	
+	<!-- AETHEROGENETICS LAB -->
+	<!-- Aetherogenetics Lab Exit -->
+	<portal_use npc_id="730035">
+		<portal_path loc_id="2100404" race="ELYOS"/>
+		<portal_path loc_id="2200400" race="ASMODIANS"/>
+	</portal_use>
+	<!-- AETHEROGENETICS LAB END -->
+	
+	<!-- DRAUPNIR CAVE -->
+	<!-- Draupnir Cave Exit -->
+	<portal_use npc_id="700371">
+	    <portal_path loc_id="2100400" race="ELYOS"/>
+		<portal_path loc_id="2200401" race="ASMODIANS"/>
+	</portal_use>
+	<!-- DRAUPNIR CAVE END -->
+	
+	<!-- CHAMBER OF ROAH -->
+	<!-- Chamber Of Roah Exit -->
+	<portal_use npc_id="700461">
+		<portal_path loc_id="4000100" race="ELYOS"/>
+		<portal_path loc_id="4000101" race="ASMODIANS"/>
+	</portal_use>
+	<!-- CHAMBER OF ROAH END -->
+	
+	<!-- ASTERIA CHAMBER -->
+	<!-- Asteria Chamber Exit -->
+	<portal_use npc_id="700480">
+		<portal_path loc_id="4000100" race="ELYOS"/>
+		<portal_path loc_id="4000101" race="ASMODIANS"/>
+	</portal_use>
+	<!-- ASTERIA CHAMBER END -->
+	
+	<!-- ALQUIMIA RESEARCH CENTER -->
+	<!-- Alquimia Research Center Exit -->
+	<portal_use npc_id="730111">
+		<portal_path loc_id="2100400" race="ELYOS"/>
+		<portal_path loc_id="2200403" race="ASMODIANS"/>
+	</portal_use>
+	<!-- ALQUIMIA RESEARCH CENTER END -->
+	
+	<!-- INDRATU FORTRESS -->
+	<!-- Indratu Fortress Exit -->
+	<portal_use npc_id="700361">
+		<portal_path loc_id="2100403" race="ELYOS"/>
+		<portal_path loc_id="2200400" race="ASMODIANS"/>
+	</portal_use>
+	<!-- INDRATU FORTRESS END -->
+	
+	<!-- AZOTURAN FORTRESS -->
+	<!-- Azoturan Fortress Exit -->
+	<portal_use npc_id="700367">
+		<portal_path loc_id="2100405" race="ELYOS"/>
+		<portal_path loc_id="2200400" race="ASMODIANS"/>
+	</portal_use>
+	<!-- AZOTURAN FORTRESS END -->
+	
+	<!-- THEOBOMOS LAB -->
+	<!-- Theobomos Lab Exit -->
+	<portal_use npc_id="730168">
+		<portal_path loc_id="2100601" race="ELYOS"/>
+		<portal_path loc_id="2200500" race="ASMODIANS"/>
+	</portal_use>
+	<!-- Unstable Fragment Exit -->
+	<portal_use npc_id="730178">
+		<portal_path loc_id="2100601" race="ELYOS"/>
+		<portal_path loc_id="2200500" race="ASMODIANS"/>
+	</portal_use>
+	<!-- THEOBOMOS LAB END -->
+	
+	<!-- DARK POETA -->
+	<!-- Dark Poeta Exit -->
+	<portal_use npc_id="730211">
+		<portal_path loc_id="2100406"/>
+		<portal_path loc_id="2200404"/>
+	</portal_use>
+	<!-- DARK POETA END -->
+	
+	<!-- ESOTERRACE -->
+	<!-- Esoterrace Exit -->
+	<portal_use npc_id="701044">
+		<portal_path loc_id="2100507" race="ELYOS"/>
+		<portal_path loc_id="2200707" race="ASMODIANS"/>
+	</portal_use>
+	<!-- ESOTERRACE END -->
+	
+	<!-- UDAS TEMPLE -->
+	<!-- Udas Temple Exit -->
+	<portal_use npc_id="730255">
+		<portal_path loc_id="2100505" race="ELYOS"/>
+		<portal_path loc_id="2200705" race="ASMODIANS"/>
+	</portal_use>
+	<!-- Udas Temple Exit -->
+	<portal_use npc_id="730272">
+		<portal_path loc_id="2100505" race="ELYOS"/>
+		<portal_path loc_id="2200705" race="ASMODIANS"/>
+	</portal_use>
+	<!-- UDAS TEMPLE END -->
+	
+	<!-- LOWER UDAS TEMPLE -->
+	<!-- Lower Udas Temple Exit -->
+	<portal_use npc_id="730273">
+		<portal_path loc_id="2100506" race="ELYOS"/>
+		<portal_path loc_id="2200706" race="ASMODIANS"/>
+	</portal_use>
+	<!-- LOWER UDAS TEMPLE END -->
+	
+	<!-- BESHMUNDIR TEMPLE -->
+	<!-- Beshmundir's Walk -->
+	<portal_use npc_id="730231">
+		<portal_path loc_id="3001700" player_count="6" instance="true">
+			<portal_req min_level="55" max_level="55"/>
+		</portal_path>
+	</portal_use>
+	<!-- Beshmundir Temple Exit -->
+	<portal_use npc_id="730285">
+		<portal_path loc_id="6000102"/>
+	</portal_use>
+	<!-- Beshmundir Temple Exit -->
+	<portal_use npc_id="730286">
+		<portal_path loc_id="6000102"/>
+	</portal_use>
+	<!-- Prison Of Ice Exit -->
+	<portal_use npc_id="730287">
+		<portal_path loc_id="6000102"/>
+	</portal_use>
+	<!-- BESHMUNDIR TEMPLE END -->
+	
+	<!-- ABYSSAL SPLINTER -->
+	<!-- Abyssal Splinter Exit -->
+	<portal_use npc_id="730317">
+		<portal_path loc_id="4000100" race="ELYOS"/>
+		<portal_path loc_id="4000101" race="ASMODIANS"/>
+	</portal_use>
+	<!-- ABYSSAL SPLINTER END -->
+	
+	<!-- AERDINA-BREGIRUN-GERANAIA-NIDALBER -->
+	<!-- Dimension Exit -->
+	<portal_use npc_id="700184">
+		<portal_path loc_id="2200301"/>
+	</portal_use>
+	<!-- Dimension Exit -->
+	<portal_use npc_id="700185">
+		<portal_path loc_id="2200204"/>
+	</portal_use>
+	<!-- Dimension Exit -->
+	<portal_use npc_id="700186">
+		<portal_path loc_id="2100301"/>
+	</portal_use>
+	<!-- Dimension Exit -->
+	<portal_use npc_id="700187">
+		<portal_path loc_id="2100201"/>
+	</portal_use>
+	<!-- AERDINA-BREGIRUN-GERANAIA-NIDALBER END -->
+	
+	<!-- *********************************************** -->
+	<!-- **************** PORTAL QUEST ***************** -->
+	<!-- *********************************************** -->
+	<!-- Destroyed Teleport Statue
+	[Q1636 A Flute For The Fixing] -->
+	<portal_use npc_id="730033">
+		<portal_path loc_id="2100402" race="ELYOS">
+			<portal_req min_level="43">
+				<quest_req quest_id="1636" quest_step="3"/>
+			</portal_req>
+		</portal_path>
+	</portal_use>
+	
+	<!-- SKY TEMPLE INTERIOR -->
+	<!-- Water Room Entrance -->
+	<portal_use npc_id="730041">
+		<portal_path loc_id="3200501" instance="true" race="ASMODIANS">
+			<portal_req min_level="27">
+				<item_req item_id="182204012" item_count="1"/>
+			</portal_req>
+		</portal_path>
+	</portal_use>
+	<!-- Wind Room Entrance -->
+	<portal_use npc_id="730043">
+		<portal_path loc_id="3200500" instance="true" race="ASMODIANS">
+			<portal_req min_level="27"/>
+		</portal_path>
+	</portal_use>
+	<!-- Fire Room Entrance -->
+	<portal_use npc_id="730045">
+		<portal_path loc_id="3200502" instance="true" race="ASMODIANS">
+			<portal_req min_level="27"/>
+		</portal_path>
+	</portal_use>
+	<!-- Wind Room Exit -->
+	<portal_use npc_id="730044">
+		<portal_path loc_id="2200201" race="ASMODIANS"/>
+	</portal_use>
+	<!-- Water Room Exit -->
+	<portal_use npc_id="730042">
+		<portal_path loc_id="2200202" race="ASMODIANS"/>
+	</portal_use>
+	<!-- Fire Room Exit -->
+	<portal_use npc_id="730046">
+		<portal_path loc_id="2200203" race="ASMODIANS"/>
+	</portal_use>
+	<!-- SKY TEMPLE INTERIOR END -->
+	
+	<!-- *********************************************** -->
+	<!-- **************** PORTAL DIALOG **************** -->
+	<!-- *********************************************** -->
+	<!-- Verteron Abyss Gate: Verteron To Aerdina -->
+	<portal_dialog npc_id="700088">
+		<portal_path dialog="10000" loc_id="3100300" instance="true">
+			<portal_req min_level="15" err_level="27"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- Altgard Abyss Gate: Altgard To Bregirun -->
+	<portal_dialog npc_id="700089">
+		<portal_path dialog="10000" loc_id="3200300" instance="true">
+			<portal_req min_level="15" err_level="27"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- Eltnen Abyss Gate: Eltnen To Geranaia -->
+	<portal_dialog npc_id="700177">
+		<portal_path dialog="10000" loc_id="3100400" instance="true" race="ELYOS">
+			<portal_req min_level="34">
+				<item_req item_id="182201012" item_count="1" err_item="27"/>
+			</portal_req>
+		</portal_path>
+	</portal_dialog>
+	
+	<!-- NOCHSANA TRAINING CAMP -->
+	<!-- Portal Statue -->
+	<portal_dialog npc_id="800463">
+		<portal_path dialog="10000" loc_id="3000300" instance="true" race="ELYOS">
+			<portal_req min_level="25" err_level="27"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- Portal Statue -->
+	<portal_dialog npc_id="800464">
+		<portal_path dialog="10000" loc_id="3000300" instance="true" race="ASMODIANS">
+			<portal_req min_level="25" err_level="27"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- NOCHSANA TRAINING CAMP END -->
+	
+	<!-- FIRE TEMPLE -->
+	<!-- Fire Temple Elyos -->
+	<portal_dialog npc_id="730069">
+		<portal_path dialog="10000" loc_id="3201000" player_count="6" instance="true" race="ELYOS">
+			<portal_req min_level="27" max_level="55"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- Fire Temple Asmodians -->
+	<portal_dialog npc_id="730047">
+		<portal_path dialog="10000" loc_id="3201000" player_count="6" instance="true" race="ASMODIANS">
+			<portal_req min_level="27" max_level="55"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- FIRE TEMPLE END -->
+	
+	<!-- KROMEDE TRIAL -->
+	<!-- Raninia
+	<Daeva Of Dream Reading> -->
+	<portal_dialog npc_id="205229">
+		<portal_path dialog="10000" loc_id="3002300" instance="true" err_group="1013" race="ELYOS">
+			<portal_req min_level="37" max_level="44" err_level="27"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- Bridget
+	<Daeva Of Psychic Arts> -->
+	<portal_dialog npc_id="205234">
+		<portal_path dialog="10000" loc_id="3002300" instance="true" err_group="1013" race="ASMODIANS">
+			<portal_req min_level="37" max_level="44" err_level="27"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- KROMEDE TRIAL END -->
+	
+	<!-- AETHEROGENETICS LAB -->
+	<!-- Aetherogenetics Lab -->
+	<portal_dialog npc_id="730034">
+		<portal_path dialog="10000" loc_id="3100500" player_count="6" instance="true" race="ELYOS">
+			<portal_req min_level="35" max_level="55"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- AETHEROGENETICS LAB END -->
+	
+	<!-- DRAUPNIR CAVE -->
+	<!-- Draupnir Cave -->
+	<portal_dialog npc_id="700564">
+		<portal_path dialog="10000" loc_id="3200800" player_count="6" instance="true">
+			<portal_req min_level="39" max_level="55"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- DRAUPNIR CAVE END -->
+	
+	<!-- CHAMBER OF ROAH -->
+	<!-- Chamber Of Roah [Elyos] -->
+	<portal_dialog npc_id="700479">
+		<portal_path dialog="10000" loc_id="3000700" player_count="6" instance="true" siege_id="1211" race="ELYOS">
+		    <portal_req min_level="40" max_level="50"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- Chamber Of Roah [Asmodians] -->
+	<portal_dialog npc_id="700532">
+		<portal_path dialog="10000" loc_id="3000700" player_count="6" instance="true" siege_id="1211" race="ASMODIANS">
+		    <portal_req min_level="40" max_level="50"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- CHAMBER OF ROAH END -->
+	
+	<!-- ASTERIA CHAMBER -->
+	<!-- Asteria Chamber [Elyos] -->
+	<portal_dialog npc_id="700460">
+		<portal_path dialog="10000" loc_id="3000500" player_count="6" instance="true" siege_id="1251" race="ELYOS">
+		    <portal_req min_level="40" max_level="50"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- Asteria Chamber [Asmodians] -->
+	<portal_dialog npc_id="700533">
+		<portal_path dialog="10000" loc_id="3000500" player_count="6" instance="true" siege_id="1251" race="ASMODIANS">
+		    <portal_req min_level="40" max_level="50"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- ASTERIA CHAMBER END -->
+	
+	<!-- STEEL RAKE -->
+	<!-- Hikarinerk
+	<Black Cloud Mate> -->
+	<portal_dialog npc_id="800405">
+		<portal_path dialog="10000" loc_id="3001000" instance="true" err_group="1013" race="ELYOS">
+			<portal_req min_level="40" err_level="1055"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- Midorunerk
+	<Black Cloud Mate> -->
+	<portal_dialog npc_id="800406">
+		<portal_path dialog="10000" loc_id="3001000" instance="true" err_group="1013" race="ASMODIANS">
+			<portal_req min_level="40" err_level="1055"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- STEEL RAKE END -->
+	
+	<!-- ALQUIMIA RESEARCH CENTER -->
+	<!-- Alquimia Research Center -->
+	<portal_dialog npc_id="730110">
+		<portal_path dialog="10000" loc_id="3201100" player_count="6" instance="true" race="ASMODIANS">
+			<portal_req min_level="40" max_level="55"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- ALQUIMIA RESEARCH CENTER END -->
+	
+	<!-- INDRATU FORTRESS -->
+	<!-- Indratu Fortress -->
+	<portal_dialog npc_id="700360">
+		<portal_path dialog="10000" loc_id="3100900" player_count="6" instance="true">
+			<portal_req min_level="41" max_level="55"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- INDRATU FORTRESS END -->
+	
+	<!-- AZOTURAN FORTRESS -->
+	<!-- Azoturan Fortress -->
+	<portal_dialog npc_id="700364">
+		<portal_path dialog="10000" loc_id="3101000" player_count="6" instance="true" race="ELYOS">
+			<portal_req min_level="43" max_level="55"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- AZOTURAN FORTRESS END -->
+	
+	<!-- THEOBOMOS LAB -->
+	<!-- Theobomos Lab -->
+	<portal_dialog npc_id="730154">
+		<portal_path dialog="10000" loc_id="3101100" player_count="6" instance="true" race="ELYOS">
+			<portal_req min_level="46" max_level="55"/>
+		</portal_path>
+		<portal_path dialog="10001" loc_id="3101101" instance="true" race="ELYOS">
+			<portal_req min_level="46" max_level="55"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- THEOBOMOS LAB END -->
+	
+	<!-- ADMA STRONGHOLD -->
+	<!-- Adma Stronghold -->
+	<portal_dialog npc_id="730165">
+		<portal_path dialog="10000" loc_id="3201300" player_count="6" instance="true" race="ASMODIANS">
+			<portal_req min_level="46" max_level="55"/>
+		</portal_path>
+		<portal_path dialog="10001" loc_id="3201301" instance="true" race="ASMODIANS">
+			<portal_req min_level="46" max_level="55"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- ADMA STRONGHOLD END -->
+	
+	<!-- DARK POETA -->
+	<!-- [Beluslan] Artifact Of Transcendence -->
+	<portal_dialog npc_id="730185">
+		<portal_path dialog="10000" loc_id="3000400" player_count="6" instance="true" race="ASMODIANS">
+			<portal_req min_level="50" max_level="55">
+				<item_req item_id="185000041" item_count="1" err_item="27"/>
+			</portal_req>
+		</portal_path>
+	</portal_dialog>
+	<!-- [Heiron] Artifact Of Transcendence -->
+	<portal_dialog npc_id="730186">
+		<portal_path dialog="10000" loc_id="3000400" player_count="6" instance="true" race="ELYOS">
+			<portal_req min_level="50" max_level="55">
+				<item_req item_id="185000041" item_count="1" err_item="27"/>
+			</portal_req>
+		</portal_path>
+	</portal_dialog>
+	<!-- [Reshanta] Time Relic -->
+	<portal_dialog npc_id="730215">
+		<portal_path dialog="10000" loc_id="3000400" player_count="6" instance="true">
+			<portal_req min_level="50" max_level="55">
+				<item_req item_id="185000041" item_count="1" err_item="27"/>
+			</portal_req>
+		</portal_path>
+	</portal_dialog>
+	<!-- DARK POETA END -->
+	
+	<!-- EMPYREAN CRUCIBLE -->
+	<!-- Empyrean Crucible Elyos Entrance -->
+	<portal_dialog npc_id="730430">
+		<portal_path dialog="10000" loc_id="3003000" player_count="6" instance="true" race="ELYOS">
+			<portal_req min_level="50" max_level="55"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- Empyrean Crucible Asmodians Entrance -->
+	<portal_dialog npc_id="730431">
+		<portal_path dialog="10000" loc_id="3003000" player_count="6" instance="true" race="ASMODIANS">
+			<portal_req min_level="50" max_level="55"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- Crucible Challenge Elyos Entrance -->
+	<portal_dialog npc_id="730461">
+		<portal_path dialog="10000" loc_id="3003200" instance="true" err_group="27" race="ELYOS">
+			<portal_req min_level="50" err_level="27"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- Crucible Challenge Asmodians Entrance -->
+	<portal_dialog npc_id="730462">
+		<portal_path dialog="10000" loc_id="3003200" instance="true" err_group="27" race="ASMODIANS">
+			<portal_req min_level="50" err_level="27"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- EMPYREAN CRUCIBLE END -->
+	
+	<!-- ESOTERRACE -->
+	<!-- Dimensional Rift -->
+	<portal_dialog npc_id="800415">
+		<portal_path dialog="10000" loc_id="3002500" player_count="6" instance="true">
+		    <portal_req min_level="50" err_level="27"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- Dimensional Rift -->
+	<portal_dialog npc_id="800416">
+		<portal_path dialog="10000" loc_id="3002500" player_count="6" instance="true">
+		    <portal_req min_level="50" err_level="27"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- ESOTERRACE END -->
+	
+	<!-- TALOC'S HOLLOW -->
+	<!-- Lothas 
+	<Taloc's Young Branch> -->
+    <portal_dialog npc_id="799022">
+        <portal_path dialog="10000" loc_id="3001900" instance="true" race="ELYOS">
+            <portal_req min_level="51" max_level="60" err_level="27"/>
+        </portal_path>
+    </portal_dialog>
+    <!-- Taloc's Guardian -->
+    <portal_dialog npc_id="799325">
+        <portal_path dialog="10000" loc_id="3001900" instance="true" race="ASMODIANS">
+            <portal_req min_level="51" max_level="60" err_level="27"/>
+        </portal_path>
+    </portal_dialog>
+	<!-- Taloc's Mirage -->
+	<portal_dialog npc_id="799503">
+		<portal_path dialog="10000" loc_id="2100508" race="ELYOS"/>
+		<portal_path dialog="10000" loc_id="2200708" race="ASMODIANS"/>
+	</portal_dialog>
+	<!-- TALOC'S HOLLOW END -->
+	
+	<!-- UDAS TEMPLE -->
+	<!-- Udas Temple Entrance [Elyos] -->
+	<portal_dialog npc_id="730277">
+		<portal_path dialog="10000" loc_id="3001500" player_count="6" instance="true" race="ELYOS">
+			<portal_req min_level="51" max_level="55"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- Udas Temple Entrance [Asmodians] -->
+	<portal_dialog npc_id="730278">
+		<portal_path dialog="10000" loc_id="3001500" player_count="6" instance="true" race="ASMODIANS">
+			<portal_req min_level="51" max_level="55"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- UDAS TEMPLE END -->
+	
+	<!-- LOWER UDAS -->
+	<!-- Lower Udas Temple Entrance [Elyos] -->
+	<portal_dialog npc_id="730279">
+		<portal_path dialog="10000" loc_id="3001600" player_count="6" instance="true" race="ELYOS">
+			<portal_req min_level="51" max_level="55"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- Lower Udas Temple Entrance [Asmodians] -->
+	<portal_dialog npc_id="730280">
+		<portal_path dialog="10000" loc_id="3001600" player_count="6" instance="true" race="ASMODIANS">
+			<portal_req min_level="51" max_level="55"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- LOWER UDAS END -->
+	
+	<!-- ABYSSAL SPLINTER -->
+	<!-- Abyssal Splinter Entrance -->
+	<portal_dialog npc_id="730316">
+		<portal_path dialog="10000" loc_id="3002200" player_count="6" instance="true" siege_id="1011" race="ELYOS">
+		    <portal_req min_level="55" err_level="27"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- Abyssal Splinter Entrance -->
+	<portal_dialog npc_id="730356">
+		<portal_path dialog="10000" loc_id="3002200" player_count="6" instance="true" siege_id="1011" race="ASMODIANS">
+		    <portal_req min_level="55" err_level="27"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- ABYSSAL SPLINTER END -->
+	
+	<!-- PADMARASHKA'S CAVE -->
+	<!-- Padmarashka's Cave Elyos Entrance -->
+	<portal_dialog npc_id="730485">
+		<portal_path dialog="10000" loc_id="3201500" player_count="6" instance="true" race="ELYOS">
+			<portal_req min_level="55">
+				<item_req item_id="185000090" item_count="1" err_item="27"/>
+			</portal_req>
+		</portal_path>
+	</portal_dialog>
+	<!-- Padmarashka's Cave Asmodians Entrance -->
+	<portal_dialog npc_id="730486">
+		<portal_path dialog="10000" loc_id="3201500" player_count="6" instance="true" race="ASMODIANS">
+			<portal_req min_level="55">
+				<item_req item_id="185000090" item_count="1" err_item="27"/>
+			</portal_req>
+		</portal_path>
+	</portal_dialog>
+	<!-- PADMARASHKA'S CAVE END -->
+	
+	<!-- 30군단의 은닉처 -->
+	<!-- 30군단의 은닉처 [Elyos] -->
+	<portal_dialog npc_id="701402">
+		<portal_path dialog="10000" loc_id="3000800" player_count="3" instance="true" race="ELYOS">
+			<portal_req min_level="51" max_level="55"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- 30군단의 은닉처 [Asmodians] -->
+	<portal_dialog npc_id="701403">
+		<portal_path dialog="10000" loc_id="3000800" player_count="3" instance="true" race="ASMODIANS">
+			<portal_req min_level="51" max_level="55"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- 30군단의 은닉처 END -->
+	
+	<!-- TELOS OF THE FORGOTTEN -->
+	<portal_dialog npc_id="800722">
+		<portal_path dialog="10000" loc_id="3005500" player_count="6" instance="true">
+			<portal_req min_level="51" max_level="55"/>
+		</portal_path>
+		<!-- TELOS OF THE FORGOTTEN [Hard] -->
+		<portal_path dialog="10001" loc_id="3005600" player_count="6" instance="true">
+			<portal_req min_level="55" max_level="55"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- TELOS OF THE FORGOTTEN END -->
+	
+	<!-- TEMPUS -->
+	<portal_dialog npc_id="800553">
+		<portal_path dialog="10000" loc_id="3005000" instance="true" err_group="1693" race="ELYOS">
+			<portal_req min_level="55" err_level="1352"/>
+		</portal_path>
+	</portal_dialog>
+	<portal_dialog npc_id="800554">
+		<portal_path dialog="10000" loc_id="3005000" instance="true" err_group="1693" race="ASMODIANS">
+			<portal_req min_level="55" err_level="1352"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- TEMPUS END -->
+	
+	<!-- TELEPORTER -->
+	<!-- Sanctum To Inggison -->
+	<portal_dialog npc_id="730218">
+		<portal_path dialog="10000" loc_id="2100501">
+			<portal_req min_level="50" kinah_req="9300" err_level="27"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- Pandaemonium To Gelkmaros -->
+	<portal_dialog npc_id="730219">
+		<portal_path dialog="10000" loc_id="2200701">
+			<portal_req min_level="50" kinah_req="9300" err_level="27"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- Inggison To Sanctum -->
+	<portal_dialog npc_id="730220">
+		<portal_path dialog="10000" loc_id="1100102">
+			<portal_req min_level="50" kinah_req="9300" err_level="27"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- Gelkmaros To Pandaemonium -->
+	<portal_dialog npc_id="730221">
+		<portal_path dialog="10000" loc_id="1200102">
+			<portal_req min_level="50" kinah_req="9300" err_level="27"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- Kaisinel Academy To Sanctum -->
+	<portal_dialog npc_id="730424">
+		<portal_path dialog="10000" loc_id="1100101"/>
+	</portal_dialog>
+	<!-- Kaisinel Academy To Inggison -->
+	<portal_dialog npc_id="730425">
+		<portal_path dialog="10000" loc_id="2100501">
+			<portal_req min_level="50" kinah_req="9300" err_level="27"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- Marchutan Priory To Pandaemonium -->
+	<portal_dialog npc_id="730427">
+		<portal_path dialog="10000" loc_id="1200100"/>
+	</portal_dialog>
+	<!-- Marchutan Priory To Gelkmaros -->
+	<portal_dialog npc_id="730428">
+		<portal_path dialog="10000" loc_id="2200701">
+			<portal_req min_level="50" kinah_req="9300" err_level="27"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- TELEPORTER END -->
+	
+	<!-- SANCTUM TELEPORTER -->
+	<!-- Sanctum To Kaisinel Academy/Cloister Of Kaisinel -->
+	<portal_dialog npc_id="730265">
+		<portal_path dialog="10000" loc_id="1100200"/>
+		<portal_path dialog="10001" loc_id="1100701"/>
+	</portal_dialog>
+	<!-- Cloister Of Kaisinel To Sanctum -->
+	<portal_dialog npc_id="730266">
+		<portal_path dialog="10000" loc_id="1100101"/>
+	</portal_dialog>
+	<!-- Inggison To Kaisinel Academy [Noratha] -->
+	<portal_dialog npc_id="205314">
+		<portal_path dialog="10000" loc_id="1100700">
+			<portal_req min_level="50" kinah_req="9300" err_level="27"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- SANCTUM TELEPORTER END -->
+	
+	<!-- PANDAEMONIUM TELEPORTER -->
+	<!-- Pandaemonium To Marchutan Priory/Convent Of Marchutan -->
+	<portal_dialog npc_id="730268">
+		<portal_path dialog="10000" loc_id="1200200"/>
+		<portal_path dialog="10001" loc_id="1200801"/>
+	</portal_dialog>
+	<!-- Convent Of Marchutan To Pandaemonium -->
+	<portal_dialog npc_id="730269">
+		<portal_path dialog="10000" loc_id="1200101"/>
+	</portal_dialog>
+	<!-- Gelkmaros To Marchutan Priory [Virvain] -->
+	<portal_dialog npc_id="205322">
+		<portal_path dialog="10000" loc_id="1200802">
+			<portal_req min_level="50" kinah_req="9300" err_level="27"/>
+		</portal_path>
+	</portal_dialog>
+	<!-- PANDAEMONIUM TELEPORTER END -->
+	
+	<!-- *********************************************** -->
+	<!-- **************** PORTAL SCROLL **************** -->
+	<!-- *********************************************** -->
+	<!-- SCROLL TELEPORT ELYOS -->
+	<portal_scroll name="SANCTUM_RETURN_AREA">
+		<portal_path loc_id="1100100" race="ELYOS"/>
+	</portal_scroll>
+	<portal_scroll name="KAISINEL_ACADEMY_RETURN_AREA">
+		<portal_path loc_id="1100702" race="ELYOS"/>
+	</portal_scroll>
+	<portal_scroll name="ELTNEN_RETURN_AREA">
+		<portal_path loc_id="2100200" race="ELYOS"/>
+	</portal_scroll>
+	<portal_scroll name="VERTERON_RETURN_AREA">
+		<portal_path loc_id="2100300" race="ELYOS"/>
+	</portal_scroll>
+	<portal_scroll name="HEIRON_RETURN_AREA">
+		<portal_path loc_id="2100400" race="ELYOS"/>
+	</portal_scroll>
+	<portal_scroll name="INGGISON_RETURN_AREA">
+		<portal_path loc_id="2100500" race="ELYOS"/>
+	</portal_scroll>
+	<portal_scroll name="THEOBOMOS_RETURN_AREA">
+		<portal_path loc_id="2100600" race="ELYOS"/>
+	</portal_scroll>
+	<portal_scroll name="TEMINON_LANDING_RETURN_AREA">
+		<portal_path loc_id="4000100" race="ELYOS"/>
+	</portal_scroll>
+	
+	<!-- SCROLL TELEPORT ASMODIANS -->
+	<portal_scroll name="PANDAEMONIUM_RETURN_AREA">
+		<portal_path loc_id="1200100" race="ASMODIANS"/>
+	</portal_scroll>
+	<portal_scroll name="MARCHUTAN_PRIORY_RETURN_AREA">
+		<portal_path loc_id="1200800" race="ASMODIANS"/>
+	</portal_scroll>
+	<portal_scroll name="MORHEIM_RETURN_AREA">
+		<portal_path loc_id="2200200" race="ASMODIANS"/>
+	</portal_scroll>
+	<portal_scroll name="ALTGARD_RETURN_AREA">
+		<portal_path loc_id="2200300" race="ASMODIANS"/>
+	</portal_scroll>
+	<portal_scroll name="BELUSLAN_RETURN_AREA">
+		<portal_path loc_id="2200400" race="ASMODIANS"/>
+	</portal_scroll>
+	<portal_scroll name="BRUSTHONIN_RETURN_AREA">
+		<portal_path loc_id="2200500" race="ASMODIANS"/>
+	</portal_scroll>
+	<portal_scroll name="GELKMAROS_RETURN_AREA">
+		<portal_path loc_id="2200700" race="ASMODIANS"/>
+	</portal_scroll>
+	<portal_scroll name="PRIMUM_LANDING_RETURN_AREA">
+		<portal_path loc_id="4000101" race="ASMODIANS"/>
+	</portal_scroll>
+</portal_templates2>

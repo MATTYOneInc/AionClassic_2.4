@@ -1,0 +1,21 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Dark Poeta
+	Re-newed By Rinzler
+ -->
+<spawns>
+	<spawn_map map_id="300040000">
+		<!-- gb_source_gtree_50a_idlf1 -->
+        <spawn npc_id="401111">
+            <spot x="664.34924" y="1169.0242" z="143.20634" h="4"/>
+        </spawn>
+        <!-- gb_source_gmetal_50a_idlf1 -->
+        <spawn npc_id="401112">
+            <spot x="190.28633" y="399.59973" z="126.36699" h="11"/>
+            <spot x="253.59828" y="418.46378" z="104.0092" h="63"/>
+            <spot x="256.18463" y="324.15317" z="120.906006" h="62"/>
+            <spot x="141.16678" y="414.50775" z="135.03877" h="48"/>
+            <spot x="672.84143" y="1200.5059" z="143.80783" h="37"/>
+        </spawn>
+	</spawn_map>
+</spawns>

@@ -1,0 +1,216 @@
+<?xml version="1.0" encoding="utf-8"?>
+<guild_craft_templates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="guild_craft_templates.xsd">
+   <guild_craft_template id="1" name="guild_essence" active="1" race="PC_ALL" type="COMMON" craft_time="0" >
+       <guild_craft_essence_piece quantity="10"/>
+   </guild_craft_template>
+   <guild_craft_template id="6" name="guild_craft_kist_light_01" active="1" race="ELYOS" type="COMMON" craft_time="10" >
+       <guild_craft_product item_id="184002036" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="3000000"/>
+       <guild_craft_essence quantity="1"/>
+   </guild_craft_template>
+   <guild_craft_template id="7" name="guild_craft_kist_light_02" active="1" race="ELYOS" type="COMMON" craft_time="10" >
+       <guild_craft_product item_id="184002038" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="100000"/>
+       <guild_craft_essence_piece quantity="5"/>
+   </guild_craft_template>
+   <guild_craft_template id="8" name="guild_craft_kist_light_03" active="1" race="ELYOS" type="COMMON" craft_time="10" >
+       <guild_craft_product item_id="184002040" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="100000"/>
+       <guild_craft_essence_piece quantity="5"/>
+   </guild_craft_template>
+   <guild_craft_template id="9" name="guild_craft_kist_light_04" active="1" race="ELYOS" type="COMMON" craft_time="10" >
+       <guild_craft_product item_id="184002042" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="100000"/>
+       <guild_craft_essence_piece quantity="5"/>
+   </guild_craft_template>
+   <guild_craft_template id="10" name="guild_craft_kist_light_05" active="1" race="ELYOS" type="COMMON" craft_time="10" >
+       <guild_craft_product item_id="184002044" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="100000"/>
+       <guild_craft_essence_piece quantity="5"/>
+   </guild_craft_template>
+   <guild_craft_template id="11" name="guild_craft_kist_light_06" active="1" race="ELYOS" type="COMMON" craft_time="10" >
+       <guild_craft_product item_id="184002048" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="100000"/>
+       <guild_craft_essence_piece quantity="5"/>
+   </guild_craft_template>
+   <guild_craft_template id="12" name="guild_craft_kist_light_07" active="1" race="ELYOS" type="COMMON" craft_time="10" >
+       <guild_craft_product item_id="184002050" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="100000"/>
+       <guild_craft_essence_piece quantity="5"/>
+   </guild_craft_template>
+   <guild_craft_template id="13" name="guild_craft_kist_dark_01" active="1" race="ASMODIANS" type="COMMON" craft_time="10" >
+       <guild_craft_product item_id="184002037" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="3000000"/>
+       <guild_craft_essence quantity="1"/>
+   </guild_craft_template>
+   <guild_craft_template id="14" name="guild_craft_kist_dark_02" active="1" race="ASMODIANS" type="COMMON" craft_time="10" >
+       <guild_craft_product item_id="184002039" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="100000"/>
+       <guild_craft_essence_piece quantity="5"/>
+   </guild_craft_template>
+   <guild_craft_template id="15" name="guild_craft_kist_dark_03" active="1" race="ASMODIANS" type="COMMON" craft_time="10" >
+       <guild_craft_product item_id="184002041" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="100000"/>
+       <guild_craft_essence_piece quantity="5"/>
+   </guild_craft_template>
+   <guild_craft_template id="16" name="guild_craft_kist_dark_04" active="1" race="ASMODIANS" type="COMMON" craft_time="10" >
+       <guild_craft_product item_id="184002043" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="100000"/>
+       <guild_craft_essence_piece quantity="5"/>
+   </guild_craft_template>
+   <guild_craft_template id="17" name="guild_craft_kist_dark_05" active="1" race="ASMODIANS" type="COMMON" craft_time="10" >
+       <guild_craft_product item_id="184002047" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="100000"/>
+       <guild_craft_essence_piece quantity="5"/>
+   </guild_craft_template>
+   <guild_craft_template id="18" name="guild_craft_kist_dark_06" active="1" race="ASMODIANS" type="COMMON" craft_time="10" >
+       <guild_craft_product item_id="184002049" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="100000"/>
+       <guild_craft_essence_piece quantity="5"/>
+   </guild_craft_template>
+   <guild_craft_template id="19" name="guild_craft_kist_dark_07" active="1" race="ASMODIANS" type="COMMON" craft_time="10" >
+       <guild_craft_product item_id="184002053" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="100000"/>
+       <guild_craft_essence_piece quantity="5"/>
+   </guild_craft_template>
+   <guild_craft_template id="100" name="guild_craft_artifact_g1_light" active="1" race="ELYOS" type="COMMON" craft_time="1" >
+       <guild_craft_product item_id="188020000" quantity="1"/>
+       <guild_craft_component item_id="152020118" quantity="3"/>
+       <guild_craft_component item_id="152020117" quantity="5"/>
+       <guild_craft_component item_id="169400075" quantity="11"/>
+       <guild_craft_component item_id="152000902" quantity="16"/>
+   </guild_craft_template>
+   <guild_craft_template id="101" name="guild_craft_artifact_g2_light" active="1" race="ELYOS" type="COMMON" craft_time="1" >
+       <guild_craft_product item_id="188020001" quantity="1"/>
+       <guild_craft_component item_id="152020122" quantity="8"/>
+       <guild_craft_component item_id="152020121" quantity="13"/>
+       <guild_craft_component item_id="169400076" quantity="17"/>
+       <guild_craft_component item_id="152000904" quantity="19"/>
+   </guild_craft_template>
+   <guild_craft_template id="102" name="guild_craft_artifact_g1_dark" active="1" race="ASMODIANS" type="COMMON" craft_time="1" >
+       <guild_craft_product item_id="188020000" quantity="1"/>
+       <guild_craft_component item_id="152025118" quantity="3"/>
+       <guild_craft_component item_id="152025117" quantity="5"/>
+       <guild_craft_component item_id="169400075" quantity="11"/>
+       <guild_craft_component item_id="152000902" quantity="16"/>
+   </guild_craft_template>
+   <guild_craft_template id="103" name="guild_craft_artifact_g2_dark" active="1" race="ASMODIANS" type="COMMON" craft_time="1" >
+       <guild_craft_product item_id="188020001" quantity="1"/>
+       <guild_craft_component item_id="152025122" quantity="8"/>
+       <guild_craft_component item_id="152025121" quantity="13"/>
+       <guild_craft_component item_id="169400076" quantity="17"/>
+       <guild_craft_component item_id="152000904" quantity="19"/>
+   </guild_craft_template>
+   <guild_craft_template id="200" name="guild_craft_siege02_light" active="1" race="ELYOS" type="COMMON" craft_time="1" >
+       <guild_craft_product item_id="188000008" quantity="1"/>
+       <guild_craft_component item_id="152020242" quantity="1"/>
+       <guild_craft_component item_id="152020243" quantity="1"/>
+       <guild_craft_component item_id="152020244" quantity="1"/>
+       <guild_craft_component item_id="152020246" quantity="1"/>
+       <guild_craft_component item_id="152020245" quantity="1"/>
+       <guild_craft_component item_id="152020247" quantity="2"/>
+   </guild_craft_template>
+   <guild_craft_template id="201" name="guild_craft_siege02_dark" active="1" race="ASMODIANS" type="COMMON" craft_time="1" >
+       <guild_craft_product item_id="188000009" quantity="1"/>
+       <guild_craft_component item_id="152029243" quantity="1"/>
+       <guild_craft_component item_id="152029244" quantity="1"/>
+       <guild_craft_component item_id="152029245" quantity="1"/>
+       <guild_craft_component item_id="152029247" quantity="1"/>
+       <guild_craft_component item_id="152029246" quantity="1"/>
+       <guild_craft_component item_id="152029248" quantity="2"/>
+   </guild_craft_template>
+   <guild_craft_template id="300" name="guild_craft_play_01" active="1" race="PC_ALL" type="COMMON" craft_time="1" >
+       <guild_craft_product item_id="188053047" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="10000"/>
+   </guild_craft_template>
+   <guild_craft_template id="301" name="guild_craft_play_02" active="1" race="PC_ALL" type="COMMON" craft_time="1" >
+       <guild_craft_product item_id="169600184" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="100000"/>
+       <guild_craft_component item_id="186000184" quantity="5"/>
+   </guild_craft_template>
+   <guild_craft_template id="302" name="guild_craft_play_03" active="1" race="PC_ALL" type="COMMON" craft_time="1" >
+       <guild_craft_product item_id="169600185" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="100000"/>
+       <guild_craft_component item_id="186000184" quantity="5"/>
+   </guild_craft_template>
+   <guild_craft_template id="303" name="guild_craft_play_04" active="1" race="PC_ALL" type="COMMON" craft_time="1" >
+       <guild_craft_product item_id="169600186" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="100000"/>
+       <guild_craft_component item_id="186000184" quantity="5"/>
+   </guild_craft_template>
+   <guild_craft_template id="304" name="guild_craft_play_05" active="1" race="PC_ALL" type="COMMON" craft_time="1" >
+       <guild_craft_product item_id="169600187" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="100000"/>
+       <guild_craft_component item_id="186000184" quantity="5"/>
+   </guild_craft_template>
+   <guild_craft_template id="305" name="guild_craft_play_06" active="1" race="PC_ALL" type="COMMON" craft_time="1" >
+       <guild_craft_product item_id="169600188" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="100000"/>
+       <guild_craft_component item_id="186000184" quantity="5"/>
+   </guild_craft_template>
+   <guild_craft_template id="306" name="guild_craft_play_07" active="1" race="PC_ALL" type="COMMON" craft_time="1" >
+       <guild_craft_product item_id="169600189" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="100000"/>
+       <guild_craft_component item_id="186000184" quantity="5"/>
+   </guild_craft_template>
+   <guild_craft_template id="307" name="guild_craft_play_08" active="1" race="PC_ALL" type="COMMON" craft_time="1" >
+       <guild_craft_product item_id="169600190" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="100000"/>
+       <guild_craft_component item_id="186000184" quantity="5"/>
+   </guild_craft_template>
+   <guild_craft_template id="308" name="guild_craft_play_09" active="1" race="PC_ALL" type="COMMON" craft_time="1" >
+       <guild_craft_product item_id="169600191" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="100000"/>
+       <guild_craft_component item_id="186000184" quantity="5"/>
+   </guild_craft_template>
+   <guild_craft_template id="400" name="guild_craft_dress_head_01" active="1" race="PC_ALL" type="COMMON" craft_time="60" >
+       <guild_craft_product item_id="125030009" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="2000000"/>
+       <guild_craft_essence_piece quantity="3"/>
+   </guild_craft_template>
+   <guild_craft_template id="401" name="guild_craft_dress_head_02" active="1" race="PC_ALL" type="COMMON" craft_time="60" >
+       <guild_craft_product item_id="125030010" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="2000000"/>
+       <guild_craft_essence_piece quantity="3"/>
+   </guild_craft_template>
+   <guild_craft_template id="402" name="guild_craft_dress_head_03" active="1" race="PC_ALL" type="COMMON" craft_time="60" >
+       <guild_craft_product item_id="125030011" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="2000000"/>
+       <guild_craft_essence_piece quantity="3"/>
+   </guild_craft_template>
+   <guild_craft_template id="403" name="guild_craft_dress_head_04" active="1" race="PC_ALL" type="COMMON" craft_time="60" >
+       <guild_craft_product item_id="125030012" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="2000000"/>
+       <guild_craft_essence_piece quantity="3"/>
+   </guild_craft_template>
+   <guild_craft_template id="404" name="guild_craft_dress_head_05" active="1" race="PC_ALL" type="COMMON" craft_time="60" >
+       <guild_craft_product item_id="125030013" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="2000000"/>
+       <guild_craft_essence_piece quantity="3"/>
+   </guild_craft_template>
+   <guild_craft_template id="405" name="guild_craft_dress_head_06" active="1" race="PC_ALL" type="COMMON" craft_time="60" >
+       <guild_craft_product item_id="125030014" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="2000000"/>
+       <guild_craft_essence_piece quantity="3"/>
+   </guild_craft_template>
+   <guild_craft_template id="406" name="guild_craft_dress_head_07_light" active="1" race="ELYOS" type="COMMON" craft_time="60" >
+       <guild_craft_product item_id="125030015" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="2000000"/>
+       <guild_craft_essence_piece quantity="5"/>
+   </guild_craft_template>
+   <guild_craft_template id="407" name="guild_craft_dress_head_07_dark" active="1" race="ASMODIANS" type="COMMON" craft_time="60" >
+       <guild_craft_product item_id="125030016" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="2000000"/>
+       <guild_craft_essence_piece quantity="5"/>
+   </guild_craft_template>
+   <guild_craft_template id="408" name="guild_craft_dress_body_01" active="1" race="PC_ALL" type="COMMON" craft_time="60" >
+       <guild_craft_product item_id="110101405" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="10000000"/>
+       <guild_craft_essence_piece quantity="5"/>
+   </guild_craft_template>
+   <guild_craft_template id="409" name="guild_craft_dress_body_02" active="1" race="PC_ALL" type="COMMON" craft_time="60" >
+       <guild_craft_product item_id="110101406" quantity="1"/>
+       <guild_craft_component item_id="182400001" quantity="10000000"/>
+       <guild_craft_essence_piece quantity="5"/>
+   </guild_craft_template>
+</guild_craft_templates>

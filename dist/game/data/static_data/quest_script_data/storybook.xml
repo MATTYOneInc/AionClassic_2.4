@@ -1,0 +1,68 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+<!--
+    Quest StoryBook
+	Make By Encom
+ -->
+	<!-- [고대 미술품] 미확인 하급 티아마트 명화 조각 감정 -->
+	<item_collecting id="60048" start_npc_ids="800679" end_npc_ids="800679" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [고대 미술품] 미확인 하급 브로훔 명화 조각 감정 -->
+	<item_collecting id="60049" start_npc_ids="800774" end_npc_ids="800774" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [고대 미술품] 미확인 하급 드라마타 명화 조각 감정 -->
+	<item_collecting id="60050" start_npc_ids="800775" end_npc_ids="800775" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [고대 미술품] 미확인 중급 티아마트 명화 조각 감정 -->
+	<item_collecting id="60051" start_npc_ids="800679" end_npc_ids="800679" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [고대 미술품] 미확인 상급 티아마트 명화 조각 감정 -->
+	<item_collecting id="60052" start_npc_ids="800679" end_npc_ids="800679" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [고대 미술품] 미확인 최상급 티아마트 명화 조각 감정 -->
+	<item_collecting id="60053" start_npc_ids="800679" end_npc_ids="800679" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [고대 미술품] 미확인 고급 티아마트 명화 조각 감정 -->
+	<item_collecting id="60054" start_npc_ids="800679" end_npc_ids="800679" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [고대 미술품] 미확인 중급 브로훔 명화 조각 감정 -->
+	<item_collecting id="60055" start_npc_ids="800774" end_npc_ids="800774" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [고대 미술품] 미확인 상급 브로훔 명화 조각 감정 -->
+	<item_collecting id="60056" start_npc_ids="800774" end_npc_ids="800774" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [고대 미술품] 미확인 최상급 브로훔 명화 조각 감정 -->
+	<item_collecting id="60057" start_npc_ids="800774" end_npc_ids="800774" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [고대 미술품] 미확인 고급 브로훔 명화 조각 감정 -->
+	<item_collecting id="60058" start_npc_ids="800774" end_npc_ids="800774" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [고대 미술품] 미확인 중급 드라마타 명화 조각 감정 -->
+	<item_collecting id="60059" start_npc_ids="800775" end_npc_ids="800775" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [고대 미술품] 미확인 상급 드라마타 명화 조각 감정 -->
+	<item_collecting id="60060" start_npc_ids="800775" end_npc_ids="800775" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [고대 미술품] 미확인 최상급 드라마타 명화 조각 감정 -->
+	<item_collecting id="60061" start_npc_ids="800775" end_npc_ids="800775" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [고대 미술품] 미확인 고급 드라마타 명화 조각 감정 -->
+	<item_collecting id="60062" start_npc_ids="800775" end_npc_ids="800775" start_dialog_id="1011" start_dialog_id2="2375"/>
+	
+	<!-- [고대 미술품] 미확인 하급 티아마트 명화 조각 감정 -->
+	<item_collecting id="70048" start_npc_ids="800680" end_npc_ids="800680" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [고대 미술품] 미확인 하급 브로훔 명화 조각 감정 -->
+	<item_collecting id="70049" start_npc_ids="800776" end_npc_ids="800776" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [고대 미술품] 미확인 하급 드라마타 명화 조각 감정 -->
+	<item_collecting id="70050" start_npc_ids="800777" end_npc_ids="800777" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [고대 미술품] 미확인 중급 티아마트 명화 조각 감정 -->
+	<item_collecting id="70051" start_npc_ids="800680" end_npc_ids="800680" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [고대 미술품] 미확인 상급 티아마트 명화 조각 감정 -->
+	<item_collecting id="70052" start_npc_ids="800680" end_npc_ids="800680" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [고대 미술품] 미확인 최상급 티아마트 명화 조각 감정 -->
+	<item_collecting id="70053" start_npc_ids="800680" end_npc_ids="800680" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [고대 미술품] 미확인 고급 티아마트 명화 조각 감정 -->
+	<item_collecting id="70054" start_npc_ids="800680" end_npc_ids="800680" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [고대 미술품] 미확인 중급 브로훔 명화 조각 감정 -->
+	<item_collecting id="70055" start_npc_ids="800776" end_npc_ids="800776" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [고대 미술품] 미확인 상급 브로훔 명화 조각 감정 -->
+	<item_collecting id="70056" start_npc_ids="800776" end_npc_ids="800776" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [고대 미술품] 미확인 최상급 브로훔 명화 조각 감정 -->
+	<item_collecting id="70057" start_npc_ids="800776" end_npc_ids="800776" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [고대 미술품] 미확인 고급 브로훔 명화 조각 감정 -->
+	<item_collecting id="70058" start_npc_ids="800776" end_npc_ids="800776" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [고대 미술품] 미확인 중급 드라마타 명화 조각 감정 -->
+	<item_collecting id="70059" start_npc_ids="800777" end_npc_ids="800777" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [고대 미술품] 미확인 상급 드라마타 명화 조각 감정 -->
+	<item_collecting id="70060" start_npc_ids="800777" end_npc_ids="800777" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [고대 미술품] 미확인 최상급 드라마타 명화 조각 감정 -->
+	<item_collecting id="70061" start_npc_ids="800777" end_npc_ids="800777" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [고대 미술품] 미확인 고급 드라마타 명화 조각 감정 -->
+	<item_collecting id="70062" start_npc_ids="800777" end_npc_ids="800777" start_dialog_id="1011" start_dialog_id2="2375"/>
+</quest_scripts>

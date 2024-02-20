@@ -1,0 +1,65 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+	Assembly Items
+	Develop: ADev.Team
+ -->
+<assembly_items xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="assembly_items.xsd">
+    <!-- 7 -->
+	<item id="182006784" parts="188100015 188100024 188100025 188100026 188100027" parts_num="1"/>
+	<!-- 8 -->
+	<item id="186000096" parts="188100028" parts_num="10"/>
+	<!-- 9 -->
+	<item id="169630002" parts="188100029" parts_num="10"/>
+	<!-- 10 -->
+	<item id="190020133" parts="188100030" parts_num="10"/>
+	<!-- 11 -->
+	<item id="169640001" parts="188100031" parts_num="10"/>
+	<!-- 12 -->
+	<item id="188052885" parts="188100032" parts_num="30"/>
+	<!-- 13 -->
+	<item id="188052886" parts="188100033" parts_num="60"/>
+	<!-- 14 -->
+	<item id="188052887" parts="188100034" parts_num="30"/>
+	<!-- 15 -->
+	<item id="188052981" parts="188100035" parts_num="5"/>
+	<!-- 16 -->
+	<item id="189700048" parts="188100036" parts_num="10" proc_assembly="189700150"/>
+	<!-- 17 -->
+	<item id="189700049" parts="188100037" parts_num="10" proc_assembly="189700154"/>
+	<!-- 18 -->
+	<item id="189700050" parts="188100038" parts_num="10" proc_assembly="189700158"/>
+	<!-- 19 -->
+	<item id="188100049" parts="188100039 188100040 188100041 188100042 188100043" parts_num="1"/>
+	<!-- 20 -->
+	<item id="188100050" parts="188100044 188100045 188100046 188100047 188100048" parts_num="1"/>
+	<!-- 21 -->
+	<item id="189710000" parts="188100049" parts_num="1" parts2="188100051" parts_num2="5"/>
+	<!-- 22 -->
+	<item id="189710001" parts="188100050" parts_num="1" parts2="188100052" parts_num2="5"/>
+	<!-- 23 -->
+	<item id="189700147" parts="188100053" parts_num="10" proc_assembly="189700150"/>
+	<!-- 24 -->
+	<item id="189700148" parts="188100054" parts_num="5" proc_assembly="189700150"/>
+	<!-- 25 -->
+	<item id="189700149" parts="188100055" parts_num="3" proc_assembly="189700150"/>
+	<!-- 26 -->
+	<item id="189700150" parts="188100056" parts_num="3" proc_assembly="188053063"/>
+	<!-- 27 -->
+	<item id="189700151" parts="188100057" parts_num="10" proc_assembly="189700154"/>
+	<!-- 28 -->
+	<item id="189700152" parts="188100058" parts_num="5" proc_assembly="189700154"/>
+	<!-- 29 -->
+	<item id="189700153" parts="188100059" parts_num="3" proc_assembly="189700154"/>
+	<!-- 30 -->
+	<item id="189700154" parts="188100060" parts_num="3" proc_assembly="188053063"/>
+	<!-- 31 -->
+	<item id="189700155" parts="188100061" parts_num="10" proc_assembly="189700158"/>
+	<!-- 32 -->
+	<item id="189700156" parts="188100062" parts_num="5" proc_assembly="189700158"/>
+	<!-- 33 -->
+	<item id="189700157" parts="188100063" parts_num="3" proc_assembly="189700158"/>
+	<!-- 34 -->
+	<item id="189700158" parts="188100064" parts_num="3" proc_assembly="188053063"/>
+	<!-- 35 -->
+	<item id="188600050" parts="188100065 188100066 188100067 188100068" parts_num="1"/>
+</assembly_items>

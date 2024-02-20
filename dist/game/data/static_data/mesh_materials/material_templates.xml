@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+	Mesh Material Template
+	Develop: ADev.Team
+ -->
+<material_templates>
+	<material id="12">
+		<skill id="8269" level="1" target="PLAYER" frequency="3.0"/>
+	</material>
+	<material id="13">
+		<skill id="8341" level="1" target="PLAYER" frequency="3.0"/>
+	</material>
+	<material id="14">
+		<skill id="12029" level="1" target="PLAYER" frequency="1.0"/>
+	</material>
+	<material id="15">
+		<skill id="12039" level="1" target="PLAYER" frequency="1.0"/>
+	</material>
+	<material id="16">
+		<skill id="12054" level="1" target="PLAYER" frequency="1.0"/>
+	</material>
+	<material id="60">
+		<skill id="8302" level="1" target="PLAYER" frequency="5.0"/>
+	</material>
+	<material id="61">
+		<skill id="8302" level="1" target="PLAYER" frequency="5.0" time="DAY"/>
+	</material>
+	<material id="62">
+		<skill id="8302" level="1" target="PLAYER" frequency="5.0" time="DAY"/>
+	</material>
+	<material id="63">
+		<skill id="8302" level="1" target="PLAYER" frequency="5.0" time="NIGHT"/>
+	</material>
+	<material id="91">
+		<skill id="1855" level="1" target="PLAYER" frequency="6.0"/>
+	</material>
+	<material id="92">
+		<skill id="1858" level="1" target="PLAYER" frequency="1.0"/>
+	</material>
+	<material id="93">
+		<skill id="1859" level="1" target="PLAYER" frequency="1.0"/>
+	</material>
+	<material id="97">
+		<skill id="8589" level="1" target="PLAYER" frequency="3.0"/>
+	</material>
+	<material id="99">
+		<skill id="1936" level="1" target="PLAYER" frequency="12.0"/>
+        <skill id="1935" level="1" target="NPC" frequency="12.0"/>
+	</material>
+	<material id="100">
+		<skill id="1936" level="1" target="NPC" frequency="12.0"/>
+        <skill id="1934" level="1" target="PLAYER" frequency="12.0"/>
+	</material>
+	<material id="101">
+		<skill id="1936" level="1" target="PLAYER_WITH_PET" frequency="12.0"/>
+        <skill id="1934" level="1" target="NPC" frequency="12.0"/>
+	</material>
+	<material id="103">
+		<skill id="8647" level="1" target="PLAYER_WITH_PET" frequency="3.0"/>
+	</material>
+	<material id="107">
+		<skill id="8682" level="1" target="PLAYER" frequency="3.0"/>
+	</material>
+	<material id="108">
+		<skill id="8683" level="1" target="NPC" frequency="3.0"/>
+	</material>
+	<material id="111">
+		<skill id="8722" level="1" target="PLAYER_WITH_PET" frequency="5.0"/>
+	</material>
+	<material id="113">
+		<skill id="8750" level="1" target="PLAYER" frequency="3.0"/>
+	</material>
+	<material id="118">
+		<skill id="8758" level="1" target="PLAYER" frequency="1.0"/>
+	</material>
+</material_templates>

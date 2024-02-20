@@ -1,0 +1,15 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+<!--
+    Quest Padmarashka Cave
+	Make By Encom
+ -->
+	<!-- [Union] Dramata Hunt -->
+	<monster_hunt id="11292" start_npc_ids="799092">
+		<monster var="0" npc_ids="218756" end_var="1"/>
+	</monster_hunt>
+    <!-- [Union] Dramata Hunting -->
+	<monster_hunt id="21294" start_npc_ids="799444">
+		<monster var="0" npc_ids="218756" end_var="1"/>
+	</monster_hunt>
+</quest_scripts>

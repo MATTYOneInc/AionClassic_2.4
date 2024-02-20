@@ -1,0 +1,539 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+<!--
+    Quest Beluslan
+	Make By Encom
+ -->
+	<report_to id="2507" start_npc_ids="204702" end_npc_ids="204801" item_id="182204406"/>
+	<report_to id="2508" start_npc_ids="204734" end_npc_ids="204802"/>
+	<report_to id="2526" start_npc_ids="204804" end_npc_ids="204811"/>
+	<report_to id="2532" start_npc_ids="204102" end_npc_ids="204801" item_id="182204424"/>
+	<report_to id="2534" start_npc_ids="204801" end_npc_ids="204768" item_id="182204427"/>
+	<report_to id="2546" start_npc_ids="204734" end_npc_ids="798131" item_id="182204432"/>
+	<report_to id="2556" start_npc_ids="798118" end_npc_ids="204809"/>
+	<report_to id="2568" start_npc_ids="204755" end_npc_ids="204763" item_id="182204446"/>
+	<report_to id="2571" start_npc_ids="204768" end_npc_ids="204776" item_id="182204448"/>
+	<report_to id="2580" start_npc_ids="204748" end_npc_ids="204771"/>
+	<report_to id="2605" start_npc_ids="204732" end_npc_ids="204826"/>
+	<report_to id="2606" start_npc_ids="204732" end_npc_ids="204827"/>
+	<report_to id="2607" start_npc_ids="204732" end_npc_ids="790022"/>
+	<report_to id="2613" start_npc_ids="204790" end_npc_ids="204787" item_id="182204465"/>
+	<report_to id="2619" start_npc_ids="204700" end_npc_ids="204817" item_id="182204502"/>
+	<report_to id="2621" start_npc_ids="204763" end_npc_ids="204059" item_id="182204468"/>
+	<report_to id="2624" start_npc_ids="204751" end_npc_ids="204791" item_id="182204471"/>
+	<report_to id="2647" start_npc_ids="204775" end_npc_ids="204785"/>
+	<report_to id="2654" start_npc_ids="204775" end_npc_ids="204655"/>
+	<report_to id="2656" start_npc_ids="204655" end_npc_ids="204775" item_id="182204506"/>
+	<report_to id="2667" start_npc_ids="204814" end_npc_ids="204749" item_id="182204499"/>
+	<report_to id="2690" start_npc_ids="204763" end_npc_ids="204777"/>
+	<report_to id="2695" start_npc_ids="204777" end_npc_ids="204208"/>
+	<report_to id="2697" start_npc_ids="204777" end_npc_ids="204814"/>
+	<report_to id="4521" start_npc_ids="204725" end_npc_ids="205143" item_id="182204554"/>
+	<report_to id="4538" start_npc_ids="204701" end_npc_ids="204768" item_id="182204558"/>
+	
+	<item_collecting id="2502" start_npc_ids="204701"/>
+	<item_collecting id="2503" start_npc_ids="204733" action_item_ids="700327"/>
+	<item_collecting id="2504" start_npc_ids="204720"/>
+	<item_collecting id="2511" start_npc_ids="204711"/>
+	<item_collecting id="2519" start_npc_ids="204778"/>
+	<item_collecting id="2520" start_npc_ids="204778"/>
+	<item_collecting id="2525" start_npc_ids="204803"/>
+	<!-- The Starving Sprigg -->
+	<item_collecting id="2527" start_npc_ids="204811" action_item_ids="700328"/>
+	<item_collecting id="2529" start_npc_ids="204802"/>
+	<item_collecting id="2531" start_npc_ids="204102"/>
+	<item_collecting id="2540" start_npc_ids="204811"/>
+	<item_collecting id="2541" start_npc_ids="798118"/>
+	<item_collecting id="2542" start_npc_ids="798117" action_item_ids="700347"/>
+	<item_collecting id="2543" start_npc_ids="798117"/>
+	<item_collecting id="2545" start_npc_ids="798131" end_npc_ids="204734"/>
+	<item_collecting id="2547" start_npc_ids="798083"/>
+	<item_collecting id="2548" start_npc_ids="798083" end_npc_ids="798119"/>
+	<item_collecting id="2554" start_npc_ids="798119" action_item_ids="700330"/>
+	<item_collecting id="2557" start_npc_ids="798117"/>
+	<item_collecting id="2558" start_npc_ids="204809"/>
+	<item_collecting id="2559" start_npc_ids="204809"/>
+	<item_collecting id="2562" start_npc_ids="204786"/>
+	<item_collecting id="2563" start_npc_ids="204753"/>
+	<item_collecting id="2565" start_npc_ids="798094"/>
+	<item_collecting id="2570" start_npc_ids="798119"/>
+	<item_collecting id="2572" start_npc_ids="204746"/>
+	<item_collecting id="2574" start_npc_ids="204768" end_npc_ids="204825"/>
+	<item_collecting id="2579" start_npc_ids="790017"/>
+	<item_collecting id="2581" start_npc_ids="204771"/>
+	<item_collecting id="2585" start_npc_ids="204739" action_item_ids="700331"/>
+	<item_collecting id="2586" start_npc_ids="204743"/>
+	<item_collecting id="2588" start_npc_ids="204741"/>
+	<item_collecting id="2595" start_npc_ids="798090"/>
+	<item_collecting id="2596" start_npc_ids="204735"/>
+	<item_collecting id="2597" start_npc_ids="204735"/>
+	<item_collecting id="2599" start_npc_ids="204725"/>
+	<item_collecting id="2602" start_npc_ids="204808"/>
+	<item_collecting id="2612" start_npc_ids="204790"/>
+	<item_collecting id="2614" start_npc_ids="204784"/>
+	<item_collecting id="2617" start_npc_ids="204750" action_item_ids="700334"/>
+	<item_collecting id="2623" start_npc_ids="204751" end_npc_ids="204751"/>
+	<item_collecting id="2625" start_npc_ids="204792"/>
+	<item_collecting id="2626" start_npc_ids="204752"/>
+	<item_collecting id="2627" start_npc_ids="204790" end_npc_ids="204748" action_item_ids="700335"/>
+	<item_collecting id="2631" start_npc_ids="204784"/>
+	<item_collecting id="2640" start_npc_ids="204792"/>
+	<item_collecting id="2642" start_npc_ids="204796"/>
+	<item_collecting id="2643" start_npc_ids="204795"/>
+	<item_collecting id="2645" start_npc_ids="204795" action_item_ids="700336"/>
+	<item_collecting id="2649" start_npc_ids="204796"/>
+	<item_collecting id="2652" start_npc_ids="204650"/>
+	<item_collecting id="2657" start_npc_ids="204817"/>
+	<item_collecting id="2658" start_npc_ids="204785"/>
+	<item_collecting id="2660" start_npc_ids="204651"/>
+	<item_collecting id="2673" start_npc_ids="204785"/>
+	<item_collecting id="2675" start_npc_ids="204785"/>
+	<item_collecting id="2678" start_npc_ids="204817"/>
+	<item_collecting id="2679" start_npc_ids="204817"/>
+	<item_collecting id="2680" start_npc_ids="204720"/>
+	<item_collecting id="2681" start_npc_ids="204804"/>
+	<item_collecting id="2682" start_npc_ids="798117"/>
+	<item_collecting id="2683" start_npc_ids="204745"/>
+	<item_collecting id="2684" start_npc_ids="204786"/>
+	<item_collecting id="2685" start_npc_ids="204788"/>
+	<item_collecting id="2686" start_npc_ids="204751"/>
+	<item_collecting id="2687" start_npc_ids="790017"/>
+	<item_collecting id="2688" start_npc_ids="204798"/>
+	<item_collecting id="2689" start_npc_ids="204795"/>
+	<item_collecting id="2691" start_npc_ids="204777" end_npc_ids="204225" action_item_ids="700356 700357 700358"/>
+	<item_collecting id="2694" start_npc_ids="204803" end_npc_ids="204702"/>
+	<item_collecting id="2698" start_npc_ids="204814" action_item_ids="700362"/>
+	<item_collecting id="2699" start_npc_ids="204774"/>
+	<item_collecting id="4500" start_npc_ids="204652"/>
+	<item_collecting id="4504" start_npc_ids="204739" action_item_ids="700331"/>
+	<item_collecting id="4505" start_npc_ids="204808" action_item_ids="700332"/>
+	<item_collecting id="4507" start_npc_ids="204792"/>
+	<item_collecting id="4508" start_npc_ids="204752"/>
+	<item_collecting id="4509" start_npc_ids="204796"/>
+	<item_collecting id="4511" start_npc_ids="798118"/>
+	<item_collecting id="4513" start_npc_ids="798119"/>
+	<item_collecting id="4514" start_npc_ids="204725"/>
+	<item_collecting id="4515" start_npc_ids="204802"/>
+	<item_collecting id="4518" start_npc_ids="204798"/>
+	<item_collecting id="4519" start_npc_ids="204790"/>
+	<item_collecting id="4522" start_npc_ids="204777"/>
+	<item_collecting id="4530" start_npc_ids="798118"/>
+	<item_collecting id="4535" start_npc_ids="204803"/>
+	
+	<!-- A Ring For Luck -->
+	<item_order id="2578" start_item_id="182204453" talk_npc_id1="204741" talk_npc_id2="790017" end_npc_id="204746"/>
+	<!-- The Ancient Book -->
+	<item_order id="2670" start_item_id="182204501" talk_npc_id1="204702" end_npc_id="204208"/>
+	
+	<!-- Falling Fragments -->
+	<report_to_many id="2501" start_npc_ids="204701" end_npc_ids="204701" start_dialog_id="1011">
+        <npc_infos npc_id="204713" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="204719" var="1" quest_dialog="1693"/>
+		<npc_infos npc_id="204733" var="2" quest_dialog="2034"/>
+        <npc_infos npc_id="204701" var="3" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Let Cooking Experts Cook -->
+	<report_to_many id="2505" start_npc_ids="204720" end_npc_ids="204720" start_dialog_id="1011">
+        <npc_infos npc_id="204731" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="204720" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Food For Remote Places -->
+	<report_to_many id="2512" start_npc_ids="204703" end_npc_ids="204753" start_dialog_id="1011">
+        <npc_infos npc_id="204801" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="204753" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- The Red Mane Report -->
+	<report_to_many id="2514" start_npc_ids="204702" end_npc_ids="204702" start_dialog_id="1011">
+        <npc_infos npc_id="204700" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="204763" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="204702" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Leanor Errand -->
+	<report_to_many id="2515" start_npc_ids="790015" end_npc_ids="790015" start_dialog_id="1011">
+        <npc_infos npc_id="204192" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="204205" var="1" quest_dialog="1693"/>
+		<npc_infos npc_id="798081" var="2" quest_dialog="2034"/>
+        <npc_infos npc_id="790015" var="3" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Grass For The Grave Robbers -->
+	<report_to_many id="2523" start_npc_ids="204802" end_npc_ids="204734" start_dialog_id="1011">
+        <npc_infos npc_id="798117" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="798118" var="1" quest_dialog="1693"/>
+		<npc_infos npc_id="798119" var="2" quest_dialog="2034"/>
+        <npc_infos npc_id="204734" var="3" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Tryst Of The Shadow -->
+	<report_to_many id="2539" start_npc_ids="790022" end_npc_ids="790022" start_dialog_id="1011">
+        <npc_infos npc_id="204433" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="204112" var="1" quest_dialog="1693"/>
+		<npc_infos npc_id="204056" var="2" quest_dialog="2034"/>
+        <npc_infos npc_id="790022" var="3" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- The Brigade General Call -->
+	<report_to_many id="2553" start_npc_ids="798119" end_npc_ids="798119" start_dialog_id="1011">
+        <npc_infos npc_id="204702" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="798119" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- With The Power Of Flame -->
+	<report_to_many id="2564" start_npc_ids="204753" end_npc_ids="204753" start_dialog_id="4762">
+        <npc_infos npc_id="204821" var="0" quest_dialog="1011"/>
+		<npc_infos npc_id="204822" var="1" quest_dialog="1352"/>
+		<npc_infos npc_id="204823" var="2" quest_dialog="1693"/>
+        <npc_infos npc_id="204753" var="3" quest_dialog="10002" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Tafi Flame Scroll -->
+	<report_to_many id="2569" start_npc_ids="204754" end_npc_ids="204768" start_dialog_id="1011">
+        <npc_infos npc_id="204701" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="204768" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- A Polite Request -->
+	<report_to_many id="2583" start_npc_ids="204715" end_npc_ids="204715" start_dialog_id="1011">
+        <npc_infos npc_id="204805" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="204361" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="204715" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Consulting The Leaders -->
+	<report_to_many id="2611" start_npc_ids="204763" end_npc_ids="204763" start_dialog_id="1011">
+        <npc_infos npc_id="204783" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="204784" var="1" quest_dialog="1693"/>
+		<npc_infos npc_id="204700" var="2" quest_dialog="2034"/>
+        <npc_infos npc_id="204763" var="3" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- The Dutiful Spy -->
+	<report_to_many id="2630" start_npc_ids="204799" end_npc_ids="204799" start_dialog_id="1011">
+        <npc_infos npc_id="204777" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="204799" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- The Draupnir Redemption -->
+	<report_to_many id="2634" start_npc_ids="204828" end_npc_ids="204828" start_dialog_id="4762">
+        <npc_infos npc_id="700350" var="0" quest_dialog="1011"/>
+        <npc_infos npc_id="204828" var="1" quest_dialog="10002" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Powwow With The Mau -->
+	<report_to_many id="2641" start_npc_ids="204817" end_npc_ids="204700" start_dialog_id="1011">
+        <npc_infos npc_id="204795" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="204798" var="1" quest_dialog="1693"/>
+		<npc_infos npc_id="204796" var="2" quest_dialog="2034"/>
+        <npc_infos npc_id="204700" var="3" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- The Inscrutable Stranger -->
+	<report_to_many id="2646" start_npc_ids="204817" end_npc_ids="204817" start_dialog_id="1011">
+        <npc_infos npc_id="204777" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="204700" var="1" quest_dialog="1693"/>
+		<npc_infos npc_id="204702" var="2" quest_dialog="2034"/>
+        <npc_infos npc_id="204817" var="3" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- A Friend Whereabouts -->
+	<report_to_many id="2651" start_npc_ids="204775" end_npc_ids="204650" start_dialog_id="1011">
+        <npc_infos npc_id="204764" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="204650" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Finding Bollvig -->
+	<report_to_many id="2653" start_npc_ids="204650" end_npc_ids="204775" start_dialog_id="1011">
+        <npc_infos npc_id="204655" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="204775" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Acquiring An Antidote -->
+	<report_to_many id="2663" start_npc_ids="204777" end_npc_ids="204777" start_dialog_id="1011">
+        <npc_infos npc_id="204790" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="204777" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Broken Music Box -->
+	<report_to_many id="2692" start_npc_ids="212164" end_npc_ids="212164" start_dialog_id="1011">
+        <npc_infos npc_id="204108" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="279027" var="1" quest_dialog="1693"/>
+		<npc_infos npc_id="279029" var="2" quest_dialog="2034"/>
+        <npc_infos npc_id="212164" var="3" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Krall Gone Mad -->
+	<report_to_many id="2693" start_npc_ids="204763" end_npc_ids="204803" start_dialog_id="1011">
+        <npc_infos npc_id="204702" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="204803" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Delayed Order -->
+	<report_to_many id="4501" start_npc_ids="204728" end_npc_ids="204728" start_dialog_id="1011">
+        <npc_infos npc_id="204340" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="204348" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="204728" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	
+	<monster_hunt id="2506" start_npc_ids="204702">
+		<monster var="0" end_var="10" npc_ids="213017 213018"/>
+	</monster_hunt>
+	<monster_hunt id="2509" start_npc_ids="204703" end_npc_ids="204801">
+		<monster var="0" end_var="15" npc_ids="213020 213021 213053"/>
+	</monster_hunt>
+	<monster_hunt id="2516" start_npc_ids="204781">
+		<monster var="0" end_var="24" npc_ids="213007 213008"/>
+		<monster var="1" end_var="17" npc_ids="213013 213014 213233"/>
+	</monster_hunt>
+	<monster_hunt id="2521" start_npc_ids="204801">
+		<monster var="0" end_var="15" npc_ids="213015 213016"/>
+	</monster_hunt>
+	<monster_hunt id="2522" start_npc_ids="204801">
+		<monster var="0" end_var="15" npc_ids="213054 213064 213065"/>
+		<monster var="1" end_var="3" npc_ids="213246"/>
+	</monster_hunt>
+	<monster_hunt id="2524" start_npc_ids="204803">
+		<monster var="0" end_var="15" npc_ids="213022 213023"/>
+		<monster var="1" end_var="3" npc_ids="213024"/>
+	</monster_hunt>
+	<monster_hunt id="2528" start_npc_ids="204804">
+		<monster var="0" end_var="15" npc_ids="213027 213028"/>
+		<monster var="1" end_var="11" npc_ids="213035 213036"/>
+	</monster_hunt>
+	<monster_hunt id="2530" start_npc_ids="204801">
+		<monster var="0" end_var="10" npc_ids="213042 213043"/>
+		<monster var="1" end_var="7" npc_ids="213044 213045"/>
+		<monster var="2" end_var="3" npc_ids="213046"/>
+	</monster_hunt>
+	<monster_hunt id="2535" start_npc_ids="204804">
+		<monster var="0" end_var="1" npc_ids="213708"/>
+		<monster var="1" end_var="1" npc_ids="213709"/>
+	</monster_hunt>
+	<monster_hunt id="2537" start_npc_ids="204826">
+		<monster var="0" end_var="5" npc_ids="213524 213525"/>
+		<monster var="1" end_var="3" npc_ids="213523"/>
+		<monster var="2" end_var="4" npc_ids="213540 213541"/>
+	</monster_hunt>
+	<monster_hunt id="2544" start_npc_ids="798131">
+		<monster var="0" end_var="15" npc_ids="213050 213051"/>
+	</monster_hunt>
+	<monster_hunt id="2550" start_npc_ids="204811">
+		<monster var="0" end_var="30" npc_ids="213022 213023"/>
+		<monster var="1" end_var="7" npc_ids="213024"/>
+	</monster_hunt>
+	<monster_hunt id="2551" start_npc_ids="798119">
+		<monster var="0" end_var="11" npc_ids="213073 213074"/>
+		<monster var="1" end_var="11" npc_ids="213075 213076"/>
+		<monster var="2" end_var="1" npc_ids="700329"/>
+	</monster_hunt>
+	<monster_hunt id="2552" start_npc_ids="798117">
+		<monster var="0" end_var="10" npc_ids="213263 213264"/>
+		<monster var="1" end_var="10" npc_ids="213278 213279"/>
+	</monster_hunt>
+	<monster_hunt id="2555" start_npc_ids="798119">
+		<monster var="0" end_var="1" npc_ids="213714"/>
+	</monster_hunt>
+	<monster_hunt id="2560" start_npc_ids="204809">
+		<monster var="0" end_var="7" npc_ids="213259 213260"/>
+		<monster var="1" end_var="6" npc_ids="213268 213269"/>
+		<monster var="2" end_var="6" npc_ids="213261 213262"/>
+	</monster_hunt>
+	<!-- Frozen Ghosts -->
+	<monster_hunt id="2561" start_npc_ids="204753">
+		<monster var="0" end_var="10" npc_ids="213084 213085"/>
+		<monster var="1" end_var="10" npc_ids="213086 213087"/>
+		<monster var="2" end_var="10" npc_ids="213088 213089"/>
+	</monster_hunt>
+	<monster_hunt id="2566" start_npc_ids="790016">
+		<monster var="0" end_var="7" npc_ids="213095"/>
+	</monster_hunt>
+	<monster_hunt id="2567" start_npc_ids="790016">
+		<monster var="0" end_var="9" npc_ids="213096 213097"/>
+		<monster var="1" end_var="15" npc_ids="213092 213093"/>
+	</monster_hunt>
+	<monster_hunt id="2573" start_npc_ids="204768">
+		<monster var="0" end_var="6" npc_ids="213146 213147"/>
+		<monster var="1" end_var="10" npc_ids="213148 213149"/>
+	</monster_hunt>
+	<monster_hunt id="2575" start_npc_ids="204740">
+		<monster var="0" end_var="10" npc_ids="213142 213158"/>
+	</monster_hunt>
+	<monster_hunt id="2576" start_npc_ids="204769">
+		<monster var="0" end_var="7" npc_ids="213166 213167"/>
+		<monster var="1" end_var="11" npc_ids="213168 213169"/>
+	</monster_hunt>
+	<monster_hunt id="2577" start_npc_ids="204735">
+		<monster var="0" end_var="13" npc_ids="213170 213171"/>
+	</monster_hunt>
+	<monster_hunt id="2582" start_npc_ids="204769">
+		<monster var="0" end_var="7" npc_ids="213188"/>
+		<monster var="1" end_var="10" npc_ids="213202 213203"/>
+	</monster_hunt>
+	<monster_hunt id="2587" start_npc_ids="204743">
+		<monster var="0" end_var="7" npc_ids="213355"/>
+		<monster var="1" end_var="13" npc_ids="213367 213368"/>
+	</monster_hunt>
+	<monster_hunt id="2589" start_npc_ids="204762">
+		<monster var="0" end_var="12" npc_ids="213204"/>
+		<monster var="1" end_var="8" npc_ids="213240"/>
+		<monster var="2" end_var="11" npc_ids="213205 213206"/>
+	</monster_hunt>
+	<monster_hunt id="2593" start_npc_ids="204771">
+		<monster var="0" end_var="10" npc_ids="213164 213165"/>
+		<monster var="1" end_var="16" npc_ids="213162 213163"/>
+	</monster_hunt>
+	<monster_hunt id="2594" start_npc_ids="204776">
+		<monster var="0" end_var="7" npc_ids="213173 213174"/>
+		<monster var="1" end_var="3" npc_ids="213172"/>
+		<monster var="2" end_var="5" npc_ids="213782"/>
+	</monster_hunt>
+	<monster_hunt id="2601" start_npc_ids="204808">
+		<monster var="0" end_var="20" npc_ids="213356 213357"/>
+		<monster var="1" end_var="4" npc_ids="213781"/>
+	</monster_hunt>
+	<monster_hunt id="2608" start_npc_ids="204804">
+		<monster var="0" end_var="6" npc_ids="213034"/>
+		<monster var="1" end_var="10" npc_ids="213033"/>
+	</monster_hunt>
+	<monster_hunt id="2615" start_npc_ids="204783">
+		<monster var="0" end_var="5" npc_ids="700333"/>
+	</monster_hunt>
+	<monster_hunt id="2616" start_npc_ids="204783">
+		<monster var="0" end_var="20" npc_ids="213211 213212"/>
+		<monster var="1" end_var="30" npc_ids="213213 213214"/>
+	</monster_hunt>
+	<monster_hunt id="2618" start_npc_ids="204763">
+		<monster var="0" end_var="11" npc_ids="213105 213106"/>
+		<monster var="1" end_var="7" npc_ids="213107 213108"/>
+	</monster_hunt>
+	<monster_hunt id="2622" start_npc_ids="204751">
+		<monster var="0" end_var="12" npc_ids="213133 213134"/>
+		<monster var="1" end_var="6" npc_ids="213135 213136"/>
+	</monster_hunt>
+	<!-- Once A Friend, Now An Enemy -->
+	<monster_hunt id="2629" start_npc_ids="204787">
+		<monster var="0" end_var="10" npc_ids="213122 213123"/>
+		<monster var="1" end_var="7" npc_ids="213124"/>
+	</monster_hunt>
+	<monster_hunt id="2632" start_npc_ids="204799">
+		<monster var="0" end_var="4" npc_ids="213563"/>
+		<monster var="1" end_var="20" npc_ids="213564"/>
+	</monster_hunt>
+	<!-- [Coin/Group] Bakarma Barracks -->
+	<monster_hunt id="2635" start_npc_ids="204817">
+		<monster var="0" npc_ids="213663 213664 213665 213666" end_var="10"/>
+		<monster var="1" npc_ids="213669" end_var="10"/>
+		<monster var="2" npc_ids="213672" end_var="10"/>
+	</monster_hunt>
+	<monster_hunt id="2639" start_npc_ids="204795">
+		<monster var="0" end_var="1" npc_ids="216894"/>
+		<monster var="1" end_var="1" npc_ids="216895"/>
+		<monster var="2" end_var="1" npc_ids="216896"/>
+	</monster_hunt>
+	<monster_hunt id="2644" start_npc_ids="204795">
+		<monster var="0" end_var="20" npc_ids="213229 213230"/>
+		<monster var="1" end_var="15" npc_ids="213231 213232"/>
+	</monster_hunt>
+	<monster_hunt id="2648" start_npc_ids="204795">
+		<monster var="0" npc_ids="213308" end_var="15"/>
+		<monster var="1" npc_ids="213704" end_var="10"/>
+	</monster_hunt>
+	<!-- Balaur Assassin -->
+	<monster_hunt id="2650" start_npc_ids="204775">
+		<monster var="0" npc_ids="213700" end_var="5"/>
+		<monster var="1" npc_ids="213702" end_var="10"/>
+		<monster var="2" npc_ids="213304" end_var="10"/>
+	</monster_hunt>
+	<!-- [Spy] Reaper Squad Squish -->
+	<monster_hunt id="2655" start_npc_ids="204655" end_npc_ids="204655">
+		<monster var="0" npc_ids="217167 217168" end_var="7"/>
+	</monster_hunt>
+	<!-- [Spy/Group] Clear The Way -->
+	<monster_hunt id="2659" start_npc_ids="204651">
+		<monster var="0" end_var="11" npc_ids="214118 214119 214120"/>
+		<monster var="1" end_var="20" npc_ids="214112 214113 214114 214115 214116 214117"/>
+	</monster_hunt>
+	<!-- An Unobtrusive Journey -->
+	<monster_hunt id="2661" start_npc_ids="204777" end_npc_ids="204777" end_dialog_id="1352">
+		<monster var="0" end_var="11" npc_ids="213217 213218"/>
+		<monster var="1" end_var="10" npc_ids="213219 213220"/>
+	</monster_hunt>
+	<!-- [Group] Dead Men Tell No Tales -->
+	<monster_hunt id="2662" start_npc_ids="204777">
+		<monster var="0" end_var="7" npc_ids="213324 213325"/>
+		<monster var="1" end_var="7" npc_ids="213328 213329"/>
+		<monster var="2" end_var="7" npc_ids="213332 213333"/>
+	</monster_hunt>
+	<!-- [Group] Saving Atla -->
+	<monster_hunt id="2668" start_npc_ids="204815">
+		<monster var="0" npc_ids="213934 213935" end_var="11"/>
+		<monster var="1" npc_ids="213947 213948" end_var="6"/>
+	</monster_hunt>
+	<!-- [Group] Decimating Bakarma Legion -->
+	<monster_hunt id="2671" start_npc_ids="204785">
+		<monster var="0" npc_ids="213624 213625 213627" end_var="9"/>
+	</monster_hunt>
+	<!-- [Group] Dangerous Drake -->
+	<monster_hunt id="2674" start_npc_ids="204785">
+		<monster var="0" npc_ids="213642 213643" end_var="5"/>
+		<monster var="1" npc_ids="213644 213645" end_var="6"/>
+		<monster var="2" npc_ids="213648 213649" end_var="11"/>
+	</monster_hunt>
+	<!-- [Group] Loud Nagas And Nagarants -->
+	<monster_hunt id="2676" start_npc_ids="204785">
+		<monster var="0" npc_ids="213667 213668" end_var="12"/>
+		<monster var="1" npc_ids="213670 213671" end_var="12"/>
+		<monster var="2" npc_ids="213676 213677" end_var="7"/>
+		<monster var="3" npc_ids="213679 213680" end_var="7"/>
+	</monster_hunt>
+	<monster_hunt id="2696" start_npc_ids="204652">
+		<monster var="0" end_var="6" npc_ids="214521"/>
+		<monster var="1" end_var="7" npc_ids="214516"/>
+	</monster_hunt>
+	<monster_hunt id="4506" start_npc_ids="204763">
+		<monster var="0" end_var="11" npc_ids="213105 213106"/>
+		<monster var="1" end_var="7" npc_ids="213107 213108"/>
+	</monster_hunt>
+	<monster_hunt id="4510" start_npc_ids="204777">
+		<monster var="0" end_var="11" npc_ids="213217 213218"/>
+		<monster var="1" end_var="10" npc_ids="213219 213220"/>
+	</monster_hunt>
+	<monster_hunt id="4512" start_npc_ids="204801">
+		<monster var="0" end_var="15" npc_ids="213015 213016"/>
+	</monster_hunt>
+	<monster_hunt id="4516" start_npc_ids="798119">
+		<monster var="0" end_var="11" npc_ids="213073 213074"/>
+		<monster var="1" end_var="11" npc_ids="213075 213076"/>
+		<monster var="2" end_var="1" npc_ids="700329"/>
+	</monster_hunt>
+	<monster_hunt id="4517" start_npc_ids="204777">
+		<monster var="0" end_var="12" npc_ids="213513 213514"/>
+	</monster_hunt>
+	<!-- [Coin/Group] Trials By Fire -->
+	<monster_hunt id="4523" start_npc_ids="204766">
+		<monster var="0" npc_ids="214028" end_var="1"/>
+	</monster_hunt>
+	<!-- [Coin/Group] Foolish Recklessness -->
+	<monster_hunt id="4524" start_npc_ids="204773">
+		<monster var="0" npc_ids="219119 219136" end_var="1"/>
+	</monster_hunt>
+	<!-- [Coin/Group] Drakan Gone Qooqoo -->
+	<monster_hunt id="4525" start_npc_ids="204767">
+		<monster var="0" npc_ids="213780" end_var="1"/>
+	</monster_hunt>
+	<!-- [Coin/Group] Menacing Traitor -->
+	<monster_hunt id="4526" start_npc_ids="204789">
+		<monster var="0" npc_ids="219129 219136" end_var="1"/>
+	</monster_hunt>
+	<!-- [Coin/Group] It's Alive! Undead ? -->
+	<monster_hunt id="4528" start_npc_ids="204781">
+		<monster var="0" npc_ids="219113" end_var="1"/>
+	</monster_hunt>
+	<monster_hunt id="4529" start_npc_ids="798117" end_npc_ids="798118">
+		<monster var="0" end_var="15" npc_ids="213047 213048"/>
+	</monster_hunt>
+	<monster_hunt id="4531" start_npc_ids="798118">
+		<monster var="0" end_var="14" npc_ids="213055 213056"/>
+	</monster_hunt>
+	<monster_hunt id="4532" start_npc_ids="204805">
+		<monster var="0" end_var="23" npc_ids="214092 214093"/>
+	</monster_hunt>
+	<monster_hunt id="4533" start_npc_ids="204805">
+		<monster var="0" end_var="12" npc_ids="214089 214090"/>
+	</monster_hunt>
+	<monster_hunt id="4534" start_npc_ids="204804" end_npc_ids="204803">
+		<monster var="0" end_var="23" npc_ids="213029 213030"/>
+	</monster_hunt>
+	<monster_hunt id="4536" start_npc_ids="204803">
+		<monster var="0" end_var="8" npc_ids="213031"/>
+	</monster_hunt>
+	<monster_hunt id="4537" start_npc_ids="204803">
+		<monster var="0" end_var="18" npc_ids="213025 213026"/>
+	</monster_hunt>
+	<monster_hunt id="4539" start_npc_ids="798119" end_npc_ids="790022">
+		<monster var="0" end_var="9" npc_ids="213061 213060"/>
+		<monster var="1" end_var="7" npc_ids="213246"/>
+	</monster_hunt>
+</quest_scripts>

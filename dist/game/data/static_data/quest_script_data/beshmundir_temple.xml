@@ -1,0 +1,176 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+<!--
+    Quest Beshmundir Temple
+	Make By Encom
+ -->
+	<!-- Suspicious Ceremony -->
+	<report_to_many id="30202" start_npc_ids="798926" end_npc_ids="798926" start_dialog_id="1011">
+        <npc_infos npc_id="798942" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="798943" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="798926" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Pilomenes' Advice -->
+	<report_to id="30204" start_npc_ids="798926" end_npc_ids="798941"/>
+	<!-- A Monument Rubbed -->
+	<item_collecting id="30205" start_npc_ids="798941" action_item_ids="700745 700746 700747 700748"/>
+	<!-- [Group] Dragonbound Diaries -->
+	<item_collecting id="30206" start_npc_ids="798941" action_item_ids="700750"/>
+	<!-- The Ancient Document -->
+	<report_to id="30209" start_npc_ids="798941" end_npc_ids="203837"/>
+	<!-- Written In Blood -->
+	<item_collecting id="30210" start_npc_ids="203837" end_npc_ids="798941" start_dialog_id="4762" start_dialog_id2="1011"/>
+	<!-- The Orb And The Rod -->
+	<item_collecting id="30212" start_npc_ids="798941"/>
+	<!-- Decree Of Valor -->
+	<item_collecting id="30214" start_npc_ids="798927"/>
+	<!-- To Help A Hushblade -->
+	<item_collecting id="30215" start_npc_ids="798928"/>
+	<!-- Stigma Dogma -->
+	<report_to id="30216" start_npc_ids="798941" end_npc_ids="798909"/>
+	<!-- [Group] Aeshma's Vengeance -->
+	<monster_hunt id="30218" start_npc_ids="799504" end_dialog_id="1352">
+		<monster var="0" npc_ids="216276 216277 216278 216279" end_var="25"/>
+	</monster_hunt>
+	<!-- [Group] Mine Vengeance -->
+	<monster_hunt id="30219" start_npc_ids="799504" end_dialog_id="1352">
+		<monster var="0" npc_ids="216241" end_var="1"/>
+	</monster_hunt>
+	<!-- [Group] For Honor, For Stormwing -->
+	<monster_hunt id="30220" start_npc_ids="799505" end_dialog_id="1352">
+		<monster var="0" npc_ids="216280 216281 216282 216283 216284" end_var="25"/>
+	</monster_hunt>
+	<!-- [Group] The Spirit Sleepeth -->
+	<monster_hunt id="30221" start_npc_ids="799505" end_dialog_id="1352">
+		<monster var="0" npc_ids="216242 216243" end_var="1"/>
+	</monster_hunt>
+	<!-- [Group] A Guard Curse -->
+	<monster_hunt id="30222" start_npc_ids="798979" end_dialog_id="1352">
+		<monster var="0" npc_ids="216239" end_var="1"/>
+	</monster_hunt>
+	<!-- [Group] The Plaguebearer -->
+	<item_collecting id="30223" start_npc_ids="799031"/>
+	<!-- [Group] Grave Robber's Lament -->
+	<monster_hunt id="30224" start_npc_ids="799051" end_dialog_id="1352">
+		<monster var="0" npc_ids="216250" end_var="1"/>
+	</monster_hunt>
+	<!-- [Group] Lupukin's Request -->
+	<item_collecting id="30225" start_npc_ids="216527"/>
+	<!-- Priest Kailaus's New Nightmare -->
+	<item_collecting id="30226" start_npc_ids="798946"/>
+	<!-- Teressa's Request -->
+	<item_collecting id="30228" start_npc_ids="798934"/>
+	<!-- The Tricky Spirit -->
+	<item_collecting id="30229" start_npc_ids="798934"/>
+	<!-- The Elusive Spirit -->
+	<item_collecting id="30230" start_npc_ids="798934"/>
+	<!-- [Group] Fire Down Below -->
+	<monster_hunt id="30232" start_npc_ids="798934" end_dialog_id="1352">
+		<monster var="0" npc_ids="216249" end_var="1"/>
+	</monster_hunt>
+	<!-- An Old Flame -->
+	<item_collecting id="30233" start_npc_ids="798934"/>
+	<!-- [Group] The Captain's Curse -->
+	<monster_hunt id="30234" start_npc_ids="798979" end_dialog_id="1352">
+		<monster var="0" npc_ids="216248" end_var="1"/>
+	</monster_hunt>
+	<!-- [Group] Cleansing The Temple -->
+	<monster_hunt id="30244" start_npc_ids="798926" end_dialog_id="1352">
+		<monster var="0" npc_ids="216265 216266 216267 216268 216269" end_var="20"/>
+		<monster var="1" npc_ids="216295 216296 216297 216298" end_var="10"/>
+		<monster var="2" npc_ids="216314 216315 216316 216317 216318" end_var="40"/>
+	</monster_hunt>
+	<!-- [Coin/Group] Nightshades' Last Days -->
+	<monster_hunt id="30245" start_npc_ids="798926" end_dialog_id="1352">
+		<monster var="0" npc_ids="216309 216310 216312 216313" end_var="12"/>
+	</monster_hunt>
+	<!-- Your Oath To Outremus -->
+	<report_to_many id="30246" start_npc_ids="798926" end_npc_ids="798926" start_dialog_id="1011">
+        <npc_infos npc_id="798926" var="0" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	
+	<!-- Mysterious Motives -->
+	<report_to_many id="30302" start_npc_ids="799225" end_npc_ids="799225" start_dialog_id="1011">
+        <npc_infos npc_id="799240" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="799243" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="799225" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Herka's Advice -->
+	<report_to id="30304" start_npc_ids="799225" end_npc_ids="799322"/>
+	<!-- Aye, That's The Rubbing -->
+	<item_collecting id="30305" start_npc_ids="799322" action_item_ids="700754 700755 700756 700757"/>
+	<!-- [Group] Library Legends -->
+	<item_collecting id="30306" start_npc_ids="799322" action_item_ids="700750"/>
+	<!-- A Difficult Restoration -->
+	<report_to id="30309" start_npc_ids="799322" end_npc_ids="204225"/>
+	<!-- Rank And Bile -->
+	<item_collecting id="30310" start_npc_ids="204225" end_npc_ids="799322" start_dialog_id="4762" start_dialog_id2="1011"/>
+	<!-- Rooting For Power -->
+	<item_collecting id="30312" start_npc_ids="799322"/>
+	<!-- Servant Of Gelkmaros -->
+	<item_collecting id="30314" start_npc_ids="799226"/>
+	<!-- Benefactor Of Gelkmaros -->
+	<item_collecting id="30315" start_npc_ids="799226"/>
+	<!-- Stigma Of The Dragonbound -->
+	<report_to id="30316" start_npc_ids="799322" end_npc_ids="799208"/>
+	<!-- [Group] Aeshma's Retaliation -->
+	<monster_hunt id="30318" start_npc_ids="799504" end_dialog_id="1352">
+		<monster var="0" npc_ids="216276 216277 216278 216279" end_var="25"/>
+	</monster_hunt>
+	<!-- [Group] Eliminate Manadar -->
+	<monster_hunt id="30319" start_npc_ids="799504" end_dialog_id="1352">
+		<monster var="0" npc_ids="216241" end_var="1"/>
+	</monster_hunt>
+	<!-- [Group] Smiting For Bhemah -->
+	<monster_hunt id="30320" start_npc_ids="799505" end_dialog_id="1352">
+		<monster var="0" npc_ids="216280 216281 216282 216283 216284" end_var="25"/>
+	</monster_hunt>
+	<!-- [Group] Complete The Last Mission -->
+	<monster_hunt id="30321" start_npc_ids="799505" end_dialog_id="1352">
+		<monster var="0" npc_ids="216242 216243" end_var="1"/>
+	</monster_hunt>
+	<!-- [Group] Vanquishing Ahbana -->
+	<monster_hunt id="30322" start_npc_ids="799278" end_dialog_id="1352">
+		<monster var="0" npc_ids="216239" end_var="1"/>
+	</monster_hunt>
+	<!-- [Group] Avoid Like The Plaguebearer -->
+	<item_collecting id="30323" start_npc_ids="799335"/>
+	<!-- [Group] Dorakiki's Demise -->
+	<monster_hunt id="30324" start_npc_ids="799262" end_dialog_id="1352">
+		<monster var="0" npc_ids="216250" end_var="1"/>
+	</monster_hunt>
+	<!-- [Group] Do It For The Little Shulacks -->
+	<item_collecting id="30325" start_npc_ids="216527"/>
+	<!-- Dream A Little Dream -->
+	<item_collecting id="30326" start_npc_ids="799244"/>
+	<!-- Watery Wish -->
+	<item_collecting id="30328" start_npc_ids="799321"/>
+	<!-- Earthly Eagerness -->
+	<item_collecting id="30329" start_npc_ids="799321"/>
+	<!-- Windy Wanting -->
+	<item_collecting id="30330" start_npc_ids="799321"/>
+	<!-- [Group] Freeing The Flames -->
+	<monster_hunt id="30332" start_npc_ids="799321" end_dialog_id="1352">
+		<monster var="0" npc_ids="216249" end_var="1"/>
+	</monster_hunt>
+	<!-- The Key To Freedom -->
+	<item_collecting id="30333" start_npc_ids="799321"/>
+	<!-- [Group] Liberate Taros's Soul -->
+	<monster_hunt id="30334" start_npc_ids="799278" end_dialog_id="1352">
+		<monster var="0" npc_ids="216248" end_var="1"/>
+	</monster_hunt>
+	<!-- [Group] Punish Beshmundir Balaur -->
+	<monster_hunt id="30344" start_npc_ids="799225" end_dialog_id="1352">
+		<monster var="0" npc_ids="216265 216266 216267 216268 216269" end_var="20"/>
+		<monster var="1" npc_ids="216295 216296 216297 216298" end_var="10"/>
+		<monster var="2" npc_ids="216314 216315 216316 216317 216318" end_var="40"/>
+	</monster_hunt>
+	<!-- [Coin/Group] Hunting Nightshades -->
+	<monster_hunt id="30345" start_npc_ids="799225" end_dialog_id="1352">
+		<monster var="0" npc_ids="216309 216310 216312 216313" end_var="12"/>
+	</monster_hunt>
+	<!-- A Solemn Promise -->
+	<report_to_many id="30346" start_npc_ids="799225" end_npc_ids="799225" start_dialog_id="1011">
+        <npc_infos npc_id="799225" var="0" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+</quest_scripts>

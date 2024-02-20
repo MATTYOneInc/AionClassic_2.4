@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+<!--
+    Draupnir Cave
+	Make By Encom
+ -->
+	<!-- Clearing Out Draupnir -->
+	<monster_hunt id="60016" start_npc_ids="204550 205987" end_dialog_id="1352">
+		<monster var="0" npc_ids="213376 213377 213378 213379 213380 213381" end_var="10"/>
+		<monster var="0" npc_ids="213382 213385 213386 213387 213388 213389" end_var="10"/>
+		<monster var="0" npc_ids="213390 213391 213392 213398 213399 213400" end_var="10"/>
+		<monster var="0" npc_ids="213401 213403 213409 213410 213411 213457" end_var="10"/>
+		<monster var="0" npc_ids="213459 213460 213461 213463 213464 213465" end_var="10"/>
+		<monster var="0" npc_ids="213466 213467 213469 213471 213472 213474" end_var="10"/>
+		<monster var="0" npc_ids="213477 213482 213551 213552 213553 213554 213556 213557" end_var="10"/>
+		<monster var="1" npc_ids="213412 213413 213414 213415 213416 213417" end_var="10"/>
+		<monster var="1" npc_ids="213418 213419 213420 213421 213422 213423" end_var="10"/>
+		<monster var="1" npc_ids="213424 213426 213427 213428 213429 213431" end_var="10"/>
+		<monster var="1" npc_ids="213432 213437 213438 213445 213446 213447" end_var="10"/>
+		<monster var="1" npc_ids="213479 213482 213484 213487 213490 213491" end_var="10"/>
+		<monster var="1" npc_ids="213494 213495 213497 213498 213499 213505 213506" end_var="10"/>
+	</monster_hunt>
+	<!-- Draupnir Raiders' Shoes Support -->
+	<monster_hunt id="60030" start_npc_ids="205987" end_dialog_id="1352">
+		<monster var="0" npc_ids="213776" end_var="5"/>
+	</monster_hunt>
+	<!-- Draupnir Raiders' Gloves Support -->
+	<monster_hunt id="60031" start_npc_ids="205987" end_dialog_id="1352">
+		<monster var="0" npc_ids="213778" end_var="5"/>
+	</monster_hunt>
+	<!-- Draupnir Raiders' Pauldrons Support -->
+	<monster_hunt id="60032" start_npc_ids="205987" end_dialog_id="1352">
+		<monster var="0" npc_ids="213802" end_var="5"/>
+	</monster_hunt>
+	<!-- Draupnir Raiders' Pants Support -->
+	<monster_hunt id="60033" start_npc_ids="205987" end_dialog_id="1352">
+		<monster var="0" npc_ids="213779" end_var="5"/>
+	</monster_hunt>
+	<!-- Draupnir Raiders' Tunic Support -->
+	<monster_hunt id="60034" start_npc_ids="205987" end_dialog_id="1352">
+		<monster var="0" npc_ids="213780" end_var="5"/>
+	</monster_hunt>
+	
+	<!-- Death To Draupnir -->
+	<monster_hunt id="70016" start_npc_ids="204767 205988" end_dialog_id="1352">
+		<monster var="0" npc_ids="213376 213377 213378 213379 213380 213381" end_var="10"/>
+		<monster var="0" npc_ids="213382 213385 213386 213387 213388 213389" end_var="10"/>
+		<monster var="0" npc_ids="213390 213391 213392 213398 213399 213400" end_var="10"/>
+		<monster var="0" npc_ids="213401 213403 213409 213410 213411 213457" end_var="10"/>
+		<monster var="0" npc_ids="213459 213460 213461 213463 213464 213465" end_var="10"/>
+		<monster var="0" npc_ids="213466 213467 213469 213471 213472 213474" end_var="10"/>
+		<monster var="0" npc_ids="213477 213482 213551 213552 213553 213554 213556 213557" end_var="10"/>
+		<monster var="1" npc_ids="213412 213413 213414 213415 213416 213417" end_var="10"/>
+		<monster var="1" npc_ids="213418 213419 213420 213421 213422 213423" end_var="10"/>
+		<monster var="1" npc_ids="213424 213426 213427 213428 213429 213431" end_var="10"/>
+		<monster var="1" npc_ids="213432 213437 213438 213445 213446 213447" end_var="10"/>
+		<monster var="1" npc_ids="213479 213482 213484 213487 213490 213491" end_var="10"/>
+		<monster var="1" npc_ids="213494 213495 213497 213498 213499 213505 213506" end_var="10"/>
+	</monster_hunt>
+	<!-- Draupnir Decimators' Shoes Support -->
+	<monster_hunt id="70030" start_npc_ids="205988" end_dialog_id="1352">
+		<monster var="0" npc_ids="213776" end_var="5"/>
+	</monster_hunt>
+	<!-- Draupnir Decimators' Gloves Support -->
+	<monster_hunt id="70031" start_npc_ids="205988" end_dialog_id="1352">
+		<monster var="0" npc_ids="213778" end_var="5"/>
+	</monster_hunt>
+	<!-- Draupnir Decimators' Pauldrons Support -->
+	<monster_hunt id="70032" start_npc_ids="205988" end_dialog_id="1352">
+		<monster var="0" npc_ids="213802" end_var="5"/>
+	</monster_hunt>
+	<!-- Draupnir Decimators' Pants Support -->
+	<monster_hunt id="70033" start_npc_ids="205988" end_dialog_id="1352">
+		<monster var="0" npc_ids="213779" end_var="5"/>
+	</monster_hunt>
+	<!-- Draupnir Decimators' Tunic Support -->
+	<monster_hunt id="70034" start_npc_ids="205988" end_dialog_id="1352">
+		<monster var="0" npc_ids="213780" end_var="5"/>
+	</monster_hunt>
+</quest_scripts>

@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Chaos Training Grounds
+	Re-newed By Rinzler
+ -->
+<spawns>
+	<spawn_map map_id="300420000">
+		<!-- gb_source_metal_arena_pvp01_01 -->
+        <spawn npc_id="405000">
+            <spot x="1349.522" y="1057.374" z="337.375" h="0"/>
+			<spot x="1316.816" y="1097.861" z="337.500" h="0"/>
+        </spawn>
+	    <!-- gb_source_metal_arena_pvp01_02 -->
+        <spawn npc_id="405001">
+            <spot x="1349.552" y="1093.443" z="337.625" h="0"/>
+			<spot x="1317.240" y="1058.067" z="337.375" h="0"/>
+        </spawn>
+	</spawn_map>
+</spawns>

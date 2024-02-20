@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Cube Expander
+	Develop: ADev.Team
+ -->
+<cube_expander xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="cube_expander.xsd">
+	<!-- Poeta -->
+	<!-- Baevrunerk -->
+    <cube_npc id="798008">
+        <expand level="1" price="990"/>
+    </cube_npc>
+	<!-- Ishalgen -->
+    <!-- Bacorerk -->
+    <cube_npc id="798037">
+        <expand level="1" price="990"/>
+    </cube_npc>
+	<!-- Telos -->
+    <cube_npc id="800725">
+        <expand level="1" price="990"/>
+    </cube_npc>
+	<!-- Sanctum -->
+	<!-- Heerunerk -->
+    <cube_npc id="798011">
+        <expand level="1" price="990"/>
+        <expand level="2" price="11979"/>
+        <expand level="3" price="59895"/>
+        <expand level="4" price="179685"/>
+    </cube_npc>
+	<!-- Yiehmonerk -->
+    <cube_npc id="798012">
+        <expand level="1" price="990"/>
+        <expand level="2" price="11979"/>
+        <expand level="3" price="59895"/>
+        <expand level="4" price="179685"/>
+    </cube_npc>
+	<!-- Pandaemonium -->
+	<!-- Ondarinerk -->
+    <cube_npc id="798058">
+        <expand level="1" price="990"/>
+        <expand level="2" price="11979"/>
+        <expand level="3" price="59895"/>
+        <expand level="4" price="179685"/>
+    </cube_npc>
+	<!-- Nekorunerk -->
+    <cube_npc id="798059">
+        <expand level="1" price="990"/>
+        <expand level="2" price="11979"/>
+        <expand level="3" price="59895"/>
+        <expand level="4" price="179685"/>
+    </cube_npc>
+	<!-- Rhonnam Refugee Village -->
+	<!-- Shulack Refugee -->
+    <cube_npc id="799366">
+        <expand level="1" price="990"/>
+		<expand level="2" price="11979"/>
+        <expand level="3" price="59895"/>
+        <expand level="4" price="179685"/>
+    </cube_npc>
+	<!-- Tigraki Island -->
+	<!-- Jarumonerk -->
+    <cube_npc id="279022">
+	    <expand level="5" price="382685"/>
+		<expand level="6" price="584979"/>
+		<expand level="7" price="768598"/>
+		<expand level="8" price="968119"/>
+		<expand level="9" price="1536282"/>
+		<expand level="10" price="2772979"/>
+		<expand level="11" price="5144362"/>
+		<expand level="12" price="8288895"/>
+    </cube_npc>
+</cube_expander>

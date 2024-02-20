@@ -1,0 +1,24 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+<!--
+    Quest Telos Of The Forgotten
+	Make By Encom
+ -->
+	<!-- [주간] 수상한 실험체 -->
+    <monster_hunt id="19534" start_npc_ids="799381">
+        <monster var="0" npc_ids="219393" end_var="1"/>
+    </monster_hunt>
+	<!-- 어린 용제의 철책 파괴 -->
+    <monster_hunt id="19536" start_npc_ids="799381">
+        <monster var="0" npc_ids="701418" end_var="1"/>
+    </monster_hunt>
+	
+	<!-- [주간] 실험체 처치 -->
+    <monster_hunt id="29534" start_npc_ids="799383">
+        <monster var="0" npc_ids="219393" end_var="1"/>
+    </monster_hunt>
+	<!-- 어린 용제의 철책 공략 -->
+    <monster_hunt id="29536" start_npc_ids="799383">
+        <monster var="0" npc_ids="701418" end_var="1"/>
+    </monster_hunt>
+</quest_scripts>

@@ -1,0 +1,64 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+<!--
+    Quest Empyrean Crucible
+	Make By Encom
+ -->
+	<!-- Molfus's Approval -->
+	<monster_hunt id="18202" start_npc_ids="205309" end_dialog_id="1352">
+		<monster var="0" npc_ids="217556" end_var="1"/>
+	</monster_hunt>
+	<!-- Keep On Driving Me Higher -->
+	<monster_hunt id="18203" start_npc_ids="205309" end_dialog_id="1352">
+		<monster var="0" npc_ids="217586" end_var="1"/>
+	</monster_hunt>
+	<!-- A Giant Illusion -->
+	<monster_hunt id="18204" start_npc_ids="205309" end_dialog_id="1352">
+		<monster var="0" npc_ids="217599" end_var="1"/>
+	</monster_hunt>
+	<!-- Vanquish The Vanktrist -->
+	<monster_hunt id="18205" start_npc_ids="205309" end_npc_ids="799088" end_dialog_id="1352">
+		<monster var="0" npc_ids="217609" end_var="1"/>
+	</monster_hunt>
+	<!-- A Change In Programming? -->
+	<report_to id="18207" start_npc_ids="205309" end_npc_ids="205316"/>
+	<!-- A Coliseum Contestant -->
+	<report_to_many id="18210" start_npc_ids="205315" end_npc_ids="205985" start_dialog_id="1011">
+		<npc_infos npc_id="205985" var="0" quest_dialog="2375" close_dialog="1009"/>
+	</report_to_many>
+	<!-- Continued Training -->
+	<kill_in_world id="18214" start_npc_ids="205985" end_npc_ids="205985" worlds="300350000 300360000 300420000 300430000 300470000" amount="5"/>
+	<!-- 공간을 비트는 반크 처치 -->
+	<monster_hunt id="19539" start_npc_ids="205315" end_dialog_id="1352">
+		<monster var="0" npc_ids="217609" end_var="1"/>
+	</monster_hunt>
+	
+	<!-- Halfway There -->
+	<monster_hunt id="28202" start_npc_ids="205321" end_dialog_id="1352">
+		<monster var="0" npc_ids="217556" end_var="1"/>
+	</monster_hunt>
+	<!-- The Student Becomes The Master -->
+	<monster_hunt id="28203" start_npc_ids="205321" end_dialog_id="1352">
+		<monster var="0" npc_ids="217587" end_var="1"/>
+	</monster_hunt>
+	<!-- Everything's Bigger In Asmodae -->
+	<monster_hunt id="28204" start_npc_ids="205321" end_dialog_id="1352">
+		<monster var="0" npc_ids="217599" end_var="1"/>
+	</monster_hunt>
+	<!-- From The Reaches Of Nothingness -->
+	<monster_hunt id="28205" start_npc_ids="205321" end_npc_ids="799428" end_dialog_id="1352">
+		<monster var="0" npc_ids="217609" end_var="1"/>
+	</monster_hunt>
+	<!-- A Question Of Protocols -->
+	<report_to id="28207" start_npc_ids="205321" end_npc_ids="205320"/>
+	<!-- The Crucible Coliseum -->
+	<report_to_many id="28210" start_npc_ids="205323" end_npc_ids="205986" start_dialog_id="1011">
+		<npc_infos var="0" npc_id="205986" quest_dialog="2375" close_dialog="1009"/>
+	</report_to_many>
+	<!-- Improve Your Skills -->
+	<kill_in_world id="28214" start_npc_ids="205986" end_npc_ids="205986" worlds="300350000 300360000 300420000 300430000 300470000" amount="5"/>
+	<!-- 공간을 비트는 반크 제압 -->
+	<monster_hunt id="29539" start_npc_ids="205323" end_dialog_id="1352">
+		<monster var="0" npc_ids="217609" end_var="1"/>
+	</monster_hunt>
+</quest_scripts>

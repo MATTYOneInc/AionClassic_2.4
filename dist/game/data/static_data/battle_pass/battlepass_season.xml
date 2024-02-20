@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+	Daeva Pass [Aion Classic]
+	Develop: ADev.Team
+ -->
+<battlepass_seasons xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="battlepass_season.xsd">
+    <battlepass_season id="2020" name="pass_world_season_20" max_level="36" unlock_level_start="6" unlock_pass_cost="600" unlock_level_cost="90" start="2023-01-18T09:00:00+00:00" end="2023-02-15T09:00:00+00:00"/>
+    <battlepass_season id="22011" name="pass_us_season_event_09" max_level="40" unlock_level_start="0" unlock_pass_cost="390" unlock_level_cost="90" start="2023-01-18T09:00:00+00:00" end="2023-02-15T09:00:00+00:00"/>
+    <battlepass_season id="32001" name="pass_season_01_Return" max_level="45" unlock_level_start="0" unlock_pass_cost="600" unlock_level_cost="90" start="2022-05-25T09:00:00+00:00" end="2025-12-08T09:00:00+00:00"/>
+    <battlepass_season id="42004" name="pass_world_beginner_Personal_02" max_level="35" unlock_level_start="0" unlock_pass_cost="400" unlock_level_cost="90" start="2022-11-23T09:00:00+00:00" end="2023-11-22T09:00:00+00:00"/>
+</battlepass_seasons>

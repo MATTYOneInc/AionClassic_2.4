@@ -1,0 +1,1396 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Warehouse Expander
+	Develop: ADev.Team
+ -->
+<warehouse_expander xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="warehouse_expander.xsd">
+	<!-- WAREHOUSE ELYOS -->
+	<!-- SANCTUM -->
+	<!-- Rebecca -->
+	<warehouse_npc id="203221">
+        <expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+    </warehouse_npc>
+	<!-- Bustant -->
+	<warehouse_npc id="203749">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Lukania -->
+	<warehouse_npc id="203750">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Furinerk -->
+	<warehouse_npc id="798014">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Arenjess -->
+	<warehouse_npc id="798309">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Cynthia -->
+	<warehouse_npc id="798310">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Modaro -->
+	<warehouse_npc id="205443">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Zeidi -->
+	<warehouse_npc id="203889">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- VERTERON -->
+	<!-- Nesia -->
+	<warehouse_npc id="203199">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- ELTNEN -->
+	<!-- Hageni -->
+	<warehouse_npc id="204047">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Carcinus -->
+	<warehouse_npc id="801157">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Tulus -->
+	<warehouse_npc id="801160">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Apion -->
+	<warehouse_npc id="801163">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Thorgils -->
+	<warehouse_npc id="801166">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- HEIRON -->
+	<!-- Sarina -->
+	<warehouse_npc id="204632">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Chares -->
+	<warehouse_npc id="801181">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Turluso -->
+	<warehouse_npc id="801184">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Calamis -->
+	<warehouse_npc id="801187">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Morig -->
+	<warehouse_npc id="801191">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- THEOBOMOS -->
+	<!-- Tiesansanerk -->
+	<warehouse_npc id="798139">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Solani -->
+	<warehouse_npc id="798171">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- INGGISON -->
+	<!-- Artem -->
+	<warehouse_npc id="798911">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Castalia -->
+	<warehouse_npc id="799027">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Levilus -->
+	<warehouse_npc id="798965">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Darecia -->
+	<warehouse_npc id="798994">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Rucal -->
+	<warehouse_npc id="798995">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- WAREHOUSE FORTRESS ELYOS -->
+	<!-- DIVINE FORTRESS ELYOS -->
+	<!-- Yutrena -->
+	<warehouse_npc id="260214">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Naereid -->
+	<warehouse_npc id="260215">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- SIEL'S WESTERN FORTRESS ELYOS -->
+	<!-- Ortia -->
+	<warehouse_npc id="263215">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Eomates -->
+	<warehouse_npc id="263216">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- SIEL'S EASTERN FORTRESS ELYOS -->
+	<!-- Ipimedea -->
+	<warehouse_npc id="263515">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Yullus -->
+	<warehouse_npc id="263516">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- SULFUR FORTRESS ELYOS -->
+	<!-- Tidides -->
+	<warehouse_npc id="264715">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Forbin -->
+	<warehouse_npc id="263516">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- ROAH FORTRESS ELYOS -->
+	<!-- Phoina -->
+	<warehouse_npc id="266515">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Plutus -->
+	<warehouse_npc id="266516">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- KROTAN REFUGE ELYOS -->
+	<!-- Skilla -->
+	<warehouse_npc id="268015">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Hespheria -->
+	<warehouse_npc id="268016">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- KYSIS FORTRESS ELYOS -->
+	<!-- Aurora -->
+	<warehouse_npc id="269215">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Stropios -->
+	<warehouse_npc id="269216">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- MIREN FORTRESS ELYOS -->
+	<!-- Kiron -->
+	<warehouse_npc id="270115">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Tideus -->
+	<warehouse_npc id="270116">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- ASTERIA FORTRESS ELYOS -->
+	<!-- Ophion -->
+	<warehouse_npc id="271015">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Phantasource -->
+	<warehouse_npc id="271016">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- TEMPLE OF SCALES ELYOS -->
+	<!-- Issonie -->
+	<warehouse_npc id="799002">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Palorc -->
+	<warehouse_npc id="799003">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- ALTAR OF AVARICE ELYOS -->
+	<!-- Phoulion -->
+	<warehouse_npc id="799013">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Verulie -->
+	<warehouse_npc id="799014">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- VORGALTEM CITADEL ELYOS -->
+	<!-- Becaria -->
+	<warehouse_npc id="799041">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Arianos -->
+	<warehouse_npc id="799042">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- CRIMSOM TEMPLE ELYOS -->
+	<!-- Mallana -->
+	<warehouse_npc id="799047">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Eleusis -->
+	<warehouse_npc id="799048">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- WAREHOUSE ASMODIANS -->
+	<!-- PANDAEMONIUM -->
+	<!-- Albanese -->
+	<warehouse_npc id="798313">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Gaster -->
+	<warehouse_npc id="798312">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Grer -->
+	<warehouse_npc id="204073">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Gullinkambi -->
+	<warehouse_npc id="204074">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Roskva -->
+	<warehouse_npc id="204072">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Gerd -->
+	<warehouse_npc id="205447">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- ALTGARD -->
+	<!-- Naiern -->
+	<warehouse_npc id="203687">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- MORHEIM -->
+	<!-- Grall -->
+	<warehouse_npc id="204377">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Micon -->
+	<warehouse_npc id="801169">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Brad -->
+	<warehouse_npc id="801172">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Diagoras -->
+	<warehouse_npc id="801175">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Narkel -->
+	<warehouse_npc id="801178">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- BELUSLAN -->
+	<!-- Droston -->
+	<warehouse_npc id="204780">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Hammel -->
+	<warehouse_npc id="204800">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Hecato -->
+	<warehouse_npc id="801195">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Wulfgar -->
+	<warehouse_npc id="801198">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Alcetas -->
+	<warehouse_npc id="801201">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Pamer -->
+	<warehouse_npc id="801205">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- BRUSTHONIN -->
+	<!-- Dunkel -->
+	<warehouse_npc id="205122">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Sjazi -->
+	<warehouse_npc id="205149">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- GELKMAROS -->
+	<!-- Balotelli -->
+	<warehouse_npc id="799210">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Kaladee -->
+	<warehouse_npc id="799331">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Taamiki -->
+	<warehouse_npc id="799263">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Evadene -->
+	<warehouse_npc id="799286">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Zableta -->
+	<warehouse_npc id="799287">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- WAREHOUSE FORTRESS ASMODIANS -->
+	<!-- DIVINE FORTRESS ASMODIANS -->
+	<!-- Braune -->
+	<warehouse_npc id="260216">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Zarenke -->
+	<warehouse_npc id="260217">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- SIEL'S WESTERN FORTRESS ASMODIANS -->
+	<!-- Hohen -->
+	<warehouse_npc id="263217">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Oberate -->
+	<warehouse_npc id="263218">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- SIEL'S EASTERN FORTRESS ASMODIANS -->
+	<!-- Semund -->
+	<warehouse_npc id="263517">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Sagah -->
+	<warehouse_npc id="263518">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- SULFUR FORTRESS ASMODIANS -->
+	<!-- Soert -->
+	<warehouse_npc id="264717">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Lasario -->
+	<warehouse_npc id="264718">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- ROAH FORTRESS ASMODIANS -->
+	<!-- Mahd -->
+	<warehouse_npc id="266517">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Vaina -->
+	<warehouse_npc id="266518">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- KROTAN REFUGE ASMODIANS -->
+	<!-- Herona -->
+	<warehouse_npc id="268017">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Bara -->
+	<warehouse_npc id="268018">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- KYSIS FORTRESS ASMODIANS -->
+	<!-- Parbauti -->
+	<warehouse_npc id="269217">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Harr -->
+	<warehouse_npc id="269218">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- MIREN FORTRESS ASMODIANS -->
+	<!-- Bryuntberr -->
+	<warehouse_npc id="270117">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Bestri -->
+	<warehouse_npc id="270118">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- ASTERIA FORTRESS ASMODIANS -->
+	<!-- Beilar -->
+	<warehouse_npc id="271017">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Himir -->
+	<warehouse_npc id="271018">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- VORGALTEM CITADEL ASMODIANS -->
+	<!-- Inthedra -->
+	<warehouse_npc id="799303">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Moritz -->
+	<warehouse_npc id="799304">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- CRIMSOM TEMPLE ASMODIANS -->
+	<!-- Dekel -->
+	<warehouse_npc id="799312">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Risa -->
+	<warehouse_npc id="799313">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- TEMPLE OF SCALES ASMODIANS -->
+	<!-- Shaenna -->
+	<warehouse_npc id="799352">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Danton -->
+	<warehouse_npc id="799353">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- ALTAR OF AVARICE ASMODIANS -->
+	<!-- Alama -->
+	<warehouse_npc id="799358">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Gloi -->
+	<warehouse_npc id="799359">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	
+	<!-- RESHANTA -->
+	<!-- Lavinia -->
+	<warehouse_npc id="278525">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Obel -->
+	<warehouse_npc id="278509">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Vernio -->
+	<warehouse_npc id="278025">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Kirhenjar -->
+	<warehouse_npc id="278009">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Kalix -->
+	<warehouse_npc id="279062">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+	<!-- Skimir -->
+	<warehouse_npc id="279063">
+		<expand level="1" price="1200"/>
+		<expand level="2" price="24000"/>
+		<expand level="3" price="72600"/>
+		<expand level="4" price="181500"/>
+		<expand level="5" price="363000"/>
+		<expand level="6" price="1422000"/>
+		<expand level="7" price="2844000"/>
+		<expand level="8" price="5688000"/>
+		<expand level="9" price="11376000"/>
+	</warehouse_npc>
+</warehouse_expander>

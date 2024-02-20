@@ -1,0 +1,76 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+<!--
+    Quest Lower-Udas Temple
+	Make By Encom
+ -->
+    <!-- Building Trust -->
+	<report_to id="30001" start_npc_ids="798927" end_npc_ids="799029"/>
+    <!-- Goal Of The Dragonbound -->
+	<item_collecting id="30002" start_npc_ids="799029"/>
+	<!-- [Group] Heal Me, Kill Me -->
+	<monster_hunt id="30005" start_npc_ids="799029" start_dialog_id="1011" end_dialog_id="1352">
+		<monster var="0" npc_ids="215808 216335 216343 215857 216351" end_var="25"/>
+	    <monster var="0" npc_ids="281368 215858 216344 215809 216336" end_var="25"/>
+		<monster var="0" npc_ids="216352 216328 215815" end_var="25"/>
+	</monster_hunt>
+	<!-- Drakan Document -->
+	<item_order id="30007" start_item_id="182209153" talk_npc_id1="799030" end_npc_id="799029"/>
+	<!-- [Group] Legendary Jotun -->
+	<item_collecting id="30008" start_npc_ids="799029" action_item_ids="700566" movie="511"/>
+	<!-- [Group] Pieces Of You -->
+	<item_collecting id="30009" start_npc_ids="799029"/>
+	<!-- [Group] Poison Coating -->
+	<item_collecting id="30010" start_npc_ids="799031" action_item_ids="700567"/>
+	<!-- [Group] Axe Another Favor -->
+	<item_collecting id="30013" start_npc_ids="799030"/>
+	<!-- [Group] A Reian In The Sun -->
+	<item_collecting id="30014" start_npc_ids="799030"/>
+	<!-- [Coin/Group] A New Spin On Death -->
+	<monster_hunt id="30033" start_npc_ids="799031" start_dialog_id="1011" end_dialog_id="1352">
+		<monster var="0" npc_ids="215848 215849" end_var="10"/>
+	</monster_hunt>
+	<!-- Defeat Udas Temple Bosses -->
+	<monster_hunt id="60043" start_npc_ids="798990" start_dialog_id="1011" end_dialog_id="1352">
+		<monster var="0" npc_ids="215793" end_var="1"/>
+		<monster var="1" npc_ids="215795" end_var="1"/>
+	</monster_hunt>
+	
+	<!-- Goodwill Envoy -->
+	<report_to id="30101" start_npc_ids="799226" end_npc_ids="799333"/>
+	<!-- Secret Of The Dragonbound -->
+	<item_collecting id="30102" start_npc_ids="799333"/>
+	<!-- [Group] Suppressing The Dragonbound -->
+	<monster_hunt id="30105" start_npc_ids="799333" start_dialog_id="1011" end_dialog_id="1352">
+		<monster var="0" npc_ids="215808 216335 216343 215857 216351" end_var="25"/>
+	    <monster var="0" npc_ids="281368 215858 216344 215809 216336" end_var="25"/>
+		<monster var="0" npc_ids="216352 216328 215815" end_var="25"/>
+	</monster_hunt>
+	<!-- Deciphering Drakan -->
+	<item_order id="30107" start_item_id="182209183" talk_npc_id1="799030" end_npc_id="799029"/>
+	<!-- [Group] Heart Of The Matter -->
+	<item_collecting id="30108" start_npc_ids="799333" action_item_ids="700566" movie="561"/>
+	<!-- [Group] Pieces Of The Past -->
+	<item_collecting id="30109" start_npc_ids="799333"/>
+	<!-- [Group] Swimming In Poison -->
+	<item_collecting id="30110" start_npc_ids="799335" action_item_ids="700567"/>
+	<!-- [Group] Fan Flames Of Vengeance -->
+	<monster_hunt id="30113" start_npc_ids="799337" start_dialog_id="1011" end_dialog_id="1352">
+	    <monster var="0" npc_ids="215786" end_var="1"/>
+		<monster var="1" npc_ids="215784" end_var="1"/>
+		<monster var="2" npc_ids="215820" end_var="10"/>
+	</monster_hunt>
+	<!-- [Group] Revenge's Last Link -->
+	<monster_hunt id="30114" start_npc_ids="799337" start_dialog_id="1011" end_dialog_id="1352">
+	    <monster var="0" npc_ids="216156" end_var="1"/>
+	</monster_hunt>
+	<!-- [Coin/Group] Chakra Choking -->
+	<monster_hunt id="30133" start_npc_ids="799335" start_dialog_id="1011" end_dialog_id="1352">
+		<monster var="0" npc_ids="215848 215849" end_var="10"/>
+	</monster_hunt>
+	<!-- Death To Udas Temple Bosses -->
+	<monster_hunt id="70043" start_npc_ids="799295" start_dialog_id="1011" end_dialog_id="1352">
+		<monster var="0" npc_ids="215793" end_var="1"/>
+		<monster var="1" npc_ids="215795" end_var="1"/>
+	</monster_hunt>
+</quest_scripts>

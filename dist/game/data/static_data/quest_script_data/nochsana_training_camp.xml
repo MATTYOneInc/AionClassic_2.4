@@ -1,0 +1,30 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+<!--
+    Quest Nochsana Training Camp
+	Make By Encom
+ -->
+	<!-- Teach Them A Lesson -->
+	<report_to id="3701" start_npc_ids="278533" end_npc_ids="278517"/>
+	<!-- [Group] Cut Off The Head Of The Class -->
+	<monster_hunt id="3703" start_npc_ids="278517" end_dialog_id="1352">
+		<monster var="0" npc_ids="256690" end_var="1"/>
+		<monster var="1" npc_ids="256689" end_var="1"/>
+		<monster var="2" npc_ids="256692" end_var="1"/>
+		<monster var="3" npc_ids="256691" end_var="1"/>
+	</monster_hunt>
+	<!-- [Group] Weapon's Inspection -->
+	<item_collecting id="3704" start_npc_ids="278627" action_item_ids="700415"/>
+	
+	<!-- An Important Message -->
+	<report_to id="4701" start_npc_ids="278035" end_npc_ids="278016"/>
+	<!-- [Group] The Draconute Instructor -->
+	<monster_hunt id="4703" start_npc_ids="278016" end_dialog_id="1352">
+		<monster var="0" npc_ids="256690" end_var="1"/>
+		<monster var="1" npc_ids="256689" end_var="1"/>
+		<monster var="2" npc_ids="256692" end_var="1"/>
+		<monster var="3" npc_ids="256691" end_var="1"/>
+	</monster_hunt>
+	<!-- [Group] Prototype Weapon -->
+	<item_collecting id="4704" start_npc_ids="278126" action_item_ids="700415"/>
+ </quest_scripts>

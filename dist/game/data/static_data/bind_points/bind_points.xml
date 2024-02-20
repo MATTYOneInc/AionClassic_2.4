@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Bind Point
+	Correct Official Price From N.A Server
+	Develop: ADev.Team
+ -->
+<bind_points xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="bind_points.xsd">
+	<!-- BIND POINT ELYOS -->
+	<!-- POETA -->
+	<bind_point name="Akarios Village" npcid="700013" price="40"/>
+	<bind_point name="Melponeh Campsite" npcid="700014" price="120"/>
+	<!-- SANCTUM -->
+	<bind_point name="Exalted Path" npcid="700018" price="1694"/>
+	<!-- VERTERON -->
+	<bind_point name="Verteron Citadel" npcid="700015" price="484"/>
+	<bind_point name="Tolbas Village" npcid="700016" price="677"/>
+	<bind_point name="Ardus Shrine" npcid="700017" price="871"/>
+	<bind_point name="Verteron Observatory" npcid="700019" price="968"/>
+	<bind_point name="Pilgrim's Respite" npcid="700020" price="871"/>
+	<!-- ELTNEN -->
+	<bind_point name="Eltnen Fortress" npcid="700021" price="2879"/>
+	<bind_point name="Golden Bough Garrison" npcid="700022" price="4997"/>
+	<bind_point name="Agairon Village" npcid="700023" price="6860"/>
+	<bind_point name="Eltnen Observatory" npcid="700255" price="7623"/>
+	<bind_point name="Novan Crossing" npcid="700256" price="5674"/>
+	<bind_point name="Kuriullu Outpost" npcid="700257" price="8046"/>
+	<!-- HEIRON -->
+	<bind_point name="New Heiron Gate" npcid="700024" price="6776"/>
+	<bind_point name="Heiron Observatory" npcid="700025" price="9002"/>
+	<bind_point name="Arbolu's Haven" npcid="700026" price="11761"/>
+	<bind_point name="Jeiaparan Village" npcid="700027" price="12741"/>
+	<bind_point name="Senea's Campsite" npcid="700818" price="7260"/>
+	<bind_point name="Kishar Observation Post" npcid="700819" price="9680"/>
+	<bind_point name="Changarnerk's Campsite" npcid="700820" price="12100"/>
+	<!-- THEOBOMOS -->
+	<bind_point name="Meniherk Excavation Camp" npcid="700343" price="2286"/>
+	<bind_point name="Observatory Village" npcid="700399" price="21780"/>
+	<bind_point name="Jamanok Inn" npcid="700400" price="24502"/>
+	<bind_point name="Anangke Excavation Camp" npcid="700816" price="22869"/>
+	<bind_point name="Josnack's Vigil" npcid="700817" price="20328"/>
+	<!-- INGGISON -->
+	<bind_point name="Inggison Illusion Fortress" npcid="730235" price="26620"/>
+	<bind_point name="Soteria Sanctuary" npcid="730236" price="28435"/>
+	<bind_point name="Undirborg Observation Post" npcid="730281" price="41624"/>
+	<bind_point name="Hanarkand Observation Post" npcid="730282" price="44044"/>
+	
+	<!-- BIND POINT ASMODIANS -->
+	<!-- ISHALGEN -->
+	<bind_point name="Aldelle Village" npcid="700063" price="40"/>
+	<bind_point name="Anturoon Sentry Post" npcid="700064" price="120"/>
+	<!-- PANDAEMONIUM -->
+	<bind_point name="Vifrost Bridge" npcid="700068" price="1694"/>
+	<!-- ALTGARD -->
+	<bind_point name="Altgard Fortress" npcid="700065" price="484"/>
+	<bind_point name="Basfelt Village" npcid="700066" price="677"/>
+	<bind_point name="Heart Of Impetusium" npcid="700067" price="871"/>
+	<bind_point name="Altgard Observatory" npcid="700822" price="2178"/>
+	<bind_point name="Trader Berth" npcid="700821" price="2178"/>
+	<!-- MORHEIM -->
+	<bind_point name="Morheim Ice Fortress" npcid="700231" price="2879"/>
+	<bind_point name="Desert Garrison" npcid="700213" price="4658"/>
+	<bind_point name="Alsig Village" npcid="700232" price="2500"/>
+	<bind_point name="Morheim Observatory" npcid="700260" price="2500"/>
+	<bind_point name="Kellans Cabin" npcid="700258" price="3980"/>
+	<bind_point name="Halabana Outpost" npcid="700261" price="2500"/>
+	<bind_point name="Slag Bulwark" npcid="700259" price="4658"/>
+	<!-- BELUSLAN -->
+	<bind_point name="Beluslan Fortress" npcid="700297" price="4000"/>
+	<bind_point name="Besfer Refugee Camp" npcid="700298" price="4000"/>
+	<bind_point name="Red Mane Cavern" npcid="700299" price="4000"/>
+	<bind_point name="Camp Kistenian" npcid="700300" price="4000"/>
+	<bind_point name="Hoarfrost Shelter" npcid="700301" price="4000"/>
+	<bind_point name="Kidorun Campsite" npcid="700825" price="4000"/>
+	<!-- BRUSTHONIN -->
+	<bind_point name="Settlers Campsite" npcid="700344" price="5500"/>
+	<bind_point name="Baltasar Hill Village" npcid="700401" price="5500"/>
+	<bind_point name="BuBu Village" npcid="700402" price="5500"/>
+	<bind_point name="Edge Of Forment" npcid="700823" price="5500"/>
+	<bind_point name="Iollu Overlook" npcid="700824" price="5500"/>
+	<!-- RESHANTA -->
+	<bind_point name="Teminon Landing" npcid="730071" price="4356"/>
+	<bind_point name="Primum Landing" npcid="730072" price="4356"/>
+	<!-- GELKMAROS -->
+	<bind_point name="Gelkmaros Fortress" npcid="730238" price="26620"/>
+	<bind_point name="Rhonnam Refugee Village" npcid="730239" price="28435"/>
+	<bind_point name="Subterranea Obsvervation Post" npcid="730283" price="41624"/>
+	<bind_point name="Vorgaltem Scout Post" npcid="730284" price="44044"/>
+	
+	<!-- TELOS -->
+	<bind_point name="Telos E" npcid="701408" price="40"/>
+	<bind_point name="Telos E" npcid="701409" price="120"/>
+	<bind_point name="Telos A" npcid="701410" price="40"/>
+	<bind_point name="Telos A" npcid="701411" price="120"/>
+</bind_points>

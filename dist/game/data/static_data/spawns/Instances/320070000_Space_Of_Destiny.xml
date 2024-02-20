@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Space Of Destiny
+	Re-newed By Rinzler
+ -->
+<spawns>
+	<spawn_map map_id="320070000">
+		<!-- skuld_q2900 -->
+		<spawn npc_id="204264">
+			<spot x="257.529205" y="250.655914" z="125.000000" h="51"/>
+		</spawn>
+	</spawn_map>
+</spawns>

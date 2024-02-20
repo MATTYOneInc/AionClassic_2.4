@@ -1,0 +1,150 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc_walker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<walker_template route_id="idtiamatlab_q_npcpathidq_monster1" pool="1">
+	    <routestep step="1" x="683.0000" y="455.0000" z="147.7500"/>
+		<routestep step="2" x="698.0000" y="455.0000" z="147.7500"/>
+		<routestep step="3" x="722.5000" y="455.0000" z="147.7500"/>
+		<routestep step="4" x="722.5000" y="494.0000" z="147.7500"/>
+		<routestep step="5" x="683.0000" y="494.0000" z="147.7500"/>
+	</walker_template>
+	<walker_template route_id="idtiamatlab_q_npcpathidq_monster20" pool="1">
+		<routestep step="1" x="637.5000" y="680.0000" z="152.1000"/>
+		<routestep step="2" x="637.5000" y="668.0000" z="152.1000"/>
+		<routestep step="3" x="640.5000" y="668.0000" z="152.1000"/>
+		<routestep step="4" x="640.5000" y="634.0000" z="139.51894"/>
+		<routestep step="5" x="634.0122" y="634.0221" z="139.51894"/>
+		<routestep step="6" x="634.1811" y="667.51465" z="127.1700"/>
+		<routestep step="7" x="630.0000" y="667.5000" z="127.1700"/>
+		<routestep step="8" x="630.0000" y="650.0000" z="127.1700"/>
+		<routestep step="9" x="633.5000" y="667.5000" z="127.1700"/>
+		<routestep step="10" x="634.1424" y="634.0381" z="139.51894"/>
+		<routestep step="11" x="640.5000" y="634.0000" z="139.51894"/>
+		<routestep step="12" x="640.5000" y="668.0000" z="152.1000"/>
+		<routestep step="13" x="637.5000" y="668.0000" z="152.10187"/>
+		<routestep step="14" x="637.5000" y="680.0000" z="152.1000"/>
+	</walker_template>
+	<walker_template route_id="idtiamatlab_q_npcpathidq_monster7" pool="1">
+		<routestep step="1" x="614.5000" y="472.5000" z="118.38287"/>
+		<routestep step="2" x="614.5000" y="500.5000" z="118.38287"/>
+		<routestep step="3" x="619.5000" y="500.5000" z="118.38287"/>
+		<routestep step="4" x="619.5000" y="530.5000" z="118.38287"/>
+		<routestep step="5" x="619.5000" y="500.5000" z="118.38287"/>
+		<routestep step="6" x="614.5000" y="500.5000" z="118.38287"/>
+		<routestep step="7" x="614.5000" y="472.5000" z="118.38287"/>
+	</walker_template>
+	<walker_template route_id="idtiamatlab_q_npcpathidq_monster8" pool="1">
+		<routestep step="1" x="614.5000" y="677.5000" z="118.38287"/>
+		<routestep step="2" x="615.0000" y="651.0000" z="118.38287"/>
+		<routestep step="3" x="620.5000" y="651.0000" z="118.38287"/>
+		<routestep step="4" x="620.5000" y="622.5000" z="118.38287"/>
+		<routestep step="5" x="620.5000" y="651.0000" z="118.38287"/>
+		<routestep step="6" x="615.0000" y="651.0000" z="118.38287"/>
+		<routestep step="7" x="614.5000" y="677.5000" z="118.38287"/>
+	</walker_template>
+	<walker_template route_id="idtiamatlab_q_npcpathidq_monster4" pool="1">
+		<routestep step="1" x="637.5000" y="471.5000" z="152.09505"/>
+		<routestep step="2" x="637.5000" y="483.5000" z="152.09505"/>
+		<routestep step="3" x="640.5000" y="483.5000" z="152.09505"/>
+		<routestep step="4" x="640.5000" y="517.5000" z="139.50998"/>
+		<routestep step="5" x="634.8669" y="517.5149" z="139.50998"/>
+		<routestep step="6" x="635.1012" y="484.0294" z="127.1700"/>
+		<routestep step="7" x="629.5000" y="484.0000" z="127.1700"/>
+		<routestep step="8" x="629.5000" y="502.5000" z="127.1700"/>
+		<routestep step="9" x="635.1187" y="484.0484" z="127.1700"/>
+		<routestep step="10" x="634.8805" y="517.5093" z="139.50998"/>
+		<routestep step="11" x="640.5000" y="517.5000" z="139.50998"/>
+		<routestep step="12" x="640.5000" y="483.5000" z="152.09505"/>
+		<routestep step="13" x="637.5000" y="483.5000" z="152.09505"/>
+		<routestep step="14" x="637.5000" y="471.5000" z="152.09505"/>
+	</walker_template>
+	<walker_template route_id="idtiamatlab_q_npcpathidq_monster3" pool="1">
+		<routestep step="1" x="702.5000" y="449.0000" z="149.9356"/>
+		<routestep step="2" x="683.0000" y="449.0000" z="147.7500"/>
+        <routestep step="3" x="722.5000" y="449.0000" z="147.7500"/>
+		<routestep step="4" x="702.5000" y="449.0000" z="149.9356"/>
+	</walker_template>
+	<walker_template route_id="idtiamatlab_q_npcpathidq_monster17" pool="1">
+		<routestep step="1" x="552.0000" y="489.5000" z="135.36638"/>
+		<routestep step="2" x="552.0000" y="516.5000" z="132.16638"/>
+		<routestep step="3" x="561.5000" y="516.5000" z="132.16638"/>
+		<routestep step="4" x="582.5000" y="550.0000" z="132.16638"/>
+		<routestep step="5" x="582.5000" y="561.0000" z="132.16638"/>
+		<routestep step="6" x="582.5000" y="550.0000" z="132.16638"/>
+		<routestep step="7" x="561.5000" y="516.5000" z="132.16638"/>
+		<routestep step="8" x="552.0000" y="516.5000" z="132.16638"/>
+		<routestep step="9" x="552.0000" y="489.5000" z="135.36638"/>
+	</walker_template>
+	<walker_template route_id="idtiamatlab_q_npcpathidq_monster5" pool="1">
+		<routestep step="1" x="677.0000" y="475.0000" z="149.95416"/>
+		<routestep step="2" x="677.0000" y="493.0000" z="147.7500"/>
+		<routestep step="3" x="677.0000" y="475.0000" z="149.95416"/>
+		<routestep step="4" x="664.0000" y="475.0000" z="152.31694"/>
+		<routestep step="5" x="664.0000" y="439.0000" z="152.31694"/>
+		<routestep step="6" x="664.0000" y="475.0000" z="152.31694"/>
+		<routestep step="7" x="677.0000" y="475.0000" z="149.95416"/>
+	</walker_template>
+	<walker_template route_id="idtiamatlab_q_npcpathidq_monster18" pool="1">
+		<routestep step="1" x="552.5000" y="659.0000" z="135.36636"/>
+		<routestep step="2" x="552.5000" y="636.0000" z="132.16638"/>
+		<routestep step="3" x="561.0000" y="636.0000" z="132.16638"/>
+		<routestep step="4" x="582.5000" y="602.0000" z="132.16638"/>
+		<routestep step="5" x="582.5000" y="590.5000" z="132.16638"/>
+		<routestep step="6" x="582.5134" y="602.5176" z="132.16638"/>
+		<routestep step="7" x="561.0099" y="636.7812" z="132.16638"/>
+		<routestep step="8" x="552.5141" y="636.5932" z="132.16638"/>
+		<routestep step="9" x="552.5005" y="659.8714" z="135.36636"/>
+	</walker_template>
+	<walker_template route_id="idtiamatlab_q_npcpathidq_monster12" pool="3" formation="SQUARE" rows="2,1">
+		<routestep step="1" x="552.5000" y="576.0000" z="148.03827"/>
+		<routestep step="2" x="581.00116" y="576.1632" z="139.87003"/>
+		<routestep step="3" x="634.70624" y="576.18787" z="132.34383"/>
+		<routestep step="4" x="581.1224" y="576.0017" z="139.87003"/>
+		<routestep step="5" x="552.63525" y="576.0000" z="148.03827"/>
+	</walker_template>
+	<walker_template route_id="idtiamatlab_q_npcpathidq_monster6" pool="1">
+		<routestep step="1" x="723.5000" y="431.0000" z="152.31804"/>
+		<routestep step="2" x="716.0000" y="431.0000" z="152.31696"/>
+		<routestep step="3" x="740.5000" y="431.0000" z="152.3219"/>
+		<routestep step="4" x="740.3233" y="472.99445" z="152.31696"/>
+		<routestep step="5" x="740.4975" y="431.23828" z="152.31696"/>
+		<routestep step="6" x="723.5000" y="431.17896" z="152.31696"/>
+	</walker_template>
+	<walker_template route_id="idtiamatlab_q_npcpathidq_monster15" pool="1">
+		<routestep step="1" x="620.5000" y="599.5000" z="133.5180"/>
+        <routestep step="2" x="596.5000" y="599.5000" z="133.5180"/>
+        <routestep step="3" x="641.0000" y="599.5000" z="133.5180"/>
+        <routestep step="4" x="620.7731" y="599.5076" z="133.5180"/>
+	</walker_template>
+	<walker_template route_id="idtiamatlab_q_npcpathidq_monster14" pool="1">
+		<routestep step="1" x="620.5000" y="552.5000" z="133.51808"/>
+        <routestep step="2" x="596.5000" y="552.5000" z="133.51808"/>
+        <routestep step="3" x="641.0000" y="552.5000" z="133.51808"/>
+        <routestep step="4" x="620.7181" y="552.5000" z="133.51808"/>
+	</walker_template>
+	<walker_template route_id="idtiamatlab_q_npcpathidq_monster21" pool="1">
+		<routestep step="1" x="772.8500" y="491.2800" z="152.1700"/>
+		<routestep step="2" x="785.3100" y="493.4700" z="152.1250"/>
+		<routestep step="3" x="798.3500" y="494.9900" z="152.9006"/>
+		<routestep step="4" x="814.1000" y="496.5900" z="156.4937"/>
+		<routestep step="5" x="826.5100" y="495.4100" z="155.8012"/>
+		<routestep step="6" x="814.0784" y="496.6040" z="156.4951"/>
+		<routestep step="7" x="798.7629" y="495.1557" z="152.9934"/>
+		<routestep step="8" x="785.1916" y="493.4251" z="152.1250"/>
+		<routestep step="9" x="769.9600" y="490.7100" z="152.4500"/>
+	</walker_template>
+	<walker_template route_id="idtiamatlab_q_npcpathidtiamatlab_q_design3" pool="2" formation="SQUARE" rows="1,1">
+		<routestep step="1" x="481.5000" y="490.0000" z="145.51187"/>
+		<routestep step="2" x="492.0000" y="483.5000" z="143.98453"/>
+		<routestep step="3" x="499.0000" y="481.5000" z="143.13881"/>
+		<routestep step="4" x="512.0000" y="480.0000" z="141.4302"/>
+		<routestep step="5" x="520.0000" y="477.0000" z="140.08115"/>
+		<routestep step="6" x="528.0000" y="475.5000" z="139.34792"/>
+		<routestep step="7" x="537.0000" y="476.0000" z="138.86815"/>
+		<routestep step="8" x="528.0000" y="475.5000" z="139.34792"/>
+		<routestep step="9" x="520.0000" y="477.0000" z="140.08115"/>
+		<routestep step="10" x="512.0000" y="480.0000" z="141.4302"/>
+		<routestep step="11" x="499.0000" y="481.5000" z="143.13881"/>
+		<routestep step="12" x="492.0000" y="483.5000" z="143.98453"/>
+		<routestep step="13" x="481.5000" y="490.0000" z="145.51187"/>
+	</walker_template>
+</npc_walker>

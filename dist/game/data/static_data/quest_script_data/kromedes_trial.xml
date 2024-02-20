@@ -1,0 +1,188 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+<!--
+    Quest Kromede's Trial
+	Make By Encom
+ -->
+	<!-- Scoring Some Bad Stigma -->
+	<report_to_many id="18600" start_npc_ids="204500" end_npc_ids="204500" start_dialog_id="1011">
+	    <npc_infos npc_id="798321" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="205228" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="204500" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Nightmare On My Street -->
+	<report_to_many id="18601" start_npc_ids="204500" end_npc_ids="205229" start_dialog_id="1011">
+        <npc_infos npc_id="205229" var="0" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	
+	<!-- Dreams Of The Dungeon -->
+	<monster_hunt id="18605" start_npc_ids="205230" end_dialog_id="1352">
+        <monster var="0" npc_ids="216970 216971 216972 217026 217027" end_var="8"/>
+    </monster_hunt>
+	<!-- To Dream, To Die -->
+	<monster_hunt id="18606" start_npc_ids="205231" end_dialog_id="1352">
+        <monster var="0" npc_ids="216968" end_var="1"/>
+    </monster_hunt>
+	<!-- [Coin] Quell The Nightmare -->
+	<monster_hunt id="18617" start_npc_ids="204639" end_dialog_id="1352">
+        <monster var="0" npc_ids="217005 217006" end_var="1"/>
+    </monster_hunt>
+	<!-- Nightmare That Must End -->
+	<monster_hunt id="60014" start_npc_ids="205230" end_dialog_id="1352">
+		<monster var="0" npc_ids="216973 216974 216975 216976 216977 216978 216979 216983 216984 216985 217028 217029" end_var="10"/>
+		<monster var="1" npc_ids="216987 216988 216989 216990 216991 216992 217031 217035 217036" end_var="10"/>
+	</monster_hunt>
+	
+	<!-- Dream Fragment -->
+	<item_collecting start_npc_ids="205232" id="18607"/>
+	<!-- The Crying Sword -->
+	<item_collecting start_npc_ids="205232" id="18608"/>
+	<!-- The Crying Warhammer -->
+	<item_collecting start_npc_ids="205232" id="18609"/>
+	<!-- The Crying Dagger -->
+	<item_collecting start_npc_ids="205232" id="18610"/>
+	<!-- The Crying Jewel -->
+	<item_collecting start_npc_ids="205232" id="18611"/>
+	<!-- The Crying Tome -->
+	<item_collecting start_npc_ids="205232" id="18612"/>
+	<!-- The Crying Greatsword -->
+	<item_collecting start_npc_ids="205232" id="18613"/>
+	<!-- The Crying Spear -->
+	<item_collecting start_npc_ids="205232" id="18614"/>
+	<!-- The Crying Staff -->
+	<item_collecting start_npc_ids="205232" id="18615"/>
+	<!-- The Crying Longbow -->
+	<item_collecting start_npc_ids="205232" id="18616"/>
+	<!-- The Crying ChainSword -->
+	<item_collecting start_npc_ids="205232" id="18638"/>
+	
+	<!-- Kaliga's Sword Collection -->
+	<item_collecting start_npc_ids="730326" id="18618"/>
+	<!-- Kaliga's Greatsword Collection -->
+	<item_collecting start_npc_ids="730327" id="18619"/>
+	<!-- Kaliga's Dagger Collection -->
+	<item_collecting start_npc_ids="730328" id="18620"/>
+	<!-- Kaliga's Polearm Collection -->
+	<item_collecting start_npc_ids="730329" id="18621"/>
+	<!-- Kaliga's Bow Collection -->
+	<item_collecting start_npc_ids="730330" id="18622"/>
+	<!-- Kaliga's Mace Collection -->
+	<item_collecting start_npc_ids="730331" id="18623"/>
+	<!-- Kaliga's Staff Collection -->
+	<item_collecting start_npc_ids="730332" id="18624"/>
+	<!-- Kaliga's Tome Collection -->
+	<item_collecting start_npc_ids="730333" id="18625"/>
+	<!-- Kaliga's Orb Collection -->
+	<item_collecting start_npc_ids="730334" id="18626"/>
+	<!-- Kaliga's Shield Collection -->
+	<item_collecting start_npc_ids="730335" id="18627"/>
+	
+	<!-- Judge's Flame-Heated Sword -->
+	<item_collecting start_npc_ids="205232" id="18628"/>
+	<!-- Judge's Flame-Heated Warhammer -->
+	<item_collecting start_npc_ids="205232" id="18629"/>
+	<!-- Judge's Flame-Heated Dagger -->
+	<item_collecting start_npc_ids="205232" id="18630"/>
+	<!-- Judge's Flame-Heated Jewel -->
+	<item_collecting start_npc_ids="205232" id="18631"/>
+	<!-- Judge's Flame-Heated Tome -->
+	<item_collecting start_npc_ids="205232" id="18632"/>
+	<!-- Judge's Flame-Heated Greatsword -->
+	<item_collecting start_npc_ids="205232" id="18633"/>
+	<!-- Judge's Flame-Heated Spear -->
+	<item_collecting start_npc_ids="205232" id="18634"/>
+	<!-- Judge's Flame-Heated Staff -->
+	<item_collecting start_npc_ids="205232" id="18635"/>
+	<!-- Judge's Flame-Heated Longbow -->
+	<item_collecting start_npc_ids="205232" id="18636"/>
+	<!-- Judge's Flame-Heated ChainSword -->
+	<item_collecting start_npc_ids="205232" id="18639"/>
+	
+	<!-- Nightmares And Dreamscapes -->
+	<report_to_many id="28601" start_npc_ids="204702" end_npc_ids="205234" start_dialog_id="1011">
+        <npc_infos npc_id="205234" var="0" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	
+	<!-- Seeking Slumber -->
+	<monster_hunt id="28605" start_npc_ids="205235" end_dialog_id="1352">
+		<monster var="0" npc_ids="216970 216971 216972 217026 217027" end_var="8"/>
+    </monster_hunt>
+	<!-- An Honorable Death -->
+	<monster_hunt id="28606" start_npc_ids="205236" end_dialog_id="1352">
+        <monster var="0" npc_ids="216968" end_var="1"/>
+    </monster_hunt>
+	<!-- [Coin] Confirmation In Dream's -->
+	<monster_hunt id="28617" start_npc_ids="205235" end_dialog_id="1352">
+        <monster var="0" npc_ids="217005 217006" end_var="1"/>
+    </monster_hunt>
+	<!-- Nightmare That Must End -->
+	<monster_hunt id="70014" start_npc_ids="205235" end_dialog_id="1352">
+		<monster var="0" npc_ids="216973 216974 216975 216976 216977 216978 216979 216983 216984 216985 217028 217029" end_var="10"/>
+		<monster var="1" npc_ids="216987 216988 216989 216990 216991 216992 217031 217035 217036" end_var="10"/>
+	</monster_hunt>
+	
+	<!-- A Blacksmith's Dream -->
+	<item_collecting start_npc_ids="205237" id="28607"/>
+	<!-- Judge's Tear-Soaked Sword -->
+	<item_collecting start_npc_ids="205237" id="28608"/>
+	<!-- Judge's Tear-Soaked Warhammer -->
+	<item_collecting start_npc_ids="205237" id="28609"/>
+	<!-- Judge's Tear-Soaked Dagger -->
+	<item_collecting start_npc_ids="205237" id="28610"/>
+	<!-- Judge's Tear-Soaked Jewel -->
+	<item_collecting start_npc_ids="205237" id="28611"/>
+	<!-- Judge's Tear-Soaked Tome -->
+	<item_collecting start_npc_ids="205237" id="28612"/>
+	<!-- Judge's Tear-Soaked Greatsword -->
+	<item_collecting start_npc_ids="205237" id="28613"/>
+	<!-- Judge's Tear-Soaked Spear -->
+	<item_collecting start_npc_ids="205237" id="28614"/>
+	<!-- Judge's Tear-Soaked Staff -->
+	<item_collecting start_npc_ids="205237" id="28615"/>
+	<!-- Judge's Tear-Soaked Longbow -->
+	<item_collecting start_npc_ids="205237" id="28616"/>
+	<!-- Judge's Tear-Soaked ChainSword -->
+	<item_collecting start_npc_ids="205237" id="28638"/>
+	
+	<!-- Kaliga's Sword Collection -->
+	<item_collecting start_npc_ids="730326" id="28618"/>
+	<!-- Kaliga's Greatsword Collection -->
+	<item_collecting start_npc_ids="730327" id="28619"/>
+	<!-- Kaliga's Dagger Collection -->
+	<item_collecting start_npc_ids="730328" id="28620"/>
+	<!-- Kaliga's Polearm Collection -->
+	<item_collecting start_npc_ids="730329" id="28621"/>
+	<!-- Kaliga's Bow Collection -->
+	<item_collecting start_npc_ids="730330" id="28622"/>
+	<!-- Kaliga's Mace Collection -->
+	<item_collecting start_npc_ids="730331" id="28623"/>
+	<!-- Kaliga's Staff Collection -->
+	<item_collecting start_npc_ids="730332" id="28624"/>
+	<!-- Kaliga's Tome Collection -->
+	<item_collecting start_npc_ids="730333" id="28625"/>
+	<!-- Kaliga's Orb Collection -->
+	<item_collecting start_npc_ids="730334" id="28626"/>
+	<!-- Kaliga's Shield Collection -->
+	<item_collecting start_npc_ids="730335" id="28627"/>
+	
+	<!-- Judge's Flame-Heated Sword -->
+	<item_collecting start_npc_ids="205237" id="28628"/>
+	<!-- Judge's Flame-Heated Warhammer -->
+	<item_collecting start_npc_ids="205237" id="28629"/>
+	<!-- Judge's Flame-Heated Dagger -->
+	<item_collecting start_npc_ids="205237" id="28630"/>
+	<!-- Judge's Flame-Heated Jewel -->
+	<item_collecting start_npc_ids="205237" id="28631"/>
+	<!-- Judge's Flame-Heated Tome -->
+	<item_collecting start_npc_ids="205237" id="28632"/>
+	<!-- Judge's Flame-Heated Greatsword -->
+	<item_collecting start_npc_ids="205237" id="28633"/>
+	<!-- Judge's Flame-Heated Spear -->
+	<item_collecting start_npc_ids="205237" id="28634"/>
+	<!-- Judge's Flame-Heated Staff -->
+	<item_collecting start_npc_ids="205237" id="28635"/>
+	<!-- Judge's Flame-Heated Longbow -->
+	<item_collecting start_npc_ids="205237" id="28636"/>
+	<!-- Judge's Flame-Heated ChainSword -->
+	<item_collecting start_npc_ids="205237" id="28639"/>
+</quest_scripts>

@@ -1,0 +1,147 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+<!--
+    Quest Steel Rake
+	Make By Encom
+ -->
+	<!-- [Group] Steel Rake Spy -->
+	<report_to_many id="3209" start_npc_ids="798322" end_npc_ids="798331" start_dialog_id="1011">
+        <npc_infos npc_id="798320" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="798331" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- [Group] Against The Steel Rake -->
+	<monster_hunt id="3211" start_npc_ids="798331" end_npc_ids="798322">
+		<monster var="1" npc_ids="215069" end_var="1"/>
+		<monster var="2" npc_ids="215070" end_var="1"/>
+		<monster var="3" npc_ids="215081" end_var="1"/>
+	</monster_hunt>
+	<!-- [Group] Revenge Of Himusus -->
+	<monster_hunt id="3213" start_npc_ids="203735">
+		<monster var="0" npc_ids="214984" end_var="20"/>
+	</monster_hunt>
+	<!-- [Group] Bring Back The Booty -->
+	<item_collecting id="3215" start_npc_ids="203750"/>
+	<!-- [Group] Plunder The Pirates -->
+	<item_collecting id="3216" start_npc_ids="798318"/>
+	<!-- Suspicious Shugo -->
+	<report_to id="3221" start_npc_ids="204530" end_npc_ids="204658"/>
+	<!-- 청동이빨 가르키온 처치 -->
+	<monster_hunt id="19537" start_npc_ids="798322" end_dialog_id="1352">
+		<monster var="0" npc_ids="215052" end_var="1"/>
+	</monster_hunt>
+	<!-- 불꽃날개 그리폰 처치 -->
+	<monster_hunt id="19538" start_npc_ids="798322" end_dialog_id="1352">
+		<monster var="0" npc_ids="215051" end_var="1"/>
+	</monster_hunt>
+	<!-- Traders' Reputation -->
+	<monster_hunt id="60015" start_npc_ids="798322">
+		<monster var="0" npc_ids="214913 214914 214915 214916 214919 214920" end_var="5"/>
+		<monster var="0" npc_ids="214937 214938 214943 214944" end_var="5"/>
+		<monster var="0" npc_ids="214945 214946 214947 214949 214950 214951 214952" end_var="5"/>
+		<monster var="1" npc_ids="214993 214994 214995 214998 214999" end_var="3"/>
+		<monster var="2" npc_ids="215009 215010 215011 215015" end_var="2"/>
+	</monster_hunt>
+	<!-- Defeat Special Delivery -->
+	<monster_hunt id="60035" start_npc_ids="798321">
+		<monster var="0" npc_ids="215054 215055 215074 215075 215076 215077" end_var="1"/>
+	</monster_hunt>
+	<!-- Control Of The Ship -->
+	<monster_hunt id="60036" start_npc_ids="798322">
+		<monster var="0" npc_ids="215081" end_var="1"/>
+	</monster_hunt>
+	<!-- Shulack, I Need More Power! -->
+	<monster_hunt id="60037" start_npc_ids="798322">
+		<monster var="0" npc_ids="215080" end_var="1"/>
+	</monster_hunt>
+	<!-- Unforeseen Problems -->
+	<monster_hunt id="60038" start_npc_ids="798319">
+		<monster var="0" npc_ids="215070" end_var="1"/>
+	</monster_hunt>
+	<!-- Defeat Largimark The Smoker -->
+	<monster_hunt id="60039" start_npc_ids="798319">
+		<monster var="0" npc_ids="215067" end_var="1"/>
+	</monster_hunt>
+	<!-- Defeat Golden Eye Mantutu -->
+	<monster_hunt id="60040" start_npc_ids="798321">
+		<monster var="0" npc_ids="215079" end_var="1"/>
+	</monster_hunt>
+	<!-- Defeat First Mate Menekiki -->
+	<monster_hunt id="60041" start_npc_ids="798321">
+		<monster var="0" npc_ids="215069" end_var="1"/>
+	</monster_hunt>
+	<!-- Defeat Krall Elite Prison Guard -->
+	<monster_hunt id="60042" start_npc_ids="798319">
+		<monster var="0" npc_ids="215048" end_var="20"/>
+	</monster_hunt>
+	
+	<!-- [Group] Rendezvous With The Spy -->
+	<report_to_many id="4209" start_npc_ids="204286" end_npc_ids="798331" start_dialog_id="1011">
+        <npc_infos npc_id="204284" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="798331" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- [Group] Steel Rake Slaughter -->
+	<monster_hunt id="4211" start_npc_ids="798331" end_npc_ids="204286">
+		<monster var="1" npc_ids="215069" end_var="1"/>
+		<monster var="2" npc_ids="215070" end_var="1"/>
+		<monster var="3" npc_ids="215081" end_var="1"/>
+	</monster_hunt>
+	<!-- [Group] Unfortunate Baba Hun -->
+	<monster_hunt id="4213" start_npc_ids="204792">
+		<monster var="0" npc_ids="215032 215033 215408" end_var="4"/>
+		<monster var="1" npc_ids="215410" end_var="4"/>
+	</monster_hunt>
+	<!-- [Group] The Medicine Thief -->
+	<item_collecting id="4215" start_npc_ids="204072"/>
+	<!-- [Group] A Present For Father -->
+	<item_collecting id="4216" start_npc_ids="204282"/>
+	<!-- The Shugo From Pandaemonium -->
+	<report_to id="4221" start_npc_ids="204710" end_npc_ids="204839"/>
+	<!-- 청동이빨 가르키온 제압 -->
+	<monster_hunt id="29537" start_npc_ids="204286" end_dialog_id="1352">
+		<monster var="0" npc_ids="215052" end_var="1"/>
+	</monster_hunt>
+	<!-- 불꽃날개 그리폰 제압 -->
+	<monster_hunt id="29538" start_npc_ids="204286" end_dialog_id="1352">
+		<monster var="0" npc_ids="215051" end_var="1"/>
+	</monster_hunt>
+	<!-- Traders' Credibility -->
+	<monster_hunt id="70015" start_npc_ids="204283">
+		<monster var="0" npc_ids="214913 214914 214915 214916 214919 214920" end_var="5"/>
+		<monster var="0" npc_ids="214937 214938 214943 214944" end_var="5"/>
+		<monster var="0" npc_ids="214945 214946 214947 214949 214950 214951 214952" end_var="5"/>
+		<monster var="1" npc_ids="214993 214994 214995 214998 214999" end_var="3"/>
+		<monster var="2" npc_ids="215009 215010 215011 215015" end_var="2"/>
+	</monster_hunt>
+	<!-- Overpower Special Delivery -->
+	<monster_hunt id="70035" start_npc_ids="204284">
+		<monster var="0" npc_ids="215054 215055 215074 215075 215076 215077" end_var="1"/>
+	</monster_hunt>
+	<!-- Overpower Brass-Eye Grogget -->
+	<monster_hunt id="70036" start_npc_ids="204286">
+		<monster var="0" npc_ids="215081" end_var="1"/>
+	</monster_hunt>
+	<!-- Overpower Engineer Lahulahu -->
+	<monster_hunt id="70037" start_npc_ids="204286">
+		<monster var="0" npc_ids="215080" end_var="1"/>
+	</monster_hunt>
+	<!-- Overpower Chief Gunner Koakoa -->
+	<monster_hunt id="70038" start_npc_ids="204283">
+		<monster var="0" npc_ids="215070" end_var="1"/>
+	</monster_hunt>
+	<!-- Overpower Largimark the Smoker -->
+	<monster_hunt id="70039" start_npc_ids="204283">
+		<monster var="0" npc_ids="215067" end_var="1"/>
+	</monster_hunt>
+	<!-- Overpower Golden Eye Mantutu -->
+	<monster_hunt id="70040" start_npc_ids="204284">
+		<monster var="0" npc_ids="215079" end_var="1"/>
+	</monster_hunt>
+	<!-- Overpower First Mate Menekiki -->
+	<monster_hunt id="70041" start_npc_ids="204284">
+		<monster var="0" npc_ids="215069" end_var="1"/>
+	</monster_hunt>
+	<!-- Overpower Krall Elite Prison Guard -->
+	<monster_hunt id="70042" start_npc_ids="204283">
+		<monster var="0" npc_ids="215048" end_var="20"/>
+	</monster_hunt>
+</quest_scripts>

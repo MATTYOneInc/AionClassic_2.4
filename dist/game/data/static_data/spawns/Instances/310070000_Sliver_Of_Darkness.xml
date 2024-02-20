@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Sliver Of Darkness
+	Re-newed By Rinzler
+ -->
+<spawns>
+	<spawn_map map_id="310070000">
+		<!-- icaronix -->
+		<spawn npc_id="205110">
+			<spot x="338.000000" y="103.000000" z="1191.000000" h="0"/>
+		</spawn>
+		<!-- idlf1b_jewelbox_q1929 -->
+		<spawn npc_id="700240">
+			<spot x="196.469315" y="263.485504" z="1375.000000" entity_id="7"/>
+		</spawn>
+	</spawn_map>
+</spawns>

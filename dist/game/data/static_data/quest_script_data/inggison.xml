@@ -1,0 +1,453 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+<!--
+    Quest Inggison
+	Make By Encom
+ -->
+	<!-- Axe A Favor -->
+	<report_to id="30012" start_npc_ids="799032" end_npc_ids="799030"/>
+	<!-- Sword Of The Reians -->
+	<report_to id="30015" start_npc_ids="798903" end_npc_ids="799032"/>
+	<!-- Greatsword Of The Reians -->
+	<report_to id="30017" start_npc_ids="798903" end_npc_ids="799032"/>
+	<!-- Polearm Of The Reians -->
+	<report_to id="30019" start_npc_ids="798903" end_npc_ids="799032"/>
+	<!-- Staff Of The Reians -->
+	<report_to id="30021" start_npc_ids="798903" end_npc_ids="799032"/>
+	<!-- Spellbook Of The Reians -->
+	<report_to id="30023" start_npc_ids="798903" end_npc_ids="799032"/>
+	<!-- Orb Of The Reians -->
+	<report_to id="30025" start_npc_ids="798903" end_npc_ids="799032"/>
+	<!-- Bow Of The Reians -->
+	<report_to id="30027" start_npc_ids="798903" end_npc_ids="799032"/>
+	<!-- Dagger Of The Reians -->
+	<report_to id="30029" start_npc_ids="798903" end_npc_ids="799032"/>
+	<!-- Mace Of The Reians -->
+	<report_to id="30031" start_npc_ids="798903" end_npc_ids="799032"/>
+	<!-- 훼손된 사슬검 -->
+	<report_to id="30034" start_npc_ids="798903" end_npc_ids="799032"/>
+	
+	<item_collecting id="11004" start_npc_ids="798933" action_item_ids="700609"/>
+	<item_collecting id="11011" start_npc_ids="799071"/>
+	<item_collecting id="11015" start_npc_ids="798910"/>
+	<item_collecting id="11016" start_npc_ids="798910"/>
+	<item_collecting id="11022" start_npc_ids="798914"/>
+	<item_collecting id="11024" start_npc_ids="799049"/>
+	<item_collecting id="11025" start_npc_ids="798950"/>
+	<item_collecting id="11028" start_npc_ids="798951"/>
+	<item_collecting id="11037" start_npc_ids="798956"/>
+	<item_collecting id="11039" start_npc_ids="799035"/>
+	<item_collecting id="11041" start_npc_ids="798955"/>
+	<item_collecting id="11042" start_npc_ids="798957"/>
+	<item_collecting id="11043" start_npc_ids="798953" action_item_ids="700611 700612 700613 700614"/>
+	<item_collecting id="11044" start_npc_ids="798953"/>
+	<item_collecting id="11047" start_npc_ids="798952"/>
+	<!-- [Spy/Daily] A Shield Situation -->
+	<item_collecting id="11066" start_npc_ids="799049"/>
+	<item_collecting id="11101" start_npc_ids="798981"/>
+	<item_collecting id="11104" start_npc_ids="798978"/>
+	<item_collecting id="11108" start_npc_ids="798965"/>
+	<item_collecting id="11111" start_npc_ids="799075"/>
+	<item_collecting id="11112" start_npc_ids="798984" action_item_ids="700615"/>
+	<item_collecting id="11113" start_npc_ids="798984"/>
+	<item_collecting id="11114" start_npc_ids="798984"/>
+	<item_collecting id="11115" start_npc_ids="798985"/>
+	<item_collecting id="11218" start_npc_ids="799017"/>
+	<item_collecting id="11219" start_npc_ids="799017"/>
+	<item_collecting id="11121" start_npc_ids="798991"/>
+	<item_collecting id="11125" start_npc_ids="798996"/>
+	<item_collecting id="11127" start_npc_ids="798998"/>
+	<item_collecting id="11128" start_npc_ids="798998"/>
+	<item_collecting id="11130" start_npc_ids="798996"/>
+	<item_collecting id="11142" start_npc_ids="798986"/>
+	<item_collecting id="11146" start_npc_ids="798997" action_item_ids="700910"/>
+	<item_collecting id="11148" start_npc_ids="798993"/>
+	<item_collecting id="11203" start_npc_ids="799008"/>
+	<item_collecting id="11204" start_npc_ids="799008" action_item_ids="700911 700912 700913 700914"/>
+	<!-- [Daily] Protect What's Ours -->
+	<item_collecting id="11205" start_npc_ids="799004"/>
+	<!-- [Daily] Acidproof Armor -->
+	<item_collecting id="11206" start_npc_ids="799005"/>
+	<item_collecting id="11211" start_npc_ids="799010" action_item_ids="700620 700621 700622 700623"/>
+	<!-- [Daily] Making Do -->
+	<item_collecting id="11220" start_npc_ids="799016"/>
+	<!-- [Daily] Living In Obscura-ty -->
+	<item_collecting id="11221" start_npc_ids="799015"/>
+	<item_collecting id="11223" start_npc_ids="799000"/>
+	<item_collecting id="11226" start_npc_ids="798971"/>
+	<!-- Allergic Reaction -->
+	<item_collecting id="11229" start_npc_ids="296491" action_item_ids="700915 700916 700917"/>
+	<item_collecting id="11230" start_npc_ids="799077"/>
+	<item_collecting id="11231" start_npc_ids="799077"/>
+	<item_collecting id="11232" start_npc_ids="799077"/>
+	<!-- Greatsword Predilection -->
+	<item_collecting id="11251" start_npc_ids="799038" end_npc_ids="798316"/>
+	<!-- Spellbook Predilection -->
+	<item_collecting id="11253" start_npc_ids="799038" end_npc_ids="798316"/>
+	<!-- Bow Predilection -->
+	<item_collecting id="11255" start_npc_ids="799038" end_npc_ids="798316"/>
+	<!-- Dagger Predilection -->
+	<item_collecting id="11257" start_npc_ids="799038" end_npc_ids="798316"/>
+	<!-- Mace Predilection -->
+	<item_collecting id="11259" start_npc_ids="799038" end_npc_ids="798316"/>
+	<!-- Orb Predilection -->
+	<item_collecting id="11261" start_npc_ids="799038" end_npc_ids="798316"/>
+	<!-- Polearm Predilection -->
+	<item_collecting id="11263" start_npc_ids="799038" end_npc_ids="798316"/>
+	<!-- Staff Predilection -->
+	<item_collecting id="11265" start_npc_ids="799038" end_npc_ids="798316"/>
+	<!-- Sword Predilection -->
+	<item_collecting id="11267" start_npc_ids="799038" end_npc_ids="798316"/>
+	<!-- Winning Veille's Favor -->
+	<item_collecting id="11268" start_npc_ids="798958" end_npc_ids="798958" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Favors For Veille -->
+	<item_collecting id="11269" start_npc_ids="798958" end_npc_ids="798958" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Veille's Favor-ite -->
+	<item_collecting id="11270" start_npc_ids="798958" end_npc_ids="798958" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Favor Feud -->
+	<item_collecting id="11271" start_npc_ids="798958" end_npc_ids="798958" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Favors Of Fancy -->
+	<item_collecting id="11272" start_npc_ids="798958" end_npc_ids="798958" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Veilled Weapon -->
+	<item_collecting id="11273" start_npc_ids="798958" end_npc_ids="798958" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Shield Veille -->
+	<item_collecting id="11274" start_npc_ids="798958" end_npc_ids="798958" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [Spy/Daily] Petrahulk Of The Great Fissure -->
+	<item_collecting id="11296" start_npc_ids="799043" end_npc_ids="799043" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [Spy/Daily] Drakes Around The Fortress -->
+	<item_collecting id="11297" start_npc_ids="799043" end_npc_ids="799043" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [Spy/Daily] Drakie The Defiler -->
+	<item_collecting id="11298" start_npc_ids="799049" end_npc_ids="799049" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [일일] 잉기스온의 생태계 -->
+	<item_collecting id="11299" start_npc_ids="798974" end_npc_ids="798974" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Noble Siel's Supreme Sword -->
+	<item_collecting id="30016" start_npc_ids="799032" end_npc_ids="799032" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Noble Siel's Supreme Greatsword -->
+	<item_collecting id="30018" start_npc_ids="799032" end_npc_ids="799032" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Noble Siel's Supreme Polearm -->
+	<item_collecting id="30020" start_npc_ids="799032" end_npc_ids="799032" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Noble Siel's Supreme Staff -->
+	<item_collecting id="30022" start_npc_ids="799032" end_npc_ids="799032" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Noble Siel's Supreme Spellbook -->
+	<item_collecting id="30024" start_npc_ids="799032" end_npc_ids="799032" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Noble Siel's Supreme Orb -->
+	<item_collecting id="30026" start_npc_ids="799032" end_npc_ids="799032" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Noble Siel's Supreme Bow -->
+	<item_collecting id="30028" start_npc_ids="799032" end_npc_ids="799032" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Noble Siel's Supreme Dagger -->
+	<item_collecting id="30030" start_npc_ids="799032" end_npc_ids="799032" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Noble Siel's Supreme Mace -->
+	<item_collecting id="30032" start_npc_ids="799032" end_npc_ids="799032" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- 사슬검 복원 -->
+	<item_collecting id="30035" start_npc_ids="799032" end_npc_ids="799032" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<item_collecting id="38502" start_npc_ids="799085"/>
+	<item_collecting id="38503" start_npc_ids="799086"/>
+	<item_collecting id="38505" start_npc_ids="799085"/>
+	<item_collecting id="38506" start_npc_ids="799086"/>
+	
+	<!-- Uncommon Recipe -->
+	<item_order id="11036" start_item_id="182206731" talk_npc_id1="798955" end_npc_id="798956"/>
+	<!-- That Pretty Box -->
+	<item_order id="11046" start_item_id="182206745" end_npc_id="798954"/>
+	<!-- Omega Fragment -->
+	<item_order id="11059" start_item_id="182206845" end_npc_id="799015"/>
+	<!-- Suspicious Book -->
+	<item_order id="11123" start_item_id="182206798" talk_npc_id1="798991" end_npc_id="798947"/>
+	<!-- Baby Shulack Journey -->
+	<item_order id="11143" start_item_id="182206866" talk_npc_id1="798985" talk_npc_id2="798984" talk_npc_id3="798976" end_npc_id="798948"/>
+	<!-- Balaur Records -->
+	<item_order id="11212" start_item_id="182206823" talk_npc_id1="799010" end_npc_id="798996"/>
+	<!-- Suleion's Treasure -->
+	<item_order id="11233" start_item_id="182206875" talk_npc_id1="799075" talk_npc_id2="798976" end_npc_id="798948"/>
+	<!-- Veille's Gift -->
+	<item_order id="11289" start_item_id="182213147" end_npc_id="799038"/>
+	
+	<!-- [일일] 마족 세력 견제 -->
+	<kill_in_world id="60046" start_npc_ids="800626" end_npc_ids="800626" start_dialog_id="1011" worlds="0" amount="20"/>
+	<!-- [일일] 천족의 영광을 위해 -->
+	<kill_in_world id="60047" start_npc_ids="800628" end_npc_ids="800628" start_dialog_id="1011" worlds="0" amount="30"/>
+	
+	<!-- Wisplight Moral Tour -->
+	<report_to_many id="11000" start_npc_ids="798927" end_npc_ids="798927" start_dialog_id="1011">
+        <npc_infos npc_id="798929" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="798934" var="1" quest_dialog="1693"/>
+		<npc_infos npc_id="798933" var="2" quest_dialog="2034"/>
+        <npc_infos npc_id="798927" var="3" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Kind Meira -->
+	<report_to_many id="11001" start_npc_ids="798945" end_npc_ids="798945" start_dialog_id="1011">
+        <npc_infos npc_id="798918" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="798946" var="1" quest_dialog="1693"/>
+		<npc_infos npc_id="798943" var="2" quest_dialog="2034"/>
+        <npc_infos npc_id="798945" var="3" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- The Limits Of Genius -->
+	<report_to_many id="11005" start_npc_ids="798942" end_npc_ids="798942" start_dialog_id="1011">
+        <npc_infos npc_id="798950" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="798951" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="798942" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Letter Of Encouragement -->
+	<report_to_many id="11008" start_npc_ids="798927" end_npc_ids="798997" start_dialog_id="1011">
+        <npc_infos npc_id="798934" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="798997" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Meiria Friendly Suggestion -->
+	<report_to_many id="11009" start_npc_ids="798945" end_npc_ids="798945" start_dialog_id="1011">
+        <npc_infos npc_id="799008" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="799017" var="1" quest_dialog="1693"/>
+		<npc_infos npc_id="798941" var="2" quest_dialog="2034"/>
+        <npc_infos npc_id="798945" var="3" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Solid Evidence -->
+	<report_to_many id="11026" start_npc_ids="798950" end_npc_ids="203384" start_dialog_id="1011">
+        <npc_infos npc_id="798941" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="203384" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- A Mysterious Wind -->
+	<report_to_many id="11068" start_npc_ids="799025" end_npc_ids="799025" start_dialog_id="1011">
+        <npc_infos npc_id="799026" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="799025" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Mookie Travel Tips -->
+	<report_to_many id="11069" start_npc_ids="798956" end_npc_ids="798956" start_dialog_id="1011">
+        <npc_infos npc_id="799035" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="798956" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Crafty Messenger -->
+	<report_to_many id="11070" start_npc_ids="798945" end_npc_ids="798945" start_dialog_id="1011">
+        <npc_infos npc_id="798943" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="798949" var="1" quest_dialog="1693"/>
+		<npc_infos npc_id="798932" var="2" quest_dialog="2034"/>
+        <npc_infos npc_id="798945" var="3" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Delus Culinary Victim -->
+	<report_to_many id="11072" start_npc_ids="798937" end_npc_ids="798937" start_dialog_id="1011">
+        <npc_infos npc_id="798907" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="798960" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="798937" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- A Weapon Of Worth -->
+	<report_to_many id="11077" start_npc_ids="798926" end_npc_ids="798903" start_dialog_id="1011">
+        <npc_infos npc_id="799028" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="798918" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="798903" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Finite For A Walk -->
+	<report_to_many id="11103" start_npc_ids="798983" end_npc_ids="798983" start_dialog_id="1011">
+        <npc_infos npc_id="798963" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="798973" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="798983" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- A Jewel To Quiet Her -->
+	<report_to_many id="11105" start_npc_ids="798948" end_npc_ids="798948" start_dialog_id="1011">
+        <npc_infos npc_id="798984" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="798980" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="798948" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Rewriting History -->
+	<report_to_many id="11106" start_npc_ids="798976" end_npc_ids="203832" start_dialog_id="1011">
+        <npc_infos npc_id="798978" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="798979" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="203832" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Comfort Is A Box -->
+	<report_to_many id="11107" start_npc_ids="798963" end_npc_ids="798963" start_dialog_id="1011">
+        <npc_infos npc_id="296489" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="296490" var="1" quest_dialog="1693"/>
+		<npc_infos npc_id="296491" var="2" quest_dialog="2034"/>
+        <npc_infos npc_id="798963" var="3" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- The Negotiators -->
+	<report_to_many id="11109" start_npc_ids="798971" end_npc_ids="799075" start_dialog_id="1011">
+        <npc_infos npc_id="798979" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="799075" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Medication For Setzkiki -->
+	<report_to_many id="11117" start_npc_ids="798985" end_npc_ids="798985" start_dialog_id="1011">
+        <npc_infos npc_id="798963" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="798984" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="798985" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- The Bad News -->
+	<report_to_many id="11139" start_npc_ids="799075" end_npc_ids="798979" start_dialog_id="1011">
+        <npc_infos npc_id="798971" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="798979" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- When The Time Is Ripe -->
+	<report_to_many id="11455" start_npc_ids="799070" end_npc_ids="798946" start_dialog_id="1011">
+        <npc_infos npc_id="798933" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="798946" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Adias Report -->
+	<report_to_many id="11458" start_npc_ids="798953" end_npc_ids="798953" start_dialog_id="1011">
+        <npc_infos npc_id="203700" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="798953" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Stigma Enlightenment -->
+	<report_to_many id="11276" start_npc_ids="798909" end_npc_ids="798909" start_dialog_id="1011">
+        <npc_infos npc_id="798909" var="0" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- [Daily] Veille's Blessing -->
+	<report_to_many id="11288" start_npc_ids="799094" end_npc_ids="799094" start_dialog_id="1011">
+        <npc_infos npc_id="799094" var="0" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	
+	<relic_rewards id="11279" start_npc_ids="799945" relic_var1="186000066" relic_var2="186000065" relic_var3="186000064" relic_var4="186000063"/>
+	<relic_rewards id="11280" start_npc_ids="799946" relic_var1="186000062" relic_var2="186000061" relic_var3="186000060" relic_var4="186000059"/>
+	<relic_rewards id="11281" start_npc_ids="799947" relic_var1="186000058" relic_var2="186000057" relic_var3="186000056" relic_var4="186000055"/>
+	<relic_rewards id="11282" start_npc_ids="799948" relic_var1="186000054" relic_var2="186000053" relic_var3="186000052" relic_var4="186000051"/>
+	<relic_rewards id="11283" start_npc_ids="799953" relic_var1="186000066" relic_var2="186000065" relic_var3="186000064" relic_var4="186000063" relic_count="10"/>
+	<relic_rewards id="11284" start_npc_ids="799954" relic_var1="186000062" relic_var2="186000061" relic_var3="186000060" relic_var4="186000059" relic_count="10"/>
+	<relic_rewards id="11285" start_npc_ids="799955" relic_var1="186000058" relic_var2="186000057" relic_var3="186000056" relic_var4="186000055" relic_count="10"/>
+	<relic_rewards id="11286" start_npc_ids="799956" relic_var1="186000054" relic_var2="186000053" relic_var3="186000052" relic_var4="186000051" relic_count="10"/>
+	
+	<monster_hunt id="11002" start_npc_ids="798939">
+		<monster var="0" npc_ids="215780 215781" end_var="15"/>
+		<monster var="1" npc_ids="215496 215497" end_var="20"/>
+	</monster_hunt>
+	<monster_hunt id="11023" start_npc_ids="798951">
+		<monster var="0" npc_ids="215498 215499" end_var="10"/>
+		<monster var="1" npc_ids="215490 215491" end_var="20"/>
+	</monster_hunt>
+	<monster_hunt id="11027" start_npc_ids="798951">
+		<monster var="0" npc_ids="215517 215519 216692 216648" end_var="7"/>
+		<monster var="1" npc_ids="215516 215518 216691 216647" end_var="8"/>
+	</monster_hunt>
+	<monster_hunt id="11029" start_npc_ids="798960">
+		<monster var="0" npc_ids="215536 215537 216693 216694" end_var="20"/>
+	</monster_hunt>
+	<monster_hunt id="11030" start_npc_ids="798960">
+		<monster var="0" npc_ids="216486" end_var="1"/>
+	</monster_hunt>
+	<monster_hunt id="11034" start_npc_ids="798957">
+		<monster var="0" npc_ids="215576 215577" end_var="12"/>
+		<monster var="1" npc_ids="215528 215529" end_var="10"/>
+	</monster_hunt>
+	<monster_hunt id="11035" start_npc_ids="798955">
+		<monster var="0" npc_ids="215530 215531" end_var="15"/>
+		<monster var="1" npc_ids="216487" end_var="1"/>
+	</monster_hunt>
+	<monster_hunt id="11038" start_npc_ids="799035">
+		<monster var="0" npc_ids="215550 216705 216655 216709 215555 215551" end_var="13"/>
+		<monster var="0" npc_ids="216466 216706 216710 216707 215553 216656 215552 216467 216708 215554" end_var="13"/>
+		<monster var="1" npc_ids="215564 216469 215565 216658 215563 215567 216468 216657 215562 216717 215566" end_var="10"/>
+	</monster_hunt>
+	<!-- Crosia's Circumstances -->
+	<monster_hunt id="11045" start_npc_ids="798952">
+		<monster var="0" npc_ids="215525" end_var="22"/>
+	</monster_hunt>
+	<monster_hunt id="11048" start_npc_ids="798954">
+        <monster var="0" npc_ids="215454 215455 215456 215457 215458 215459 215460 215461 215462 215463 215464 215465" end_var="329"/>
+		<monster var="0" npc_ids="215466 215467 215482 216133 216134 216135 216136 216137 216138 216139 216140 216141" end_var="329"/>
+		<monster var="0" npc_ids="216142 216143 216144 216145 216146 216459 216460" end_var="329"/>
+		<monster var="1" npc_ids="215454 215455 215456 215457 215458 215459 215460 215461 215462 215463 215464 215465" end_var="231"/>
+		<monster var="1" npc_ids="215466 215467 215482 216133 216134 216135 216136 216137 216138 216139 216140 216141" end_var="231"/>
+		<monster var="1" npc_ids="216142 216143 216144 216145 216146 216459 216460" end_var="231"/>
+		<monster var="2" npc_ids="215454 215455 215456 215457 215458 215459 215460 215461 215462 215463 215464 215465" end_var="77"/>
+		<monster var="2" npc_ids="215466 215467 215482 216133 216134 216135 216136 216137 216138 216139 216140 216141" end_var="77"/>
+		<monster var="2" npc_ids="216142 216143 216144 216145 216146 216459 216460" end_var="77"/>
+	</monster_hunt>
+	<monster_hunt id="11071" start_npc_ids="798943">
+		<monster var="0" npc_ids="215532 215533" end_var="25"/>
+	</monster_hunt>
+	<monster_hunt id="11073" start_npc_ids="798936">
+		<monster var="0" npc_ids="215534 215535" end_var="11"/>
+		<monster var="1" npc_ids="215528 215529" end_var="20"/>
+	</monster_hunt>
+	<monster_hunt id="11100" start_npc_ids="798983">
+		<monster var="0" npc_ids="215593 215594" end_var="20"/>
+	</monster_hunt>
+	<monster_hunt id="11102" start_npc_ids="798981">
+		<monster var="0" npc_ids="216489" end_var="1"/>
+		<monster var="1" npc_ids="216490" end_var="1"/>
+		<monster var="2" npc_ids="216491" end_var="1"/>
+	</monster_hunt>
+	<monster_hunt id="11119" start_npc_ids="798989">
+		<monster var="0" npc_ids="215658 215659" end_var="15"/>
+		<monster var="1" npc_ids="215652 215653" end_var="13"/>
+	</monster_hunt>
+	<monster_hunt id="11120" start_npc_ids="798991">
+		<monster var="0" npc_ids="215642 215643" end_var="7"/>
+		<monster var="1" npc_ids="215644 215645" end_var="7"/>
+		<monster var="2" npc_ids="215648 215649" end_var="7"/>
+	</monster_hunt>
+	<monster_hunt id="11122" start_npc_ids="798990">
+		<monster var="0" npc_ids="216495" end_var="1"/>
+		<monster var="1" npc_ids="216496" end_var="1"/>
+	</monster_hunt>
+	<monster_hunt id="11124" start_npc_ids="798999">
+		<monster var="0" npc_ids="215716 215717" end_var="12"/>
+		<monster var="1" npc_ids="215718 215719" end_var="8"/>
+	</monster_hunt>
+	<monster_hunt id="11126" start_npc_ids="798998">
+		<monster var="0" npc_ids="215694 215695 216429" end_var="17"/>
+		<monster var="1" npc_ids="215696 215697" end_var="15"/>
+	</monster_hunt>
+	<monster_hunt id="11138" start_npc_ids="798981">
+		<monster var="0" npc_ids="215597 215598 216724" end_var="15"/>
+	</monster_hunt>
+	<monster_hunt id="11140" start_npc_ids="799076">
+		<monster var="0" npc_ids="215599 215600" end_var="20"/>
+	</monster_hunt>
+	<monster_hunt id="11141" start_npc_ids="798985">
+		<monster var="0" npc_ids="215636 215637 215638 215639 215640 215641 216473" end_var="12"/>
+	</monster_hunt>
+	<monster_hunt id="11144" start_npc_ids="799030">
+		<monster var="0" npc_ids="215656 215657" end_var="10"/>
+		<monster var="1" npc_ids="215654 215655" end_var="7"/>
+	</monster_hunt>
+	<monster_hunt id="11145" start_npc_ids="799030">
+		<monster var="0" npc_ids="215660 215661 215662 215663" end_var="10"/>
+		<monster var="1" npc_ids="215668 215669 215670 215671 216800" end_var="10"/>
+	</monster_hunt>
+	<!-- [Alliance] An Urgent Mission -->
+	<monster_hunt id="11200" start_npc_ids="799007" end_npc_ids="799005">
+        <monster var="0" npc_ids="257331 257340 257343 257346 257352 257355 257358 257361 257364 257367 257370" end_var="20"/>
+        <monster var="0" npc_ids="257332 257341 257344 257347 257353 257356 257359 257362 257365 257368 257371" end_var="20"/>
+	</monster_hunt>
+	<!-- [League] Securing Avarice -->
+	<monster_hunt id="11201" start_npc_ids="799007" end_npc_ids="799005">
+	    <monster var="0" npc_ids="257305 257310" end_var="1"/>
+    </monster_hunt>
+	<monster_hunt id="11202" start_npc_ids="799009">
+		<monster var="0" npc_ids="215730" end_var="10"/>
+		<monster var="1" npc_ids="215732 215733" end_var="12"/>
+	</monster_hunt>
+	<monster_hunt id="11210" start_npc_ids="799010">
+		<monster var="0" npc_ids="215746" end_var="10"/>
+		<monster var="1" npc_ids="215752" end_var="3"/>
+	</monster_hunt>
+	<monster_hunt id="11213" start_npc_ids="799019">
+		<monster var="0" npc_ids="215758" end_var="20"/>
+		<monster var="1" npc_ids="215870" end_var="10"/>
+	</monster_hunt>
+	<!-- [Alliance] Moras's Cool Judgment -->
+	<monster_hunt id="11214" start_npc_ids="799018" end_npc_ids="799015">
+        <monster var="0" npc_ids="257031 257040 257043 257046 257052 257055 257058 257061 257064 257067 257070" end_var="20"/>
+        <monster var="0" npc_ids="257032 257041 257044 257047 257053 257056 257059 257062 257065 257068 257071" end_var="20"/>
+    </monster_hunt>
+	<!-- [League] Reclaim Temple Of Scales -->
+	<monster_hunt id="11215" start_npc_ids="799018" end_npc_ids="799015">
+        <monster var="0" npc_ids="257005 257010" end_var="1"/>
+    </monster_hunt>
+	<monster_hunt id="11217" start_npc_ids="799017">
+		<monster var="0" npc_ids="215768 217043 217044" end_var="20"/>
+		<monster var="1" npc_ids="215773 217053 217054" end_var="10"/>
+	</monster_hunt>
+	<monster_hunt id="11222" start_npc_ids="257225">
+		<monster var="0" npc_ids="215872" end_var="10"/>
+		<monster var="1" npc_ids="215873" end_var="15"/>
+	</monster_hunt>
+	<monster_hunt id="11224" start_npc_ids="799019">
+		<monster var="0" npc_ids="216593" end_var="7"/>
+		<monster var="1" npc_ids="216594" end_var="7"/>
+	</monster_hunt>
+	<monster_hunt id="11225" start_npc_ids="799006">
+		<monster var="0" npc_ids="215871" end_var="10"/>
+	</monster_hunt>
+	<!-- 30군단 은닉처의 보물수호자 처치 -->
+	<monster_hunt id="11469" start_npc_ids="798927" end_dialog_id="1352">
+		<monster var="0" npc_ids="215424" end_var="1"/>
+	</monster_hunt>
+</quest_scripts>

@@ -1,0 +1,66 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+<!--
+    Quest Tiak Research Base
+	Make By Encom
+ -->
+	<!-- Investigate The Tiak Research Center Again -->
+	<monster_hunt id="60017" start_npc_ids="800038" end_dialog_id="1352">
+		<monster var="0" npc_ids="218904 218905" end_var="1"/>
+		<monster var="1" npc_ids="218906" end_var="1"/>
+		<monster var="2" npc_ids="218907" end_var="1"/>
+	</monster_hunt>
+	<!-- [Daily] Clues Left Behind -->
+	<monster_hunt id="60018" start_npc_ids="800038" end_dialog_id="1352">
+		<monster var="0" npc_ids="218885 218886 218887 218888 218889 218922" end_var="3"/>
+		<monster var="0" npc_ids="218923 218924 218925 218926 218941 218942" end_var="3"/>
+		<monster var="0" npc_ids="218943 218944 218945" end_var="3"/>
+	</monster_hunt>
+	<!-- [Daily] New Investigation Target -->
+	<monster_hunt id="60019" start_npc_ids="800038" end_dialog_id="1352">
+		<monster var="0" npc_ids="218880 218881 218882 218883 218884" end_var="5"/>
+		<monster var="0" npc_ids="218917 218918 218919 218920 218921" end_var="5"/>
+		<monster var="0" npc_ids="218936 218937 218938 218939 218940" end_var="5"/>
+	</monster_hunt>
+	<!-- [Daily] For A Better Investigation -->
+	<monster_hunt id="60020" start_npc_ids="800038" end_dialog_id="1352">
+		<monster var="0" npc_ids="218871 218872 218873 218874 218875 218876 218877 218878 218879 218880" end_var="5"/>
+		<monster var="0" npc_ids="218881 218882 218883 218884 218885 218886 218887 218888 218889 218890" end_var="5"/>
+		<monster var="0" npc_ids="218891 218892 218893 218894 218895 218896 218897 218898 218899 218900" end_var="5"/>
+		<monster var="0" npc_ids="218901 218902 218903 218904 218905 218906 218907 218908 218909 218910" end_var="5"/>
+		<monster var="0" npc_ids="218911 218912 218913 218914 218915 218916 218917 218918 218919 218920" end_var="5"/>
+		<monster var="0" npc_ids="218921 218922 218923 218924 218925 218926 218927 218928 218929 218930" end_var="5"/>
+		<monster var="0" npc_ids="218931 218932 218933 218934 218935 218936 218937 218938 218939 218940" end_var="5"/>
+		<monster var="0" npc_ids="218941 218942 218943 218944 218945 218946 218947" end_var="5"/>
+	</monster_hunt>
+	
+	<!-- Search The Tiak Research Center Again -->
+	<monster_hunt id="70017" start_npc_ids="800039" end_dialog_id="1352">
+		<monster var="0" npc_ids="218904 218905" end_var="1"/>
+		<monster var="1" npc_ids="218906" end_var="1"/>
+		<monster var="2" npc_ids="218907" end_var="1"/>
+	</monster_hunt>
+	<!-- [Daily] A Clue Left Behind -->
+	<monster_hunt id="70018" start_npc_ids="800039" end_dialog_id="1352">
+		<monster var="0" npc_ids="218885 218886 218887 218888 218889 218922" end_var="3"/>
+		<monster var="0" npc_ids="218923 218924 218925 218926 218941 218942" end_var="3"/>
+		<monster var="0" npc_ids="218943 218944 218945" end_var="3"/>
+	</monster_hunt>
+	<!-- [Daily] New Search Target -->
+	<monster_hunt id="70019" start_npc_ids="800039" end_dialog_id="1352">
+		<monster var="0" npc_ids="218880 218881 218882 218883 218884" end_var="5"/>
+		<monster var="0" npc_ids="218917 218918 218919 218920 218921" end_var="5"/>
+		<monster var="0" npc_ids="218936 218937 218938 218939 218940" end_var="5"/>
+	</monster_hunt>
+	<!-- [Daily] For A Better Search -->
+	<monster_hunt id="70020" start_npc_ids="800039" end_dialog_id="1352">
+		<monster var="0" npc_ids="218871 218872 218873 218874 218875 218876 218877 218878 218879 218880" end_var="5"/>
+		<monster var="0" npc_ids="218881 218882 218883 218884 218885 218886 218887 218888 218889 218890" end_var="5"/>
+		<monster var="0" npc_ids="218891 218892 218893 218894 218895 218896 218897 218898 218899 218900" end_var="5"/>
+		<monster var="0" npc_ids="218901 218902 218903 218904 218905 218906 218907 218908 218909 218910" end_var="5"/>
+		<monster var="0" npc_ids="218911 218912 218913 218914 218915 218916 218917 218918 218919 218920" end_var="5"/>
+		<monster var="0" npc_ids="218921 218922 218923 218924 218925 218926 218927 218928 218929 218930" end_var="5"/>
+		<monster var="0" npc_ids="218931 218932 218933 218934 218935 218936 218937 218938 218939 218940" end_var="5"/>
+		<monster var="0" npc_ids="218941 218942 218943 218944 218945 218946 218947" end_var="5"/>
+	</monster_hunt>
+</quest_scripts>

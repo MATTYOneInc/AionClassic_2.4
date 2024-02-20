@@ -1,0 +1,63 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	Player Experience Table.
+	Develop: ADev.Team
+ -->
+<player_experience_table xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="player_experience_table.xsd">
+	<exp>0</exp>
+	<exp>650</exp>
+	<exp>2567</exp>
+	<exp>6797</exp>
+	<exp>15490</exp> <!-- Level 5 -->
+	<exp>30073</exp>
+	<exp>52958</exp>
+	<exp>87894</exp>
+	<exp>140329</exp>
+	<exp>213454</exp> <!-- Level 10 -->
+	<exp>307558</exp>
+	<exp>438553</exp>
+	<exp>608161</exp>
+	<exp>825336</exp>
+	<exp>1091985</exp> <!-- Level 15 -->
+	<exp>1418170</exp>
+	<exp>1810467</exp>
+	<exp>2332547</exp>
+	<exp>3002260</exp>
+	<exp>3820082</exp> <!-- Level 20 -->
+	<exp>4820229</exp>
+	<exp>6055323</exp>
+	<exp>7665200</exp>
+	<exp>9667124</exp>
+	<exp>12015782</exp> <!-- Level 25 -->
+	<exp>14702523</exp>
+	<exp>17819939</exp>
+	<exp>21422200</exp>
+	<exp>25434736</exp>
+	<exp>30111208</exp> <!-- Level 30 -->
+	<exp>35939440</exp>
+	<exp>42747682</exp>
+	<exp>50838806</exp>
+	<exp>60528213</exp>
+	<exp>73197342</exp> <!-- Level 35 -->
+	<exp>89321807</exp>
+	<exp>109063829</exp>
+	<exp>135085670</exp>
+	<exp>165021833</exp>
+	<exp>201169803</exp> <!-- Level 40 -->
+	<exp>243343723</exp>
+	<exp>292699203</exp>
+	<exp>350659083</exp>
+	<exp>415031452</exp>
+	<exp>485413854</exp> <!-- Level 45 -->
+	<exp>559280864</exp>
+	<exp>643809037</exp>
+	<exp>741317548</exp>
+	<exp>853743989</exp>
+	<exp>982653882</exp> <!-- Level 50 -->
+	<exp>1128723910</exp>
+	<exp>1274793938</exp>
+	<exp>1452258716</exp>
+	<exp>1656513717</exp>
+	<exp>1892999481</exp> <!-- Level 55 -->
+	<exp>2164391835</exp>
+</player_experience_table>

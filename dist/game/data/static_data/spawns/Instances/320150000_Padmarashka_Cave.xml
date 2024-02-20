@@ -1,0 +1,93 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--	
+	Padmarashka's Cave
+	Re-newed By Rinzler
+ -->
+<spawns>
+	<spawn_map map_id="320150000">
+		<!-- iddramata_01_dramatachaser_01 -->
+        <spawn npc_id="207042">
+            <spot x="359.4051" y="534.6953" z="67.3750" h="101"/>
+        </spawn>
+        <!-- iddramata_01_dramatachaser_02 -->
+        <spawn npc_id="207043">
+            <spot x="389.29944" y="538.93243" z="67.639496" h="86"/>
+        </spawn>
+        <!-- iddramata_01_dramatachaser_03 -->
+        <spawn npc_id="207044">
+            <spot x="359.76053" y="522.93274" z="67.3750" h="102"/>
+        </spawn>
+        <!-- piloti -->
+        <spawn npc_id="207045">
+            <spot x="376.6599" y="532.2759" z="67.43349" h="98"/>
+        </spawn>
+        <!-- ane -->
+        <spawn npc_id="207046">
+            <spot x="374.24405" y="531.86145" z="67.36634" h="98"/>
+        </spawn>
+		
+		<!-- iddramata_drakanfi_55_ae -->
+        <spawn npc_id="218670">
+            <spot x="533.0919" y="247.78787" z="66.76326" h="32"/>
+        </spawn>
+        <!-- iddramata_drakanwi_55_ae -->
+        <spawn npc_id="218671">
+            <spot x="581.1233" y="265.01428" z="66.81339" h="44"/>
+        </spawn>
+        <!-- iddramata_drakansc_55_ae -->
+        <spawn npc_id="218673">
+            <spot x="547.8052" y="264.69284" z="66.875" h="38"/>
+        </spawn>
+        <!-- iddramata_drakancl_55_ae -->
+        <spawn npc_id="218674">
+            <spot x="595.7754" y="248.05351" z="66.25" h="65"/>
+        </spawn>
+        <!-- iddramata_drakanfiegg_55_ae -->
+        <spawn npc_id="218675">
+            <spot x="573.3972" y="179.56253" z="66.22266" h="36"/>
+        </spawn>
+        <!-- iddramata_drakanwiegg_55_ae -->
+        <spawn npc_id="218676">
+            <spot x="581.8272" y="179.58664" z="66.25" h="36"/>
+        </spawn>
+        <!-- iddramata_drakanfihigh_55_ae -->
+        <spawn npc_id="218677">
+            <spot x="507.7072" y="353.11658" z="65.24628" h="45"/>
+            <spot x="446.8668" y="404.46597" z="66.63758" h="45"/>
+            <spot x="506.0289" y="347.5107" z="64.7176" h="0" walker_id="iddramata_npcpathdrakan3" walker_index="1"/>
+			<spot x="520.9799" y="328.9387" z="64.3750" h="0" walker_id="iddramata_npcpathdrakan4" walker_index="1"/>
+        </spawn>
+        <!-- iddramata_drakanwihigh_55_ae -->
+        <spawn npc_id="218678">
+            <spot x="471.2370" y="353.13156" z="74.845375" h="54"/>
+            <spot x="512.5591" y="350.42703" z="65.12326" h="46"/>
+			<spot x="506.0289" y="347.5107" z="64.7176" h="0" walker_id="iddramata_npcpathdrakan3"/>
+			<spot x="520.9799" y="328.9387" z="64.3750" h="0" walker_id="iddramata_npcpathdrakan4"/>
+        </spawn>
+        <!-- iddramata_drakanschigh_55_ae -->
+        <spawn npc_id="218680">
+            <spot x="477.3427" y="434.39203" z="74.760414" h="32"/>
+            <spot x="503.80984" y="343.79492" z="64.94817" h="44"/>
+            <spot x="483.02002" y="424.36844" z="74.83678" h="34"/>
+			<spot x="506.0289" y="347.5107" z="64.7176" h="0" walker_id="iddramata_npcpathdrakan3"/>
+			<spot x="520.9799" y="328.9387" z="64.3750" h="0" walker_id="iddramata_npcpathdrakan4"/>
+        </spawn>
+        <!-- iddramata_drakanclhigh_55_ae -->
+        <spawn npc_id="218681">
+            <spot x="503.0759" y="349.31372" z="65.01486" h="43"/>
+            <spot x="454.2044" y="411.67734" z="66.59744" h="43"/>
+        </spawn>
+        <!-- iddramata_dramata_55_al -->
+        <spawn npc_id="218756">
+            <spot x="565.59033" y="241.98257" z="66.8750" h="37"/>
+        </spawn>
+		
+		<!-- bldf4_dramata_shieldobject -->
+	    <spawn npc_id="282123">
+            <spot x="535.304321" y="246.069244" z="66.780228" entity_id="2790"/>
+			<spot x="549.005493" y="261.860321" z="66.800224" entity_id="2791"/>
+			<spot x="579.694458" y="263.091034" z="66.650230" entity_id="2792"/>
+			<spot x="593.527466" y="246.099823" z="66.850227" entity_id="2793"/>
+        </spawn>
+	</spawn_map>
+</spawns>

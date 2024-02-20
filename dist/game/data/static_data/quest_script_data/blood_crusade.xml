@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+<!--
+    Quest Blood Croisade
+	Make By Encom
+ -->
+    <!-- Romp In Reshanta -->
+	<kill_in_world id="45502" start_npc_ids="0" end_npc_ids="799870" worlds="400010000" amount="3"/>
+	<!-- Clash In The Canyon -->
+    <kill_in_world id="45503" start_npc_ids="799865 799866" end_npc_ids="799865 799866" worlds="600010000" amount="5"/>
+	<!-- Grapple In Gelkmaros -->
+    <kill_in_world id="45504" start_npc_ids="0" end_npc_ids="799865 799866" worlds="220070000" amount="5"/>
+	<!-- [Spy/Daily] Crush The Cowards -->
+	<kill_in_world id="45505" start_npc_ids="0" end_npc_ids="799865 799866" worlds="210050000" amount="5"/>
+	<!-- Purge The Perpetrators -->
+	<kill_in_world id="45506" start_npc_ids="799870" end_npc_ids="799870" worlds="220020000 220040000" amount="2"/>
+	<!-- [Spy/Weekly] Elysea Infiltration -->
+    <kill_in_world id="45507" start_npc_ids="799870" end_npc_ids="799870" worlds="210020000 210040000" amount="1"/>
+	<!-- [Daily] Elyos Extermination Operation -->
+	<kill_in_world id="45508" start_npc_ids="0" end_npc_ids="799870" worlds="0" amount="5"/>
+	<!-- [Daily] Slaughter The Elyos -->
+	<kill_in_world id="45509" start_npc_ids="0" end_npc_ids="799865 799866" worlds="0" amount="5"/>
+</quest_scripts>

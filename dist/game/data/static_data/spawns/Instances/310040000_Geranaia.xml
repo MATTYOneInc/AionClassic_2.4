@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Geranaia
+	Re-newed By Rinzler
+ -->
+<spawns>
+    <spawn_map map_id="310040000">
+        <!-- kimeia_q1043 -->
+        <spawn npc_id="204044" respawn_time="120">
+           <spot x="272.66403" y="175.63103" z="204.34718" h="36"/>
+        </spawn>
+		
+        <!-- dragonportal_idabgatel2_exit -->
+        <spawn npc_id="700187">
+           <spot x="275.935913" y="162.008057" z="208.480850" entity_id="17"/>
+        </spawn>
+	</spawn_map>
+</spawns>

@@ -1,0 +1,165 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Kaisinel Academy
+	Re-newed By Rinzler
+ -->
+<spawns>
+	<spawn_map map_id="110070000">
+	    <!-- molfus -->
+        <spawn npc_id="205309" respawn_time="60">
+            <spot x="492.0978" y="251.68486" z="127.00828" h="56"/>
+        </spawn>
+        <!-- howkis -->
+        <spawn npc_id="205310" respawn_time="60">
+            <spot x="567.81433" y="323.8787" z="126.096664" h="56"/>
+        </spawn>
+        <!-- kirhoy -->
+        <spawn npc_id="205311" respawn_time="60">
+            <spot x="567.81433" y="326.0037" z="126.096664" h="56"/>
+        </spawn>
+        <!-- tanato -->
+        <spawn npc_id="205312" respawn_time="60">
+            <spot x="560.3493" y="335.1156" z="126.09672" h="75"/>
+        </spawn>
+        <!-- eno -->
+        <spawn npc_id="205315" respawn_time="60">
+            <spot x="483.33536" y="251.07214" z="126.97587" h="59"/>
+        </spawn>
+        <!-- inggril -->
+        <spawn npc_id="205316" respawn_time="60">
+            <spot x="479.40027" y="279.2349" z="127.51458" h="93"/>
+        </spawn>
+        <!-- helbe -->
+        <spawn npc_id="205317" respawn_time="60">
+            <spot x="522.22504" y="220.93419" z="126.97587" h="42"/>
+        </spawn>
+        <!-- adonis -->
+        <spawn npc_id="205318" respawn_time="60">
+            <spot x="484.6143" y="222.29063" z="126.97587" h="17"/>
+        </spawn>
+        <!-- adel -->
+        <spawn npc_id="205319" respawn_time="60">
+            <spot x="525.76385" y="222.65517" z="126.97587" h="45"/>
+        </spawn>
+        <!-- modaro -->
+        <spawn npc_id="205443" respawn_time="60">
+            <spot x="440.35864" y="325.09805" z="126.096664" h="0"/>
+        </spawn>
+        <!-- romonia -->
+        <spawn npc_id="205444" respawn_time="60">
+            <spot x="455.82404" y="309.64258" z="126.096664" h="30"/>
+        </spawn>
+        <!-- realle -->
+        <spawn npc_id="205451" respawn_time="60">
+            <spot x="455.70428" y="340.29932" z="126.096664" h="90"/>
+        </spawn>
+        <!-- barius -->
+        <spawn npc_id="205456" respawn_time="60">
+            <spot x="517.85266" y="278.56326" z="126.97587" h="76"/>
+        </spawn>
+        <!-- grana -->
+        <spawn npc_id="205471" respawn_time="60">
+            <spot x="481.16098" y="271.0119" z="126.97587" h="93"/>
+        </spawn>
+        <!-- junos -->
+        <spawn npc_id="205985" respawn_time="60">
+            <spot x="529.35284" y="256.71863" z="127.29545" h="52"/>
+        </spawn>
+        <!-- taina -->
+        <spawn npc_id="207056" respawn_time="60">
+            <spot x="604.6372" y="248.16614" z="126.981514" h="60"/>
+        </spawn>
+        <!-- cades -->
+        <spawn npc_id="207057" respawn_time="60">
+            <spot x="604.6158" y="257.5798" z="126.981514" h="60"/>
+        </spawn>
+        <!-- poria -->
+        <spawn npc_id="207092" respawn_time="60">
+            <spot x="605.3963" y="252.78229" z="126.981514" h="60"/>
+        </spawn>
+		<!-- arena_baldia_e_lhf
+        <spawn npc_id="207121" respawn_time="60">
+            <spot x="604.6372" y="248.16614" z="126.981514" h="60"/>
+        </spawn> -->
+		<!-- arena_l_lobby_to_lc1orlc2_teleport -->
+		<spawn npc_id="730424" respawn_time="60">
+		    <spot x="443.57170" y="258.000000" z="126.95238" entity_id="328"/>
+	    </spawn>
+	    <!-- arena_l_lobby_to_lf4_teleport -->
+	    <spawn npc_id="730425" respawn_time="60">
+		    <spot x="460.00000" y="251.580140" z="127.05328" entity_id="1601"/>
+	    </spawn>
+	    <!-- idarena_fobj_entrance_l -->
+	    <spawn npc_id="730430" respawn_time="60">
+		    <spot x="513.85760" y="213.90277" z="131.78000" entity_id="1"/>
+	    </spawn>
+	    <!-- idarena_fobj_entrance_solo_l -->
+	    <spawn npc_id="730461" respawn_time="60">
+		    <spot x="489.10739" y="213.73048" z="131.87000" entity_id="15"/>
+	    </spawn>
+	    <!-- idarena_pvp01_fobj_entrance_l -->
+	    <spawn npc_id="730481" respawn_time="60">
+	        <spot x="599.34058" y="268.438480" z="131.79332" entity_id="17"/>
+        </spawn>
+	    <!-- idarena_pvp02_fobj_entrance_l -->
+	    <spawn npc_id="730483" respawn_time="60">
+	        <spot x="600.48114" y="236.699070" z="131.79332" entity_id="31"/>
+        </spawn>
+		<!-- idarena_glory_fobj_entrance_l -->
+	    <spawn npc_id="730487" respawn_time="60">
+	        <spot x="569.18805" y="236.851670" z="131.94102" entity_id="36"/>
+	    </spawn>
+        <!-- idarena_light_guard1 -->
+        <spawn npc_id="799632" respawn_time="60">
+            <spot x="507.001" y="217.39272" z="127.29534" h="30"/>
+            <spot x="595.6714" y="269.41663" z="127.24578" h="75"/>
+            <spot x="568.6492" y="240.38437" z="127.245766" h="15"/>
+            <spot x="488.83807" y="217.38971" z="127.29539" h="29"/>
+            <spot x="601.3053" y="240.0091" z="127.24584" h="45"/>
+        </spawn>
+        <!-- idarena_light_guard2 -->
+        <spawn npc_id="799633" respawn_time="60">
+            <spot x="495.7267" y="217.4137" z="127.29538" h="30"/>
+            <spot x="600.06525" y="264.85022" z="127.24579" h="75"/>
+            <spot x="513.9707" y="217.36464" z="127.29542" h="30"/>
+            <spot x="596.8195" y="235.93497" z="127.245804" h="45"/>
+            <spot x="573.08435" y="235.92915" z="127.24575" h="15"/>
+        </spawn>
+        <!-- arena_l_lobby_seller_wing01_v19_l -->
+        <spawn npc_id="800175" respawn_time="60">
+            <spot x="542.10876" y="332.50543" z="126.09673" h="105"/>
+        </spawn>
+        <!-- arena_l_lobby_seller_wing02_v19_l -->
+        <spawn npc_id="800176" respawn_time="60">
+            <spot x="544.71893" y="335.05023" z="126.09673" h="104"/>
+        </spawn>
+        <!-- arena_l_lobby_seller_etc01_v19_l -->
+        <spawn npc_id="800177" respawn_time="60">
+            <spot x="541.44403" y="316.92038" z="126.09672" h="15"/>
+        </spawn>
+        <!-- arena_l_lobby_seller_etc02_v19_l -->
+        <spawn npc_id="800178" respawn_time="60">
+            <spot x="544.0106" y="314.18143" z="126.09672" h="15"/>
+        </spawn>
+        <!-- arena_l_lobby_l_seller_etc_solo_m_55 -->
+        <spawn npc_id="800255" respawn_time="60">
+            <spot x="553.19257" y="309.5377" z="126.096664" h="30"/>
+        </spawn>
+        <!-- arena_l_lobby_glory_seller_01_l -->
+        <spawn npc_id="800498" respawn_time="60">
+            <spot x="550.6585" y="340.27753" z="126.096664" h="90"/>
+        </spawn>
+        <!-- arena_l_lobby_glory_seller_02_l -->
+        <spawn npc_id="800500" respawn_time="60">
+            <spot x="552.2575" y="340.18005" z="126.096664" h="90"/>
+        </spawn>
+        <!-- arena_l_lobby_glory_seller_03_l -->
+        <spawn npc_id="800502" respawn_time="60">
+            <spot x="553.8597" y="340.31036" z="126.096664" h="90"/>
+        </spawn>
+		<!-- linea
+        <spawn npc_id="800780" respawn_time="60">
+            <spot x="541.44403" y="316.92038" z="126.09672" h="15"/>
+        </spawn> -->
+	</spawn_map>
+</spawns>

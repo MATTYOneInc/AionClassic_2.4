@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+    Auto Group
+	Develop: ADev.Team
+ -->
+<auto_groups xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="auto_group.xsd">
+	<!-- ***************** -->
+	<!-- **** DREDGION *** -->
+	<!-- ***************** -->
+	<!-- BARANATH DREDGION -->
+	<auto_group register_new="true" register_fast="true" register_group="true" max_lvl="50" min_lvl="46" title_id="401197" name_id="401193" instanceId="300110000" id="1" npc_ids="279039 279041 279054 279055 279056 279057"/>
+	<!-- CHANTRA DREDGION -->
+	<auto_group register_new="true" register_fast="true" register_group="true" max_lvl="55" min_lvl="51" title_id="401677" name_id="401675" instanceId="300210000" id="2" npc_ids="799068 799402"/>
+	<!-- TIAK RESEARCH BASE -->
+	<auto_group register_new="true" register_fast="true" register_group="true" max_lvl="55" min_lvl="50" title_id="403263" name_id="403262" instanceId="300440000" id="33" npc_ids="800038 800039"/>
+	
+	<!-- ********************** -->
+	<!-- ****** INSTANCE ****** -->
+	<!-- ********************** -->
+	<!-- FIRE TEMPLE -->
+	<auto_group register_new="true" register_fast="true" max_lvl="55" min_lvl="27" title_id="903282" name_id="400836" instanceId="320100000" id="1001" npc_ids="730047 730069"/>
+	<!-- AETHEROGENETICS LAB -->
+	<auto_group register_new="true" register_fast="true" max_lvl="55" min_lvl="35" title_id="903282" name_id="400736" instanceId="310050000" id="1002" npc_ids="730034"/>
+	<!-- DRAUPNIR CAVE -->
+	<auto_group register_new="true" register_fast="true" max_lvl="55" min_lvl="39" title_id="903282" name_id="401022" instanceId="320080000" id="1003" npc_ids="700564"/>
+	<!-- ALQUIMIA RESEARCH CENTER -->
+	<auto_group register_new="true" register_fast="true" max_lvl="55" min_lvl="40" title_id="903282" name_id="401022" instanceId="320110000" id="1004" npc_ids="730110"/>
+	<!-- INDRATU FORTRESS -->
+	<auto_group register_new="true" register_fast="true" max_lvl="55" min_lvl="41" title_id="903282" name_id="401030" instanceId="310090000" id="1005" npc_ids="700360"/>
+	<!-- AZOTURAN FORTRESS -->
+	<auto_group register_new="true" register_fast="true" max_lvl="55" min_lvl="43" title_id="903282" name_id="401029" instanceId="310100000" id="1006" npc_ids="700364"/>
+	<!-- THEOBOMOS LAB -->
+	<auto_group register_new="true" register_fast="true" max_lvl="55" min_lvl="46" title_id="903282" name_id="401151" instanceId="310110000" id="1007" npc_ids="730154"/>
+	<!-- ADMA STRONGHOLD -->
+	<auto_group register_new="true" register_fast="true" max_lvl="55" min_lvl="46" title_id="903282" name_id="401152" instanceId="320130000" id="1008" npc_ids="730165"/>
+	<!-- DARK POETA -->
+	<auto_group register_new="true" register_fast="true" max_lvl="55" min_lvl="50" title_id="903282" name_id="401172" instanceId="300040000" id="1009" npc_ids="730185 730186 730215"/>
+	<!-- ESOTERRACE -->
+	<auto_group register_new="true" register_fast="true" max_lvl="55" min_lvl="50" title_id="903282" name_id="401750" instanceId="300250000" id="1010" npc_ids="800415 800416"/>
+	<!-- UDAS TEMPLE -->
+	<auto_group register_new="true" register_fast="true" max_lvl="55" min_lvl="51" title_id="903282" name_id="401311" instanceId="300150000" id="1011" npc_ids="730277 730278"/>
+	<!-- LOWER UDAS TEMPLE -->
+	<auto_group register_new="true" register_fast="true" max_lvl="55" min_lvl="51" title_id="903282" name_id="401325" instanceId="300160000" id="1012" npc_ids="730279 730280"/>
+	<!-- BESHMUNDIR TEMPLE [Normal Mode] -->
+	<auto_group register_new="true" register_fast="true" max_lvl="55" min_lvl="55" title_id="903282" name_id="403967" instanceId="300170000" id="1013" npc_ids="730231"/>
+	<!-- BESHMUNDIR TEMPLE [Hard Mode] -->
+	<auto_group register_new="true" register_fast="true" max_lvl="55" min_lvl="55" title_id="903282" name_id="403967" instanceId="300170000" id="1014" npc_ids="730231"/>
+	<!-- PADMARASHKA_CAVE -->
+	<auto_group register_new="true" register_fast="true" max_lvl="55" min_lvl="55" title_id="903282" name_id="402100" instanceId="320150000" id="1016" npc_ids="730485 730486"/>
+	<!-- 30군단의 은닉처 -->
+	<auto_group register_new="true" register_fast="true" max_lvl="55" min_lvl="51" title_id="903282" name_id="401200" instanceId="300080000" id="1019" npc_ids="701402 701403"/>
+	<!-- CHAMBER OF ROAH -->
+	<auto_group register_new="true" register_fast="true" max_lvl="50" min_lvl="40" title_id="903282" name_id="401202" instanceId="300070000" id="1023" npc_ids="700479 700532"/>
+	<!-- ASTERIA CHAMBER -->
+	<auto_group register_new="true" register_fast="true" max_lvl="50" min_lvl="40" title_id="903282" name_id="401201" instanceId="300050000" id="1025" npc_ids="700460 700533"/>
+	<!-- ABYSSAL SPLINTER -->
+	<auto_group register_new="true" register_fast="true" max_lvl="55" min_lvl="55" title_id="903282" name_id="401676" instanceId="300220000" id="1033" npc_ids="730316 730356"/>
+	<!-- EMPYREAN CRUCIBLE -->
+	<auto_group register_new="true" register_fast="true" max_lvl="55" min_lvl="50" title_id="903282" name_id="401828" instanceId="300300000" id="1036" npc_ids="730430 730431"/>
+	<!-- TELOS OF THE FORGOTTEN -->
+	<auto_group register_new="true" register_fast="true" max_lvl="55" min_lvl="51" title_id="903282" name_id="403382" instanceId="300550000" id="1037" npc_ids="800722"/>
+	<!-- TELOS OF THE FORGOTTEN [HARD] -->
+	<auto_group register_new="true" register_fast="true" max_lvl="55" min_lvl="55" title_id="903282" name_id="403398" instanceId="300560000" id="1038" npc_ids="800722"/>
+	
+	<!-- *********************** -->
+	<!-- ******** ARENA ******** -->
+	<!-- *********************** -->
+	<!-- ARENA OF CHAOS -->
+	<auto_group register_new="true" register_fast="true" register_group="true" max_lvl="50" min_lvl="46" title_id="903479" name_id="402045" instanceId="300350000" id="21" npc_ids="730482 730481"/>
+	<auto_group register_new="true" register_fast="true" register_group="true" max_lvl="55" min_lvl="51" title_id="903479" name_id="402045" instanceId="300350000" id="22" npc_ids="730482 730481"/>
+	<auto_group register_new="true" register_fast="true" register_group="true" max_lvl="60" min_lvl="56" title_id="903479" name_id="402045" instanceId="300350000" id="23" npc_ids="730482 730481"/>
+	<!-- ARENA OF DISCIPLINE -->
+	<auto_group register_new="true" register_fast="true" register_group="true" max_lvl="50" min_lvl="46" title_id="903479" name_id="402046" instanceId="300360000" id="24" npc_ids="730484 730483"/>
+	<auto_group register_new="true" register_fast="true" register_group="true" max_lvl="55" min_lvl="51" title_id="903479" name_id="402046" instanceId="300360000" id="25" npc_ids="730484 730483"/>
+	<auto_group register_new="true" register_fast="true" register_group="true" max_lvl="60" min_lvl="56" title_id="903479" name_id="402046" instanceId="300360000" id="26" npc_ids="730484 730483"/>
+	<!-- CHAOS TRAINING GROUNDS -->
+	<auto_group register_new="true" register_fast="true" register_group="true" max_lvl="50" min_lvl="46" title_id="903479" name_id="403259" instanceId="300420000" id="27" npc_ids="207059 207057"/>
+	<auto_group register_new="true" register_fast="true" register_group="true" max_lvl="55" min_lvl="51" title_id="903479" name_id="403259" instanceId="300420000" id="28" npc_ids="207059 207057"/>
+	<auto_group register_new="true" register_fast="true" register_group="true" max_lvl="60" min_lvl="56" title_id="903479" name_id="403259" instanceId="300420000" id="29" npc_ids="207059 207057"/>
+	<!-- DISCIPLINE TRAINING GROUNDS -->
+	<auto_group register_new="true" register_fast="true" register_group="true" max_lvl="50" min_lvl="46" title_id="903479" name_id="403260" instanceId="300430000" id="30" npc_ids="207058 207056"/>
+	<auto_group register_new="true" register_fast="true" register_group="true" max_lvl="55" min_lvl="51" title_id="903479" name_id="403260" instanceId="300430000" id="31" npc_ids="207058 207056"/>
+	<auto_group register_new="true" register_fast="true" register_group="true" max_lvl="60" min_lvl="56" title_id="903479" name_id="403260" instanceId="300430000" id="32" npc_ids="207058 207056"/>
+	<!-- ARENA OF GLORY -->
+	<auto_group register_new="true" register_fast="true" register_group="true" max_lvl="55" min_lvl="55" title_id="903479" name_id="403260" instanceId="300470000" id="34" npc_ids="730487 730488"/>
+</auto_groups>

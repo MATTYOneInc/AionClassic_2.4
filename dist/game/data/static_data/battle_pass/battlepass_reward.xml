@@ -1,0 +1,1055 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+	Daeva Pass [Aion Classic]
+	Develop: ADev.Team
+ -->
+<battlepass_rewards xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="battlepass_reward.xsd">
+    <battlepass_reward id="1138" season_id="2020" level="1">
+        <light_basic_reward item_id="164002011" count="20"/>
+        <light_basic_reward item_id="188052840" count="1"/>
+        <light_unlock_reward item_id="190020109" count="1"/>
+        <light_unlock_reward item_id="161000003" count="3"/>
+        <dark_basic_reward item_id="164002011" count="20"/>
+        <dark_basic_reward item_id="188052840" count="1"/>
+        <dark_unlock_reward item_id="190020109" count="1"/>
+        <dark_unlock_reward item_id="161000003" count="3"/>
+    </battlepass_reward>
+    <battlepass_reward id="1139" season_id="2020" level="2">
+        <light_basic_reward item_id="164002007" count="3"/>
+        <light_unlock_reward item_id="164002067" count="1"/>
+        <dark_basic_reward item_id="164002008" count="3"/>
+        <dark_unlock_reward item_id="164002067" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="1140" season_id="2020" level="3">
+        <light_basic_reward item_id="164002064" count="5"/>
+        <light_basic_reward item_id="164002066" count="5"/>
+        <light_unlock_reward item_id="162001025" count="10"/>
+        <dark_basic_reward item_id="164002064" count="5"/>
+        <dark_basic_reward item_id="164002066" count="5"/>
+        <dark_unlock_reward item_id="162001025" count="10"/>
+    </battlepass_reward>
+    <battlepass_reward id="1141" season_id="2020" level="4">
+        <light_basic_reward item_id="164002083" count="5"/>
+        <light_basic_reward item_id="184002003" count="1"/>
+        <light_unlock_reward item_id="169610069" count="1"/>
+        <light_unlock_reward item_id="160010178" count="3"/>
+        <dark_basic_reward item_id="164002083" count="5"/>
+        <dark_basic_reward item_id="184002006" count="1"/>
+        <dark_unlock_reward item_id="169610069" count="1"/>
+        <dark_unlock_reward item_id="160010179" count="3"/>
+    </battlepass_reward>
+    <battlepass_reward id="1142" season_id="2020" level="5">
+        <light_basic_reward item_id="162001025" count="5"/>
+        <light_unlock_reward item_id="164002067" count="1"/>
+        <dark_basic_reward item_id="162001025" count="5"/>
+        <dark_unlock_reward item_id="164002067" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="1143" season_id="2020" level="6">
+        <light_basic_reward item_id="164002011" count="20"/>
+        <light_unlock_reward item_id="164002064" count="20"/>
+        <light_unlock_reward item_id="164002066" count="20"/>
+        <dark_basic_reward item_id="164002011" count="20"/>
+        <dark_unlock_reward item_id="164002064" count="20"/>
+        <dark_unlock_reward item_id="164002066" count="20"/>
+    </battlepass_reward>
+    <battlepass_reward id="1144" season_id="2020" level="7">
+        <light_basic_reward item_id="188052299" count="1"/>
+        <light_unlock_reward item_id="162002044" count="10"/>
+        <dark_basic_reward item_id="188052299" count="1"/>
+        <dark_unlock_reward item_id="162002044" count="10"/>
+    </battlepass_reward>
+    <battlepass_reward id="1145" season_id="2020" level="8">
+        <light_basic_reward item_id="160010168" count="3"/>
+        <light_basic_reward item_id="188500047" count="1"/>
+        <light_unlock_reward item_id="188052303" count="1"/>
+        <light_unlock_reward item_id="164002012" count="20"/>
+        <dark_basic_reward item_id="160010169" count="3"/>
+        <dark_basic_reward item_id="188500047" count="1"/>
+        <dark_unlock_reward item_id="188052303" count="1"/>
+        <dark_unlock_reward item_id="164002012" count="20"/>
+    </battlepass_reward>
+    <battlepass_reward id="1146" season_id="2020" level="9">
+        <light_basic_reward item_id="164002012" count="10"/>
+        <light_unlock_reward item_id="164005018" count="1"/>
+        <dark_basic_reward item_id="164002012" count="10"/>
+        <dark_unlock_reward item_id="164005022" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="1147" season_id="2020" level="10">
+        <light_basic_reward item_id="162001025" count="5"/>
+        <light_unlock_reward item_id="160010178" count="3"/>
+        <dark_basic_reward item_id="162001025" count="5"/>
+        <dark_unlock_reward item_id="160010179" count="3"/>
+    </battlepass_reward>
+    <battlepass_reward id="1148" season_id="2020" level="11">
+        <light_basic_reward item_id="160009013" count="10"/>
+        <light_unlock_reward item_id="188052302" count="3"/>
+        <dark_basic_reward item_id="160009015" count="10"/>
+        <dark_unlock_reward item_id="188052302" count="3"/>
+    </battlepass_reward>
+    <battlepass_reward id="1149" season_id="2020" level="12">
+        <light_basic_reward item_id="162002044" count="3"/>
+        <light_basic_reward item_id="164002011" count="20"/>
+        <light_unlock_reward item_id="186000051" count="1"/>
+        <light_unlock_reward item_id="162002044" count="10"/>
+        <dark_basic_reward item_id="162002044" count="3"/>
+        <dark_basic_reward item_id="164002011" count="20"/>
+        <dark_unlock_reward item_id="186000051" count="1"/>
+        <dark_unlock_reward item_id="162002044" count="10"/>
+    </battlepass_reward>
+    <battlepass_reward id="1150" season_id="2020" level="13">
+        <light_basic_reward item_id="164002010" count="20"/>
+        <light_basic_reward item_id="164002058" count="20"/>
+        <light_unlock_reward item_id="162002038" count="1"/>
+        <dark_basic_reward item_id="164002010" count="20"/>
+        <dark_basic_reward item_id="164002058" count="20"/>
+        <dark_unlock_reward item_id="162002038" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="1151" season_id="2020" level="14">
+        <light_basic_reward item_id="162002044" count="3"/>
+        <light_unlock_reward item_id="164005018" count="1"/>
+        <dark_basic_reward item_id="162002044" count="3"/>
+        <dark_unlock_reward item_id="164005022" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="1152" season_id="2020" level="15">
+        <light_basic_reward item_id="162001025" count="5"/>
+        <light_basic_reward item_id="164002067" count="1"/>
+        <light_unlock_reward item_id="164002067" count="1"/>
+        <light_unlock_reward item_id="188052644" count="1"/>
+        <dark_basic_reward item_id="162001025" count="5"/>
+        <dark_basic_reward item_id="164002067" count="1"/>
+        <dark_unlock_reward item_id="164002067" count="1"/>
+        <dark_unlock_reward item_id="188052644" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="1153" season_id="2020" level="16">
+        <light_basic_reward item_id="164002012" count="20"/>
+        <light_unlock_reward item_id="161000003" count="3"/>
+        <dark_basic_reward item_id="164002012" count="20"/>
+        <dark_unlock_reward item_id="161000003" count="3"/>
+    </battlepass_reward>
+    <battlepass_reward id="1154" season_id="2020" level="17">
+        <light_basic_reward item_id="162002044" count="3"/>
+        <light_unlock_reward item_id="162002044" count="10"/>
+        <dark_basic_reward item_id="162002044" count="3"/>
+        <dark_unlock_reward item_id="162002044" count="10"/>
+    </battlepass_reward>
+    <battlepass_reward id="1155" season_id="2020" level="18">
+        <light_unlock_reward item_id="190020128" count="1"/>
+        <light_unlock_reward item_id="164005019" count="1"/>
+        <dark_unlock_reward item_id="190020128" count="1"/>
+        <dark_unlock_reward item_id="164005023" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="1156" season_id="2020" level="19">
+        <light_basic_reward item_id="164002011" count="20"/>
+        <light_unlock_reward item_id="188052841" count="1"/>
+        <light_unlock_reward item_id="188052843" count="1"/>
+        <dark_basic_reward item_id="164002011" count="20"/>
+        <dark_unlock_reward item_id="188052841" count="1"/>
+        <dark_unlock_reward item_id="188052843" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="1157" season_id="2020" level="20">
+        <light_basic_reward item_id="162002044" count="3"/>
+        <light_unlock_reward item_id="164002064" count="20"/>
+        <light_unlock_reward item_id="164002066" count="20"/>
+        <dark_basic_reward item_id="162002044" count="3"/>
+        <dark_unlock_reward item_id="164002064" count="20"/>
+        <dark_unlock_reward item_id="164002066" count="20"/>
+    </battlepass_reward>
+    <battlepass_reward id="1158" season_id="2020" level="21">
+        <light_basic_reward item_id="162001025" count="5"/>
+        <light_unlock_reward item_id="141000002" count="10000"/>
+        <light_unlock_reward item_id="188052300" count="1"/>
+        <dark_basic_reward item_id="162001025" count="5"/>
+        <dark_unlock_reward item_id="141000002" count="10000"/>
+        <dark_unlock_reward item_id="188052300" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="1159" season_id="2020" level="22">
+        <light_basic_reward item_id="162002044" count="3"/>
+        <light_unlock_reward item_id="164002067" count="1"/>
+        <light_unlock_reward item_id="188052842" count="1"/>
+        <dark_basic_reward item_id="162002044" count="3"/>
+        <dark_unlock_reward item_id="164002067" count="1"/>
+        <dark_unlock_reward item_id="188052842" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="1160" season_id="2020" level="23">
+        <light_basic_reward item_id="160010168" count="3"/>
+        <light_unlock_reward item_id="188052303" count="2"/>
+        <light_unlock_reward item_id="188052843" count="1"/>
+        <dark_basic_reward item_id="160010169" count="3"/>
+        <dark_unlock_reward item_id="188052303" count="2"/>
+        <dark_unlock_reward item_id="188052843" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="1161" season_id="2020" level="24">
+        <light_unlock_reward item_id="160010178" count="3"/>
+        <dark_unlock_reward item_id="160010179" count="3"/>
+    </battlepass_reward>
+    <battlepass_reward id="1162" season_id="2020" level="25">
+        <light_basic_reward item_id="160009014" count="3"/>
+        <light_unlock_reward item_id="162002044" count="10"/>
+        <light_unlock_reward item_id="188600080" count="1"/>
+        <dark_basic_reward item_id="160009016" count="3"/>
+        <dark_unlock_reward item_id="162002044" count="10"/>
+        <dark_unlock_reward item_id="188600080" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="1163" season_id="2020" level="26">
+        <light_unlock_reward item_id="188052302" count="3"/>
+        <light_unlock_reward item_id="188500064" count="1"/>
+        <dark_unlock_reward item_id="188052302" count="3"/>
+        <dark_unlock_reward item_id="188500064" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="1164" season_id="2020" level="27">
+        <light_basic_reward item_id="188052840" count="1"/>
+        <light_basic_reward item_id="162002044" count="3"/>
+        <light_unlock_reward item_id="162002038" count="1"/>
+        <light_unlock_reward item_id="188052644" count="1"/>
+        <dark_basic_reward item_id="188052840" count="1"/>
+        <dark_basic_reward item_id="162002044" count="3"/>
+        <dark_unlock_reward item_id="162002038" count="1"/>
+        <dark_unlock_reward item_id="188052644" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="1165" season_id="2020" level="28">
+        <light_unlock_reward item_id="160010178" count="3"/>
+        <dark_unlock_reward item_id="160010179" count="3"/>
+    </battlepass_reward>
+    <battlepass_reward id="1166" season_id="2020" level="29">
+        <light_basic_reward item_id="164002010" count="20"/>
+        <light_basic_reward item_id="164002058" count="20"/>
+        <light_unlock_reward item_id="164002067" count="2"/>
+        <dark_basic_reward item_id="164002010" count="20"/>
+        <dark_basic_reward item_id="164002058" count="20"/>
+        <dark_unlock_reward item_id="164002067" count="2"/>
+    </battlepass_reward>
+    <battlepass_reward id="1167" season_id="2020" level="30">
+        <light_basic_reward item_id="164002011" count="20"/>
+        <light_unlock_reward item_id="164002064" count="20"/>
+        <light_unlock_reward item_id="164002066" count="20"/>
+        <dark_basic_reward item_id="164002011" count="20"/>
+        <dark_unlock_reward item_id="164002064" count="20"/>
+        <dark_unlock_reward item_id="164002066" count="20"/>
+    </battlepass_reward>
+    <battlepass_reward id="1168" season_id="2020" level="31">
+        <light_basic_reward item_id="160010168" count="3"/>
+        <light_unlock_reward item_id="188052301" count="1"/>
+        <light_unlock_reward item_id="188052644" count="1"/>
+        <dark_basic_reward item_id="160010169" count="3"/>
+        <dark_unlock_reward item_id="188052301" count="1"/>
+        <dark_unlock_reward item_id="188052644" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="1169" season_id="2020" level="32">
+        <light_basic_reward item_id="162002044" count="3"/>
+        <light_unlock_reward item_id="188052303" count="3"/>
+        <light_unlock_reward item_id="188052844" count="1"/>
+        <dark_basic_reward item_id="162002044" count="3"/>
+        <dark_unlock_reward item_id="188052303" count="3"/>
+        <dark_unlock_reward item_id="188052844" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="1170" season_id="2020" level="33">
+        <light_unlock_reward item_id="188052303" count="3"/>
+        <light_unlock_reward item_id="188052844" count="1"/>
+        <dark_unlock_reward item_id="188052303" count="3"/>
+        <dark_unlock_reward item_id="188052844" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="1171" season_id="2020" level="34">
+        <light_basic_reward item_id="164002083" count="5"/>
+        <light_unlock_reward item_id="188052421" count="2"/>
+        <light_unlock_reward item_id="188052844" count="1"/>
+        <dark_basic_reward item_id="164002083" count="5"/>
+        <dark_unlock_reward item_id="188052421" count="2"/>
+        <dark_unlock_reward item_id="188052844" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="1172" season_id="2020" level="35">
+        <light_unlock_reward item_id="188052421" count="2"/>
+        <light_unlock_reward item_id="188052844" count="1"/>
+        <dark_unlock_reward item_id="188052421" count="2"/>
+        <dark_unlock_reward item_id="188052844" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="1173" season_id="2020" level="36">
+        <light_basic_reward item_id="169611044" count="1"/>
+        <light_unlock_reward item_id="169611045" count="1"/>
+        <light_unlock_reward item_id="188053201" count="1"/>
+        <dark_basic_reward item_id="169611044" count="1"/>
+        <dark_unlock_reward item_id="169611045" count="1"/>
+        <dark_unlock_reward item_id="188053201" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="22416" season_id="22011" level="1">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <light_unlock_reward item_id="190020125" count="1"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+        <dark_unlock_reward item_id="190020125" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="22417" season_id="22011" level="2">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22418" season_id="22011" level="3">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22419" season_id="22011" level="4">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22420" season_id="22011" level="5">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22421" season_id="22011" level="6">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22422" season_id="22011" level="7">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22423" season_id="22011" level="8">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22424" season_id="22011" level="9">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22425" season_id="22011" level="10">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22426" season_id="22011" level="11">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22427" season_id="22011" level="12">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22428" season_id="22011" level="13">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22429" season_id="22011" level="14">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22430" season_id="22011" level="15">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22431" season_id="22011" level="16">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22432" season_id="22011" level="17">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22433" season_id="22011" level="18">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22434" season_id="22011" level="19">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22435" season_id="22011" level="20">
+        <light_basic_reward item_id="186000180" count="5"/>
+        <light_unlock_reward item_id="186000180" count="10"/>
+        <dark_basic_reward item_id="186000180" count="5"/>
+        <dark_unlock_reward item_id="186000180" count="10"/>
+    </battlepass_reward>
+    <battlepass_reward id="22436" season_id="22011" level="21">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22437" season_id="22011" level="22">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22438" season_id="22011" level="23">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22439" season_id="22011" level="24">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22440" season_id="22011" level="25">
+        <light_basic_reward item_id="186000180" count="5"/>
+        <light_unlock_reward item_id="186000180" count="10"/>
+        <dark_basic_reward item_id="186000180" count="5"/>
+        <dark_unlock_reward item_id="186000180" count="10"/>
+    </battlepass_reward>
+    <battlepass_reward id="22441" season_id="22011" level="26">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22442" season_id="22011" level="27">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22443" season_id="22011" level="28">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22444" season_id="22011" level="29">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22445" season_id="22011" level="30">
+        <light_basic_reward item_id="186000180" count="5"/>
+        <light_unlock_reward item_id="186000180" count="10"/>
+        <light_unlock_reward item_id="188052358" count="1"/>
+        <dark_basic_reward item_id="186000180" count="5"/>
+        <dark_unlock_reward item_id="186000180" count="10"/>
+        <dark_unlock_reward item_id="188052358" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="22446" season_id="22011" level="31">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22447" season_id="22011" level="32">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22448" season_id="22011" level="33">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22449" season_id="22011" level="34">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22450" season_id="22011" level="35">
+        <light_basic_reward item_id="186000180" count="10"/>
+        <light_unlock_reward item_id="186000180" count="25"/>
+        <light_unlock_reward item_id="169611001" count="1"/>
+        <dark_basic_reward item_id="186000180" count="10"/>
+        <dark_unlock_reward item_id="186000180" count="25"/>
+        <dark_unlock_reward item_id="169611001" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="22451" season_id="22011" level="36">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22452" season_id="22011" level="37">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22453" season_id="22011" level="38">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22454" season_id="22011" level="39">
+        <light_basic_reward item_id="186000180" count="4"/>
+        <light_unlock_reward item_id="186000180" count="7"/>
+        <dark_basic_reward item_id="186000180" count="4"/>
+        <dark_unlock_reward item_id="186000180" count="7"/>
+    </battlepass_reward>
+    <battlepass_reward id="22455" season_id="22011" level="40">
+        <light_basic_reward item_id="186000180" count="15"/>
+        <light_basic_reward item_id="186000052" count="1"/>
+        <light_unlock_reward item_id="186000180" count="40"/>
+        <light_unlock_reward item_id="188052358" count="2"/>
+        <dark_basic_reward item_id="186000180" count="15"/>
+        <dark_basic_reward item_id="186000052" count="1"/>
+        <dark_unlock_reward item_id="186000180" count="40"/>
+        <dark_unlock_reward item_id="188052358" count="2"/>
+    </battlepass_reward>
+    <battlepass_reward id="32001" season_id="32001" level="1">
+        <light_basic_reward item_id="164002011" count="20"/>
+        <light_unlock_reward item_id="188052442" count="1"/>
+        <dark_basic_reward item_id="164002011" count="20"/>
+        <dark_unlock_reward item_id="188052442" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="32002" season_id="32001" level="2">
+        <light_basic_reward item_id="164002010" count="20"/>
+        <light_basic_reward item_id="164002058" count="20"/>
+        <light_unlock_reward item_id="141000002" count="1000"/>
+        <dark_basic_reward item_id="164002010" count="20"/>
+        <dark_basic_reward item_id="164002058" count="20"/>
+        <dark_unlock_reward item_id="141000002" count="1000"/>
+    </battlepass_reward>
+    <battlepass_reward id="32003" season_id="32001" level="3">
+        <light_basic_reward item_id="164002007" count="3"/>
+        <light_unlock_reward item_id="164002067" count="1"/>
+        <dark_basic_reward item_id="164002008" count="3"/>
+        <dark_unlock_reward item_id="164002067" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="32004" season_id="32001" level="4">
+        <light_basic_reward item_id="164002061" count="10"/>
+        <light_basic_reward item_id="164002013" count="10"/>
+        <light_unlock_reward item_id="162001025" count="10"/>
+        <dark_basic_reward item_id="164002061" count="10"/>
+        <dark_basic_reward item_id="164002013" count="10"/>
+        <dark_unlock_reward item_id="162001025" count="10"/>
+    </battlepass_reward>
+    <battlepass_reward id="32005" season_id="32001" level="5">
+        <light_basic_reward item_id="164002073" count="5"/>
+        <light_unlock_reward item_id="188052441" count="1"/>
+        <dark_basic_reward item_id="164002073" count="5"/>
+        <dark_unlock_reward item_id="188052441" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="32006" season_id="32001" level="6">
+        <light_basic_reward item_id="184002003" count="1"/>
+        <light_unlock_reward item_id="164002011" count="50"/>
+        <dark_basic_reward item_id="184002006" count="1"/>
+        <dark_unlock_reward item_id="164002011" count="50"/>
+    </battlepass_reward>
+    <battlepass_reward id="32007" season_id="32001" level="7">
+        <light_basic_reward item_id="160010076" count="3"/>
+        <light_unlock_reward item_id="164002010" count="50"/>
+        <light_unlock_reward item_id="164002058" count="50"/>
+        <dark_basic_reward item_id="160010076" count="3"/>
+        <dark_unlock_reward item_id="164002010" count="50"/>
+        <dark_unlock_reward item_id="164002058" count="50"/>
+    </battlepass_reward>
+    <battlepass_reward id="32008" season_id="32001" level="8">
+        <light_basic_reward item_id="164002011" count="20"/>
+        <light_unlock_reward item_id="164002061" count="30"/>
+        <light_unlock_reward item_id="164002013" count="30"/>
+        <dark_basic_reward item_id="164002011" count="20"/>
+        <dark_unlock_reward item_id="164002061" count="30"/>
+        <dark_unlock_reward item_id="164002013" count="30"/>
+    </battlepass_reward>
+    <battlepass_reward id="32009" season_id="32001" level="9">
+        <light_basic_reward item_id="160009013" count="10"/>
+        <light_unlock_reward item_id="162002035" count="50"/>
+        <dark_basic_reward item_id="160009015" count="10"/>
+        <dark_unlock_reward item_id="162002035" count="50"/>
+    </battlepass_reward>
+    <battlepass_reward id="32010" season_id="32001" level="10">
+        <light_basic_reward item_id="160010168" count="3"/>
+        <light_unlock_reward item_id="169611039" count="1"/>
+        <dark_basic_reward item_id="160010169" count="3"/>
+        <dark_unlock_reward item_id="169611039" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="32011" season_id="32001" level="11">
+        <light_basic_reward item_id="141000002" count="200"/>
+        <light_unlock_reward item_id="162002038" count="1"/>
+        <dark_basic_reward item_id="141000002" count="200"/>
+        <dark_unlock_reward item_id="162002038" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="32012" season_id="32001" level="12">
+        <light_basic_reward item_id="164002012" count="10"/>
+        <light_unlock_reward item_id="188052042" count="1"/>
+        <dark_basic_reward item_id="164002012" count="10"/>
+        <dark_unlock_reward item_id="188052043" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="32013" season_id="32001" level="13">
+        <light_basic_reward item_id="162002030" count="5"/>
+        <light_unlock_reward item_id="160010178" count="3"/>
+        <dark_basic_reward item_id="162002030" count="5"/>
+        <dark_unlock_reward item_id="160010179" count="3"/>
+    </battlepass_reward>
+    <battlepass_reward id="32014" season_id="32001" level="14">
+        <light_basic_reward item_id="160009013" count="10"/>
+        <light_unlock_reward item_id="162001025" count="10"/>
+        <dark_basic_reward item_id="160009015" count="10"/>
+        <dark_unlock_reward item_id="162001025" count="10"/>
+    </battlepass_reward>
+    <battlepass_reward id="32015" season_id="32001" level="15">
+        <light_basic_reward item_id="162002030" count="5"/>
+        <light_unlock_reward item_id="188052116" count="1"/>
+        <dark_basic_reward item_id="162002030" count="5"/>
+        <dark_unlock_reward item_id="188052116" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="32016" season_id="32001" level="16">
+        <light_basic_reward item_id="164002011" count="20"/>
+        <light_unlock_reward item_id="162002035" count="50"/>
+        <dark_basic_reward item_id="164002011" count="20"/>
+        <dark_unlock_reward item_id="162002035" count="50"/>
+    </battlepass_reward>
+    <battlepass_reward id="32017" season_id="32001" level="17">
+        <light_basic_reward item_id="164002010" count="20"/>
+        <light_basic_reward item_id="164002058" count="20"/>
+        <light_unlock_reward item_id="185000041" count="1"/>
+        <dark_basic_reward item_id="164002010" count="20"/>
+        <dark_basic_reward item_id="164002058" count="20"/>
+        <dark_unlock_reward item_id="185000041" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="32018" season_id="32001" level="18">
+        <light_basic_reward item_id="162002030" count="5"/>
+        <light_unlock_reward item_id="188600047" count="1"/>
+        <dark_basic_reward item_id="162002030" count="5"/>
+        <dark_unlock_reward item_id="188600047" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="32019" season_id="32001" level="19">
+        <light_basic_reward item_id="160010076" count="3"/>
+        <light_unlock_reward item_id="164002067" count="1"/>
+        <dark_basic_reward item_id="160010076" count="3"/>
+        <dark_unlock_reward item_id="164002067" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="32020" season_id="32001" level="20">
+        <light_basic_reward item_id="164002067" count="1"/>
+        <light_unlock_reward item_id="188052115" count="1"/>
+        <dark_basic_reward item_id="164002067" count="1"/>
+        <dark_unlock_reward item_id="188052115" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="32021" season_id="32001" level="21">
+        <light_basic_reward item_id="164002012" count="20"/>
+        <light_unlock_reward item_id="164005018" count="1"/>
+        <dark_basic_reward item_id="164002012" count="20"/>
+        <dark_unlock_reward item_id="164005022" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="32022" season_id="32001" level="22">
+        <light_basic_reward item_id="162002030" count="5"/>
+        <light_unlock_reward item_id="162002035" count="10"/>
+        <dark_basic_reward item_id="162002030" count="5"/>
+        <dark_unlock_reward item_id="162002035" count="10"/>
+    </battlepass_reward>
+    <battlepass_reward id="32023" season_id="32001" level="23">
+        <light_basic_reward item_id="141000002" count="200"/>
+        <light_unlock_reward item_id="164002067" count="1"/>
+        <dark_basic_reward item_id="141000002" count="200"/>
+        <dark_unlock_reward item_id="164002067" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="32024" season_id="32001" level="24">
+        <light_basic_reward item_id="164002011" count="20"/>
+        <light_unlock_reward item_id="162001025" count="20"/>
+        <dark_basic_reward item_id="164002011" count="20"/>
+        <dark_unlock_reward item_id="162001025" count="20"/>
+    </battlepass_reward>
+    <battlepass_reward id="32025" season_id="32001" level="25">
+        <light_basic_reward item_id="141000002" count="200"/>
+        <light_unlock_reward item_id="188052117" count="1"/>
+        <dark_basic_reward item_id="141000002" count="200"/>
+        <dark_unlock_reward item_id="188052117" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="32026" season_id="32001" level="26">
+        <light_basic_reward item_id="162002030" count="5"/>
+        <light_unlock_reward item_id="162002038" count="1"/>
+        <dark_basic_reward item_id="162002030" count="5"/>
+        <dark_unlock_reward item_id="162002038" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="32027" season_id="32001" level="27">
+        <light_basic_reward item_id="164002010" count="20"/>
+        <light_basic_reward item_id="164002058" count="20"/>
+        <light_unlock_reward item_id="141000002" count="1000"/>
+        <dark_basic_reward item_id="164002010" count="20"/>
+        <dark_basic_reward item_id="164002058" count="20"/>
+        <dark_unlock_reward item_id="141000002" count="1000"/>
+    </battlepass_reward>
+    <battlepass_reward id="32028" season_id="32001" level="28">
+        <light_unlock_reward item_id="169200006" count="1"/>
+        <dark_unlock_reward item_id="169200006" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="32029" season_id="32001" level="29">
+        <light_basic_reward item_id="162002030" count="5"/>
+        <light_unlock_reward item_id="164002067" count="1"/>
+        <dark_basic_reward item_id="162002030" count="5"/>
+        <dark_unlock_reward item_id="164002067" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="32030" season_id="32001" level="30">
+        <light_basic_reward item_id="160010168" count="3"/>
+        <light_unlock_reward item_id="188052114" count="1"/>
+        <dark_basic_reward item_id="160010169" count="3"/>
+        <dark_unlock_reward item_id="188052114" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="32031" season_id="32001" level="31">
+        <light_basic_reward item_id="141000002" count="200"/>
+        <light_unlock_reward item_id="160010178" count="3"/>
+        <dark_basic_reward item_id="141000002" count="200"/>
+        <dark_unlock_reward item_id="160010179" count="3"/>
+    </battlepass_reward>
+    <battlepass_reward id="32032" season_id="32001" level="32">
+        <light_basic_reward item_id="160009013" count="10"/>
+        <light_unlock_reward item_id="162001014" count="10"/>
+        <dark_basic_reward item_id="160009015" count="10"/>
+        <dark_unlock_reward item_id="162001014" count="10"/>
+    </battlepass_reward>
+    <battlepass_reward id="32033" season_id="32001" level="33">
+        <light_unlock_reward item_id="162001018" count="10"/>
+        <dark_unlock_reward item_id="162001018" count="10"/>
+    </battlepass_reward>
+    <battlepass_reward id="32034" season_id="32001" level="34">
+        <light_basic_reward item_id="164002010" count="20"/>
+        <light_basic_reward item_id="164002058" count="20"/>
+        <light_unlock_reward item_id="162001023" count="5"/>
+        <dark_basic_reward item_id="164002010" count="20"/>
+        <dark_basic_reward item_id="164002058" count="20"/>
+        <dark_unlock_reward item_id="162001023" count="5"/>
+    </battlepass_reward>
+    <battlepass_reward id="32035" season_id="32001" level="35">
+        <light_basic_reward item_id="162002030" count="5"/>
+        <light_unlock_reward item_id="188052113" count="1"/>
+        <dark_basic_reward item_id="162002030" count="5"/>
+        <dark_unlock_reward item_id="188052113" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="32036" season_id="32001" level="36">
+        <light_unlock_reward item_id="141000002" count="1000"/>
+        <dark_unlock_reward item_id="141000002" count="1000"/>
+    </battlepass_reward>
+    <battlepass_reward id="32037" season_id="32001" level="37">
+        <light_basic_reward item_id="164002010" count="20"/>
+        <light_basic_reward item_id="164002058" count="20"/>
+        <light_unlock_reward item_id="164002067" count="2"/>
+        <dark_basic_reward item_id="164002010" count="20"/>
+        <dark_basic_reward item_id="164002058" count="20"/>
+        <dark_unlock_reward item_id="164002067" count="2"/>
+    </battlepass_reward>
+    <battlepass_reward id="32038" season_id="32001" level="38">
+        <light_basic_reward item_id="164002011" count="20"/>
+        <light_unlock_reward item_id="164002061" count="30"/>
+        <light_unlock_reward item_id="164002013" count="30"/>
+        <dark_basic_reward item_id="164002011" count="20"/>
+        <dark_unlock_reward item_id="164002061" count="30"/>
+        <dark_unlock_reward item_id="164002013" count="30"/>
+    </battlepass_reward>
+    <battlepass_reward id="32039" season_id="32001" level="39">
+        <light_unlock_reward item_id="162002038" count="1"/>
+        <dark_unlock_reward item_id="162002038" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="32040" season_id="32001" level="40">
+        <light_basic_reward item_id="160010168" count="3"/>
+        <light_unlock_reward item_id="186000051" count="1"/>
+        <light_unlock_reward item_id="186000051" count="1"/>
+        <dark_basic_reward item_id="160010169" count="3"/>
+        <dark_unlock_reward item_id="186000051" count="1"/>
+        <dark_unlock_reward item_id="186000051" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="32041" season_id="32001" level="41">
+        <light_basic_reward item_id="164002010" count="20"/>
+        <light_basic_reward item_id="164002058" count="20"/>
+        <light_unlock_reward item_id="186000051" count="1"/>
+        <light_unlock_reward item_id="186000051" count="1"/>
+        <dark_basic_reward item_id="164002010" count="20"/>
+        <dark_basic_reward item_id="164002058" count="20"/>
+        <dark_unlock_reward item_id="186000051" count="1"/>
+        <dark_unlock_reward item_id="186000051" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="32042" season_id="32001" level="42">
+        <light_unlock_reward item_id="186000051" count="1"/>
+        <light_unlock_reward item_id="186000051" count="1"/>
+        <dark_unlock_reward item_id="186000051" count="1"/>
+        <dark_unlock_reward item_id="186000051" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="32043" season_id="32001" level="43">
+        <light_basic_reward item_id="160010076" count="3"/>
+        <light_unlock_reward item_id="188052068" count="1"/>
+        <light_unlock_reward item_id="186000051" count="1"/>
+        <dark_basic_reward item_id="160010076" count="3"/>
+        <dark_unlock_reward item_id="188052068" count="1"/>
+        <dark_unlock_reward item_id="186000051" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="32044" season_id="32001" level="44">
+        <light_unlock_reward item_id="188052068" count="1"/>
+        <light_unlock_reward item_id="186000051" count="1"/>
+        <dark_unlock_reward item_id="188052068" count="1"/>
+        <dark_unlock_reward item_id="186000051" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="32045" season_id="32001" level="45">
+        <light_basic_reward item_id="190020123" count="1"/>
+        <light_unlock_reward item_id="188052068" count="1"/>
+        <dark_basic_reward item_id="190020123" count="1"/>
+        <dark_unlock_reward item_id="188052068" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="42056" season_id="42004" level="1">
+        <light_basic_reward item_id="164002011" count="10"/>
+        <light_unlock_reward item_id="188052442" count="1"/>
+        <dark_basic_reward item_id="164002011" count="10"/>
+        <dark_unlock_reward item_id="188052442" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="42057" season_id="42004" level="2">
+        <light_basic_reward item_id="164002010" count="10"/>
+        <light_basic_reward item_id="164002058" count="10"/>
+        <light_unlock_reward item_id="164002011" count="100"/>
+        <light_unlock_reward item_id="120010002" count="1"/>
+        <dark_basic_reward item_id="164002010" count="10"/>
+        <dark_basic_reward item_id="164002058" count="10"/>
+        <dark_unlock_reward item_id="164002011" count="100"/>
+        <dark_unlock_reward item_id="120010002" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="42058" season_id="42004" level="3">
+        <light_basic_reward item_id="160005009" count="10"/>
+        <light_unlock_reward item_id="164002010" count="100"/>
+        <light_unlock_reward item_id="164002058" count="100"/>
+        <dark_basic_reward item_id="160005009" count="10"/>
+        <dark_unlock_reward item_id="164002010" count="100"/>
+        <dark_unlock_reward item_id="164002058" count="100"/>
+    </battlepass_reward>
+    <battlepass_reward id="42059" season_id="42004" level="4">
+        <light_basic_reward item_id="164002011" count="10"/>
+        <light_unlock_reward item_id="188600071" count="1"/>
+        <light_unlock_reward item_id="169620005" count="1"/>
+        <dark_basic_reward item_id="164002011" count="10"/>
+        <dark_unlock_reward item_id="188600071" count="1"/>
+        <dark_unlock_reward item_id="169620005" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="42060" season_id="42004" level="5">
+        <light_basic_reward item_id="164002010" count="10"/>
+        <light_basic_reward item_id="164002058" count="10"/>
+        <light_unlock_reward item_id="169610069" count="1"/>
+        <dark_basic_reward item_id="164002010" count="10"/>
+        <dark_basic_reward item_id="164002058" count="10"/>
+        <dark_unlock_reward item_id="169610069" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="42061" season_id="42004" level="6">
+        <light_basic_reward item_id="164002005" count="10"/>
+        <light_unlock_reward item_id="162002034" count="20"/>
+        <light_unlock_reward item_id="169620005" count="1"/>
+        <dark_basic_reward item_id="164002005" count="10"/>
+        <dark_unlock_reward item_id="162002034" count="20"/>
+        <dark_unlock_reward item_id="169620005" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="42062" season_id="42004" level="7">
+        <light_basic_reward item_id="164002007" count="3"/>
+        <light_unlock_reward item_id="169000011" count="10000"/>
+        <dark_basic_reward item_id="164002008" count="3"/>
+        <dark_unlock_reward item_id="169000011" count="10000"/>
+    </battlepass_reward>
+    <battlepass_reward id="42063" season_id="42004" level="8">
+        <light_basic_reward item_id="164002011" count="10"/>
+        <light_unlock_reward item_id="164002011" count="50"/>
+        <dark_basic_reward item_id="164002011" count="10"/>
+        <dark_unlock_reward item_id="164002011" count="50"/>
+    </battlepass_reward>
+    <battlepass_reward id="42064" season_id="42004" level="9">
+        <light_basic_reward item_id="164002005" count="10"/>
+        <light_unlock_reward item_id="162002034" count="20"/>
+        <light_unlock_reward item_id="169620005" count="1"/>
+        <dark_basic_reward item_id="164002005" count="10"/>
+        <dark_unlock_reward item_id="162002034" count="20"/>
+        <dark_unlock_reward item_id="169620005" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="42065" season_id="42004" level="10">
+        <light_basic_reward item_id="160010168" count="3"/>
+        <light_unlock_reward item_id="188052289" count="1"/>
+        <dark_basic_reward item_id="160010169" count="3"/>
+        <dark_unlock_reward item_id="188052290" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="42066" season_id="42004" level="11">
+        <light_basic_reward item_id="162002022" count="10"/>
+        <light_unlock_reward item_id="162002034" count="20"/>
+        <light_unlock_reward item_id="169620005" count="1"/>
+        <dark_basic_reward item_id="162002022" count="10"/>
+        <dark_unlock_reward item_id="162002034" count="20"/>
+        <dark_unlock_reward item_id="169620005" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="42067" season_id="42004" level="12">
+        <light_basic_reward item_id="164002012" count="10"/>
+        <light_unlock_reward item_id="164002010" count="50"/>
+        <light_unlock_reward item_id="164002058" count="50"/>
+        <dark_basic_reward item_id="164002012" count="10"/>
+        <dark_unlock_reward item_id="164002010" count="50"/>
+        <dark_unlock_reward item_id="164002058" count="50"/>
+    </battlepass_reward>
+    <battlepass_reward id="42068" season_id="42004" level="13">
+        <light_basic_reward item_id="160005009" count="10"/>
+        <light_unlock_reward item_id="164002011" count="50"/>
+        <dark_basic_reward item_id="160005009" count="10"/>
+        <dark_unlock_reward item_id="164002011" count="50"/>
+    </battlepass_reward>
+    <battlepass_reward id="42069" season_id="42004" level="14">
+        <light_basic_reward item_id="160009013" count="10"/>
+        <light_unlock_reward item_id="164002012" count="50"/>
+        <light_unlock_reward item_id="169620005" count="1"/>
+        <dark_basic_reward item_id="160009015" count="10"/>
+        <dark_unlock_reward item_id="164002012" count="50"/>
+        <dark_unlock_reward item_id="169620005" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="42070" season_id="42004" level="15">
+        <light_basic_reward item_id="162001007" count="10"/>
+        <light_unlock_reward item_id="186000003" count="450"/>
+        <dark_basic_reward item_id="162001007" count="10"/>
+        <dark_unlock_reward item_id="186000008" count="450"/>
+    </battlepass_reward>
+    <battlepass_reward id="42071" season_id="42004" level="16">
+        <light_basic_reward item_id="164002011" count="20"/>
+        <light_unlock_reward item_id="162002034" count="20"/>
+        <light_unlock_reward item_id="169620005" count="1"/>
+        <dark_basic_reward item_id="164002011" count="20"/>
+        <dark_unlock_reward item_id="162002034" count="20"/>
+        <dark_unlock_reward item_id="169620005" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="42072" season_id="42004" level="17">
+        <light_basic_reward item_id="164002010" count="20"/>
+        <light_basic_reward item_id="164002058" count="20"/>
+        <light_unlock_reward item_id="188600072" count="1"/>
+        <dark_basic_reward item_id="164002010" count="20"/>
+        <dark_basic_reward item_id="164002058" count="20"/>
+        <dark_unlock_reward item_id="188600072" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="42073" season_id="42004" level="18">
+        <light_basic_reward item_id="162001008" count="10"/>
+        <light_unlock_reward item_id="162001022" count="20"/>
+        <dark_basic_reward item_id="162001008" count="10"/>
+        <dark_unlock_reward item_id="162001022" count="20"/>
+    </battlepass_reward>
+    <battlepass_reward id="42074" season_id="42004" level="19">
+        <light_basic_reward item_id="160005009" count="10"/>
+        <light_unlock_reward item_id="161001002" count="1"/>
+        <light_unlock_reward item_id="169620005" count="1"/>
+        <dark_basic_reward item_id="160005009" count="10"/>
+        <dark_unlock_reward item_id="161001002" count="1"/>
+        <dark_unlock_reward item_id="169620005" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="42075" season_id="42004" level="20">
+        <light_basic_reward item_id="169620005" count="3"/>
+        <light_unlock_reward item_id="188052441" count="1"/>
+        <dark_basic_reward item_id="169620005" count="3"/>
+        <dark_unlock_reward item_id="188052441" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="42076" season_id="42004" level="21">
+        <light_basic_reward item_id="164002012" count="20"/>
+        <light_unlock_reward item_id="162002034" count="20"/>
+        <light_unlock_reward item_id="169620005" count="1"/>
+        <dark_basic_reward item_id="164002012" count="20"/>
+        <dark_unlock_reward item_id="162002034" count="20"/>
+        <dark_unlock_reward item_id="169620005" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="42077" season_id="42004" level="22">
+        <light_basic_reward item_id="162001007" count="20"/>
+        <light_unlock_reward item_id="162002034" count="20"/>
+        <dark_basic_reward item_id="162001007" count="20"/>
+        <dark_unlock_reward item_id="162002034" count="20"/>
+    </battlepass_reward>
+    <battlepass_reward id="42078" season_id="42004" level="23">
+        <light_basic_reward item_id="160005009" count="10"/>
+        <light_unlock_reward item_id="188500044" count="1"/>
+        <dark_basic_reward item_id="160005009" count="10"/>
+        <dark_unlock_reward item_id="188500044" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="42079" season_id="42004" level="24">
+        <light_basic_reward item_id="164002011" count="20"/>
+        <light_unlock_reward item_id="164002012" count="50"/>
+        <light_unlock_reward item_id="169620005" count="1"/>
+        <dark_basic_reward item_id="164002011" count="20"/>
+        <dark_unlock_reward item_id="164002012" count="50"/>
+        <dark_unlock_reward item_id="169620005" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="42080" season_id="42004" level="25">
+        <light_basic_reward item_id="164002010" count="20"/>
+        <light_basic_reward item_id="164002058" count="20"/>
+        <light_unlock_reward item_id="186000004" count="450"/>
+        <dark_basic_reward item_id="164002010" count="20"/>
+        <dark_basic_reward item_id="164002058" count="20"/>
+        <dark_unlock_reward item_id="186000009" count="450"/>
+    </battlepass_reward>
+    <battlepass_reward id="42081" season_id="42004" level="26">
+        <light_basic_reward item_id="162001008" count="20"/>
+        <light_unlock_reward item_id="162002034" count="20"/>
+        <light_unlock_reward item_id="169620005" count="1"/>
+        <dark_basic_reward item_id="162001008" count="20"/>
+        <dark_unlock_reward item_id="162002034" count="20"/>
+        <dark_unlock_reward item_id="169620005" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="42082" season_id="42004" level="27">
+        <light_unlock_reward item_id="169000012" count="10000"/>
+        <dark_unlock_reward item_id="169000012" count="10000"/>
+    </battlepass_reward>
+    <battlepass_reward id="42083" season_id="42004" level="28">
+        <light_basic_reward item_id="160005009" count="10"/>
+        <light_unlock_reward item_id="169230008" count="1"/>
+        <dark_basic_reward item_id="160005009" count="10"/>
+        <dark_unlock_reward item_id="169230008" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="42084" season_id="42004" level="29">
+        <light_basic_reward item_id="162001007" count="20"/>
+        <light_unlock_reward item_id="164002011" count="50"/>
+        <light_unlock_reward item_id="169620005" count="1"/>
+        <dark_basic_reward item_id="162001007" count="20"/>
+        <dark_unlock_reward item_id="164002011" count="50"/>
+        <dark_unlock_reward item_id="169620005" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="42085" season_id="42004" level="30">
+        <light_basic_reward item_id="160010168" count="3"/>
+        <light_unlock_reward item_id="186000005" count="450"/>
+        <dark_basic_reward item_id="160010169" count="3"/>
+        <dark_unlock_reward item_id="186000010" count="450"/>
+    </battlepass_reward>
+    <battlepass_reward id="42086" season_id="42004" level="31">
+        <light_basic_reward item_id="162001008" count="20"/>
+        <light_unlock_reward item_id="188051443" count="2"/>
+        <dark_basic_reward item_id="162001008" count="20"/>
+        <dark_unlock_reward item_id="188051443" count="2"/>
+    </battlepass_reward>
+    <battlepass_reward id="42087" season_id="42004" level="32">
+        <light_unlock_reward item_id="186000051" count="1"/>
+        <dark_unlock_reward item_id="186000051" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="42088" season_id="42004" level="33">
+        <light_basic_reward item_id="164002011" count="20"/>
+        <light_unlock_reward item_id="188052291" count="1"/>
+        <dark_basic_reward item_id="164002011" count="20"/>
+        <dark_unlock_reward item_id="188052292" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="42089" season_id="42004" level="34">
+        <light_basic_reward item_id="164002010" count="20"/>
+        <light_basic_reward item_id="164002058" count="20"/>
+        <light_unlock_reward item_id="188052293" count="1"/>
+        <dark_basic_reward item_id="164002010" count="20"/>
+        <dark_basic_reward item_id="164002058" count="20"/>
+        <dark_unlock_reward item_id="188052294" count="1"/>
+    </battlepass_reward>
+    <battlepass_reward id="42090" season_id="42004" level="35">
+        <light_basic_reward item_id="169620005" count="3"/>
+        <light_unlock_reward item_id="188052068" count="1"/>
+        <dark_basic_reward item_id="169620005" count="3"/>
+        <dark_unlock_reward item_id="188052068" count="1"/>
+    </battlepass_reward>
+</battlepass_rewards>

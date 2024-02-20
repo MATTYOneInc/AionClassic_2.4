@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Instance Rift.
+	Develop: ADev.Team
+ -->
+<instance_rift xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="instance_rift.xsd">
+	<!-- DRAUPNIR CAVE -->
+	<instance_location id="1"/>
+	<!-- INDRATU FORTRESS -->
+	<instance_location id="2"/>
+</instance_rift>

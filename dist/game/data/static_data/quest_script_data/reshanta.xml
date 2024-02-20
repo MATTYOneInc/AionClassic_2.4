@@ -1,0 +1,778 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+<!--
+    Quest Reshanta
+	Make By Encom
+ -->
+	<!-- [Relic Reward] Ancient Icon -->
+	<relic_rewards id="1833" start_npc_ids="278644" relic_var1="186000066" relic_var2="186000065" relic_var3="186000064" relic_var4="186000063"/>
+	<!-- [Relic Reward] Ancient Seal -->
+	<relic_rewards id="1834" start_npc_ids="278645" relic_var1="186000062" relic_var2="186000061" relic_var3="186000060" relic_var4="186000059"/>
+	<!-- [Relic Reward] Ancient Goblet -->
+	<relic_rewards id="1835" start_npc_ids="278646" relic_var1="186000058" relic_var2="186000057" relic_var3="186000056" relic_var4="186000055"/>
+	<!-- [Relic Reward] Ancient Crown -->
+	<relic_rewards id="1836" start_npc_ids="278647" relic_var1="186000054" relic_var2="186000053" relic_var3="186000052" relic_var4="186000051"/>
+	<!-- [Relic Reward] Ancient Goblet Elyos And Asmodians -->
+	<relic_rewards id="1849" start_npc_ids="279058" relic_var1="186000058" relic_var2="186000057" relic_var3="186000056" relic_var4="186000055"/>
+	<!-- [Relic Reward] Ancient Crown Elyos And Asmodians -->
+	<relic_rewards id="1850" start_npc_ids="279059" relic_var1="186000054" relic_var2="186000053" relic_var3="186000052" relic_var4="186000051"/>
+	<!-- [Relic Reward] Ancient Icon -->
+	<relic_rewards id="2834" start_npc_ids="278144" relic_var1="186000066" relic_var2="186000065" relic_var3="186000064" relic_var4="186000063"/>
+	<!-- [Relic Reward] Ancient Seal -->
+	<relic_rewards id="2835" start_npc_ids="278145" relic_var1="186000062" relic_var2="186000061" relic_var3="186000060" relic_var4="186000059"/>
+	<!-- [Relic Reward] Ancient Goblet -->
+	<relic_rewards id="2836" start_npc_ids="278146" relic_var1="186000058" relic_var2="186000057" relic_var3="186000056" relic_var4="186000055"/>
+	<!-- [Relic Reward] Ancient Crown -->
+	<relic_rewards id="2837" start_npc_ids="278147" relic_var1="186000054" relic_var2="186000053" relic_var3="186000052" relic_var4="186000051"/>
+	
+	<!-- Trading Down -->
+	<item_order id="1718" start_item_id="182202156" talk_npc_id1="203190" talk_npc_id2="204028" talk_npc_id3="204611" end_npc_id="279029"/>
+	
+	<!-- Defeat 9th Rank Asmodian Soldiers -->
+	<kill_in_world id="1702" start_npc_ids="278503" end_npc_ids="278503" start_dialog_id="1011" worlds="0" amount="10"/>
+	<!-- Defeat 8th Rank Asmodian Soldiers -->
+	<kill_in_world id="1703" start_npc_ids="278503" end_npc_ids="278503" start_dialog_id="1011" worlds="0" amount="10"/>
+	<!-- Defeat 7th Rank Asmodian Soldiers -->
+	<kill_in_world id="1704" start_npc_ids="278503" end_npc_ids="278503" start_dialog_id="1011" worlds="0" amount="10"/>
+	<!-- Defeat 6th Rank Asmodian Soldiers -->
+	<kill_in_world id="1705" start_npc_ids="278503" end_npc_ids="278503" start_dialog_id="1011" worlds="0" amount="10"/>
+	<!-- Defeat 5th Rank Asmodian Soldiers -->
+	<kill_in_world id="1706" start_npc_ids="278503" end_npc_ids="278503" start_dialog_id="1011" worlds="0" amount="10"/>
+	<!-- Defeat 4th Rank Asmodian Soldiers -->
+	<kill_in_world id="1707" start_npc_ids="278502" end_npc_ids="278502" start_dialog_id="1011" worlds="0" amount="10"/>
+	<!-- Defeat 3th Rank Asmodian Soldiers -->
+	<kill_in_world id="1708" start_npc_ids="278502" end_npc_ids="278502" start_dialog_id="1011" worlds="0" amount="10"/>
+	<!-- Defeat 2th Rank Asmodian Soldiers -->
+	<kill_in_world id="1709" start_npc_ids="278502" end_npc_ids="278502" start_dialog_id="1011" worlds="0" amount="10"/>
+	<!-- Defeat 1th Rank Asmodian Soldiers -->
+	<kill_in_world id="1710" start_npc_ids="278502" end_npc_ids="278502" start_dialog_id="1011" worlds="0" amount="10"/>
+	<!-- [Group] Confront Asmodian Officers -->
+	<kill_in_world id="1719" start_npc_ids="278501" end_npc_ids="278501" start_dialog_id="1011" worlds="0" amount="10"/>
+	<!-- [Group] Confront Asmodian Generals -->
+	<kill_in_world id="1720" start_npc_ids="278501" end_npc_ids="278501" start_dialog_id="1011" worlds="0" amount="3"/>
+	
+	<!-- Meeting With The Brigade General -->
+	<report_to_many id="1721" start_npc_ids="278501" end_npc_ids="278518" start_dialog_id="1011">
+        <npc_infos npc_id="278503" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="278502" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="278518" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Reaper Expertise -->
+	<report_to_many id="1724" start_npc_ids="278519" end_npc_ids="278594" start_dialog_id="1011">
+        <npc_infos npc_id="278591" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="278599" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="278594" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Scouting The Lake -->
+	<report_to_many id="1726" start_npc_ids="278519" end_npc_ids="278606" start_dialog_id="1011">
+		<npc_infos npc_id="278515" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="278516" var="1" quest_dialog="1693"/>
+		<npc_infos npc_id="278606" var="2" quest_dialog="2375" close_dialog="1009"/>
+	</report_to_many>
+	<!-- Recruits For Nezekan's Shield -->
+	<report_to_many id="1727" start_npc_ids="278520" end_npc_ids="278604" start_dialog_id="1011">
+		<npc_infos npc_id="278579" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="278574" var="1" quest_dialog="1693"/>
+		<npc_infos npc_id="278604" var="2" quest_dialog="2375" close_dialog="1009"/>
+	</report_to_many>
+	<!-- Call Of The Governor -->
+	<report_to_many id="1777" start_npc_ids="278604" end_npc_ids="204500" start_dialog_id="1011">
+	    <npc_infos npc_id="278501" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="204500" var="1" quest_dialog="2375" close_dialog="1009"/>
+	</report_to_many>
+	<!-- Pupil's Diary -->
+	<report_to_many id="1799" start_npc_ids="279005" end_npc_ids="279016" start_dialog_id="1011">
+	    <npc_infos npc_id="279017" var="0" quest_dialog="1352"/>
+	    <npc_infos npc_id="279018" var="1" quest_dialog="1693"/>
+		<npc_infos npc_id="279016" var="2" quest_dialog="2375" close_dialog="1009"/>
+	</report_to_many>
+	<!-- Uncharted Islands -->
+	<report_to_many id="1851" start_npc_ids="278533" end_npc_ids="278533" start_dialog_id="1011">
+        <npc_infos npc_id="279023" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="279022" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="278533" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- [Weekly] Entry Conditions For The Krotan Chamber -->
+	<report_to_many id="60021" start_npc_ids="268080" end_npc_ids="268080" start_dialog_id="1011">
+		<npc_infos npc_id="268080" var="0" quest_dialog="2375" close_dialog="1009"/>
+	</report_to_many>
+	<!-- [Weekly] Entry Conditions For The Kysis Barracks -->
+	<report_to_many id="60022" start_npc_ids="269265" end_npc_ids="269265" start_dialog_id="1011">
+		<npc_infos npc_id="269265" var="0" quest_dialog="2375" close_dialog="1009"/>
+	</report_to_many>
+	<!-- [Weekly] Entry Conditions For The Miren Chamber -->
+	<report_to_many id="60023" start_npc_ids="270165" end_npc_ids="270165" start_dialog_id="1011">
+		<npc_infos npc_id="270165" var="0" quest_dialog="2375" close_dialog="1009"/>
+	</report_to_many>
+	<!-- Cursed Guardian -->
+	<report_to id="1729" start_npc_ids="278559" end_npc_ids="278593" item_id="182202132"/>
+	<!-- Dagger Of Love -->
+	<report_to id="1732" start_npc_ids="278593" end_npc_ids="278592" item_id="182202104"/>
+	<!-- Vindachinerk's Scroll -->
+	<report_to id="1797" start_npc_ids="279016" end_npc_ids="798012" item_id="182202166"/>
+	
+	<!-- Paper Trail -->
+	<item_order id="1846" start_item_id="182202182" talk_npc_id1="279015" talk_npc_id2="279005" end_npc_id="798024"/>
+	<!-- A Strange Soul -->
+	<item_order id="1847" start_item_id="182202183" talk_npc_id1="278592" talk_npc_id2="203933" end_npc_id="203991"/>
+	
+	<!-- Redeeming Ladacus -->
+	<item_collecting id="1730" start_npc_ids="278593"/>
+	<item_collecting id="1731" start_npc_ids="278593"/>
+	<!-- Pieces Of Aether -->
+	<item_collecting id="1734" start_npc_ids="278556"/>
+	<!-- Greater Aether -->
+	<item_collecting id="1735" start_npc_ids="278556"/>
+	<!-- Undead Destroyer's Ring -->
+	<item_collecting id="1743" start_npc_ids="279015"/>
+	<!-- Earning Some Green -->
+	<item_collecting id="1744" start_npc_ids="279015"/>
+	<item_collecting id="1746" start_npc_ids="278595"/>
+    <item_collecting id="1748" start_npc_ids="263568"/>
+    <item_collecting id="1749" start_npc_ids="278600"/>
+	<!-- Nemea's Research Sample -->
+	<item_collecting id="1751" start_npc_ids="278588"/>
+	<item_collecting id="1758" start_npc_ids="264768"/>
+    <item_collecting id="1759" start_npc_ids="278590"/>
+	<item_collecting id="1762" start_npc_ids="279018" end_npc_ids="279014"/>
+	<item_collecting id="1763" start_npc_ids="279017" end_npc_ids="279014"/>
+	<item_collecting id="1764" start_npc_ids="279013"/>
+	<item_collecting id="1768" start_npc_ids="271053"/>
+    <item_collecting id="1771" start_npc_ids="279019"/>
+    <item_collecting id="1772" start_npc_ids="279019"/>
+	<item_collecting id="1776" start_npc_ids="279019" action_item_ids="700305"/>
+	<item_collecting id="1778" start_npc_ids="266553"/>
+	<item_collecting id="1781" start_npc_ids="278610"/>
+    <item_collecting id="1784" start_npc_ids="268051"/>
+	<item_collecting id="1786" start_npc_ids="278620"/>
+    <item_collecting id="1789" start_npc_ids="269251"/>
+	<item_collecting id="1793" start_npc_ids="278617"/>
+    <item_collecting id="1794" start_npc_ids="270151"/>
+    <item_collecting id="1796" start_npc_ids="279016"/>
+    <item_collecting id="1801" start_npc_ids="278603"/>
+    <item_collecting id="1802" start_npc_ids="278599"/>
+    <item_collecting id="1803" start_npc_ids="278598"/>
+    <item_collecting id="1804" start_npc_ids="278594"/>
+    <item_collecting id="1805" start_npc_ids="278590"/>
+    <item_collecting id="1806" start_npc_ids="278588"/>
+	<item_collecting id="1808" start_npc_ids="278606"/>
+	<item_collecting id="1809" start_npc_ids="278605"/>
+	<item_collecting id="1810" start_npc_ids="278604"/>
+	<item_collecting id="1811" start_npc_ids="278609"/>
+	<item_collecting id="1812" start_npc_ids="278613"/>
+	<item_collecting id="1813" start_npc_ids="278623"/>
+	<item_collecting id="1814" start_npc_ids="278619"/>
+	<item_collecting id="1815" start_npc_ids="278618"/>
+	<item_collecting id="1816" start_npc_ids="278614"/>
+	<item_collecting id="1819" start_npc_ids="264768"/>
+	<item_collecting id="1820" start_npc_ids="271053"/>
+	<item_collecting id="1821" start_npc_ids="266553"/>
+	<item_collecting id="1822" start_npc_ids="268051"/>
+    <item_collecting id="1823" start_npc_ids="269251"/>
+    <item_collecting id="1824" start_npc_ids="270151"/>
+	<item_collecting id="1825" start_npc_ids="260235"/>
+	<item_collecting id="1826" start_npc_ids="260235"/>
+    <item_collecting id="1848" start_npc_ids="278506"/>
+	<!-- Mint Condition -->
+	<item_collecting id="38500" start_npc_ids="278653"/>
+	<!-- Black Cloud Numismatics -->
+	<item_collecting id="38501" start_npc_ids="278654"/>
+	
+	<!-- [Coin] Dousing The Flame Tribe -->
+	<monster_hunt id="1715" start_npc_ids="278516">
+		<monster var="0" npc_ids="255172 255173 255670 255671 256167" end_var="16"/>
+	</monster_hunt>
+	<!-- [Coin] Termination Klaws -->
+	<monster_hunt id="1716" start_npc_ids="278514">
+		<monster var="0" npc_ids="255120 255119 255140 255139 256120 256140" end_var="27"/>
+	</monster_hunt>
+	<!-- [Group] Assassin Mokkurkalfi -->
+	<monster_hunt id="1728" start_npc_ids="278515" end_npc_ids="278502">
+		<monster var="0" npc_ids="278091" end_var="1"/>
+	</monster_hunt>
+	<!-- [Alliance] Defeat Lower Gatekeepers -->
+	<monster_hunt id="1736" start_npc_ids="278501">
+		<monster var="0" npc_ids="263230 263235" end_var="1"/>
+		<monster var="1" npc_ids="263532 263537" end_var="1"/>
+		<monster var="2" npc_ids="264732 264737" end_var="1"/>
+	</monster_hunt>
+	<!-- [Alliance] Defeat Lower Generals -->
+	<monster_hunt id="1737" start_npc_ids="278501">
+		<monster var="0" npc_ids="263006 263011 263306 263311 264506 264511" end_var="7"/>
+	</monster_hunt>
+	<!-- [Alliance] Defeat Upper Gatekeepers -->
+	<monster_hunt id="1738" start_npc_ids="278501">
+		<monster var="0" npc_ids="266532 266537" end_var="1"/>
+		<monster var="1" npc_ids="268030 268035" end_var="1"/>
+	</monster_hunt>
+	<!-- [Alliance] Defeat Upper Generals -->
+	<monster_hunt id="1739" start_npc_ids="278501">
+		<monster var="0" npc_ids="266306 267806 269006 269906 270806 266311 267811 269011 269911 270811" end_var="10"/>
+	</monster_hunt>
+	<!-- Twilight Battlefield -->
+	<monster_hunt id="1741" start_npc_ids="278591">
+		<monster var="0" npc_ids="252537 252538" end_var="7"/>
+	</monster_hunt>
+	<!-- Immortal Soul -->
+	<monster_hunt id="1742" start_npc_ids="278591">
+		<monster var="0" npc_ids="252518 252519" end_var="10"/>
+		<monster var="1" npc_ids="252522 252523" end_var="3"/>
+		<monster var="2" npc_ids="252535" end_var="3"/>
+	</monster_hunt>
+	<!-- Destroying The Guard Tower -->
+	<monster_hunt id="1745" start_npc_ids="263266">
+        <monster var="0" npc_ids="275116" end_var="1"/>
+    </monster_hunt>
+	<!-- Eliminating The Memory Reaper -->
+    <monster_hunt id="1747" start_npc_ids="278594">
+        <monster var="0" npc_ids="252539" end_var="15"/>
+    </monster_hunt>
+	<!-- Daeva Of Flame's Request -->
+	<monster_hunt id="1752" start_npc_ids="278588">
+		<monster var="0" npc_ids="253711 253712" end_var="6"/>
+		<monster var="1" npc_ids="253728 253729" end_var="14"/>
+	</monster_hunt>
+	<!-- [Coin] The Interfering Embers -->
+	<monster_hunt id="1753" start_npc_ids="278589">
+		<monster var="0" npc_ids="253700 253701" end_var="25"/>
+	</monster_hunt>
+	<!-- Stop The Unavarun Legion -->
+	<monster_hunt id="1754" start_npc_ids="278589">
+		<monster var="0" npc_ids="253612" end_var="10"/>
+		<monster var="1" npc_ids="253619 253620" end_var="5"/>
+	</monster_hunt>
+	<!-- Root Of The Problem -->
+	<monster_hunt id="1755" start_npc_ids="279000">
+		<monster var="0" npc_ids="253706 253707 253708" end_var="15"/>
+	</monster_hunt>
+	<!-- End Of The Corrupted Elim -->
+	<monster_hunt id="1756" start_npc_ids="279000">
+		<monster var="0" npc_ids="253694 253695" end_var="25"/>
+	</monster_hunt>
+	<!-- Legend Of The Sword's Edge -->
+	<monster_hunt id="1765" start_npc_ids="278608">
+		<monster var="0" npc_ids="256647" end_var="10"/>
+		<monster var="1" npc_ids="256636" end_var="2"/>
+		<monster var="2" npc_ids="256650" end_var="2"/>
+		<monster var="3" npc_ids="256652" end_var="2"/>
+	</monster_hunt>
+	<!-- Basrash Must Die -->
+	<monster_hunt id="1766" start_npc_ids="278608">
+		<monster var="0" npc_ids="256674" end_var="1"/>
+	</monster_hunt>
+	<!-- Aid The Aether Collection -->
+	<monster_hunt id="1767" start_npc_ids="278606" end_dialog_id="1352">
+		<monster var="0" npc_ids="256668" end_var="10"/>
+		<monster var="1" npc_ids="256669" end_var="10"/>
+	</monster_hunt>
+	<!-- [Group] Decimate The Asteria Garrison -->
+	<monster_hunt id="1769" start_npc_ids="278606">
+		<monster var="0" npc_ids="270997 271000 271003 270998 271001 271004" end_var="10"/>
+	</monster_hunt>
+	<!-- Demolition Derby -->
+	<monster_hunt id="1773" start_npc_ids="278604">
+		<monster var="0" npc_ids="254547 254548" end_var="20"/>
+	</monster_hunt>
+	<!-- The Drakes Keep Us Awake -->
+	<monster_hunt id="1774" start_npc_ids="278605">
+		<monster var="0" npc_ids="254523 254524" end_var="15"/>
+		<monster var="1" npc_ids="254527" end_var="20"/>
+	</monster_hunt>
+	<!-- Culling The Garcikhans -->
+	<monster_hunt id="1775" start_npc_ids="278605">
+		<monster var="0" npc_ids="254535 254536" end_var="5"/>
+		<monster var="1" npc_ids="254539" end_var="5"/>
+	</monster_hunt>
+	<!-- [Group] Decimate The Roah Garrison -->
+	<monster_hunt id="1779" start_npc_ids="278604">
+		<monster var="0" npc_ids="266497 266500 266503 266498 266501 266504" end_var="10"/>
+	</monster_hunt>
+	<!-- End The Corruption -->
+	<monster_hunt id="1782" start_npc_ids="278611">
+    	<monster var="0" npc_ids="255160" end_var="10"/>
+	</monster_hunt>
+	<!-- [Group] Decimate The Krotan Garrison -->
+	<monster_hunt id="1785" start_npc_ids="278609">
+		<monster var="0" npc_ids="267997 267998 268000 268001 268003 268004" end_var="10"/>
+	</monster_hunt>
+	<!-- Preparing For Inspection -->
+	<monster_hunt id="1787" start_npc_ids="278621">
+    	<monster var="0" npc_ids="255610" end_var="7"/>
+		<monster var="1" npc_ids="255604 255605" end_var="5"/>
+		<monster var="2" npc_ids="255614 255615" end_var="3"/>
+	</monster_hunt>
+	<!-- [Group] Decimate The Kysis Garrison -->
+	<monster_hunt id="1790" start_npc_ids="278619">
+		<monster var="0" npc_ids="269197 269200 269203 269198 269201 269204" end_var="10"/>
+	</monster_hunt>
+	<!-- Drake Raiders -->
+	<monster_hunt id="1791" start_npc_ids="278615">
+    	<monster var="0" npc_ids="255702 256197" end_var="9"/>
+		<monster var="1" npc_ids="256200 256201" end_var="9"/>
+	</monster_hunt>
+	<!-- Vengeance For Baucis -->
+	<monster_hunt id="1792" start_npc_ids="278616">
+    	<monster var="0" npc_ids="256177" end_var="5"/>
+	    <monster var="1" npc_ids="256181" end_var="5"/>
+	    <monster var="2" npc_ids="256185" end_var="5"/>
+	</monster_hunt>
+	<!-- [Group] Decimate The Miren Garrison -->
+	<monster_hunt id="1795" start_npc_ids="278614">
+		<monster var="0" npc_ids="270097 270100 270103 270098 270101 270104" end_var="10"/>
+	</monster_hunt>
+	<!-- The Nightmare Ghosts -->
+	<monster_hunt id="1818" start_npc_ids="263568">
+		<monster var="0" npc_ids="253012 253013 253014" end_var="15"/>
+		<monster var="1" npc_ids="253017 253018 253019" end_var="5"/>
+		<monster var="2" npc_ids="253029 253030 253031" end_var="5"/>
+	</monster_hunt>
+	<!-- Clean The Nest -->
+	<monster_hunt id="1837" start_npc_ids="264797">
+		<monster var="0" npc_ids="214733 214734 214735 214736 214737 214738 214739 214803" end_var="15"/>
+	</monster_hunt>
+	<!-- Left Wing Attack -->
+	<monster_hunt id="1838" start_npc_ids="263295">
+		<monster var="0" npc_ids="214740 214741 214742 214743 214824 214825 214826" end_var="10"/>
+		<monster var="1" npc_ids="215424" end_var="1"/>
+	</monster_hunt>
+	<!-- A Deal With Silvius -->
+	<monster_hunt id="1839" start_npc_ids="263597">
+		<monster var="0" npc_ids="214744 214745 214746 214747 214748 214749 214750 214751 214803" end_var="15"/>
+	</monster_hunt>
+	<!-- Enemy In The Abyss -->
+	<monster_hunt id="1840" start_npc_ids="271067" end_npc_ids="278502">
+		<monster var="0" npc_ids="214752 214753 214754 214755 214756 214757 214758 214759 214762 214768 215439 215440 215441 215444" end_var="15"/>
+	</monster_hunt>
+	<!-- The Balaur Below -->
+	<monster_hunt id="1841" start_npc_ids="266567">
+		<monster var="0" npc_ids="214771 214772 214773 214774 214775 214776 214777 214778 214779 214780 214781 214782 214784 215445 215446 215447 215448 215449 215450" end_var="15"/>
+	</monster_hunt>
+	<!-- [Daily] Reclaim The Sulfur Tree Nest Treasure -->
+    <monster_hunt id="60004" start_npc_ids="800008" end_dialog_id="1352">
+        <monster var="0" npc_ids="214733 214734 214735 214736 214737 214738 214739 214803" end_var="15"/>
+    </monster_hunt>
+	<!-- [Daily] Reclaim The Left Wing Chamber Treasure -->
+    <monster_hunt id="60005" start_npc_ids="800010" end_dialog_id="1352">
+	    <monster var="0" npc_ids="214740 214741 214742 214743 214824 214825 214826" end_var="10"/>
+		<monster var="1" npc_ids="215424" end_var="1"/>
+	</monster_hunt>
+	<!-- [Daily] Reclaim The Right Wing Chamber Treasure -->
+    <monster_hunt id="60006" start_npc_ids="800012" end_dialog_id="1352">
+        <monster var="0" npc_ids="214744 214745 214746 214747 214748 214749 214750 214751 214803" end_var="10"/>
+	</monster_hunt>
+	<!-- [Daily] Reclaim The Asteria Chamber Treasure -->
+    <monster_hunt id="60007" start_npc_ids="800016" end_dialog_id="1352">
+	    <monster var="0" npc_ids="214752 214753 214754 214755 214756 214757 214758 214759 214762 214768 215439 215440 215441 215444" end_var="15"/>
+    </monster_hunt>
+	<!-- [Daily] Reclaim The Chamber Of Roah Treasure -->
+    <monster_hunt id="60008" start_npc_ids="800014" end_dialog_id="1352">
+	    <monster var="0" npc_ids="214771 214772 214773 214774 214775 214776 214777" end_var="15"/>
+		<monster var="0" npc_ids="214778 214779 214780 214781 214782 214784 215445" end_var="15"/>
+		<monster var="0" npc_ids="215446 215447 215448 215449 215450" end_var="15"/>
+    </monster_hunt>
+	<!-- [Daily] Reclaim The Krotan Barracks Treasure -->
+	<monster_hunt id="60009" start_npc_ids="800018" end_dialog_id="1352">
+		<monster var="0" npc_ids="215094 215095 215100 215101 215096 215097 215098 215099 215316 215312 215313" end_var="10"/>
+		<monster var="0" npc_ids="215300 215303 215302 215297 215299 215298 215308 215311 215305 215304 215307" end_var="10"/>
+		<monster var="0" npc_ids="215306 215107 215106 215104 215111 215110 215109 215108 215113 215112 215119" end_var="10"/>
+		<monster var="0" npc_ids="215314 215315 215301 215118 215116 215122 215123 215120 215121 215126 215124" end_var="10"/>
+		<monster var="0" npc_ids="215125 215128 215289 215291 215290 215293 215292 215295 215287" end_var="10"/>
+		<monster var="1" npc_ids="215134" end_var="1"/>
+	</monster_hunt>
+	<!-- [Daily] Reclaim The Kysis Barracks Treasure -->
+	<monster_hunt id="60010" start_npc_ids="800020" end_dialog_id="1352">
+		<monster var="0" npc_ids="215346 215347 215344 215335 215333 215332 215331 215330 215329 215343 215337" end_var="10"/>
+		<monster var="0" npc_ids="215336 215318 215319 215325 215326 215327 215320 215321 215322 215137 215139" end_var="10"/>
+		<monster var="0" npc_ids="215138 215141 215140 215143 215142 215145 215144 215147 215149 215151 215150" end_var="10"/>
+		<monster var="0" npc_ids="215152 215153 215154 215155 215156 215158 215159 215161 215162 215163 215164" end_var="10"/>
+		<monster var="0" npc_ids="215164 215165 215166 215167 215172 215170 215171 215168 215169" end_var="10"/>
+		<monster var="1" npc_ids="215177" end_var="1"/>
+	</monster_hunt>
+	<!-- [Daily] Reclaim The Miren Barracks Treasure -->
+	<monster_hunt id="60011" start_npc_ids="800022" end_dialog_id="1352">
+		<monster var="0" npc_ids="215350 215351 215349 215358 215359 215356 215357 215354 215355 215352 215353" end_var="10"/>
+		<monster var="0" npc_ids="215185 215193 215377 215378 215379 215380 215361 215360 215363 215362 215365" end_var="10"/>
+		<monster var="0" npc_ids="215364 215367 215192 215366 215369 215368 215371 215370 215373 215372 215375" end_var="10"/>
+		<monster var="0" npc_ids="215374 215212 215189 215214 215186 215208 215209 215210 215211 215204 215205" end_var="10"/>
+		<monster var="0" npc_ids="215182 215183 215187 215180 215181 215199 215198 215197 215196 215195 215194" end_var="10"/>
+		<monster var="0" npc_ids="215206 215207 215200 215184" end_var="10"/>
+		<monster var="1" npc_ids="215220" end_var="1"/>
+	</monster_hunt>
+	<!-- Eliminate Recruits In The Nochsana Training Camp -->
+    <monster_hunt id="60012" start_npc_ids="278517" end_dialog_id="1352">
+        <monster var="0" npc_ids="256677 256678 256679 256680 256681 256682 256683 256684" end_var="20"/>
+		<monster var="0" npc_ids="256685 256686 256687 256688 256689 256690 256691 256692" end_var="20"/>
+	</monster_hunt>
+	
+	<!-- Trading Down -->
+	<item_order id="2718" start_item_id="182205668" talk_npc_id1="204396" talk_npc_id2="204386" talk_npc_id3="204811" end_npc_id="279029"/>
+	
+	<!-- Defeat 9th Rank Elyos Soldiers -->
+	<kill_in_world id="2702" start_npc_ids="278016" end_npc_ids="278016" start_dialog_id="1011" worlds="0" amount="10"/>
+	<!-- Defeat 8th Rank Elyos Soldiers -->
+	<kill_in_world id="2703" start_npc_ids="278016" end_npc_ids="278016" start_dialog_id="1011" worlds="0" amount="10"/>
+	<!-- Defeat 7th Rank Elyos Soldiers -->
+	<kill_in_world id="2704" start_npc_ids="278016" end_npc_ids="278016" start_dialog_id="1011" worlds="0" amount="10"/>
+	<!-- Defeat 6th Rank Elyos Soldiers -->
+	<kill_in_world id="2705" start_npc_ids="278016" end_npc_ids="278016" start_dialog_id="1011" worlds="0" amount="10"/>
+	<!-- Defeat 5th Rank Elyos Soldiers -->
+	<kill_in_world id="2706" start_npc_ids="278016" end_npc_ids="278016" start_dialog_id="1011" worlds="0" amount="10"/>
+	<!-- Defeat 4th Rank Elyos Soldiers -->
+	<kill_in_world id="2707" start_npc_ids="278017" end_npc_ids="278017" start_dialog_id="1011" worlds="0" amount="10"/>
+	<!-- Defeat 3th Rank Elyos Soldiers -->
+	<kill_in_world id="2708" start_npc_ids="278017" end_npc_ids="278017" start_dialog_id="1011" worlds="0" amount="10"/>
+	<!-- Defeat 2th Rank Elyos Soldiers -->
+	<kill_in_world id="2709" start_npc_ids="278017" end_npc_ids="278017" start_dialog_id="1011" worlds="0" amount="10"/>
+	<!-- Defeat 1th Rank Elyos Soldiers -->
+	<kill_in_world id="2710" start_npc_ids="278017" end_npc_ids="278017" start_dialog_id="1011" worlds="0" amount="10"/>
+	<!-- [Group] Challenge Elyos Officers -->
+	<kill_in_world id="2719" start_npc_ids="278001" end_npc_ids="278001" start_dialog_id="1011" worlds="0" amount="10"/>
+	<!-- [Group] Challenge Elyos Generals -->
+	<kill_in_world id="2720" start_npc_ids="278001" end_npc_ids="278001" start_dialog_id="1011" worlds="0" amount="3"/>
+	
+	<!-- Meeting With The Brigade General -->
+	<report_to_many id="2721" start_npc_ids="278001" end_npc_ids="278054" start_dialog_id="1011">
+        <npc_infos npc_id="278002" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="278003" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="278054" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Missing In Action -->
+	<report_to_many id="2724" start_npc_ids="278002" end_npc_ids="278097" start_dialog_id="1011">
+        <npc_infos npc_id="278014" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="278089" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="278097" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Gone Native -->
+	<report_to_many id="2725" start_npc_ids="278003" end_npc_ids="278086" end_dialog_id="1009">
+		<npc_infos npc_id="278091" var="0" quest_dialog="1352" close_dialog="10000"/>
+	</report_to_many>
+	<!-- Staking A Claim -->
+	<report_to_many id="2726" start_npc_ids="278002" end_npc_ids="278105" start_dialog_id="1011">
+        <npc_infos npc_id="278082" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="278015" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="278105" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Transparent Motives -->
+	<report_to_many id="2727" start_npc_ids="278003" end_npc_ids="278102" start_dialog_id="1011">
+        <npc_infos npc_id="278000" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="278013" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="278102" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- A Fruitful Partnership -->
+	<report_to_many id="2767" start_npc_ids="279004" end_npc_ids="279004" start_dialog_id="1011">
+        <npc_infos npc_id="279024" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="279022" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="279004" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- [Weekly] Entry Conditions For The Krotan Chamber -->
+	<report_to_many id="70021" start_npc_ids="268081" end_npc_ids="268081" start_dialog_id="1011">
+		<npc_infos npc_id="268081" var="0" quest_dialog="2375" close_dialog="1009"/>
+	</report_to_many>
+	<!-- [Weekly] Entry Conditions For The Kysis Barracks -->
+	<report_to_many id="70022" start_npc_ids="269266" end_npc_ids="269266" start_dialog_id="1011">
+		<npc_infos npc_id="269266" var="0" quest_dialog="2375" close_dialog="1009"/>
+	</report_to_many>
+	<!-- [Weekly] Entry Conditions For The Miren Chamber -->
+	<report_to_many id="70023" start_npc_ids="270166" end_npc_ids="270166" start_dialog_id="1011">
+		<npc_infos npc_id="270166" var="0" quest_dialog="2375" close_dialog="1009"/>
+	</report_to_many>
+	<!-- Mokkurkalfi's Supplies -->
+	<report_to id="2729" start_npc_ids="278057" end_npc_ids="278091" item_id="182205601"/>
+	<!-- Recovered Documents -->
+	<report_to id="2731" start_npc_ids="278091" end_npc_ids="278088" item_id="182205602"/>
+	
+	<!-- It's All Balaur To Me -->
+	<item_order id="2847" start_item_id="182205678" talk_npc_id1="278020" talk_npc_id2="279005" end_npc_id="798063"/>
+	<!-- Whispering Stigma -->
+	<item_order id="2848" start_item_id="182205679" talk_npc_id1="278137" talk_npc_id2="278089" end_npc_id="204799"/>
+	
+	<!-- [Group] Killing Ladacus -->
+	<item_collecting id="2728" start_npc_ids="278000"/>
+	<!-- Gems From The Vortex -->
+	<item_collecting id="2733" start_npc_ids="278056"/>
+	<!-- Aether Aether Burning Bright -->
+	<item_collecting id="2734" start_npc_ids="278056"/>
+	<!-- Eerie Undead -->
+	<item_collecting id="2741" start_npc_ids="278090"/>
+	<!-- Crystal Blue Persuasion -->
+	<item_collecting id="2744" start_npc_ids="278090"/>
+	<item_collecting id="2746" start_npc_ids="278097"/>
+	<!-- Lumping It -->
+	<item_collecting id="2751" start_npc_ids="278088"/>
+	<item_collecting id="2752" start_npc_ids="278088"/>
+    <item_collecting id="2754" start_npc_ids="278086"/>
+    <item_collecting id="2760" start_npc_ids="278086"/>
+	<item_collecting id="2761" start_npc_ids="278105"/>
+	<item_collecting id="2762" start_npc_ids="279018" end_npc_ids="279017"/>
+	<item_collecting id="2765" start_npc_ids="278108"/>
+	<item_collecting id="2766" start_npc_ids="278108"/>
+	<item_collecting id="2772" start_npc_ids="279019"/>
+	<item_collecting id="2774" start_npc_ids="278103"/>
+	<item_collecting id="2775" start_npc_ids="278103"/>
+	<item_collecting id="2779" start_npc_ids="266554"/>
+	<item_collecting id="2781" start_npc_ids="278110"/>
+	<item_collecting id="2783" start_npc_ids="278109" end_npc_ids="204170"/>
+    <item_collecting id="2784" start_npc_ids="268052"/>
+    <item_collecting id="2788" start_npc_ids="279028"/>
+    <item_collecting id="2789" start_npc_ids="269252"/>
+	<item_collecting id="2791" start_npc_ids="278115"/>
+	<item_collecting id="2793" start_npc_ids="278117"/>
+    <item_collecting id="2794" start_npc_ids="270152"/>
+	<item_collecting id="2796" start_npc_ids="279028" action_item_ids="700307"/>
+	<item_collecting id="2797" start_npc_ids="279028" action_item_ids="700308"/>
+    <item_collecting id="2801" start_npc_ids="278101"/>
+    <item_collecting id="2802" start_npc_ids="278097"/>
+    <item_collecting id="2803" start_npc_ids="278096"/>
+    <item_collecting id="2804" start_npc_ids="278092"/>
+    <item_collecting id="2805" start_npc_ids="278088"/>
+    <item_collecting id="2806" start_npc_ids="278086"/>
+	<item_collecting id="2808" start_npc_ids="278107"/>
+	<item_collecting id="2809" start_npc_ids="278104"/>
+	<item_collecting id="2810" start_npc_ids="278102"/>
+	<item_collecting id="2811" start_npc_ids="278113"/>
+	<item_collecting id="2812" start_npc_ids="278109"/>
+	<item_collecting id="2813" start_npc_ids="278123"/>
+	<item_collecting id="2814" start_npc_ids="278119"/>
+	<item_collecting id="2815" start_npc_ids="278118"/>
+	<item_collecting id="2816" start_npc_ids="278114"/>
+    <item_collecting id="2819" start_npc_ids="264769"/>
+	<item_collecting id="2820" start_npc_ids="271054"/>
+	<item_collecting id="2821" start_npc_ids="266554"/>
+    <item_collecting id="2822" start_npc_ids="268052"/>
+    <item_collecting id="2823" start_npc_ids="269252"/>
+    <item_collecting id="2824" start_npc_ids="270152"/>
+	<item_collecting id="2825" start_npc_ids="260236"/>
+	<item_collecting id="2826" start_npc_ids="260236"/>
+	<!-- Vindachinerk's Offer -->
+    <item_collecting id="2833" start_npc_ids="279016"/>
+	<!-- Going For Ward Tokens -->
+	<item_collecting id="48500" start_npc_ids="278153"/>
+	<!-- The Great Trade-Off -->
+	<item_collecting id="48501" start_npc_ids="278654"/>
+	
+	<!-- [Coin] Eliminating The Flame Tribe -->
+	<monster_hunt id="2715" start_npc_ids="278013">
+		<monster var="0" npc_ids="255172 255173 255670 255671" end_var="19"/>
+	</monster_hunt>
+	<!-- [Coin] Bloodburn Klaw -->
+	<monster_hunt id="2716" start_npc_ids="278015">
+		<monster var="0" npc_ids="255119 255120 255139 255140 256120 256140" end_var="23"/>
+	</monster_hunt>
+	<!-- Slaughter The Draconutes -->
+	<monster_hunt id="2730" start_npc_ids="278091">
+		<monster var="0" npc_ids="253739" end_var="5"/>
+		<monster var="1" npc_ids="253740" end_var="5"/>
+	</monster_hunt>
+	<!-- [Alliance] Base Gatekeepers -->
+	<monster_hunt id="2736" start_npc_ids="278001">
+		<monster var="0" npc_ids="263225 263235" end_var="1"/>
+		<monster var="1" npc_ids="263527 263537" end_var="1"/>
+		<monster var="2" npc_ids="264727 264737" end_var="1"/>
+	</monster_hunt>
+	<!-- [Alliance] Turning The Tide -->
+	<monster_hunt id="2737" start_npc_ids="278001">
+		<monster var="0" npc_ids="263001 263011 263301 263311 264501 264511" end_var="7"/>
+	</monster_hunt>
+	<!-- [Alliance] Top Gatekeepers -->
+	<monster_hunt id="2738" start_npc_ids="278001">
+		<monster var="0" npc_ids="266527 266537" end_var="1"/>
+		<monster var="1" npc_ids="268025 268035" end_var="1"/>
+	</monster_hunt>
+	<!-- [Alliance] Reshanta's Hero -->
+	<monster_hunt id="2739" start_npc_ids="278001">
+		<monster var="0" npc_ids="266301 267801 269001 269901 270801 266311 267811 269011 269911 270811" end_var="10"/>
+	</monster_hunt>
+	<!-- Disrupting The Guardians -->
+	<monster_hunt id="2742" start_npc_ids="278089">
+		<monster var="0" npc_ids="253004" end_var="8"/>
+		<monster var="1" npc_ids="253022" end_var="6"/>
+		<monster var="2" npc_ids="253026" end_var="3"/>
+	</monster_hunt>
+	<!-- Fallen Warrior -->
+	<monster_hunt id="2743" start_npc_ids="278089">
+		<monster var="0" npc_ids="253001 253002" end_var="10"/>
+	</monster_hunt>
+	<!-- Have Fun Storming The Tower -->
+	<monster_hunt id="2745" start_npc_ids="263267">
+		<monster var="0" npc_ids="275112" end_var="1"/>
+	</monster_hunt>
+	<!-- Don't Fear The Reapers -->
+	<monster_hunt id="2747" start_npc_ids="278098">
+		<monster var="0" npc_ids="253039" end_var="9"/>
+	</monster_hunt>
+	<!-- Decimating The Gray Wind Legion -->
+	<monster_hunt id="2748" start_npc_ids="263569">
+		<monster var="0" npc_ids="278599" end_var="1"/>
+		<monster var="1" npc_ids="278600" end_var="1"/>
+		<monster var="2" npc_ids="278601" end_var="1"/>
+		<monster var="3" npc_ids="278602" end_var="1"/>
+		<monster var="4" npc_ids="278603" end_var="1"/>
+	</monster_hunt>
+	<!-- [Group] Defeat The Western Garrison -->
+	<monster_hunt id="2749" start_npc_ids="278092">
+		<monster var="0" npc_ids="263016 263031 263046 263061 263225 263026 263041 263056 263071 263235" end_var="10"/>
+	</monster_hunt>
+	<!-- Supporting The Red Hasia Legion -->
+	<monster_hunt id="2750" start_npc_ids="278093">
+		<monster var="0" npc_ids="252539" end_var="15"/>
+	</monster_hunt>
+	<!-- Neutralizing The Draconutes -->
+	<monster_hunt id="2753" start_npc_ids="278086">
+		<monster var="0" npc_ids="253614 253615" end_var="5"/>
+		<monster var="1" npc_ids="253619 253620" end_var="5"/>
+	</monster_hunt>
+	<!-- Helping A Rescue Mission -->
+	<monster_hunt id="2755" start_npc_ids="278087">
+		<monster var="0" npc_ids="253700 253701" end_var="5"/>
+		<monster var="1" npc_ids="253696" end_var="5"/>
+	</monster_hunt>
+	<!-- How To Beat Fried Worms -->
+	<monster_hunt id="2756" start_npc_ids="278087">
+		<monster var="0" npc_ids="253687 253688" end_var="5"/>
+		<monster var="1" npc_ids="253692 253693" end_var="3"/>
+	</monster_hunt>
+	<!-- Tenacious Guardian -->
+    <monster_hunt id="2759" start_npc_ids="264769" end_npc_ids="264769" end_dialog_id="1352">
+        <monster var="0" npc_ids="278588" end_var="1"/>
+        <monster var="1" npc_ids="278589" end_var="1"/>
+        <monster var="2" npc_ids="278590" end_var="1"/>
+    </monster_hunt>
+	<!-- Avenging The Family -->
+	<monster_hunt id="2764" start_npc_ids="278107">
+		<monster var="0" npc_ids="256647" end_var="7"/>
+		<monster var="1" npc_ids="256636" end_var="3"/>
+		<monster var="2" npc_ids="256650" end_var="3"/>
+		<monster var="3" npc_ids="256652" end_var="3"/>
+	</monster_hunt>
+	<!-- Thwart The Elyos Sabotage -->
+	<monster_hunt id="2769" start_npc_ids="271054">
+		<monster var="0" npc_ids="278606" end_var="1"/>
+		<monster var="1" npc_ids="278607" end_var="1"/>
+		<monster var="2" npc_ids="278608" end_var="1"/>
+		<monster var="3" npc_ids="279013" end_var="1"/>
+		<monster var="4" npc_ids="279014" end_var="1"/>
+	</monster_hunt>
+	<!-- [Group] Preemptive Strike -->
+	<monster_hunt id="2770" start_npc_ids="278107">
+		<monster var="0" npc_ids="270996 270999 271002 270998 271001 271004" end_var="10"/>
+	</monster_hunt>
+	<!-- [Coin] Putting The Past To Rest -->
+	<monster_hunt id="2771" start_npc_ids="278104">
+		<monster var="0" npc_ids="254513" end_var="20"/>
+		<monster var="1" npc_ids="254541" end_var="13"/>
+	</monster_hunt>
+	<!-- [Group] Defeat The Roah Garrison -->
+	<monster_hunt id="2780" start_npc_ids="278102">
+		<monster var="0" npc_ids="266496 266499 266502 266498 266501 266504" end_var="10"/>
+	</monster_hunt>
+	<!-- It's Always Moinn, Moinn, Moinn -->
+	<monster_hunt id="2782" start_npc_ids="278111">
+		<monster var="0" npc_ids="213598" end_var="10"/>
+	</monster_hunt>
+	<!-- [Group] Defeat The Krotan Garrison -->
+	<monster_hunt id="2785" start_npc_ids="278109">
+		<monster var="0" npc_ids="267996 267999 268002 267998 268001 268004" end_var="10"/>
+	</monster_hunt>
+	<!-- Bloody Flame Spirit -->
+	<monster_hunt id="2786" start_npc_ids="278121">
+		<monster var="0" npc_ids="255664" end_var="10"/>
+	</monster_hunt>
+	<!-- Murderous Naga And Nagarant -->
+	<monster_hunt id="2787" start_npc_ids="278120">
+		<monster var="0" npc_ids="215196" end_var="10"/>
+		<monster var="1" npc_ids="255614" end_var="5"/>
+	</monster_hunt>
+	<!-- [Group] Defeat The Kysis Garrison -->
+	<monster_hunt id="2790" start_npc_ids="278119">
+		<monster var="0" npc_ids="269196 269199 269202 269198 269201 269204" end_var="10"/>
+	</monster_hunt>
+	<!-- Something Unfamiliar -->
+	<monster_hunt id="2792" start_npc_ids="278116">
+		<monster var="0" npc_ids="256177" end_var="3"/>
+		<monster var="1" npc_ids="256181" end_var="3"/>
+		<monster var="2" npc_ids="256185" end_var="3"/>
+	</monster_hunt>
+	<!-- [Group] Defeat The Miren Garrison -->
+	<monster_hunt id="2795" start_npc_ids="278114">
+		<monster var="0" npc_ids="270096 270099 270102 270098 270101 270104" end_var="10"/>
+	</monster_hunt>
+	<!-- Balaur In The Sulfur Tree Nest -->
+	<monster_hunt id="2838" start_npc_ids="264798">
+		<monster var="0" npc_ids="214733 214734 214735 214736 214737 214738 214739 214803" end_var="15"/>
+	</monster_hunt>
+	<!-- Threat Of The Left Wing Chamber -->
+	<monster_hunt id="2839" start_npc_ids="263296">
+		<monster var="0" npc_ids="214740 214741 214742 214743 214824 214825 214826" end_var="10"/>
+		<monster var="1" npc_ids="215424" end_var="1"/>
+	</monster_hunt>
+	<!-- Right Wing Raid -->
+	<monster_hunt id="2840" start_npc_ids="263598">
+		<monster var="0" npc_ids="214744 214745 214746 214747 214748 214749 214750 214751 214803" end_var="15"/>
+	</monster_hunt>
+	<!-- Cleansing The Asteria Chamber -->
+	<monster_hunt id="2841" start_npc_ids="271068">
+		<monster var="0" npc_ids="214752 214753 214754 214755 214756 214757 214758 214759 214762 214768 215439 215440 215441 215444" end_var="15"/>
+	</monster_hunt>
+	<!-- Balaur In The Undirborg -->
+	<monster_hunt id="2842" start_npc_ids="266568">
+		<monster var="0" npc_ids="214771 214772 214773 214774 214775 214776 214777" end_var="15"/>
+		<monster var="0" npc_ids="214778 214779 214780 214781 214782 214784 215445" end_var="15"/>
+		<monster var="0" npc_ids="215446 215447 215448 215449 215450" end_var="15"/>
+	</monster_hunt>
+	<!-- [Daily] Seize The Sulfur Tree Nest Treasure -->
+    <monster_hunt id="70004" start_npc_ids="800009" end_dialog_id="1352">
+        <monster var="0" npc_ids="214733 214734 214735 214736 214737 214738 214739 214803" end_var="15"/>
+    </monster_hunt>
+	<!-- [Daily] Seize The Left Wing Chamber Treasure -->
+    <monster_hunt id="70005" start_npc_ids="800011" end_dialog_id="1352">
+	    <monster var="0" npc_ids="214740 214741 214742 214743 214824 214825 214826" end_var="10"/>
+		<monster var="1" npc_ids="215424" end_var="1"/>
+	</monster_hunt>
+	<!-- [Daily] Seize The Right Wing Chamber Treasure -->
+    <monster_hunt id="70006" start_npc_ids="800013" end_dialog_id="1352">
+        <monster var="0" npc_ids="214744 214745 214746 214747 214748 214749 214750 214751 214803" end_var="10"/>
+	</monster_hunt>
+	<!-- [Daily] Seize The Asteria Chamber Treasure -->
+    <monster_hunt id="70007" start_npc_ids="800017" end_dialog_id="1352">
+	    <monster var="0" npc_ids="214752 214753 214754 214755 214756 214757 214758 214759 214762 214768 215439 215440 215441 215444" end_var="15"/>
+    </monster_hunt>
+	<!-- [Daily] Seize The Chamber Of Roah Treasure -->
+    <monster_hunt id="70008" start_npc_ids="800015" end_dialog_id="1352">
+	    <monster var="0" npc_ids="214771 214772 214773 214774 214775 214776 214777" end_var="15"/>
+		<monster var="0" npc_ids="214778 214779 214780 214781 214782 214784 215445" end_var="15"/>
+		<monster var="0" npc_ids="215446 215447 215448 215449 215450" end_var="15"/>
+    </monster_hunt>
+	<!-- [Daily] Seize The Krotan Barracks Treasure -->
+	<monster_hunt id="70009" start_npc_ids="800019" end_dialog_id="1352">
+		<monster var="0" npc_ids="215094 215095 215100 215101 215096 215097 215098 215099 215316 215312 215313" end_var="10"/>
+		<monster var="0" npc_ids="215300 215303 215302 215297 215299 215298 215308 215311 215305 215304 215307" end_var="10"/>
+		<monster var="0" npc_ids="215306 215107 215106 215104 215111 215110 215109 215108 215113 215112 215119" end_var="10"/>
+		<monster var="0" npc_ids="215314 215315 215301 215118 215116 215122 215123 215120 215121 215126 215124" end_var="10"/>
+		<monster var="0" npc_ids="215125 215128 215289 215291 215290 215293 215292 215295 215287" end_var="10"/>
+		<monster var="1" npc_ids="215134" end_var="1"/>
+	</monster_hunt>
+	<!-- [Daily] Seize The Kysis Barracks Treasure -->
+	<monster_hunt id="70010" start_npc_ids="800021" end_dialog_id="1352">
+		<monster var="0" npc_ids="215346 215347 215344 215335 215333 215332 215331 215330 215329 215343 215337" end_var="10"/>
+		<monster var="0" npc_ids="215336 215318 215319 215325 215326 215327 215320 215321 215322 215137 215139" end_var="10"/>
+		<monster var="0" npc_ids="215138 215141 215140 215143 215142 215145 215144 215147 215149 215151 215150" end_var="10"/>
+		<monster var="0" npc_ids="215152 215153 215154 215155 215156 215158 215159 215161 215162 215163 215164" end_var="10"/>
+		<monster var="0" npc_ids="215164 215165 215166 215167 215172 215170 215171 215168 215169" end_var="10"/>
+		<monster var="1" npc_ids="215177" end_var="1"/>
+	</monster_hunt>
+	<!-- [Daily] Seize The Miren Barracks Treasure -->
+	<monster_hunt id="70011" start_npc_ids="800023" end_dialog_id="1352">
+		<monster var="0" npc_ids="215350 215351 215349 215358 215359 215356 215357 215354 215355 215352 215353" end_var="10"/>
+		<monster var="0" npc_ids="215185 215193 215377 215378 215379 215380 215361 215360 215363 215362 215365" end_var="10"/>
+		<monster var="0" npc_ids="215364 215367 215192 215366 215369 215368 215371 215370 215373 215372 215375" end_var="10"/>
+		<monster var="0" npc_ids="215374 215212 215189 215214 215186 215208 215209 215210 215211 215204 215205" end_var="10"/>
+		<monster var="0" npc_ids="215182 215183 215187 215180 215181 215199 215198 215197 215196 215195 215194" end_var="10"/>
+		<monster var="0" npc_ids="215206 215207 215200 215184" end_var="10"/>
+		<monster var="1" npc_ids="215220" end_var="1"/>
+	</monster_hunt>
+	<!-- Eliminate Recruits In The Nochsana Training Camp -->
+    <monster_hunt id="70012" start_npc_ids="278016" end_dialog_id="1352">
+        <monster var="0" npc_ids="256677 256678 256679 256680 256681 256682 256683 256684" end_var="20"/>
+		<monster var="0" npc_ids="256685 256686 256687 256688 256689 256690 256691 256692" end_var="20"/>
+	</monster_hunt>
+</quest_scripts>

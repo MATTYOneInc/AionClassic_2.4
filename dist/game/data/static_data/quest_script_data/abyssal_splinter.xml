@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+<!--
+    Quest Abyssal Splinter
+	Make By Encom
+ -->
+    <!-- The Road To Reshanta -->
+	<report_to id="30251" start_npc_ids="799053" end_npc_ids="278549"/>
+    <!-- To The Abyssal Splinter -->
+	<report_to id="30252" start_npc_ids="278549" end_npc_ids="260264"/>
+    <!-- Visiting Vare -->
+	<report_to id="30351" start_npc_ids="799364" end_npc_ids="278048"/>
+    <!-- A New Abyss -->
+	<report_to id="30352" start_npc_ids="278048" end_npc_ids="260265"/>
+    
+	<!-- [Alliance] Rosarea's Heart -->
+    <item_collecting id="30260" start_npc_ids="278652"/>
+	
+	<!-- A Necklace With History -->
+	<item_order id="30264" start_item_id="182209802" end_npc_id="203706"/>
+	<!-- A Polearm Walks Into A Bar -->
+	<item_order id="30265" start_item_id="182209803" talk_npc_id1="203830" talk_npc_id2="203058" end_npc_id="790001"/>
+	<!-- Remembrance Of Spirits Past -->
+	<item_order id="30364" start_item_id="182209822" talk_npc_id1="204108" end_npc_id="204058"/>
+	
+    <!-- [Alliance] Leize-y Shoes -->
+	<monster_hunt id="30256" start_npc_ids="278652">
+        <monster var="0" npc_ids="216942" end_var="3"/>
+        <monster var="1" npc_ids="216947" end_var="10"/>
+    </monster_hunt>
+    <!-- [Alliance] Leize-ing Gloves Away -->
+	<monster_hunt id="30257" start_npc_ids="278652">
+        <monster var="0" npc_ids="216942" end_var="3"/>
+        <monster var="1" npc_ids="216947" end_var="10"/>
+    </monster_hunt>
+    <!-- [Alliance] Leize-y Shrug -->
+	<monster_hunt id="30258" start_npc_ids="278652">
+        <monster var="0" npc_ids="216942" end_var="3"/>
+        <monster var="1" npc_ids="216947" end_var="10"/>
+    </monster_hunt>
+    <!-- [Alliance] Leize's Legs -->
+	<monster_hunt id="30259" start_npc_ids="278652">
+        <monster var="0" npc_ids="216942" end_var="3"/>
+        <monster var="1" npc_ids="216947" end_var="10"/>
+    </monster_hunt>
+    <!-- [Alliance] Fragmenting Fragments -->
+	<monster_hunt id="30267" start_npc_ids="260264">
+        <monster var="0" npc_ids="700955" end_var="2"/>
+    </monster_hunt>
+	<!-- [Alliance] Remove Recurring Threat -->
+	<monster_hunt id="30269" start_npc_ids="260264">
+        <monster var="0" npc_ids="216952 216960" end_var="1"/>
+    </monster_hunt>
+	
+    <!-- [Alliance] Laize's Panoply: Shoes -->
+	<monster_hunt id="30356" start_npc_ids="278152">
+        <monster var="0" npc_ids="216942" end_var="3"/>
+        <monster var="1" npc_ids="216947" end_var="10"/>
+    </monster_hunt>
+    <!-- [Alliance] Laize's Panoply: Gloves -->
+	<monster_hunt id="30357" start_npc_ids="278152">
+        <monster var="0" npc_ids="216942" end_var="3"/>
+        <monster var="1" npc_ids="216947" end_var="10"/>
+    </monster_hunt>
+    <!-- [Alliance] Laize's Panoply: Shoulderplates -->
+	<monster_hunt id="30358" start_npc_ids="278152">
+        <monster var="0" npc_ids="216942" end_var="3"/>
+        <monster var="1" npc_ids="216947" end_var="10"/>
+    </monster_hunt>
+    <!-- [Alliance] Laize's Panoply: Gaiters -->
+	<monster_hunt id="30359" start_npc_ids="278152">
+        <monster var="0" npc_ids="216942" end_var="3"/>
+        <monster var="1" npc_ids="216947" end_var="10"/>
+    </monster_hunt>
+    <!-- [Alliance] Laize's Panoply: Breastplate -->
+	<monster_hunt id="30360" start_npc_ids="278152">
+        <monster var="0" npc_ids="216942" end_var="3"/>
+        <monster var="1" npc_ids="216947" end_var="10"/>
+    </monster_hunt>
+    <!-- [Alliance] Fragmentary Knowledge -->
+	<monster_hunt id="30367" start_npc_ids="260265">
+        <monster var="0" npc_ids="700955" end_var="2"/>
+    </monster_hunt>
+	<!-- [Alliance] Restore Artifact Of Protection -->
+	<monster_hunt id="30369" start_npc_ids="260265">
+        <monster var="0" npc_ids="216952 216960" end_var="1"/>
+    </monster_hunt>
+</quest_scripts>

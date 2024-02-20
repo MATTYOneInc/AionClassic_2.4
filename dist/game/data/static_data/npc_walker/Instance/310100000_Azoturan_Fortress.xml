@@ -1,0 +1,484 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc_walker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob1_0" pool="1">
+	    <routestep step="1" x="332.22772" y="441.2328" z="1031.8837"/>
+		<routestep step="2" x="346.89764" y="454.85037" z="1028.0212"/>
+		<routestep step="3" x="349.52826" y="466.13342" z="1023.9085"/>
+		<routestep step="4" x="363.7683" y="476.58618" z="1020.2604"/>
+		<routestep step="5" x="382.7148" y="480.15295" z="1013.68604"/>
+		<routestep step="6" x="413.4560" y="498.99283" z="1000.1407"/>
+		<routestep step="7" x="431.28735" y="521.8072" z="990.19183"/>
+		<routestep step="8" x="412.81458" y="499.53015" z="1000.2322"/>
+		<routestep step="9" x="382.2628" y="481.05637" z="1013.8105"/>
+		<routestep step="10" x="363.4358" y="477.19183" z="1020.38025"/>
+		<routestep step="11" x="348.71277" y="466.3841" z="1023.8935"/>
+		<routestep step="12" x="346.1360" y="455.0408" z="1028.0399"/>
+		<routestep step="13" x="332.28076" y="441.1292" z="1031.8949"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob1_10" pool="2" formation="SQUARE" rows="1,1">
+	    <routestep step="1" x="558.5602" y="300.30563" z="1003.25745"/>
+		<routestep step="2" x="566.835" y="301.15488" z="1003.5183"/>
+		<routestep step="3" x="573.7112" y="301.69577" z="1003.97546"/>
+		<routestep step="4" x="580.7765" y="297.38806" z="1005.301"/>
+		<routestep step="5" x="586.4444" y="293.87973" z="1006.4695"/>
+		<routestep step="6" x="594.7563" y="294.2016" z="1007.4164"/>
+		<routestep step="7" x="598.2497" y="298.42664" z="1006.8878"/>
+		<routestep step="8" x="602.5412" y="302.68045" z="1006.37897"/>
+		<routestep step="9" x="610.45557" y="302.27246" z="1006.70514"/>
+		<routestep step="10" x="616.7904" y="301.9009" z="1006.93915"/>
+		<routestep step="11" x="624.953" y="308.4063" z="1005.9535"/>
+		<routestep step="12" x="631.0357" y="313.1284" z="1005.2292"/>
+		<routestep step="13" x="640.04285" y="318.47455" z="1003.5362"/>
+		<routestep step="14" x="647.6363" y="322.54068" z="1002.8968"/>
+		<routestep step="15" x="640.369" y="317.94025" z="1003.612"/>
+		<routestep step="16" x="631.4719" y="312.34683" z="1005.3432"/>
+		<routestep step="17" x="625.4401" y="307.74878" z="1006.0492"/>
+		<routestep step="18" x="617.09924" y="301.01334" z="1007.0513"/>
+		<routestep step="19" x="610.2998" y="301.25824" z="1006.85535"/>
+		<routestep step="20" x="602.502" y="301.68903" z="1006.5296"/>
+		<routestep step="21" x="599.0013" y="297.8373" z="1007.0031"/>
+		<routestep step="22" x="594.87933" y="293.05206" z="1007.599"/>
+		<routestep step="23" x="586.3485" y="292.8289" z="1006.6203"/>
+		<routestep step="24" x="580.7252" y="296.36987" z="1005.4474"/>
+		<routestep step="25" x="573.5404" y="300.7721" z="1004.09985"/>
+		<routestep step="26" x="566.83624" y="300.51263" z="1003.6209"/>
+		<routestep step="27" x="558.47797" y="300.2905" z="1003.256"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob1_11" pool="1">
+	    <routestep step="1" x="590.4207" y="479.40396" z="991.8757"/>
+		<routestep step="2" x="568.2381" y="474.69843" z="993.9680"/>
+		<routestep step="3" x="553.7449" y="490.39642" z="992.19305"/>
+		<routestep step="4" x="552.26483" y="519.3478" z="990.4722"/>
+		<routestep step="5" x="551.92993" y="489.92563" z="991.7949"/>
+		<routestep step="6" x="567.90155" y="472.7696" z="993.92914"/>
+		<routestep step="7" x="590.3895" y="479.49884" z="991.8781"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob1_12" pool="2" formation="SQUARE" rows="1,1">
+	    <routestep step="1" x="643.4125" y="362.67642" z="998.8064"/>
+		<routestep step="2" x="644.6636" y="354.2056" z="999.2745"/>
+		<routestep step="3" x="646.3893" y="337.13483" z="1000.63745"/>
+		<routestep step="4" x="641.70715" y="333.1426" z="1000.6465"/>
+		<routestep step="5" x="625.1485" y="344.26178" z="999.6073"/>
+		<routestep step="6" x="625.1250" y="344.23782" z="999.6153"/>
+		<routestep step="7" x="641.68524" y="333.00162" z="1000.6747"/>
+		<routestep step="8" x="646.5680" y="337.13794" z="1000.6699"/>
+		<routestep step="9" x="644.7833" y="354.22525" z="999.2870"/>
+		<routestep step="10" x="643.5119" y="362.66605" z="998.81647"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob1_13" pool="1">
+	    <routestep step="1" x="318.95544" y="436.80557" z="1031.6687"/>
+		<routestep step="2" x="308.47473" y="437.37354" z="1031.8438"/>
+		<routestep step="3" x="299.06616" y="428.7383" z="1030.637"/>
+		<routestep step="4" x="296.58643" y="415.64233" z="1027.9567"/>
+		<routestep step="5" x="299.15787" y="400.28738" z="1024.1191"/>
+		<routestep step="6" x="307.2457" y="390.99612" z="1019.70197"/>
+		<routestep step="7" x="315.87296" y="383.24414" z="1017.08905"/>
+		<routestep step="8" x="307.22153" y="390.8941" z="1019.68695"/>
+		<routestep step="9" x="299.07324" y="400.242" z="1024.1232"/>
+		<routestep step="10" x="296.55176" y="415.64105" z="1027.9594"/>
+		<routestep step="11" x="298.99652" y="428.79932" z="1030.6447"/>
+		<routestep step="12" x="308.45428" y="437.41153" z="1031.8452"/>
+		<routestep step="13" x="318.95853" y="436.86542" z="1031.6714"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob1_14" pool="2" formation="SQUARE" rows="1,1">
+		<routestep step="1" x="486.49216" y="560.6259" z="990.1209"/>
+		<routestep step="2" x="476.81766" y="552.8979" z="988.1397"/>
+		<routestep step="3" x="468.99323" y="546.6537" z="988.8085"/>
+		<routestep step="4" x="451.91727" y="551.42786" z="988.0324"/>
+		<routestep step="5" x="442.95804" y="553.9828" z="987.4766"/>
+		<routestep step="6" x="433.0425" y="533.12585" z="987.94104"/>
+		<routestep step="7" x="442.95804" y="553.9828" z="987.4766"/>
+		<routestep step="8" x="451.91727" y="551.42786" z="988.0324"/>
+		<routestep step="9" x="468.99323" y="546.6537" z="988.8085"/>
+		<routestep step="10" x="476.81766" y="552.8979" z="988.1397"/>
+		<routestep step="11" x="486.49216" y="560.6259" z="990.1209"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob1_15" pool="2" formation="SQUARE" rows="1,1">
+	    <routestep step="1" x="489.72287" y="584.9411" z="985.79004"/>
+		<routestep step="2" x="490.67896" y="570.2272" z="989.0211"/>
+		<routestep step="3" x="500.1029" y="557.91547" z="989.77594"/>
+		<routestep step="4" x="516.5592" y="556.9744" z="989.15906"/>
+		<routestep step="5" x="528.8695" y="568.1994" z="985.48236"/>
+		<routestep step="6" x="529.19543" y="587.867" z="981.83435"/>
+		<routestep step="7" x="517.1442" y="600.08856" z="980.1616"/>
+		<routestep step="8" x="499.1782" y="597.63214" z="982.62445"/>
+		<routestep step="9" x="489.89066" y="586.3270" z="985.3896"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob1_16" pool="2" formation="SQUARE" rows="1,1">
+	    <routestep step="1" x="343.68427" y="483.50534" z="1000.6381"/>
+		<routestep step="2" x="341.99597" y="479.37503" z="1001.51263"/>
+		<routestep step="3" x="339.27155" y="472.2409" z="1002.54553"/>
+		<routestep step="4" x="337.3445" y="467.4885" z="1003.26575"/>
+		<routestep step="5" x="335.46182" y="462.69495" z="1003.9698"/>
+		<routestep step="6" x="333.3682" y="457.31058" z="1004.7608"/>
+		<routestep step="7" x="329.11768" y="455.9060" z="1005.40985"/>
+		<routestep step="8" x="323.45584" y="454.2009" z="1006.42786"/>
+		<routestep step="9" x="317.40112" y="452.45505" z="1007.61487"/>
+		<routestep step="10" x="311.0125" y="450.71542" z="1008.85706"/>
+		<routestep step="11" x="304.47003" y="448.83243" z="1010.1393"/>
+		<routestep step="12" x="299.0466" y="447.29398" z="1011.2000"/>
+		<routestep step="13" x="294.3990" y="443.3706" z="1012.08905"/>
+		<routestep step="14" x="289.85596" y="439.46252" z="1013.12946"/>
+		<routestep step="15" x="284.3630" y="434.75336" z="1014.4223"/>
+		<routestep step="16" x="278.9970" y="430.08542" z="1015.66364"/>
+		<routestep step="17" x="278.9921" y="430.09308" z="1015.6628"/>
+		<routestep step="18" x="284.20508" y="434.9086" z="1014.41077"/>
+		<routestep step="19" x="289.7129" y="439.75644" z="1013.0762"/>
+		<routestep step="20" x="294.1161" y="443.75055" z="1012.0476"/>
+		<routestep step="21" x="298.71268" y="447.66464" z="1011.21893"/>
+		<routestep step="22" x="304.14395" y="449.3276" z="1010.1445"/>
+		<routestep step="23" x="310.58777" y="451.07736" z="1008.65674"/>
+		<routestep step="24" x="317.03604" y="452.92874" z="1007.6287"/>
+		<routestep step="25" x="323.0781" y="454.67117" z="1006.4442"/>
+		<routestep step="26" x="329.20416" y="456.29053" z="1005.37024"/>
+		<routestep step="27" x="333.1479" y="457.6002" z="1004.7676"/>
+		<routestep step="28" x="335.11337" y="462.9807" z="1004.04584"/>
+		<routestep step="29" x="336.8420" y="467.64066" z="1003.3842"/>
+		<routestep step="30" x="338.76474" y="472.44577" z="1002.6660"/>
+		<routestep step="31" x="341.4527" y="479.48315" z="1001.64703"/>
+		<routestep step="32" x="343.46902" y="483.58698" z="1000.71216"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob1_17" pool="1">
+	    <routestep step="1" x="585.70746" y="341.30197" z="999.91833"/>
+		<routestep step="2" x="589.3285" y="332.5902" z="1001.30597"/>
+		<routestep step="3" x="599.96204" y="323.8453" z="1003.29767"/>
+		<routestep step="4" x="618.82104" y="322.24536" z="1003.89575"/>
+		<routestep step="5" x="624.73303" y="310.62433" z="1005.6264"/>
+		<routestep step="6" x="635.94165" y="297.09738" z="1007.5917"/>
+		<routestep step="7" x="624.08844" y="309.89392" z="1005.73627"/>
+		<routestep step="8" x="618.18304" y="321.18164" z="1004.03937"/>
+		<routestep step="9" x="599.2433" y="322.39563" z="1003.4494"/>
+		<routestep step="10" x="588.5778" y="332.00992" z="1001.2868"/>
+		<routestep step="11" x="585.4428" y="341.71555" z="999.80536"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob1_18" pool="1">
+	    <routestep step="1" x="575.6276" y="429.2249" z="1029.6924"/>
+		<routestep step="2" x="595.79944" y="419.97214" z="1023.6258"/>
+		<routestep step="3" x="610.1590" y="419.03464" z="1018.3454"/>
+		<routestep step="4" x="624.0726" y="416.7775" z="1015.0521"/>
+		<routestep step="5" x="633.9033" y="420.39062" z="1012.2075"/>
+		<routestep step="6" x="645.05145" y="422.47458" z="1007.58215"/>
+		<routestep step="7" x="654.8419" y="430.86328" z="1002.6004"/>
+		<routestep step="8" x="661.4391" y="444.60788" z="998.4912"/>
+		<routestep step="9" x="660.6884" y="444.76675" z="998.5213"/>
+		<routestep step="10" x="653.4200" y="431.95428" z="1002.40155"/>
+		<routestep step="11" x="644.6326" y="423.61615" z="1007.4167"/>
+		<routestep step="12" x="633.38837" y="421.4997" z="1012.136"/>
+		<routestep step="13" x="623.51465" y="418.13602" z="1015.1083"/>
+		<routestep step="14" x="610.0454" y="420.39072" z="1018.4224"/>
+		<routestep step="15" x="595.8258" y="420.8219" z="1023.6788"/>
+		<routestep step="16" x="576.0025" y="429.87604" z="1029.6263"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob1_2" pool="2" formation="SQUARE" rows="1,1">
+	    <routestep step="1" x="539.9819" y="604.212" z="977.94104"/>
+		<routestep step="2" x="545.6131" y="609.6502" z="976.0851"/>
+		<routestep step="3" x="551.44946" y="615.28357" z="974.80817"/>
+		<routestep step="4" x="556.71356" y="620.03204" z="973.7414"/>
+		<routestep step="5" x="562.9600" y="622.5646" z="972.82416"/>
+		<routestep step="6" x="571.21924" y="629.2857" z="971.00903"/>
+		<routestep step="7" x="579.99054" y="632.9157" z="970.10126"/>
+		<routestep step="8" x="589.3980" y="640.4351" z="969.2148"/>
+		<routestep step="9" x="598.9216" y="645.7596" z="968.4021"/>
+		<routestep step="10" x="608.1307" y="641.6671" z="968.2645"/>
+		<routestep step="11" x="613.69965" y="633.2606" z="969.1293"/>
+		<routestep step="12" x="619.7219" y="622.8989" z="970.2249"/>
+		<routestep step="13" x="626.25946" y="611.88135" z="971.4676"/>
+		<routestep step="14" x="626.29364" y="611.9025" z="971.4643"/>
+		<routestep step="15" x="619.7975" y="623.0039" z="970.21106"/>
+		<routestep step="16" x="613.8757" y="633.3310" z="969.11743"/>
+		<routestep step="17" x="608.23035" y="641.7361" z="968.25385"/>
+		<routestep step="18" x="598.7880" y="645.8263" z="968.40826"/>
+		<routestep step="19" x="589.23914" y="640.51996" z="969.2219"/>
+		<routestep step="20" x="579.88086" y="632.9615" z="970.10645"/>
+		<routestep step="21" x="571.21124" y="629.3785" z="970.9934"/>
+		<routestep step="22" x="562.91187" y="622.6452" z="972.8138"/>
+		<routestep step="23" x="556.5711" y="620.1154" z="973.7364"/>
+		<routestep step="24" x="551.40436" y="615.4004" z="974.7921"/>
+		<routestep step="25" x="545.58673" y="609.77277" z="976.0604"/>
+		<routestep step="26" x="539.92944" y="604.2436" z="977.9368"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob1_4" pool="2" formation="SQUARE" rows="1,1">
+	    <routestep step="1" x="478.7777" y="282.7834" z="1001.03827"/>
+		<routestep step="2" x="472.49554" y="298.6433" z="1001.7938"/>
+		<routestep step="3" x="449.29312" y="306.22375" z="1001.445"/>
+		<routestep step="4" x="428.8486" y="319.92957" z="1000.70966"/>
+		<routestep step="5" x="428.88086" y="319.9654" z="1000.7057"/>
+		<routestep step="6" x="449.3582" y="306.32104" z="1001.4546"/>
+		<routestep step="7" x="472.58124" y="298.75854" z="1001.80475"/>
+		<routestep step="8" x="480.05695" y="279.81012" z="1001.0490"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob1_5" pool="2" formation="SQUARE" rows="1,1">
+	    <routestep step="1" x="673.63605" y="486.19336" z="987.6951"/>
+		<routestep step="2" x="678.1886" y="494.6818" z="986.48346"/>
+		<routestep step="3" x="682.8569" y="503.3899" z="985.37585"/>
+		<routestep step="4" x="685.62756" y="518.4605" z="984.5330"/>
+		<routestep step="5" x="688.59875" y="534.06885" z="981.7088"/>
+		<routestep step="6" x="691.10895" y="546.8986" z="979.8659"/>
+		<routestep step="7" x="691.40295" y="562.5215" z="977.35223"/>
+		<routestep step="8" x="679.7651" y="576.0157" z="977.25165"/>
+		<routestep step="9" x="669.12354" y="589.8548" z="974.2114"/>
+		<routestep step="10" x="655.25446" y="587.20544" z="975.3588"/>
+		<routestep step="11" x="639.39557" y="596.033" z="973.7311"/>
+		<routestep step="12" x="639.3088" y="595.7818" z="973.80554"/>
+		<routestep step="13" x="655.10504" y="586.3567" z="975.5949"/>
+		<routestep step="14" x="668.9966" y="589.7119" z="974.22314"/>
+		<routestep step="15" x="679.1612" y="575.2139" z="977.4959"/>
+		<routestep step="16" x="690.74786" y="562.2626" z="977.3519"/>
+		<routestep step="17" x="690.3954" y="547.0873" z="979.79004"/>
+		<routestep step="18" x="688.0318" y="534.2208" z="981.6482"/>
+		<routestep step="19" x="685.0874" y="518.68353" z="984.4292"/>
+		<routestep step="20" x="682.2853" y="503.53778" z="985.3388"/>
+		<routestep step="21" x="677.5691" y="494.82288" z="986.44604"/>
+		<routestep step="22" x="673.38464" y="486.0151" z="987.7304"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob1_6" pool="1">
+	    <routestep step="1" x="360.18854" y="348.95682" z="1008.65045"/>
+		<routestep step="2" x="381.10492" y="344.8724" z="1004.14825"/>
+		<routestep step="3" x="393.84137" y="336.37366" z="1002.1111"/>
+		<routestep step="4" x="398.95667" y="331.72232" z="1001.97296"/>
+		<routestep step="5" x="399.01086" y="332.0048" z="1001.9454"/>
+		<routestep step="6" x="393.8218" y="336.33105" z="1002.1164"/>
+		<routestep step="7" x="381.09335" y="344.80258" z="1004.15173"/>
+		<routestep step="8" x="360.15237" y="348.89938" z="1008.65894"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob1_8" pool="1">
+	    <routestep step="1" x="362.3588" y="411.61734" z="1036.6187"/>
+		<routestep step="2" x="345.1692" y="412.60205" z="1035.8474"/>
+		<routestep step="3" x="332.1154" y="431.41476" z="1032.6248"/>
+		<routestep step="4" x="345.38803" y="413.4842" z="1035.7053"/>
+		<routestep step="5" x="362.32556" y="412.3466" z="1036.5383"/>
+		<routestep step="6" x="374.08554" y="412.71283" z="1036.4027"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob1_9" pool="2" formation="SQUARE" rows="1,1">
+	    <routestep step="1" x="661.2783" y="311.14395" z="1007.79114"/>
+		<routestep step="2" x="671.00183" y="308.08795" z="1010.5107"/>
+		<routestep step="3" x="681.42474" y="305.28857" z="1013.30597"/>
+		<routestep step="4" x="686.8090" y="311.5806" z="1012.4274"/>
+		<routestep step="5" x="692.7714" y="318.50775" z="1011.45013"/>
+		<routestep step="6" x="688.6854" y="327.8222" z="1009.1809"/>
+		<routestep step="7" x="685.4253" y="335.13425" z="1007.5472"/>
+		<routestep step="8" x="685.3704" y="343.51657" z="1006.15924"/>
+		<routestep step="9" x="685.8369" y="351.22134" z="1004.8836"/>
+		<routestep step="10" x="679.4462" y="358.0420" z="1003.2379"/>
+		<routestep step="11" x="672.98914" y="367.83414" z="1002.0508"/>
+		<routestep step="12" x="674.20734" y="374.94867" z="1001.32587"/>
+		<routestep step="13" x="674.1900" y="385.02295" z="1000.2251"/>
+		<routestep step="14" x="672.97034" y="398.73087" z="998.686"/>
+		<routestep step="15" x="673.7278" y="384.84357" z="1000.2628"/>
+		<routestep step="16" x="673.54126" y="374.8325" z="1001.3646"/>
+		<routestep step="17" x="672.34686" y="367.07352" z="1002.0101"/>
+		<routestep step="18" x="678.8689" y="357.5783" z="1003.2784"/>
+		<routestep step="19" x="684.9047" y="351.40353" z="1004.7909"/>
+		<routestep step="20" x="684.65454" y="343.6264" z="1006.08234"/>
+		<routestep step="21" x="684.39136" y="335.12744" z="1007.4634"/>
+		<routestep step="22" x="687.6242" y="326.97986" z="1009.2229"/>
+		<routestep step="23" x="691.5225" y="318.33835" z="1011.3467"/>
+		<routestep step="24" x="686.0679" y="312.43427" z="1012.1596"/>
+		<routestep step="25" x="681.1422" y="306.36145" z="1013.0244"/>
+		<routestep step="26" x="671.11206" y="308.83682" z="1010.384"/>
+		<routestep step="27" x="661.3193" y="311.2404" z="1007.77893"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob2_0" pool="1">
+	    <routestep step="1" x="451.62125" y="468.43457" z="1056.0637"/>
+		<routestep step="2" x="458.70657" y="471.71143" z="1056.5935"/>
+		<routestep step="3" x="475.19418" y="474.6961" z="1056.6666"/>
+		<routestep step="4" x="485.94547" y="471.99057" z="1055.9071"/>
+		<routestep step="5" x="489.5022" y="470.75333" z="1055.7839"/>
+		<routestep step="6" x="489.49762" y="470.74725" z="1055.7840"/>
+		<routestep step="7" x="485.94284" y="471.96976" z="1055.9055"/>
+		<routestep step="8" x="475.16455" y="474.6851" z="1056.6660"/>
+		<routestep step="9" x="458.74622" y="471.69223" z="1056.5913"/>
+		<routestep step="10" x="444.40646" y="464.53293" z="1055.8394"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob2_1" pool="1">
+	    <routestep step="1" x="461.72318" y="387.6504" z="1056.0519"/>
+		<routestep step="2" x="470.3010" y="385.16907" z="1056.7058"/>
+		<routestep step="3" x="487.42856" y="388.0270" z="1056.6532"/>
+		<routestep step="4" x="496.0431" y="394.01736" z="1055.8584"/>
+		<routestep step="5" x="499.21503" y="396.2525" z="1055.7694"/>
+		<routestep step="6" x="499.21292" y="396.25446" z="1055.7694"/>
+		<routestep step="7" x="496.0345" y="394.0298" z="1055.8584"/>
+		<routestep step="8" x="487.41653" y="388.0321" z="1056.6562"/>
+		<routestep step="9" x="470.3183" y="385.19403" z="1056.7037"/>
+		<routestep step="10" x="454.2376" y="389.8141" z="1055.8400"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob2_2" pool="1">
+	    <routestep step="1" x="489.30322" y="418.00293" z="1038.6572"/>
+		<routestep step="2" x="484.78177" y="410.02777" z="1038.6581"/>
+		<routestep step="3" x="467.2219" y="407.59167" z="1038.6566"/>
+		<routestep step="4" x="456.62427" y="414.7573" z="1038.6577"/>
+		<routestep step="5" x="467.23575" y="407.65973" z="1038.6581"/>
+		<routestep step="6" x="484.71548" y="410.05728" z="1038.6581"/>
+		<routestep step="7" x="489.8770" y="419.16348" z="1038.6590"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob2_3" pool="1">
+	    <routestep step="1" x="484.28668" y="447.74774" z="1038.6603"/>
+		<routestep step="2" x="479.74673" y="452.86877" z="1038.6578"/>
+		<routestep step="3" x="462.14917" y="450.72583" z="1038.6566"/>
+		<routestep step="4" x="453.61942" y="441.3382" z="1038.6578"/>
+		<routestep step="5" x="462.17447" y="450.6722" z="1038.6566"/>
+		<routestep step="6" x="479.72934" y="452.86603" z="1038.6562"/>
+		<routestep step="7" x="486.19275" y="445.56165" z="1038.6562"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob2_4" pool="1">
+	    <routestep step="1" x="467.3718" y="472.96732" z="1046.8586"/>
+		<routestep step="2" x="459.24744" y="472.2306" z="1046.4396"/>
+		<routestep step="3" x="454.0826" y="469.45407" z="1046.3466"/>
+		<routestep step="4" x="450.9374" y="466.54135" z="1046.6085"/>
+		<routestep step="5" x="445.98068" y="465.1325" z="1046.9485"/>
+		<routestep step="6" x="439.91257" y="466.25092" z="1046.9338"/>
+		<routestep step="7" x="440.38913" y="468.1123" z="1046.9237"/>
+		<routestep step="8" x="446.01425" y="473.21344" z="1046.8202"/>
+		<routestep step="9" x="454.11487" y="480.10513" z="1046.8202"/>
+		<routestep step="10" x="478.42136" y="483.73532" z="1046.8201"/>
+		<routestep step="11" x="488.98874" y="477.37634" z="1046.8247"/>
+		<routestep step="12" x="494.10446" y="476.74484" z="1046.8342"/>
+		<routestep step="13" x="495.5686" y="473.1710" z="1046.8201"/>
+		<routestep step="14" x="490.2850" y="470.79285" z="1046.9482"/>
+		<routestep step="15" x="484.97418" y="471.12277" z="1047.0006"/>
+		<routestep step="16" x="476.65698" y="473.99225" z="1046.4221"/>
+		<routestep step="17" x="469.017822" y="473.1377" z="1046.8011"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob2_5" pool="1">
+	    <routestep step="1" x="479.1295" y="388.19778" z="1046.8596"/>
+		<routestep step="2" x="486.5758" y="388.91495" z="1046.4585"/>
+		<routestep step="3" x="493.1114" y="391.8984" z="1046.5975"/>
+		<routestep step="4" x="499.68417" y="395.4513" z="1046.9534"/>
+		<routestep step="5" x="506.61926" y="393.90912" z="1046.8052"/>
+		<routestep step="6" x="503.61768" y="388.92114" z="1046.8849"/>
+		<routestep step="7" x="490.53687" y="379.61523" z="1046.8201"/>
+		<routestep step="8" x="468.18765" y="377.6908" z="1046.8201"/>
+		<routestep step="9" x="450.25684" y="384.9570" z="1046.9132"/>
+		<routestep step="10" x="450.23846" y="387.0967" z="1046.9337"/>
+		<routestep step="11" x="456.23126" y="389.71667" z="1046.9344"/>
+		<routestep step="12" x="461.1456" y="389.4161" z="1046.5951"/>
+		<routestep step="13" x="465.64285" y="387.5096" z="1046.3329"/>
+		<routestep step="14" x="471.04117" y="386.5413" z="1046.4965"/>
+		<routestep step="15" x="478.01355" y="387.9341" z="1046.8594"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob2_6" pool="1">
+	    <routestep step="1" x="507.96426" y="413.8952" z="1051.0352"/>
+		<routestep step="2" x="512.08594" y="414.4400" z="1051.0303"/>
+		<routestep step="3" x="516.04114" y="426.783" z="1053.9421"/>
+		<routestep step="4" x="516.70135" y="436.1242" z="1055.7513"/>
+		<routestep step="5" x="513.5646" y="445.73535" z="1053.4016"/>
+		<routestep step="6" x="507.1671" y="456.05725" z="1051.0348"/>
+		<routestep step="7" x="502.74576" y="455.49146" z="1051.0333"/>
+		<routestep step="8" x="502.7459" y="455.49863" z="1051.0333"/>
+		<routestep step="9" x="507.16388" y="456.07693" z="1051.035"/>
+		<routestep step="10" x="513.6020" y="445.75583" z="1053.3951"/>
+		<routestep step="11" x="516.7414" y="436.15134" z="1055.7513"/>
+		<routestep step="12" x="515.9784" y="426.7496" z="1053.9297"/>
+		<routestep step="13" x="512.07526" y="414.45898" z="1051.0303"/>
+		<routestep step="14" x="507.94965" y="413.90952" z="1051.0353"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob2_7" pool="1">
+	    <routestep step="1" x="484.56165" y="463.72165" z="1043.0238"/>
+		<routestep step="2" x="486.0998" y="452.11142" z="1038.6797"/>
+		<routestep step="3" x="486.7621" y="446.9889" z="1038.6562"/>
+		<routestep step="4" x="494.87772" y="439.9388" z="1038.6562"/>
+		<routestep step="5" x="497.79672" y="436.1603" z="1038.6383"/>
+		<routestep step="6" x="498.44797" y="430.6028" z="1038.6389"/>
+		<routestep step="7" x="496.7674" y="426.47092" z="1038.6560"/>
+		<routestep step="8" x="490.78418" y="417.85147" z="1038.6577"/>
+		<routestep step="9" x="491.38705" y="412.4922" z="1038.6581"/>
+		<routestep step="10" x="492.80618" y="400.71606" z="1043.0239"/>
+		<routestep step="11" x="492.80505" y="400.71643" z="1043.0239"/>
+		<routestep step="12" x="491.36844" y="412.47357" z="1038.6581"/>
+		<routestep step="13" x="490.73438" y="417.83713" z="1038.6577"/>
+		<routestep step="14" x="496.72397" y="426.50592" z="1038.6562"/>
+		<routestep step="15" x="498.41708" y="430.6293" z="1038.6390"/>
+		<routestep step="16" x="497.7773" y="436.12668" z="1038.6385"/>
+		<routestep step="17" x="494.86865" y="439.90555" z="1038.6592"/>
+		<routestep step="18" x="486.73322" y="446.98608" z="1038.6562"/>
+		<routestep step="19" x="486.06628" y="452.11813" z="1038.6848"/>
+		<routestep step="20" x="484.5297" y="463.75223" z="1043.0237"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob2_8" pool="1">
+	    <routestep step="1" x="479.88535" y="431.1264" z="1031.7080"/>
+		<routestep step="2" x="475.00842" y="441.25122" z="1032.4902"/>
+		<routestep step="3" x="466.9327" y="442.4525" z="1035.2855"/>
+		<routestep step="4" x="461.5398" y="441.8718" z="1037.3015"/>
+		<routestep step="5" x="456.62622" y="439.22916" z="1038.6598"/>
+		<routestep step="6" x="448.31345" y="434.71475" z="1038.6469"/>
+		<routestep step="7" x="443.12753" y="426.21786" z="1038.5883"/>
+		<routestep step="8" x="450.8491" y="419.12592" z="1038.6517"/>
+		<routestep step="9" x="460.0770" y="416.98355" z="1038.6582"/>
+		<routestep step="10" x="465.0751" y="415.90436" z="1037.2648"/>
+		<routestep step="11" x="470.02274" y="416.02304" z="1035.4935"/>
+		<routestep step="12" x="478.5041" y="420.68448" z="1032.0776"/>
+		<routestep step="13" x="479.82712" y="430.62823" z="1031.708"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob3_0" pool="2" formation="SQUARE" rows="1,1">
+	    <routestep step="1" x="446.56424" y="422.92517" z="991.5393"/>
+		<routestep step="2" x="441.85977" y="417.13388" z="991.5393"/>
+		<routestep step="3" x="438.13657" y="412.42868" z="991.5393"/>
+		<routestep step="4" x="431.54126" y="404.00778" z="991.31555"/>
+		<routestep step="5" x="438.3538" y="412.21164" z="991.5393"/>
+		<routestep step="6" x="442.0485" y="416.96948" z="991.5429"/>
+		<routestep step="7" x="447.2518" y="423.77594" z="991.5393"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob3_1" pool="2" formation="SQUARE" rows="1,1">
+	    <routestep step="1" x="466.38226" y="416.76865" z="991.5393"/>
+		<routestep step="2" x="458.0287" y="418.34012" z="991.5393"/>
+		<routestep step="3" x="450.49542" y="422.07724" z="991.5393"/>
+		<routestep step="4" x="457.8056" y="418.1066" z="991.5393"/>
+		<routestep step="5" x="466.46313" y="416.369" z="991.5393"/>
+		<routestep step="6" x="476.2455" y="418.13165" z="991.5393"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob3_2" pool="1">
+	    <routestep step="1" x="485.31454" y="400.84094" z="1022.56586"/>
+		<routestep step="2" x="488.18268" y="391.59186" z="1020.9066"/>
+		<routestep step="3" x="490.0777" y="385.6241" z="1020.8858"/>
+		<routestep step="4" x="491.8984" y="379.8368" z="1020.8858"/>
+		<routestep step="5" x="490.09558" y="385.63007" z="1020.8858"/>
+		<routestep step="6" x="488.21655" y="391.59747" z="1020.9066"/>
+		<routestep step="7" x="485.33878" y="400.8487" z="1022.5681"/>
+		<routestep step="8" x="484.97546" y="402.01624" z="1022.5929"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob3_3" pool="2" formation="SQUARE" rows="1,1">
+	    <routestep step="1" x="436.68442" y="442.18835" z="991.5393"/>
+		<routestep step="2" x="439.6137" y="433.39786" z="991.5393"/>
+		<routestep step="3" x="445.0368" y="426.23083" z="991.5397"/>
+		<routestep step="4" x="440.05496" y="433.61203" z="991.5393"/>
+		<routestep step="5" x="437.27325" y="442.27798" z="991.5393"/>
+		<routestep step="6" x="437.37558" y="451.33838" z="991.5393"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob3_4" pool="1">
+	    <routestep step="1" x="409.5511" y="429.9958" z="996.82227"/>
+		<routestep step="2" x="413.3417" y="437.25836" z="994.2793"/>
+		<routestep step="3" x="418.20712" y="443.11154" z="992.6462"/>
+		<routestep step="4" x="422.98004" y="446.65436" z="991.5357"/>
+		<routestep step="5" x="428.0683" y="449.5390" z="991.2200"/>
+		<routestep step="6" x="431.02643" y="449.93362" z="991.2200"/>
+		<routestep step="7" x="431.00427" y="449.53046" z="991.2200"/>
+		<routestep step="8" x="428.17093" y="449.19348" z="991.2200"/>
+		<routestep step="9" x="423.09818" y="446.25864" z="991.5879"/>
+		<routestep step="10" x="418.32584" y="442.83908" z="992.7025"/>
+		<routestep step="11" x="413.5771" y="437.21158" z="994.28845"/>
+		<routestep step="12" x="409.85178" y="429.90207" z="996.84705"/>
+		<routestep step="13" x="408.29587" y="422.84332" z="998.9822"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob3_5" pool="1">
+	    <routestep step="1" x="456.24777" y="391.66663" z="1014.9949"/>
+		<routestep step="2" x="447.14725" y="391.51636" z="1012.6335"/>
+		<routestep step="3" x="440.39413" y="391.93506" z="1010.9372"/>
+		<routestep step="4" x="436.82452" y="392.03775" z="1010.12726"/>
+		<routestep step="5" x="436.82413" y="392.0467" z="1010.1263"/>
+		<routestep step="6" x="440.4061" y="391.94815" z="1010.9396"/>
+		<routestep step="7" x="447.12897" y="391.53058" z="1012.62854"/>
+		<routestep step="8" x="456.22766" y="391.6792" z="1014.9899"/>
+		<routestep step="9" x="465.06458" y="394.3310" z="1017.5654"/>
+    </walker_template>
+    <walker_template route_id="npcpathidlf3_castle_lehpar_mob3_6" pool="1">
+	    <routestep step="1" x="431.57922" y="394.6562" z="1008.7089"/>
+		<routestep step="2" x="424.76755" y="399.04056" z="1006.83716"/>
+		<routestep step="3" x="417.06216" y="404.74854" z="1004.5334"/>
+		<routestep step="4" x="412.4447" y="417.9528" z="1001.0230"/>
+		<routestep step="5" x="412.45828" y="417.9602" z="1001.02295"/>
+		<routestep step="6" x="417.0889" y="404.75604" z="1004.53546"/>
+		<routestep step="7" x="424.75696" y="399.06348" z="1006.83124"/>
+		<routestep step="8" x="431.56497" y="394.68762" z="1008.70264"/>
+		<routestep step="9" x="434.3780" y="392.74014" z="1009.5261"/>
+    </walker_template>
+</npc_walker>

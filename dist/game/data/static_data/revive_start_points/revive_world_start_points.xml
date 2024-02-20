@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Revive World Start Point
+	Develop: ADev.Team
+ -->
+ <revive_world_start_points xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="revive_world_start_points.xsd">
+ 	<!-- Revive Start Point Elyos -->
+	<revive_world_start_point world_id="210010000" name="Akarios Village" race="ELYOS" min_level="1" max_level="55" x="854.45807" y="1208.9177" z="117.80736" h="39"/>
+	<revive_world_start_point world_id="210020000" name="Eltnen Fortress" race="ELYOS" min_level="1" max_level="55" x="286.2151" y="2750.2195" z="270.45584" h="17"/>
+	<revive_world_start_point world_id="210030000" name="Verteron Citadel" race="ELYOS" min_level="1" max_level="55" x="1691.7458" y="1482.1349" z="121.43372" h="46"/>
+	<revive_world_start_point world_id="210040000" name="New Heiron Gate" race="ELYOS" min_level="1" max_level="55" x="2478.0000" y="326.0000" z="414.0000" h="70"/>
+	<revive_world_start_point world_id="210050000" name="Inggison Illusion Fortress" race="ELYOS" min_level="1" max_level="55" x="1386.6333" y="303.7946" z="588.78503" h="66"/>
+	<revive_world_start_point world_id="210060000" name="Meniherk Excavation Camp" race="ELYOS" min_level="1" max_level="55" x="1424.4342" y="1568.1641" z="30.875" h="91"/>
+	<!-- Revive Start Point Asmodians -->
+	<revive_world_start_point world_id="220010000" name="Aldelle Village" race="ASMODIANS" min_level="1" max_level="55" x="567.09296" y="2455.5613" z="280.66888" h="109"/>
+	<revive_world_start_point world_id="220020000" name="Morheim Ice Fortress" race="ASMODIANS" min_level="1" max_level="55" x="308.0000" y="2274.0000" z="449.0000" h="43"/>
+	<revive_world_start_point world_id="220030000" name="Altgard Fortress" race="ASMODIANS" min_level="1" max_level="55" x="1661.3342" y="1816.5228" z="253.70834" h="2"/>
+	<revive_world_start_point world_id="220040000" name="Beluslan Fortress" race="ASMODIANS" min_level="1" max_level="55" x="320.9731" y="335.03366" z="229.59511" h="8"/>
+	<revive_world_start_point world_id="220050000" name="Settlers Campsite" race="ASMODIANS" min_level="1" max_level="55" x="2927.077" y="2431.52" z="16.662308" h="10"/>
+	<revive_world_start_point world_id="220070000" name="Gelkmaros Fortress" race="ASMODIANS" min_level="1" max_level="55" x="1764.1581" y="2909.8933" z="554.7983" h="9"/>
+	<!-- Revive Start Point Both Race -->
+	<revive_world_start_point world_id="400010000" name="Teminon Landing" race="ELYOS" min_level="1" max_level="55" x="2375.47" y="529.8081" z="1545.4985" h="102"/>
+	<revive_world_start_point world_id="400010000" name="Primum Landing" race="ASMODIANS" min_level="1" max_level="55" x="433.718" y="2699.53" z="1655.3513" h="108"/>
+	<revive_world_start_point world_id="600020000" name="Lamina Bazaar" race="PC_ALL" min_level="1" max_level="55" x="1281.0000" y="1616.0000" z="585.0000" h="30"/>
+</revive_world_start_points>

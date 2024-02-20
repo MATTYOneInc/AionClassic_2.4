@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="utf-8"?>
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:include schemaLocation="../global_types.xsd"/>
+    <xs:element name="decomposable_templates">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="decomposable_template" type="DecomposableTemplate" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:complexType name="DecomposableTemplate">
+        <xs:sequence>
+            <xs:element name="items" type="DecomposableList" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:int" use="required"/>
+        <xs:attribute name="name" type="xs:string" use="optional"/>
+    </xs:complexType>
+    <xs:complexType name="DecomposableList">
+        <xs:sequence>
+            <xs:element name="item" type="DecomposableItemList" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+        <xs:attribute name="min_level" type="xs:int" use="optional" default="0"/>
+        <xs:attribute name="max_level" type="xs:int" use="optional" default="0"/>
+        <xs:attribute name="race" type="Race" use="optional" default="PC_ALL"/>
+        <xs:attribute name="target_class" type="playerClass" use="optional" default="ALL"/>
+    </xs:complexType>
+    <xs:complexType name="DecomposableItemList">
+        <xs:attribute name="id" type="xs:int" use="required"/>
+        <xs:attribute name="count" type="xs:int" use="required"/>
+    </xs:complexType>
+</xs:schema>

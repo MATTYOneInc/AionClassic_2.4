@@ -1,0 +1,141 @@
+/**
+ * This file is part of aion-emu <aion-emu.com>.
+ *
+ *  aion-emu is free software: you can redistribute it and/or modify
+ *  it under the terms of the GNU General Public License as published by
+ *  the Free Software Foundation, either version 3 of the License, or
+ *  (at your option) any later version.
+ *
+ *  aion-emu is distributed in the hope that it will be useful,
+ *  but WITHOUT ANY WARRANTY; without even the implied warranty of
+ *  MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+ *  GNU General Public License for more details.
+ *
+ *  You should have received a copy of the GNU General Public License
+ *  along with aion-emu.  If not, see <http://www.gnu.org/licenses/>.
+ */
+package com.aionemu.gameserver.network.aion.serverpackets;
+
+
+import com.aionemu.commons.utils.PrintUtils;
+import com.aionemu.gameserver.dataholders.DataManager;
+import com.aionemu.gameserver.model.templates.world.WorldMapTemplate;
+import com.aionemu.gameserver.network.aion.AionConnection;
+import com.aionemu.gameserver.network.aion.AionServerPacket;
+
+import java.util.List;
+
+/**
+ * @author -Nemesiss-
+ */
+public class S_L2AUTH_LOGIN_CHECK extends AionServerPacket {
+
+	/**
+	 * True if client is authed.
+	 */
+	private final boolean ok;
+	private final String accountName;
+	private static byte[] data;
+
+	static {
+		data = hex2Byte("00000000000001"+
+				"01010202020303030404040505050606"+
+				"060707070808080909090A0A0A0B0B0B"+
+				"0C0C0C0D0D0D0E0E0E0F0F0F10101011"+
+				"11111212121313131414141515151616"+
+				"161717171818181919191A1A1A1B1B1B"+
+				"1C1C1C1D1D1D1E1E1E1F1F1F20202021"+
+				"21212222222323232424242525252626"+
+				"262727272828282929292A2A2A2B2B2B"+
+				"2C2C2C2D2D2D2E2E2E2F2F2F30303031"+
+				"31313232323333333434343535353636"+
+				"363737373838383939393A3A3A3B3B3B"+
+				"3C3C3C3D3D3D3E3E3E3F3F3F00000000"+
+				"00000000000000000000000000000000"+
+				"00000000000000000000000000000000"+
+				"00000000000000000000000000000000"+
+				"00000000000000000000000000000000"+
+				"00000000000000000000000000000000"+
+				"00000000000000000000000000000000"+
+				"00000000000000000000000000000000"+
+				"00000000000000000000000000000000"+
+				"00000000000000000000000000000000"+
+				"00000000000000000000000000000000"+
+				"00000000000000000000000000000000"+
+				"00000000000000000000000000000001"+
+				"01010202020303030404040505050606"+
+				"060707070808080909090A0A0A0B0B0B"+
+				"0C0C0C0D0D0D0E0E0E0F0F0F10101011"+
+				"11111212121313131414141515151616"+
+				"161717171818181919191A1A1A1B1B1B"+
+				"1C1C1C1D1D1D1E1E1E1F1F1F20202021"+
+				"21212222222323232424242525252626"+
+				"262727272828282929292A2A2A2B2B2B"+
+				"2C2C2C2D2D2D2E2E2E2F2F2F30303031"+
+				"31313232323333333434343535353636"+
+				"363737373838383939393A3A3A3B3B3B"+
+				"3C3C3C3D3D3D3E3E3E3F3F3F560010AB"+
+				"D7170100804628070100F0888F060100"+
+				"103527070100205C2707010010161D0D"+
+				"0A0030641D0D0A00203D1D0D010050B2"+
+				"1D0D0300408B1D0D010070001E0D0100"+
+				"10B9FE1E0100B050E31100003018E211"+
+				"0000304513130000406C13130000B0AE"+
+				"7A120000C0D57A12000010CAE1110000"+
+				"10F712130000201E13130000E0F21413"+
+				"000090607A120000A0877A120000400E"+
+				"7C12000060FEE4110000608DE2110000"+
+				"9002E311000080DBE2110000E0C5E311"+
+				"0000C077E3110000D09EE31100005066"+
+				"E211000070B4E2110000E036E6110000"+
+				"F0CEE811000030FAE6110000A00BE811"+
+				"00004021E7110000B032E81100000085"+
+				"E6110000103BE4110000101DE9110000"+
+				"7025E5110000902F14130000C0A41413"+
+				"000060BA13130000D0CB141300005093"+
+				"13130000A05614130000800814130000"+
+				"00F6E8110000B07D14130000F0191513"+
+				"000050D7E41100003089E41100009073"+
+				"E511000000727B120000403FE2110000"+
+				"E0237B120000F04A7B12000030E77B12"+
+				"0000D0FC7A12000010997B12000020C0"+
+				"7B12000040B0E4110000908DAB130000"+
+				"A029E3110000D080E811000070E11313"+
+				"00000014E4110000E817E4110000F0EC"+
+				"E3110000D8F0E3110000E0A7E8110000"+
+				"C059E8110000909E8E060100A0C58E06"+
+				"0100907F840C0A00B0CD840C0A00A0A6"+
+				"840C0100E042850C0300C0F4840C0100"+
+				"D01B850C01009022661E0100106DC323"+
+				"0100"
+		);
+	}
+
+	/**
+	 * Constructs new <tt>SM_L2AUTH_LOGIN_CHECK </tt> packet
+	 * 
+	 * @param ok
+	 */
+	public S_L2AUTH_LOGIN_CHECK(boolean ok, String accountName) {
+		this.ok = ok;
+		this.accountName = accountName;
+	}
+
+	/**
+	 * {@inheritDoc}
+	 */
+	@Override
+	protected void writeImpl(AionConnection con) {
+		writeD(ok ? 0x00 : 0x01);
+		writeB(data);
+		writeS(accountName);
+	}
+
+	private static byte[] hex2Byte(String str) {
+		byte[] bytes = new byte[str.length() / 2];
+		for (int i = 0; i < bytes.length; i++) {
+			bytes[i] = (byte) Integer.parseInt(str.substring(2 * i, 2 * i + 2), 16);
+		}
+		return bytes;
+	}
+}

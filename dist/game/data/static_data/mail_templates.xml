@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+    Mail Template
+	Develop: ADev.Team
+ -->
+<mails>
+	<mail name="$$ABYSS_REWARD_MAIL">
+		<template name="" race="PC_ALL">
+			<sender id="0"/>
+			<title id="0">
+				<param id="siegelocid"/>
+				<param id="resultid"/>
+				<param id="raceid"/>
+			</title>
+			<header id="0"/>
+			<body id="0">
+				<param id="datetime"/>
+				<param id="rankid"/>
+			</body>
+			<tail id="0"/>
+		</template>
+	</mail>
+	
+	<mail name="$$CASH_ITEM_MAIL">
+		<template name="" race="PC_ALL">
+			<sender id="901526"/> <!-- Black Cloud -->
+			<title id="0">
+				<param id="itemid"/>
+				<param id="count"/>
+			</title>
+			<header id="0"/>
+			<body id="0"> <!-- 901527 -->
+				<param id="unk1"/>
+				<param id="purchasedate"/>
+			</body>
+			<tail id="0"/>
+		</template>
+	</mail>
+	
+	<mail name="$$VNDR_BUY_MAIL">
+		<template name="" race="PC_ALL">
+			<sender id="0"/> <!-- 903075: Trade Broker -->
+			<title id="0"/> <!-- 903076: Buy -->
+			<header id="0"/>
+			<body id="0"/> <!-- 903077 -->
+			<tail id="0"/>
+		</template>
+	</mail>
+	<mail name="$$VNDR_RETURN_MAIL">
+		<template name="" race="PC_ALL">
+			<sender id="1300724"/> <!-- Trade Broker -->
+			<title id="0"/> <!-- 160020: The sales period has ended. -->
+			<header id="0"/>
+			<body id="0"/> <!-- 1300725 -->
+			<tail id="0"/>
+		</template>
+	</mail>
+	<mail name="$$VENDOR_RETURN_MAIL">
+		<template name="" race="PC_ALL">
+			<sender id="1300724"/> <!-- Trade Broker -->
+			<title id="0"/> <!-- 160020: The sales period has ended. -->
+			<header id="0"/>
+			<body id="0"/> <!-- 1300725 -->
+			<tail id="0"/>
+		</template>
+	</mail>
+</mails>

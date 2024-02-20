@@ -1,0 +1,5 @@
+<?xml version="1.0" encoding="utf-8"?>
+<events_window xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="events_window.xsd">
+    <event_window id="37" item="162002005" count="5" period_start="2021-01-03T23:15:00" period_end="2099-04-17T14:15:00" remaining_time="60" min_level="10" max_level="55" daily_max_count="10"/>
+    <event_window id="38" item="160002338" count="3" period_start="2021-01-03T23:15:00" period_end="2099-04-17T14:15:00" remaining_time="5" min_level="10" max_level="55" daily_max_count="10"/>
+</events_window>

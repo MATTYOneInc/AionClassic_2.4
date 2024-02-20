@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc_walker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <walker_template route_id="npcpath_g_asteria_lizardas_45_ae_01" pool="1">
+	    <routestep step="1" x="517.80786" y="582.0497" z="198.6401"/>
+		<routestep step="2" x="524.65204" y="582.57635" z="198.74527"/>
+		<routestep step="3" x="531.41284" y="582.133" z="198.72992"/>
+		<routestep step="4" x="536.1159" y="578.771" z="198.66682"/>
+		<routestep step="5" x="539.9381" y="574.242" z="198.66013"/>
+		<routestep step="6" x="541.2061" y="566.8621" z="198.7023"/>
+		<routestep step="7" x="540.04144" y="559.8404" z="198.63757"/>
+		<routestep step="8" x="536.18353" y="553.56024" z="198.875"/>
+		<routestep step="9" x="531.71954" y="549.5623" z="198.85747"/>
+		<routestep step="10" x="524.69336" y="548.3101" z="198.83624"/>
+		<routestep step="11" x="517.5739" y="549.12305" z="198.78787"/>
+		<routestep step="12" x="512.5769" y="553.41943" z="198.875"/>
+		<routestep step="13" x="508.62262" y="558.6108" z="198.80617"/>
+		<routestep step="14" x="507.17453" y="565.6036" z="198.66629"/>
+		<routestep step="15" x="508.5966" y="572.4927" z="198.59436"/>
+		<routestep step="16" x="512.5811" y="578.5037" z="198.84352"/>
+    </walker_template>
+    <walker_template route_id="npcpath_g_asteria_lizardfi_45_ae_01" pool="1">
+	    <routestep step="1" x="531.68744" y="549.48865" z="198.85547"/>
+		<routestep step="2" x="524.67755" y="548.2515" z="198.84357"/>
+		<routestep step="3" x="517.52527" y="549.0193" z="198.80693"/>
+		<routestep step="4" x="512.3934" y="553.46423" z="198.875"/>
+		<routestep step="5" x="508.591" y="558.57477" z="198.81633"/>
+		<routestep step="6" x="507.18103" y="565.59143" z="198.66592"/>
+		<routestep step="7" x="508.56097" y="572.49786" z="198.6058"/>
+		<routestep step="8" x="512.62506" y="578.6211" z="198.83618"/>
+		<routestep step="9" x="517.7505" y="582.0231" z="198.64203"/>
+		<routestep step="10" x="524.59467" y="582.54974" z="198.7472"/>
+		<routestep step="11" x="531.35547" y="582.1064" z="198.72302"/>
+		<routestep step="12" x="536.05853" y="578.7444" z="198.66354"/>
+		<routestep step="13" x="539.88074" y="574.2154" z="198.66013"/>
+		<routestep step="14" x="541.14874" y="566.8355" z="198.68079"/>
+		<routestep step="15" x="539.9841" y="559.8138" z="198.63365"/>
+		<routestep step="16" x="536.18604" y="553.61316" z="198.875"/>
+    </walker_template>
+    <walker_template route_id="npcpath_g_asteria_lizardpr_45_ae_01" pool="1">
+	    <routestep step="1" x="508.60083" y="558.5831" z="198.81335"/>
+		<routestep step="2" x="507.19086" y="565.5998" z="198.66539"/>
+		<routestep step="3" x="508.5708" y="572.5062" z="198.60327"/>
+		<routestep step="4" x="512.6349" y="578.62946" z="198.83566"/>
+		<routestep step="5" x="517.7603" y="582.03143" z="198.64194"/>
+		<routestep step="6" x="524.6045" y="582.5581" z="198.7471"/>
+		<routestep step="7" x="531.3653" y="582.11475" z="198.72467"/>
+		<routestep step="8" x="536.06836" y="578.75275" z="198.66425"/>
+		<routestep step="9" x="539.89056" y="574.22375" z="198.66013"/>
+		<routestep step="10" x="541.15857" y="566.8439" z="198.68446"/>
+		<routestep step="11" x="539.9939" y="559.82214" z="198.63498"/>
+		<routestep step="12" x="536.136" y="553.542" z="198.875"/>
+		<routestep step="13" x="531.672" y="549.54407" z="198.85449"/>
+		<routestep step="14" x="524.6458" y="548.2919" z="198.83852"/>
+		<routestep step="15" x="517.52637" y="549.1048" z="198.79611"/>
+		<routestep step="16" x="512.58984" y="553.36786" z="198.875"/>
+    </walker_template>
+    <walker_template route_id="npcpath_g_asteria_lizardra_45_ae_01" pool="1">
+	    <routestep step="1" x="539.9147" y="574.2119" z="198.66013"/>
+		<routestep step="2" x="541.1827" y="566.83203" z="198.69351"/>
+		<routestep step="3" x="540.018" y="559.8103" z="198.63799"/>
+		<routestep step="4" x="536.1601" y="553.53015" z="198.875"/>
+		<routestep step="5" x="531.6961" y="549.5322" z="198.856"/>
+		<routestep step="6" x="524.6699" y="548.28" z="198.8400"/>
+		<routestep step="7" x="517.5505" y="549.09296" z="198.79457"/>
+		<routestep step="8" x="512.5711" y="553.35223" z="198.875"/>
+		<routestep step="9" x="508.59525" y="558.5469" z="198.81702"/>
+		<routestep step="10" x="507.18347" y="565.58514" z="198.66579"/>
+		<routestep step="11" x="508.57108" y="572.4737" z="198.60115"/>
+		<routestep step="12" x="512.657" y="578.58606" z="198.83838"/>
+		<routestep step="13" x="517.79767" y="582.0355" z="198.63986"/>
+		<routestep step="14" x="524.6613" y="582.5251" z="198.7416"/>
+		<routestep step="15" x="531.45905" y="582.08575" z="198.72691"/>
+		<routestep step="16" x="536.0727" y="578.7454" z="198.66414"/>
+    </walker_template>
+    <walker_template route_id="npcpath_ph_asteria_lizardas_45_ae_01" pool="1">
+	    <routestep step="1" x="500.7873" y="564.15" z="198.875"/>
+		<routestep step="2" x="500.86716" y="552.92957" z="198.9458"/>
+		<routestep step="3" x="507.82935" y="547.7203" z="198.875"/>
+		<routestep step="4" x="515.0923" y="544.7769" z="198.875"/>
+		<routestep step="5" x="528.7904" y="544.76056" z="198.87585"/>
+		<routestep step="6" x="538.6262" y="547.5623" z="198.875"/>
+		<routestep step="7" x="546.29395" y="556.59186" z="198.75"/>
+		<routestep step="8" x="547.51" y="566.8771" z="198.875"/>
+		<routestep step="9" x="545.7594" y="578.9186" z="199.16737"/>
+		<routestep step="10" x="533.7589" y="585.9036" z="199.11897"/>
+		<routestep step="11" x="520.19543" y="585.93365" z="199.2333"/>
+		<routestep step="12" x="510.8918" y="582.3359" z="198.771"/>
+		<routestep step="13" x="500.76715" y="575.2008" z="199.0"/>
+		<routestep step="14" x="500.802" y="564.32605" z="198.875"/>
+    </walker_template>
+    <walker_template route_id="npcpath_ph_asteria_lizardas_45_ae_02" pool="1">
+	    <routestep step="1" x="547.4973" y="567.0600" z="198.875"/>
+		<routestep step="2" x="545.76636" y="578.91156" z="199.16737"/>
+		<routestep step="3" x="533.7709" y="585.9147" z="199.11966"/>
+		<routestep step="4" x="520.21375" y="585.9415" z="199.22934"/>
+		<routestep step="5" x="510.8987" y="582.3468" z="198.77167"/>
+		<routestep step="6" x="500.77023" y="575.20764" z="199.0"/>
+		<routestep step="7" x="500.8853" y="552.9369" z="198.94467"/>
+		<routestep step="8" x="507.85178" y="547.71027" z="198.8758"/>
+		<routestep step="9" x="515.0915" y="544.77155" z="198.875"/>
+		<routestep step="10" x="528.79297" y="544.7625" z="198.875"/>
+		<routestep step="11" x="538.62616" y="547.5605" z="198.875"/>
+		<routestep step="12" x="546.2576" y="556.58136" z="198.75"/>
+		<routestep step="13" x="547.49725" y="566.7246" z="198.875"/>
+    </walker_template>
+    <walker_template route_id="npcpath_ph_asteria_lizardas_45_ae_03" pool="1">
+	    <routestep step="1" x="524.7202" y="592.1607" z="199.55836"/>
+		<routestep step="2" x="524.5716" y="606.50006" z="197.26468"/>
+		<routestep step="3" x="524.423" y="623.7182" z="193.685"/>
+		<routestep step="4" x="524.5427" y="637.1148" z="190.72755"/>
+		<routestep step="5" x="524.5224" y="637.1236" z="190.72601"/>
+		<routestep step="6" x="524.3647" y="623.6982" z="193.68695"/>
+		<routestep step="7" x="524.4709" y="606.5327" z="197.26343"/>
+		<routestep step="8" x="524.6277" y="592.2363" z="199.5545"/>
+    </walker_template>
+    <walker_template route_id="npcpath_ph_asteria_lizardas_45_ae_04" pool="1">
+	    <routestep step="1" x="521.8986" y="536.14746" z="199.2367"/>
+		<routestep step="2" x="521.86316" y="525.19855" z="199.29333"/>
+		<routestep step="3" x="521.9385" y="507.20868" z="199.03905"/>
+		<routestep step="4" x="522.00543" y="490.2719" z="198.24146"/>
+		<routestep step="5" x="521.9896" y="490.27527" z="198.23997"/>
+		<routestep step="6" x="521.87897" y="507.1625" z="199.04012"/>
+		<routestep step="7" x="521.8139" y="525.22614" z="199.29346"/>
+		<routestep step="8" x="521.7946" y="536.17206" z="199.23987"/>
+    </walker_template>
+    <walker_template route_id="npcpath_ph_asteria_lizardashigh_45_ae_01" pool="1">
+	    <routestep step="1" x="602.3872" y="565.1336" z="205.13074"/>
+		<routestep step="2" x="590.8022" y="565.00165" z="204.10051"/>
+		<routestep step="3" x="572.4002" y="564.7652" z="201.61758"/>
+		<routestep step="4" x="555.42725" y="564.74225" z="198.7775"/>
+		<routestep step="5" x="555.43994" y="564.7659" z="198.77928"/>
+		<routestep step="6" x="572.3975" y="564.81305" z="201.61838"/>
+		<routestep step="7" x="590.8201" y="565.0518" z="204.10286"/>
+		<routestep step="8" x="602.53046" y="565.1848" z="205.12018"/>
+    </walker_template>
+    <walker_template route_id="npcpath_ph_asteria_lizardashigh_45_ae_13" pool="1">
+	    <routestep step="1" x="618.7113" y="570.7796" z="204.04173"/>
+		<routestep step="2" x="647.8439" y="570.77625" z="204.04143"/>
+		<routestep step="3" x="647.8649" y="575.36554" z="204.04143"/>
+		<routestep step="4" x="641.31824" y="581.5807" z="204.04143"/>
+		<routestep step="5" x="627.6094" y="581.3887" z="204.04141"/>
+		<routestep step="6" x="618.889" y="575.8689" z="204.04141"/>
+		<routestep step="7" x="618.8939" y="571.8405" z="204.04141"/>
+    </walker_template>
+    <walker_template route_id="npcpath_ph_asteria_lizardashigh_45_ae_14" pool="1">
+	    <routestep step="1" x="646.74347" y="559.6181" z="204.04451"/>
+		<routestep step="2" x="618.9319" y="559.7018" z="204.04141"/>
+		<routestep step="3" x="618.885" y="554.5391" z="204.04141"/>
+		<routestep step="4" x="627.83093" y="548.86066" z="204.04141"/>
+		<routestep step="5" x="641.6621" y="548.9009" z="204.04143"/>
+		<routestep step="6" x="647.60333" y="553.7761" z="204.04143"/>
+		<routestep step="7" x="647.6237" y="558.5554" z="204.04282"/>
+    </walker_template>
+    <walker_template route_id="npcpath_ph_asteria_lizardashigh_45_ae_17" pool="1">
+	    <routestep step="1" x="534.9153" y="441.59177" z="198.88867"/>
+		<routestep step="2" x="534.9348" y="476.45837" z="198.88867"/>
+		<routestep step="3" x="534.9544" y="476.45602" z="198.88942"/>
+		<routestep step="4" x="534.9904" y="441.5584" z="198.88867"/>
+    </walker_template>
+    <walker_template route_id="npcpath_ph_asteria_lizardashigh_45_ae_18" pool="1">
+	    <routestep step="1" x="509.69403" y="476.2498" z="198.88869"/>
+		<routestep step="2" x="509.64322" y="441.38318" z="198.88869"/>
+		<routestep step="3" x="509.6278" y="441.38553" z="198.88867"/>
+		<routestep step="4" x="509.6189" y="476.28314" z="198.88867"/>
+    </walker_template>
+</npc_walker>

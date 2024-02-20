@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8"?>
+<guild_donation_templates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="guild_donation_templates.xsd">
+   <guild_donation_template id="7" name="donation_dr_material" >
+       <guild_donation_component index="1"  item_id="152014010" quantity="1" contribution="1" reward_coin="440"/>
+       <guild_donation_component index="2"  item_id="152014015" quantity="1" contribution="1" reward_coin="440"/>
+       <guild_donation_component index="3"  item_id="152014020" quantity="1" contribution="1" reward_coin="440"/>
+       <guild_donation_component index="4"  item_id="152014006" quantity="1" contribution="1" reward_coin="440"/>
+       <guild_donation_component index="5"  item_id="152014007" quantity="1" contribution="1" reward_coin="440"/>
+       <guild_donation_component index="6"  item_id="152014008" quantity="1" contribution="1" reward_coin="440"/>
+       <guild_donation_component index="7"  item_id="152014011" quantity="1" contribution="1" reward_coin="440"/>
+       <guild_donation_component index="8"  item_id="152014012" quantity="1" contribution="1" reward_coin="440"/>
+       <guild_donation_component index="9"  item_id="152014013" quantity="1" contribution="1" reward_coin="440"/>
+       <guild_donation_component index="10"  item_id="152014014" quantity="1" contribution="1" reward_coin="440"/>
+       <guild_donation_component index="11"  item_id="152014019" quantity="1" contribution="1" reward_coin="440"/>
+       <guild_donation_component index="12"  item_id="152014016" quantity="1" contribution="1" reward_coin="4400"/>
+       <guild_donation_component index="13"  item_id="152014017" quantity="1" contribution="1" reward_coin="4400"/>
+       <guild_donation_component index="14"  item_id="152014018" quantity="1" contribution="1" reward_coin="4400"/>
+       <guild_donation_component index="15"  item_id="152014009" quantity="1" contribution="1" reward_coin="440"/>
+   </guild_donation_template>
+   <guild_donation_template id="8" name="donation_matter_option" >
+       <guild_donation_component index="1"  item_id="167000557" quantity="1" contribution="1" reward_coin="1100"/>
+       <guild_donation_component index="2"  item_id="167000556" quantity="1" contribution="1" reward_coin="1100"/>
+       <guild_donation_component index="3"  item_id="167000554" quantity="1" contribution="1" reward_coin="1100"/>
+       <guild_donation_component index="4"  item_id="167000551" quantity="1" contribution="1" reward_coin="1100"/>
+       <guild_donation_component index="5"  item_id="167000553" quantity="1" contribution="1" reward_coin="1100"/>
+       <guild_donation_component index="6"  item_id="167000552" quantity="1" contribution="1" reward_coin="1100"/>
+       <guild_donation_component index="7"  item_id="167000555" quantity="1" contribution="1" reward_coin="1100"/>
+       <guild_donation_component index="8"  item_id="167000560" quantity="1" contribution="1" reward_coin="6600"/>
+       <guild_donation_component index="9"  item_id="167000561" quantity="1" contribution="1" reward_coin="6600"/>
+       <guild_donation_component index="10"  item_id="167000558" quantity="1" contribution="1" reward_coin="6600"/>
+       <guild_donation_component index="11"  item_id="167000518" quantity="1" contribution="1" reward_coin="6600"/>
+   </guild_donation_template>
+   <guild_donation_template id="9" name="donation_ramen" >
+       <guild_donation_component index="1"  item_id="169620017" quantity="1" contribution="1" reward_coin="440"/>
+       <guild_donation_component index="2"  item_id="169625019" quantity="1" contribution="1" reward_coin="440"/>
+   </guild_donation_template>
+   <guild_donation_template id="10" name="donation_AP" >
+       <guild_donation_component index="1"  item_id="162000069" quantity="1" contribution="1" reward_coin="440"/>
+   </guild_donation_template>
+   <guild_donation_template id="11" name="donation_make_material" >
+       <guild_donation_component index="1"  item_id="152011065" quantity="1" contribution="1" reward_coin="220"/>
+       <guild_donation_component index="2"  item_id="152011070" quantity="1" contribution="1" reward_coin="220"/>
+       <guild_donation_component index="3"  item_id="152011075" quantity="1" contribution="1" reward_coin="220"/>
+       <guild_donation_component index="4"  item_id="152011066" quantity="1" contribution="1" reward_coin="440"/>
+       <guild_donation_component index="5"  item_id="152011071" quantity="1" contribution="1" reward_coin="440"/>
+       <guild_donation_component index="6"  item_id="152011076" quantity="1" contribution="1" reward_coin="440"/>
+       <guild_donation_component index="7"  item_id="152011067" quantity="1" contribution="1" reward_coin="1100"/>
+       <guild_donation_component index="8"  item_id="152011072" quantity="1" contribution="1" reward_coin="1100"/>
+       <guild_donation_component index="9"  item_id="152011077" quantity="1" contribution="1" reward_coin="1100"/>
+   </guild_donation_template>
+   <guild_donation_template id="12" name="donation_candy_light" >
+       <guild_donation_component index="1"  item_id="160010170" quantity="1" contribution="1" reward_coin="1100"/>
+   </guild_donation_template>
+   <guild_donation_template id="13" name="donation_candy_dark" >
+       <guild_donation_component index="1"  item_id="160010171" quantity="1" contribution="1" reward_coin="1100"/>
+   </guild_donation_template>
+   <guild_donation_template id="14" name="donation_legion_coin" >
+       <guild_donation_component index="1"  item_id="186000181" quantity="1" contribution="1" reward_coin="440"/>
+       <guild_donation_component index="2"  item_id="186000182" quantity="1" contribution="1" reward_coin="2200"/>
+       <guild_donation_component index="3"  item_id="186000183" quantity="1" contribution="1" reward_coin="11000"/>
+   </guild_donation_template>
+</guild_donation_templates>

@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Tempest Spirit Stats
+	Develop: ADev.Team
+ -->
+<summon_stats_templates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../stats.xsd">
+	<summon_stats npc_id_light="201040" level="50">
+		<stats_template maxHp="9511" pdefense="1611" mresist="1052" main_hand_attack="358" run_speed="12.0" main_hand_accuracy="1293" main_hand_crit_rate="9" magic_accuracy="1177" evasion="1293" mcrit="9" parry="0"/>
+	</summon_stats>
+	<summon_stats npc_id_light="201040" level="51">
+		<stats_template maxHp="9701" pdefense="1636" mresist="1070" main_hand_attack="362" run_speed="12.0" main_hand_accuracy="1484" main_hand_crit_rate="9" magic_accuracy="1368" evasion="1484" mcrit="9" parry="0"/>
+	</summon_stats>
+	<summon_stats npc_id_light="201040" level="52">
+		<stats_template maxHp="9906" pdefense="1661" mresist="1088" main_hand_attack="366" run_speed="12.0" main_hand_accuracy="1675" main_hand_crit_rate="9" magic_accuracy="1559" evasion="1675" mcrit="9" parry="0"/>
+	</summon_stats>
+	<summon_stats npc_id_light="201040" level="53">
+		<stats_template maxHp="10112" pdefense="1686" mresist="1106" main_hand_attack="370" run_speed="12.0" main_hand_accuracy="1866" main_hand_crit_rate="9" magic_accuracy="1750" evasion="1866" mcrit="9" parry="0"/>
+	</summon_stats>
+	<summon_stats npc_id_light="201040" level="54">
+		<stats_template maxHp="10276" pdefense="1701" mresist="1124" main_hand_attack="374" run_speed="12.0" main_hand_accuracy="2057" main_hand_crit_rate="9" magic_accuracy="1941" evasion="2057" mcrit="9" parry="0"/>
+	</summon_stats>
+	<summon_stats npc_id_light="201040" level="55">
+		<stats_template maxHp="10276" pdefense="1467" mresist="1137" main_hand_attack="373" run_speed="12.0" main_hand_accuracy="1699" main_hand_crit_rate="9" magic_accuracy="1142" evasion="1699" mcrit="9" parry="0"/>
+	</summon_stats>
+</summon_stats_templates>

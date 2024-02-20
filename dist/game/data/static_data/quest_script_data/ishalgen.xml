@@ -1,0 +1,86 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+<!--
+    Quest Ishalgen
+	Make By Encom
+ -->
+	<!-- On Your Feet! -->
+	<report_to id="2101" start_npc_ids="203500" end_npc_ids="203504"/>
+	<!-- The Sprigg Report -->
+	<report_to id="2103" start_npc_ids="203504" end_npc_ids="203501"/>
+	<!-- Vanar's Flattery -->
+	<report_to id="2106" start_npc_ids="203502" end_npc_ids="203517" item_id="182203106"/>
+	<!-- Idle Hands -->
+	<report_to id="2110" start_npc_ids="203522" end_npc_ids="203533" item_id="182203110"/>
+	<!-- Sap For Leather -->
+	<report_to id="2115" start_npc_ids="203534" end_npc_ids="203515" item_id="182203114"/>
+	<!-- Checking On A Friend -->
+	<report_to id="2121" start_npc_ids="203540" end_npc_ids="203547" item_id="182203119"/>
+	<!-- A Delivery Of Leather -->
+	<report_to id="2131" start_npc_ids="203515" end_npc_ids="203542" item_id="182203129"/>
+	<!-- A Cursed Opal -->
+	<report_to id="2137" start_npc_ids="203539" end_npc_ids="203541" item_id="182203132"/>
+	
+	<!-- The Robbery Plot -->
+	<report_to_many id="2125" start_npc_ids="203540" end_npc_ids="203543" start_dialog_id="1011">
+        <npc_infos npc_id="203514" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="203543" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- For Love Of Negi -->
+	<report_to_many id="2135" start_npc_ids="203532" end_npc_ids="203532" start_dialog_id="1011">
+        <npc_infos npc_id="203531" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="203532" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	
+	<!-- Meeting The Fruit Quota -->
+	<item_collecting id="2104" start_npc_ids="203502" end_npc_ids="203502" action_item_ids="700124"/>
+	<!-- Sparkle And Shine -->
+	<item_collecting id="2105" start_npc_ids="203502"/>
+	<!-- The Shinier The Better -->
+	<item_collecting id="2108" start_npc_ids="798037"/>
+	<!-- Love In Bloom -->
+	<item_collecting id="2109" start_npc_ids="203532" action_item_ids="700125"/>
+	<!-- Urd's Request -->
+	<item_collecting id="2112" start_npc_ids="790003"/>
+	<!-- Token Of A Lost Love -->
+	<item_collecting id="2113" start_npc_ids="203534"/>
+	<!-- A Treasure Map -->
+	<item_collecting id="2116" start_npc_ids="203541" action_item_ids="700139"/>
+	<!-- Up To No Good -->
+	<item_collecting id="2118" start_npc_ids="203539"/>
+	<!-- Black Opal -->
+	<item_collecting id="2119" start_npc_ids="203541" action_item_ids="700127"/>
+	<!-- A Brax Skin Rug -->
+	<item_collecting id="2120" start_npc_ids="203542"/>
+	<!-- The Captain's Secret -->
+	<item_collecting id="2124" start_npc_ids="203548"/>
+	<!-- Pearls Before Swine -->
+	<item_collecting id="2127" start_npc_ids="203544"/>
+	<!-- As Much As You Can Carry -->
+	<item_collecting id="2126" start_npc_ids="203544" action_item_ids="700129"/>
+	<!-- A Good Tonic -->
+	<item_collecting id="2128" start_npc_ids="203543"/>
+	<!-- Azpha For Health And Well-being -->
+	<item_collecting id="2133" start_npc_ids="203519"/>
+	<!-- Alfrigh's Request -->
+	<item_collecting id="2134" start_npc_ids="203543"/>
+	
+	<!-- Return To Sender -->
+	<item_order id="2107" start_item_id="182203107" talk_npc_id1="203516" end_npc_id="203512"/>
+	<!-- Ashes To Ashes -->
+	<item_order id="2122" start_item_id="182203120" talk_npc_id1="203551" talk_npc_id2="730029" end_npc_id="203551"/>
+	
+	<!-- A Bloody Task -->
+	<monster_hunt id="2102" start_npc_ids="203504">
+		<monster npc_ids="210363 210364" var="0" end_var="4"/>
+	</monster_hunt>
+	<!-- Food Bandits -->
+	<monster_hunt id="2117" start_npc_ids="203540">
+		<monster npc_ids="210389" var="0" end_var="9"/>
+	</monster_hunt>
+	<!-- Suspicious Activity -->
+	<monster_hunt id="2129" start_npc_ids="203552">
+		<monster var="0" npc_ids="210408" end_var="1"/>
+		<monster var="1" npc_ids="210409" end_var="1"/>
+	</monster_hunt>
+</quest_scripts>

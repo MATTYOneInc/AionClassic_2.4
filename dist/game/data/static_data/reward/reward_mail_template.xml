@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<reward_mail_templates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="reward_mail_template.xsd">
+	<reward_mail_template id="0" name=" " sender=" " title=" " body=" " tail=" " item_id="0" item_count="0" ap_count="0" kinah_count="0"/>
+</reward_mail_templates>

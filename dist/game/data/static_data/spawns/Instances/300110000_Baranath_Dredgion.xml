@@ -1,0 +1,352 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!-- 
+	Baranath Dredgion
+	Re-newed By Rinzler
+-->
+<spawns>
+    <spawn_map map_id="300110000">
+        <!-- idab1_dreadgion_lizardfi_50_ae -->
+        <spawn npc_id="214806">
+            <spot x="515.06866" y="310.90073" z="404.07156" h="35"/>
+            <spot x="490.93616" y="467.76602" z="398.21936" h="89"/>
+            <spot x="480.53976" y="467.80457" z="398.20917" h="91"/>
+            <spot x="480.84042" y="527.36206" z="397.5405" h="90"/>
+            <spot x="488.78168" y="527.36664" z="397.4515" h="90"/>
+			<spot x="332.7149" y="412.4048" z="411.5979" h="0" walker_id="idab1_dreadgion_path_idab1_drd_5"/>
+			<spot x="611.8375" y="409.7396" z="410.5673" h="0" walker_id="idab1_dreadgion_path_idab1_drd_14"/>
+			<spot x="457.7211" y="316.1660" z="403.0992" h="0" walker_id="idab1_dreadgion_path_idab1_drd_18"/>
+			<spot x="547.9935" y="266.6460" z="409.7311" h="0" walker_id="idab1_dreadgion_path_idab1_drd_22"/>
+			<spot x="422.3398" y="266.5455" z="409.9360" h="0" walker_id="idab1_dreadgion_path_idab1_drd_25"/>
+			<spot x="456.4866" y="889.0609" z="405.2809" h="0" walker_id="idab1_dreadgion_path_idab1_drd_36"/>
+        </spawn>
+		<!-- idab1_dreadgion_lizardas_50_ae -->
+        <spawn npc_id="214807">
+            <spot x="485.9612" y="463.8761" z="398.4259" h="0" walker_id="idab1_dreadgion_path_idab1_drd_partypath_7"/>
+        </spawn>
+        <!-- idab1_dreadgion_lizardas_50_ae -->
+        <spawn npc_id="214808">
+            <spot x="455.89706" y="310.97046" z="404.07352" h="24"/>
+			<spot x="345.8571" y="396.7118" z="411.7732" h="0" walker_id="idab1_dreadgion_path_idab1_drd_6"/>
+			<spot x="625.0502" y="393.5671" z="412.5247" h="0" walker_id="idab1_dreadgion_path_idab1_drd_15"/>
+			<spot x="513.6094" y="889.4879" z="405.2301" h="0" walker_id="idab1_dreadgion_path_idab1_drd_37"/>
+        </spawn>
+		<!-- idab1_dreadgion_lizardpr_50_an -->
+        <spawn npc_id="214810">
+            <spot x="564.8216" y="304.8960" z="409.3812" h="0" walker_id="idab1_dreadgion_path_idab1_drd_partypath_3"/>
+			<spot x="404.5513" y="304.3249" z="409.8031" h="0" walker_id="idab1_dreadgion_path_idab1_drd_partypath_5"/>
+        </spawn>
+        <!-- idab1_dreadgion_nagafihigh_50_ae -->
+        <spawn npc_id="214811">
+            <spot x="473.78033" y="883.1947" z="405.53262" h="0"/>
+            <spot x="582.0374" y="565.1502" z="408.8257" h="0"/>
+            <spot x="395.82626" y="568.4599" z="409.22504" h="95"/>
+            <spot x="505.13077" y="505.73764" z="398.9833" h="74"/>
+        </spawn>
+        <!-- idab1_dreadgion_nagaprhigh_50_ae -->
+        <spawn npc_id="214812">
+            <spot x="466.41763" y="509.0448" z="399.1752" h="105"/>
+            <spot x="497.45804" y="883.473" z="405.51312" h="70"/>
+        </spawn>
+        <!-- idab1_dreadgion_nagafi_50_ae -->
+        <spawn npc_id="214813">
+            <spot x="542.3743" y="292.11777" z="409.73737" h="0"/>
+            <spot x="324.4345" y="426.59235" z="411.61945" h="0"/>
+            <spot x="348.34247" y="413.22046" z="410.65942" h="0"/>
+            <spot x="550.7829" y="279.35718" z="409.7311" h="90"/>
+            <spot x="565.3159" y="295.6386" z="409.95734" h="80"/>
+            <spot x="555.00555" y="297.40582" z="409.8072" h="94"/>
+            <spot x="490.82373" y="334.8624" z="402.94144" h="88"/>
+            <spot x="479.55966" y="334.88907" z="402.8551" h="91"/>
+            <spot x="421.3603" y="282.01205" z="409.7311" h="93"/>
+            <spot x="414.53128" y="297.40393" z="409.79932" h="90"/>
+            <spot x="405.70245" y="295.772" z="409.90192" h="111"/>
+            <spot x="426.88388" y="292.95926" z="409.73553" h="75"/>
+            <spot x="329.21387" y="398.25067" z="411.68707" h="22"/>
+            <spot x="646.1375" y="424.86307" z="411.7539" h="52"/>
+            <spot x="643.537" y="395.0263" z="411.00354" h="47"/>
+            <spot x="627.2655" y="413.7032" z="410.59656" h="60"/>
+            <spot x="470.49457" y="512.5145" z="399.26654" h="103"/>
+			<spot x="376.1660" y="422.4958" z="411.9128" h="0" walker_id="idab1_dreadgion_path_idab1_drd_8"/>
+			<spot x="600.7352" y="420.8436" z="411.3490" h="0" walker_id="idab1_dreadgion_path_idab1_drd_4"/>
+			<spot x="478.8403" y="323.4576" z="403.3237" h="0" walker_id="idab1_dreadgion_path_idab1_drd_29"/>
+        </spawn>
+        <!-- idab1_dreadgion_nagapr_50_ae -->
+        <spawn npc_id="214814">
+            <spot x="347.14932" y="392.61334" z="412.16397" h="33"/>
+            <spot x="627.94403" y="387.62332" z="412.93536" h="37"/>
+            <spot x="500.41925" y="510.6581" z="399.11307" h="77"/>
+			<spot x="367.8171" y="389.8205" z="412.4085" h="0" walker_id="idab1_dreadgion_path_idab1_drd_7"/>
+			<spot x="562.6257" y="277.1606" z="409.7311" h="0" walker_id="idab1_dreadgion_path_idab1_drd_23"/>
+			<spot x="490.3461" y="305.7822" z="403.0461" h="0" walker_id="idab1_dreadgion_path_idab1_drd_28"/>
+			<spot x="480.1649" y="756.1747" z="388.6469" h="0" walker_id="idab1_dreadgion_path_idab1_drd_partypath_1"/>
+			<spot x="407.6327" y="277.1424" z="409.7311" h="0" walker_id="idab1_dreadgion_path_idab1_drd_26"/>
+			<spot x="604.2176" y="393.5760" z="411.9984" h="0" walker_id="idab1_dreadgion_path_idab1_drd_45"/>
+        </spawn>
+        <!-- idab1_dreadgion_drakanfi_50_ae -->
+        <spawn npc_id="214815">
+            <spot x="550.39526" y="469.3767" z="393.5413" h="0"/>
+            <spot x="404.43185" y="469.1432" z="393.42276" h="0"/>
+            <spot x="568.39795" y="490.12802" z="394.06693" h="0"/>
+            <spot x="420.30035" y="473.4923" z="393.33582" h="19"/>
+            <spot x="388.84854" y="485.99963" z="393.76215" h="20"/>
+            <spot x="540.6531" y="496.74292" z="393.38425" h="80"/>
+            <spot x="568.3578" y="474.25732" z="393.07803" h="7"/>
+			<spot x="580.5973" y="507.1595" z="393.3713" h="0" walker_id="idab1_dreadgion_path_idab1_drd_41"/>
+			<spot x="428.5935" y="496.3927" z="393.3706" h="0" walker_id="idab1_dreadgion_path_idab1_drd_39"/>
+			<spot x="403.8483" y="503.6545" z="393.2977" h="0" walker_id="idab1_dreadgion_path_idab1_drd_42"/>
+        </spawn>
+        <!-- idab1_dreadgion_drakansc_50_ae -->
+        <spawn npc_id="214816">
+            <spot x="390.084" y="501.29382" z="393.7722" h="105"/>
+            <spot x="582.47736" y="497.7608" z="393.5929" h="9"/>
+        </spawn>
+        <!-- idab1_dreadgion_drakanma_50_ae -->
+        <spawn npc_id="214817">
+            <spot x="404.8520" y="482.8423" z="393.4908" h="0" walker_id="idab1_dreadgion_path_idab1_drd_3"/>
+            <spot x="547.8780" y="477.4696" z="393.1229" h="0" walker_id="idab1_dreadgion_path_idab1_drd_40"/>
+        </spawn>
+        <!-- idab1_dreadgion_drakancl_50_ae -->
+        <spawn npc_id="214818">
+            <spot x="412.59686" y="509.796" z="393.7885" h="86"/>
+			<spot x="558.5782" y="506.9939" z="393.7233" h="0" walker_id="idab1_dreadgion_path_idab1_drd_43"/>
+        </spawn>
+        <!-- idab1_dreadgion_drakanfihigh_50_ae -->
+        <spawn npc_id="214819">
+            <spot x="534.6168" y="790.1694" z="413.51703" h="0"/>
+            <spot x="480.56357" y="733.55804" z="387.32797" h="0"/>
+            <spot x="479.30435" y="575.14813" z="390.39767" h="0"/>
+            <spot x="479.98633" y="691.07245" z="387.60117" h="0"/>
+            <spot x="479.85324" y="653.5875" z="387.96146" h="0"/>
+            <spot x="360.9773" y="561.91364" z="409.37744" h="0"/>
+            <spot x="474.3284" y="868.99615" z="405.57266" h="0"/>
+            <spot x="481.19614" y="767.3088" z="388.66702" h="88"/>
+            <spot x="488.77" y="766.9459" z="388.66626" h="90"/>
+            <spot x="608.8722" y="564.805" z="409.1923" h="83"/>
+            <spot x="506.25418" y="589.1799" z="391.57822" h="52"/>
+            <spot x="490.57584" y="617.7242" z="390.39767" h="89"/>
+            <spot x="480.27615" y="617.9072" z="390.39767" h="89"/>
+            <spot x="490.49203" y="653.45966" z="388.01346" h="59"/>
+            <spot x="490.09943" y="690.8222" z="387.5987" h="57"/>
+            <spot x="490.34515" y="733.2935" z="387.32758" h="60"/>
+            <spot x="496.64383" y="868.60803" z="405.56476" h="47"/>
+            <spot x="461.04257" y="809.8929" z="416.65045" h="7"/>
+			<spot x="570.4070" y="578.1354" z="408.9703" h="0" walker_id="idab1_dreadgion_path_idab1_drd_12"/>
+			<spot x="630.2296" y="448.8654" z="409.0354" h="0" walker_id="idab1_dreadgion_path_idab1_drd_partypath_2"/>
+			<spot x="383.0596" y="553.1824" z="409.4931" h="0" walker_id="idab1_dreadgion_path_idab1_drd_38"/>
+			<spot x="493.6510" y="825.9884" z="416.6441" h="0" walker_id="idab1_dreadgion_path_idab1_drd_20"/>
+			<spot x="338.3216" y="448.8662" z="409.1157" h="0" walker_id="idab1_dreadgion_path_idab1_drd_partypath_6"/>
+        </spawn>
+        <!-- idab1_dreadgion_drakanschigh_50_ae -->
+        <spawn npc_id="214820">
+            <spot x="541.67596" y="798.03375" z="413.4558" h="0"/>
+            <spot x="393.15488" y="717.70886" z="402.22354" h="87"/>
+            <spot x="575.0654" y="718.6027" z="402.22354" h="97"/>
+            <spot x="458.15088" y="816.893" z="416.63586" h="7"/>
+            <spot x="511.83304" y="816.6593" z="416.63742" h="54"/>
+            <spot x="428.82202" y="797.89417" z="413.46075" h="70"/>
+			<spot x="485.3431" y="875.1154" z="405.0124" h="0" walker_id="idab1_dreadgion_path_idab1_drd_1"/>
+			<spot x="484.4020" y="527.4919" z="397.2078" h="0" walker_id="idab1_dreadgion_path_idab1_drd_partypath_4"/>
+			<spot x="481.1743" y="597.1088" z="390.9399" h="0" walker_id="idab1_dreadgion_path_idab1_drd_30"/>
+			<spot x="410.1249" y="785.0000" z="413.1617" h="0" walker_id="idab1_dreadgion_path_idab1_drd_46"/>
+			<spot x="559.5000" y="784.5000" z="413.1754" h="0" walker_id="idab1_dreadgion_path_idab1_drd_44"/>
+        </spawn>
+        <!-- idab1_dreadgion_drakanmahigh_50_ae -->
+        <spawn npc_id="214821">
+            <spot x="375.6913" y="575.6428" z="410.12296" h="0"/>
+            <spot x="565.076" y="708.2572" z="402.2726" h="0"/>
+            <spot x="405.42108" y="705.9115" z="402.21512" h="73"/>
+            <spot x="598.50055" y="575.74994" z="409.21326" h="70"/>
+            <spot x="509.64105" y="810.1156" z="416.64996" h="54"/>
+            <spot x="435.48932" y="790.7751" z="413.51678" h="70"/>
+			<spot x="585.2574" y="546.6968" z="410.1330" h="0" walker_id="idab1_dreadgion_path_idab1_drd_32"/>
+			<spot x="411.3148" y="576.2975" z="410.4231" h="0" walker_id="idab1_dreadgion_path_idab1_drd_34"/>
+			<spot x="395.0486" y="549.8764" z="409.8091" h="0" walker_id="idab1_dreadgion_path_idab1_drd_35"/>
+			<spot x="480.1649" y="756.1747" z="388.6469" h="0" walker_id="idab1_dreadgion_path_idab1_drd_partypath_1"/>
+			<spot x="496.1436" y="607.6695" z="390.3976" h="0" walker_id="idab1_dreadgion_path_idab1_drd_31"/>
+			<spot x="559.6642" y="566.0745" z="410.3281" h="0" walker_id="idab1_dreadgion_path_idab1_drd_33"/>
+        </spawn>
+        <!-- idab1_dreadgion_drakanclhigh_50_ae -->
+        <spawn npc_id="214822">
+            <spot x="394.80167" y="700.9458" z="402.22006" h="85"/>
+            <spot x="575.2137" y="701.5526" z="402.22113" h="96"/>
+            <spot x="491.28687" y="575.3498" z="390.39767" h="60"/>
+            <spot x="468.46503" y="583.5107" z="391.57822" h="9"/>
+			<spot x="477.4798" y="826.1425" z="416.6442" h="0" walker_id="idab1_dreadgion_path_idab1_drd_21"/>
+        </spawn>
+        <!-- idab1_dreadgion_nagaprncb_50_ae -->
+        <spawn npc_id="215084">
+            <spot x="623.9806" y="410.77896" z="410.6258" h="60"/>
+        </spawn>
+        <!-- idab1_dreadgion_drakanmanamed_50_ae -->
+        <spawn npc_id="215085">
+            <spot x="464.3075" y="605.24493" z="391.57822" h="0"/>
+        </spawn>
+        <!-- idab1_dreadgion_drakanmasboss_50_ah -->
+        <spawn npc_id="215086">
+            <spot x="485.25522" y="884.16675" z="405.01996" h="91"/>
+        </spawn>
+        <!-- idab1_dreadgion_drakanrakeynameda_50_ae -->
+        <spawn npc_id="215087">
+            <spot x="386.1495" y="699.3106" z="402.2194" h="0" walker_id="idab1_dreadgion_path_idab1_drd_2"/>
+        </spawn>
+        <!-- idab1_dreadgion_drakanrakeynamedb_50_ae -->
+        <spawn npc_id="215088">
+            <spot x="583.3318" y="700.1766" z="402.2211" h="0" walker_id="idab1_dreadgion_path_idab1_drd_16"/>
+        </spawn>
+        <!-- idab1_dreadgion_drakanfidra_50_ae -->
+        <spawn npc_id="215089">
+            <spot x="414.7938" y="492.80225" z="393.6765" h="0"/>
+        </spawn>
+        <!-- idab1_dreadgion_drakanfidrb_50_ae -->
+        <spawn npc_id="215090">
+            <spot x="556.17444" y="488.71484" z="393.58517" h="0"/>
+        </spawn>
+        <!-- idab1_dreadgion_drakanfimaa_50_ae -->
+        <spawn npc_id="215091">
+            <spot x="391.18164" y="565.0182" z="408.9211" h="95"/>
+        </spawn>
+        <!-- idab1_dreadgion_drakanfimab_50_ae -->
+        <spawn npc_id="215092">
+            <spot x="577.79663" y="568.3712" z="408.84637" h="0"/>
+        </spawn>
+        <!-- idab1_dreadgion_drakanfinamed_50_ae -->
+        <spawn npc_id="215093">
+            <spot x="485.22717" y="314.4138" z="403.71472" h="89"/>
+        </spawn>
+        <!-- idab1_dreadgion_drakanclnamed_50_ae -->
+        <spawn npc_id="215427">
+            <spot x="504.57086" y="607.70135" z="391.57822" h="71"/>
+        </spawn>
+        <!-- idab1_dreadgion_lizardbroada_50_ae -->
+        <spawn npc_id="216852">
+            <spot x="426.6073" y="249.5684" z="412.4623" h="0" walker_id="idab1_dreadgion_path_idab1_drd_27"/>
+        </spawn>
+        <!-- idab1_dreadgion_lizardbroadb_50_ae -->
+        <spawn npc_id="216853">
+            <spot x="544.0456" y="254.1825" z="411.2582" h="0" walker_id="idab1_dreadgion_path_idab1_drd_24"/>
+        </spawn>
+		
+        <!-- idab1_dreadgion_surkana_1 -->
+        <spawn npc_id="700485">
+            <spot x="418.728394" y="281.937897" z="412.000000" entity_id="21"/>
+        </spawn>
+        <!-- idab1_dreadgion_surkana_2 -->
+        <spawn npc_id="700486">
+            <spot x="553.553223" y="279.306183" z="412.000000" entity_id="30"/>
+        </spawn>
+        <!-- idab1_dreadgion_surkana_3 -->
+        <spawn npc_id="700487">
+            <spot x="485.063446" y="293.071228" z="404.000000" entity_id="19"/>
+        </spawn>
+        <!-- idab1_dreadgion_surkana_4 -->
+        <spawn npc_id="700488">
+            <spot x="346.239838" y="414.831665" z="413.000000" entity_id="20"/>
+        </spawn>
+        <!-- idab1_dreadgion_surkana_5 -->
+        <spawn npc_id="700489">
+            <spot x="625.762817" y="412.166138" z="413.000000" entity_id="28"/>
+        </spawn>
+        <!-- idab1_dreadgion_surkana_6 -->
+        <spawn npc_id="700490">
+            <spot x="393.539154" y="567.299133" z="411.000000" entity_id="25"/>
+        </spawn>
+        <!-- idab1_dreadgion_surkana_7 -->
+        <spawn npc_id="700491">
+            <spot x="580.016235" y="566.722412" z="411.000000" entity_id="31"/>
+        </spawn>
+        <!-- idab1_dreadgion_surkana_8 -->
+        <spawn npc_id="700492">
+            <spot x="413.181885" y="490.867706" z="395.000000" entity_id="23"/>
+        </spawn>
+        <!-- idab1_dreadgion_surkana_9 -->
+        <spawn npc_id="700493">
+            <spot x="555.803833" y="491.379425" z="395.000000" entity_id="32"/>
+        </spawn>
+        <!-- idab1_dreadgion_surkana_10 -->
+        <spawn npc_id="700494">
+            <spot x="465.962463" y="607.256226" z="393.000000" entity_id="22"/>
+        </spawn>
+        <!-- idab1_dreadgion_surkana_11 -->
+        <spawn npc_id="700495">
+            <spot x="392.256073" y="710.881714" z="403.000000" entity_id="29"/>
+        </spawn>
+        <!-- idab1_dreadgion_surkana_12 -->
+        <spawn npc_id="700496">
+            <spot x="577.853638" y="711.294556" z="403.000000" entity_id="24"/>
+        </spawn>
+        <!-- idab1_dreadgion_surkana_13 -->
+        <spawn npc_id="700497">
+            <spot x="485.035126" y="881.774597" z="407.000000" entity_id="27"/>
+        </spawn>
+        <!-- idab1_dreadgion_surkana_14 -->
+        <spawn npc_id="700498">
+            <spot x="485.529480" y="817.759216" z="418.000000" entity_id="26"/>
+        </spawn>
+        <!-- idab1_dreadgion_door_1 -->
+        <spawn npc_id="700503">
+            <spot x="456.990814" y="812.408203" z="419.000000" entity_id="5"/>
+        </spawn>
+        <!-- idab1_dreadgion_door_2 -->
+        <spawn npc_id="700504">
+            <spot x="512.614502" y="812.147827" z="419.000000" entity_id="1"/>
+        </spawn>
+        <!-- idab1_dreadgion_tswitch_1 -->
+        <spawn npc_id="700505">
+            <spot x="466.529785" y="585.912292" z="393.000000" entity_id="131"/>
+        </spawn>
+        <!-- idab1_dreadgion_tswitch_2 -->
+        <spawn npc_id="700506">
+            <spot x="504.519379" y="586.410095" z="393.000000" entity_id="133"/>
+        </spawn>
+        <!-- idab1_dreadgion_dswitch_1 -->
+        <spawn npc_id="700507">
+            <spot x="457.978882" y="310.584961" z="405.149353" entity_id="7"/>
+        </spawn>
+        <!-- idab1_dreadgion_dswitch_2 -->
+        <spawn npc_id="700508">
+            <spot x="513.246826" y="310.760254" z="405.372375" entity_id="6"/>
+        </spawn>
+        <!-- idab1_dreadgion_door2_a -->
+        <spawn npc_id="700598">
+            <spot x="446.858887" y="321.925781" z="403.685455" entity_id="95"/>
+        </spawn>
+        <!-- idab1_dreadgion_door2_b -->
+        <spawn npc_id="700599">
+            <spot x="524.226379" y="322.326202" z="403.640076" entity_id="98"/>
+        </spawn>
+        <!-- idab1_dreadgion_shugoexhausted_q3711 -->
+        <spawn npc_id="730196">
+            <spot x="583.13477" y="172.48105" z="432.59354" h="40"/>
+            <spot x="388.76578" y="173.58968" z="432.5741" h="114"/>
+        </spawn>
+        <!-- idab1_dreadgion_prisoner_light1 -->
+        <spawn npc_id="798323">
+            <spot x="379.97067" y="697.2394" z="404.07404" h="12"/>
+        </spawn>
+        <!-- idab1_dreadgion_prisoner_light2 -->
+        <spawn npc_id="798324">
+            <spot x="377.18872" y="704.67755" z="404.0627" h="2"/>
+        </spawn>
+        <!-- idab1_dreadgion_prisoner_light3 -->
+        <spawn npc_id="798325">
+            <spot x="378.59412" y="712.07794" z="404.07965" h="115"/>
+        </spawn>
+        <!-- idab1_dreadgion_prisoner_dark1 -->
+        <spawn npc_id="798327">
+            <spot x="592.0324" y="711.7572" z="403.99908" h="67"/>
+        </spawn>
+        <!-- idab1_dreadgion_prisoner_dark2 -->
+        <spawn npc_id="798328">
+            <spot x="592.24786" y="704.1823" z="404.02875" h="58"/>
+        </spawn>
+        <!-- idab1_dreadgion_prisoner_dark3 -->
+        <spawn npc_id="798329">
+            <spot x="590.0814" y="697.3513" z="403.97375" h="47"/>
+        </spawn>
+		<!-- invincible barriere -->
+		<spawn npc_id="206173">
+            <spot x="553.3192" y="199.71045" z="429.59543" h="98"/>
+            <spot x="416.0509" y="197.79955" z="429.61633" h="81"/>
+        </spawn>
+	</spawn_map>
+</spawns>

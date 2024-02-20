@@ -1,0 +1,160 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<zones>
+	<zone mapid="300440000" name="RESTRICTED_AREA_300440000" area_type="POLYGON" zone_type="SUB" priority="13" flags="0">
+        <points bottom="100.000000" top="300.000000">
+            <point x="397.720001" y="528.650024"/>
+            <point x="397.443604" y="625.131226"/>
+            <point x="423.303162" y="640.485291"/>
+            <point x="459.511627" y="639.656067"/>
+            <point x="501.136017" y="639.081726"/>
+            <point x="522.530884" y="622.519226"/>
+            <point x="547.842468" y="589.233398"/>
+            <point x="547.716125" y="562.695740"/>
+            <point x="517.832092" y="526.055542"/>
+            <point x="488.632751" y="511.618866"/>
+            <point x="439.887177" y="510.577118"/>
+            <point x="415.856781" y="515.169128"/>
+        </points>
+    </zone>
+	<zone mapid="300440000" name="EAST_SORTING_CHAMBER_300440000" area_type="POLYGON" zone_type="SUB" priority="14" flags="0">
+        <points bottom="100.000000" top="300.000000">
+            <point x="644.000000" y="626.000000"/>
+            <point x="644.000000" y="741.000000"/>
+            <point x="749.000000" y="744.000000"/>
+            <point x="749.000000" y="627.000000"/>
+        </points>
+    </zone>
+	<zone mapid="300440000" name="DISTORTED_INFERNAL_CAVERN_300440000" area_type="POLYGON" zone_type="SUB" priority="16" flags="0">
+        <points bottom="100.000000" top="300.000000">
+            <point x="780.000000" y="519.000000"/>
+            <point x="780.000000" y="632.000000"/>
+            <point x="910.000000" y="634.000000"/>
+            <point x="911.000000" y="518.000000"/>
+        </points>
+    </zone>
+	<zone mapid="300440000" name="TIAK_RESEARCH_BASE_300440000" area_type="POLYGON" zone_type="SUB" priority="20" flags="0">
+        <points bottom="100.000000" top="300.000000">
+            <point x="367.133026" y="369.240662"/>
+            <point x="363.581726" y="766.508972"/>
+            <point x="930.678833" y="778.346497"/>
+            <point x="929.495117" y="371.424438"/>
+        </points>
+    </zone>
+	<zone mapid="300440000" name="FIRST_ESCAPE_HATCH_300440000" area_type="POLYGON" zone_type="SUB" priority="14" flags="0">
+        <points bottom="100.000000" top="300.000000">
+            <point x="799.000000" y="406.000000"/>
+            <point x="799.000000" y="473.000000"/>
+            <point x="863.000000" y="473.000000"/>
+            <point x="863.000000" y="407.000000"/>
+        </points>
+    </zone>
+	<zone mapid="300440000" name="SEWER_300440000" area_type="POLYGON" zone_type="SUB" priority="6" flags="0">
+        <points bottom="106.870354" top="126.870354">
+            <point x="614.248230" y="538.598145"/>
+            <point x="625.733643" y="538.550964"/>
+            <point x="626.152039" y="613.046143"/>
+            <point x="614.332214" y="613.295227"/>
+        </points>
+    </zone>
+	<zone mapid="300440000" name="CENTRAL_CONTROL_ZONE_300440000" area_type="POLYGON" zone_type="SUB" priority="12" flags="0">
+        <points bottom="100.000000" top="300.000000">
+            <point x="532.000000" y="540.280151"/>
+            <point x="531.800293" y="544.545959"/>
+            <point x="546.421509" y="562.653625"/>
+            <point x="546.421509" y="589.400513"/>
+            <point x="531.465942" y="608.251404"/>
+            <point x="531.658142" y="611.585510"/>
+            <point x="649.001831" y="613.681213"/>
+            <point x="651.924744" y="618.618713"/>
+            <point x="661.236938" y="618.420410"/>
+            <point x="661.083191" y="530.985901"/>
+            <point x="652.288452" y="531.039795"/>
+            <point x="650.125061" y="540.093750"/>
+        </points>
+    </zone>
+	<zone mapid="300440000" name="SECONDARY_ESCAPE_HATCH_300440000" area_type="POLYGON" zone_type="SUB" priority="14" flags="0">
+        <points bottom="100.000000" top="300.000000">
+            <point x="801.000000" y="675.000000"/>
+            <point x="801.000000" y="742.000000"/>
+            <point x="865.000000" y="742.000000"/>
+            <point x="865.000000" y="676.000000"/>
+        </points>
+    </zone>
+	<zone mapid="300440000" name="CONTROL_PASSAGE_2_300440000" area_type="POLYGON" zone_type="SUB" priority="11" flags="0">
+        <points bottom="100.000000" top="300.000000">
+            <point x="465.615265" y="637.267212"/>
+            <point x="463.127655" y="690.683228"/>
+            <point x="539.432190" y="690.560486"/>
+            <point x="539.396973" y="662.624634"/>
+            <point x="530.000000" y="663.000000"/>
+            <point x="515.797974" y="637.437988"/>
+            <point x="487.270874" y="638.326721"/>
+        </points>
+    </zone>
+	<zone mapid="300440000" name="DRANA_CULTIVATION_ZONE_300440000" area_type="POLYGON" zone_type="SUB" priority="13" flags="0">
+        <points bottom="100.000000" top="300.000000">
+            <point x="648.899963" y="528.155823"/>
+            <point x="649.000000" y="628.354797"/>
+            <point x="782.000000" y="628.354797"/>
+            <point x="781.629150" y="528.990356"/>
+        </points>
+    </zone>
+	<zone mapid="300440000" name="CONTROL_PASSAGE_1_300440000" area_type="POLYGON" zone_type="SUB" priority="11" flags="0">
+        <points bottom="100.000000" top="300.000000">
+            <point x="461.432465" y="458.483429"/>
+            <point x="461.742950" y="511.911377"/>
+            <point x="490.528503" y="512.726074"/>
+            <point x="529.438904" y="499.245361"/>
+            <point x="538.865173" y="490.451233"/>
+            <point x="538.924316" y="460.589050"/>
+        </points>
+    </zone>
+	<zone mapid="300440000" name="WEST_LABORATORY_300440000" area_type="POLYGON" zone_type="SUB" priority="13" flags="0">
+        <points bottom="100.000000" top="300.000000">
+            <point x="538.000000" y="420.000000"/>
+            <point x="538.185425" y="541.118896"/>
+            <point x="648.185425" y="542.820984"/>
+            <point x="649.000000" y="422.000000"/>
+        </points>
+    </zone>
+	<zone mapid="300440000" name="SECONDARY_ESCAPE_PASSAGE_300440000" area_type="POLYGON" zone_type="SUB" priority="15" flags="0">
+        <points bottom="100.000000" top="300.000000">
+            <point x="746.000000" y="625.745178"/>
+            <point x="743.000000" y="691.745178"/>
+            <point x="866.000000" y="690.745178"/>
+            <point x="868.000000" y="628.745178"/>
+        </points>
+    </zone>
+	<zone mapid="300440000" name="WEST_SORTING_CHAMBER_300440000" area_type="POLYGON" zone_type="SUB" priority="14" flags="0">
+        <points bottom="100.000000" top="300.000000">
+            <point x="645.000000" y="409.000000"/>
+            <point x="645.185425" y="530.118896"/>
+            <point x="752.185425" y="529.820984"/>
+            <point x="753.000000" y="409.000000"/>
+        </points>
+    </zone>
+	<zone mapid="300440000" name="INFERNAL_PASS_300440000" area_type="POLYGON" zone_type="SUB" priority="6" flags="0">
+        <points bottom="149.837738" top="169.837738">
+            <point x="828.959900" y="523.063599"/>
+            <point x="838.998291" y="522.823303"/>
+            <point x="849.483154" y="630.749207"/>
+            <point x="840.340088" y="630.750366"/>
+        </points>
+    </zone>
+	<zone mapid="300440000" name="FIRST_ESCAPE_PASSAGE_300440000" area_type="POLYGON" zone_type="SUB" priority="15" flags="0">
+        <points bottom="100.000000" top="300.000000">
+            <point x="749.000000" y="460.000000"/>
+            <point x="746.000000" y="526.000000"/>
+            <point x="869.000000" y="525.000000"/>
+            <point x="871.000000" y="463.000000"/>
+        </points>
+    </zone>
+	<zone mapid="300440000" name="EAST_LABORATORY_300440000" area_type="POLYGON" zone_type="SUB" priority="13" flags="0">
+        <points bottom="100.000000" top="300.000000">
+            <point x="539.000000" y="610.000000"/>
+            <point x="539.185425" y="731.118896"/>
+            <point x="649.185425" y="732.820984"/>
+            <point x="650.000000" y="612.000000"/>
+        </points>
+    </zone>
+</zones>

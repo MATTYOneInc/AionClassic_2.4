@@ -1,0 +1,284 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Sky Temple Interior
+	Re-newed By Rinzler
+ -->
+<spawns>
+	<spawn_map map_id="320050000">
+		<!-- elementalwater1d_30_an -->
+        <spawn npc_id="212761">
+            <spot x="450.6542" y="72.154625" z="214.33224" h="16"/>
+            <spot x="426.13376" y="127.29475" z="214.33208" h="119"/>
+            <spot x="398.72992" y="136.86108" z="222.40868" h="101"/>
+            <spot x="440.55252" y="44.531208" z="222.42107" h="35"/>
+            <spot x="446.8073" y="103.461494" z="212.20023" h="7"/>
+            <spot x="434.66388" y="98.2579" z="212.20023" h="7"/>
+            <spot x="429.3358" y="82.07614" z="214.3370" h="0" walker_id="iddf2flying_mpath_elementalwater1d_30_1"/>
+			<spot x="446.4371" y="117.6832" z="214.3377" h="0" walker_id="iddf2flying_mpath_elementalwater1d_30_2"/>
+			<spot x="410.2249" y="87.97904" z="222.1371" h="0" walker_id="iddf2flying_mpath_elementalwater1d_30_3"/>
+			<spot x="459.3680" y="72.71625" z="214.7099" h="0" walker_id="iddf2flying_mpath_elementalwater1d_30_4"/>
+            <spot x="431.5205" y="133.1165" z="214.7091" h="0" walker_id="iddf2flying_mpath_elementalwater1d_30_5"/> 
+            <spot x="448.9881" y="138.0321" z="214.8142" h="0" walker_id="iddf2flying_mpath_elementalwater1d_30_6"/>
+			<spot x="471.1234" y="76.60267" z="214.7642" h="0" walker_id="iddf2flying_mpath_elementalwater1d_30_7"/>
+        </spawn>
+        <!-- elementalwater2d_30_an -->
+        <spawn npc_id="212762">
+            <spot x="444.09393" y="141.3898" z="214.81421" h="81"/>
+            <spot x="474.06482" y="75.480736" z="214.76425" h="54"/>
+            <spot x="421.1196" y="92.62965" z="214.33856" h="5"/>
+            <spot x="398.44406" y="93.70652" z="223.16089" h="7"/>
+            <spot x="406.69458" y="74.77014" z="223.16089" h="8"/>
+			<spot x="430.2808" y="65.92061" z="222.2081" h="0" walker_id="iddf2flying_mpath_elementalwater2d_30_1"/>
+			<spot x="427.9087" y="119.5125" z="214.3671" h="0" walker_id="iddf2flying_mpath_elementalwater2d_30_2"/>
+			<spot x="437.6530" y="89.12233" z="212.9148" h="0" walker_id="iddf2flying_mpath_elementalwater2d_30_3"/>
+        </spawn>
+        <!-- elementalwater2d_31_an -->
+        <spawn npc_id="212763">
+            <spot x="443.8095" y="59.767765" z="222.28363" h="0"/>
+            <spot x="412.301" y="130.80989" z="222.28363" h="0"/>
+            <spot x="384.63354" y="106.3888" z="222.41403" h="14"/>
+            <spot x="406.84854" y="56.544315" z="222.4139" h="12"/>
+            <spot x="377.91742" y="86.30502" z="226.6414" h="23"/>
+            <spot x="387.70374" y="64.676384" z="226.6414" h="113"/>
+			<spot x="425.7447" y="143.3998" z="214.8142" h="0" walker_id="iddf2flying_mpath_elementalwater2d_31_1"/>
+			<spot x="460.6221" y="59.51744" z="215.2044" h="0" walker_id="iddf2flying_mpath_elementalwater2d_31_2"/>
+        </spawn>
+        <!-- elementalwater3d_31_an -->
+        <spawn npc_id="212764">
+            <spot x="416.83914" y="89.99363" z="222.62811" h="8"/>
+            <spot x="427.20483" y="75.83067" z="222.28363" h="13"/>
+            <spot x="413.1953" y="107.35412" z="222.28363" h="4"/>
+            <spot x="388.199" y="125.1503" z="222.16908" h="107"/>
+            <spot x="423.4967" y="44.392994" z="222.15483" h="30"/>
+        </spawn>
+        <!-- elementalearth1d_30_an -->
+        <spawn npc_id="212765">
+            <spot x="326.8924" y="453.1489" z="414.91183" h="94"/>
+            <spot x="316.4534" y="408.08914" z="414.91183" h="17"/>
+            <spot x="335.15176" y="452.3077" z="414.8121" h="119"/>
+            <spot x="324.14148" y="404.69672" z="414.81165" h="112"/>
+			<spot x="349.2607" y="446.9150" z="413.0925" h="0" walker_id="iddf2flying_mpath_elementalearth1d_30_2"/>
+            <spot x="339.8839" y="403.3260" z="413.0925" h="0" walker_id="iddf2flying_mpath_elementalearth1d_30_3"/>
+			<spot x="337.1400" y="407.7000" z="413.0925" h="0" walker_id="iddf2flying_mpath_g_elementalearth1d_30_1"/>
+			<spot x="337.1400" y="407.7000" z="413.0925" h="0" walker_id="iddf2flying_mpath_g_elementalearth1d_30_1"/>
+			<spot x="344.5204" y="443.8656" z="413.0925" h="0" walker_id="iddf2flying_mpath_g_elementalearth1d_30_2"/>
+			<spot x="344.5204" y="443.8656" z="413.0925" h="0" walker_id="iddf2flying_mpath_g_elementalearth1d_30_2"/>
+        </spawn>
+        <!-- elementalearth2d_30_an -->
+        <spawn npc_id="212766">
+            <spot x="355.25565" y="444.86325" z="413.0925" h="72"/>
+            <spot x="354.16098" y="446.37488" z="413.0925" h="72"/>
+            <spot x="344.0943" y="401.93286" z="413.0925" h="42"/>
+            <spot x="345.60263" y="402.6721" z="413.0925" h="42"/>
+            <spot x="344.11575" y="419.57956" z="413.26343" h="116"/>
+            <spot x="346.55966" y="431.1519" z="413.26367" h="115"/>
+            <spot x="331.8944" y="427.94348" z="413.26382" h="115"/>
+            <spot x="324.6580" y="429.58008" z="413.09247" h="114"/>
+        </spawn>
+        <!-- elementalearth2d_31_an -->
+        <spawn npc_id="212767">
+            <spot x="358.69785" y="421.89456" z="410.98578" h="116"/>
+            <spot x="331.1696" y="399.5925" z="413.0925" h="0" walker_id="iddf2flying_mpath_elementalearth2d_31_1"/>
+            <spot x="341.8472" y="452.2943" z="413.0924" h="0" walker_id="iddf2flying_mpath_elementalearth2d_31_2"/>
+        </spawn>
+        <!-- elementalearth3d_31_an -->
+        <spawn npc_id="212768">
+            <spot x="326.44815" y="455.13428" z="414.91183" h="94"/>
+            <spot x="340.2157" y="426.18082" z="413.2611" h="116"/>
+            <spot x="314.9400" y="406.25958" z="414.91183" h="17"/>
+            <spot x="360.75864" y="421.38303" z="410.98578" h="116"/>
+        </spawn>
+        <!-- elementalair1d_30_an -->
+        <spawn npc_id="212769">
+            <spot x="377.71625" y="380.00787" z="375.0553" h="12"/>
+            <spot x="431.65216" y="435.37872" z="374.5875" h="76"/>
+            <spot x="386.6449" y="448.63943" z="375.05496" h="102"/>
+            <spot x="409.3337" y="436.41605" z="374.5875" h="100"/>
+            <spot x="379.5824" y="438.8657" z="375.0553" h="77"/>
+            <spot x="368.08078" y="397.25754" z="375.0553" h="35"/>
+			<spot x="447.01157" y="426.64877" z="375.0108" h="0" walker_id="iddf2flying_mpath_elementalair1d_30_5"/>
+        </spawn>
+        <!-- elementalair2d_30_an -->
+        <spawn npc_id="212770">
+            <spot x="397.8924" y="389.75366" z="374.5875" h="13"/>
+            <spot x="405.9994" y="403.87927" z="374.5875" h="26"/>
+            <spot x="408.46844" y="418.70016" z="374.5875" h="87"/>
+        </spawn>
+        <!-- elementalair2d_31_an -->
+        <spawn npc_id="212771">
+            <spot x="411.59882" y="361.5649" z="375.0553" h="28"/>
+            <spot x="442.10626" y="367.35654" z="375.0553" h="41"/>
+            <spot x="462.35855" y="393.28534" z="375.05496" h="54"/>
+            <spot x="419.55054" y="380.68817" z="374.5875" h="39"/>
+            <spot x="399.30203" y="362.9188" z="375.0553" h="24"/>
+            <spot x="374.6007" y="381.29138" z="375.0553" h="12"/>
+            <spot x="399.7502" y="387.15182" z="374.5875" h="14"/>
+            <spot x="418.4904" y="459.13184" z="375.05496" h="89"/>
+            <spot x="388.91827" y="451.69562" z="375.05496" h="101"/>
+            <spot x="407.57678" y="434.1796" z="374.5875" h="100"/>
+            <spot x="377.42288" y="440.53796" z="375.0553" h="77"/>
+            <spot x="370.3358" y="395.87906" z="375.0553" h="36"/>
+            <spot x="426.47052" y="414.54764" z="374.5875" h="85"/>
+            <spot x="422.98987" y="400.74243" z="374.5875" h="27"/>
+			<spot x="452.77142" y="404.64484" z="374.9436" h="0" walker_id="iddf2flying_mpath_g_elementalair2d_31_4"/>
+        </spawn>
+        <!-- elementalair3d_32_an -->
+        <spawn npc_id="212772">
+            <spot x="413.19983" y="358.64774" z="375.0553" h="29"/>
+            <spot x="435.9526" y="456.44836" z="375.05496" h="83"/>
+            <spot x="450.80972" y="426.01782" z="374.847" h="70"/>
+            <spot x="438.75482" y="378.99725" z="374.87357" h="42"/>
+            <spot x="423.08173" y="379.96115" z="374.5875" h="38"/>
+            <spot x="401.68173" y="361.6608" z="375.0553" h="24"/>
+            <spot x="434.15536" y="433.78506" z="374.5875" h="75"/>
+            <spot x="420.78174" y="459.0218" z="375.05496" h="89"/>
+        </spawn>
+        <!-- elementalfire1d_30_ae -->
+        <spawn npc_id="212773">
+            <spot x="83.915955" y="31.92727" z="612.0793" h="15"/>
+            <spot x="122.84157" y="33.88279" z="612.0940" h="44"/>
+			<spot x="94.07409" y="53.45831" z="618.2434" h="0" walker_id="npcpathiddf2flying_mob_party1"/>
+            <spot x="110.9706" y="52.55303" z="618.2434" h="0" walker_id="npcpathiddf2flying_mob_party2"/>
+        </spawn>
+        <!-- elementalfire2d_30_ae -->
+        <spawn npc_id="212774">
+            <spot x="130.17912" y="46.350933" z="611.0821" h="55"/>
+            <spot x="81.573685" y="71.91131" z="611.9533" h="105"/>
+            <spot x="74.663635" y="58.91026" z="611.0359" h="115"/>
+        </spawn>
+        <!-- elementalfire2d_31_ae -->
+        <spawn npc_id="212775">
+            <spot x="130.15675" y="58.375378" z="611.0821" h="65"/>
+            <spot x="121.74213" y="73.60271" z="611.9298" h="74"/>
+            <spot x="74.14106" y="47.55158" z="611.0359" h="3"/>
+            <spot x="102.53557" y="52.85771" z="618.24347" h="30"/>
+            <spot x="70.35729" y="101.239136" z="579.95496" h="19"/>
+            <spot x="120.11775" y="91.01884" z="579.95496" h="36"/>
+            <spot x="50.662106" y="122.75893" z="575.2409" h="6"/>
+            <spot x="43.638584" y="145.68762" z="582.5512" h="3"/>
+            <spot x="45.16539" y="147.4082" z="582.3526" h="3"/>
+            <spot x="49.461445" y="167.39233" z="582.0286" h="114"/>
+            <spot x="63.20182" y="188.68843" z="575.27216" h="107"/>
+            <spot x="87.550354" y="200.13634" z="567.19434" h="97"/>
+            <spot x="113.54615" y="203.09196" z="567.4804" h="78"/>
+            <spot x="160.67752" y="150.96523" z="575.2722" h="60"/>
+            <spot x="136.50867" y="100.30534" z="563.6969" h="13"/>
+			<spot x="95.38909" y="140.2879" z="578.7541" h="0" walker_id="npcpathiddf2flying_mob_party3"/>
+			<spot x="109.0868" y="140.3903" z="578.7541" h="0" walker_id="npcpathiddf2flying_mob_party4"/>
+			<spot x="109.6497" y="153.3058" z="578.7541" h="0" walker_id="npcpathiddf2flying_mob_party5"/>
+			<spot x="96.30274" y="152.9785" z="578.7541" h="0" walker_id="npcpathiddf2flying_mob_party6"/>
+			<spot x="149.2000" y="137.3200" z="575.2227" h="0" walker_id="iddf2flying_mpath_elementalfire2d_31_1"/>
+			<spot x="147.7965" y="151.6829" z="574.7819" h="0" walker_id="iddf2flying_mpath_elementalfire2d_31_3"/>
+        </spawn>
+        <!-- shadowstalkerd_30_ae -->
+        <spawn npc_id="212776">
+            <spot x="84.34000" y="35.02000" z="612.8308" h="0" walker_id="iddf2flying_mpath_shadowstalkerd_30_1"/>
+			<spot x="83.77000" y="71.78000" z="612.4513" h="0" walker_id="iddf2flying_mpath_shadowstalkerd_30_2"/>
+            <spot x="120.7300" y="34.19000" z="612.6127" h="0" walker_id="iddf2flying_mpath_shadowstalkerd_30_3"/>
+			<spot x="121.7600" y="71.01000" z="612.4774" h="0" walker_id="iddf2flying_mpath_shadowstalkerd_30_4"/>
+            <spot x="125.1895" y="41.21508" z="610.8115" h="0" walker_id="iddf2flying_mpath_shadowstalkerd_30_5"/>
+            <spot x="79.93658" y="45.05846" z="610.8115" h="0" walker_id="iddf2flying_mpath_shadowstalkerd_30_6"/>
+        </spawn>
+        <!-- elementalfire3d_31_ae -->
+        <spawn npc_id="212777">
+            <spot x="67.91787" y="104.47092" z="579.95496" h="18"/>
+            <spot x="123.1183" y="95.124916" z="579.95496" h="38"/>
+            <spot x="48.262455" y="126.016495" z="575.25366" h="6"/>
+            <spot x="46.44309" y="165.88536" z="582.4506" h="116"/>
+            <spot x="137.11679" y="193.9751" z="575.27216" h="80"/>
+            <spot x="160.5002" y="145.29176" z="575.2722" h="62"/>
+        </spawn>
+        <!-- elementalfire3d_32_ae -->
+        <spawn npc_id="212778">
+            <spot x="122.71473" y="240.54767" z="538.4687" h="0"/>
+            <spot x="59.130035" y="149.38057" z="579.7849" h="0"/>
+            <spot x="128.74623" y="279.73715" z="538.4687" h="0"/>
+            <spot x="60.127815" y="185.76222" z="575.27216" h="109"/>
+            <spot x="83.68168" y="201.79869" z="566.63635" h="97"/>
+            <spot x="119.22523" y="199.02039" z="568.70667" h="78"/>
+            <spot x="148.74734" y="181.72571" z="575.2722" h="72"/>
+            <spot x="157.75017" y="165.74823" z="575.2722" h="67"/>
+            <spot x="106.6323" y="145.46967" z="578.75415" h="116"/>
+            <spot x="101.37702" y="142.26396" z="578.75415" h="86"/>
+            <spot x="98.43906" y="147.92926" z="578.75415" h="55"/>
+            <spot x="104.13205" y="151.11426" z="578.75415" h="26"/>
+            <spot x="196.81377" y="182.0906" z="538.4448" h="33"/>
+            <spot x="235.15689" y="199.32408" z="538.4448" h="45"/>
+            <spot x="209.3339" y="233.98346" z="537.8545" h="77"/>
+            <spot x="172.4737" y="264.8303" z="537.8545" h="78"/>
+			<spot x="145.3125" y="198.5306" z="538.4448" h="0" walker_id="df2_c5_mobpath_g_elementalfire3d_32"/>
+			<spot x="157.0444" y="215.7018" z="537.8545" h="0" walker_id="df2_c5_mobpath_g_elementalfire3d_32_2_2"/>
+			<spot x="222.8274" y="256.7486" z="537.8545" h="0" walker_id="df2_c5_mobpath_g_elementalfire3d_32_3"/>
+            <spot x="187.9844" y="282.7982" z="537.8545" h="0" walker_id="df2_c5_mobpath_g_elementalfire3d_32_4"/>
+        </spawn>
+        <!-- souledstoneared_31_ae -->
+        <spawn npc_id="212779">
+            <spot x="153.51633" y="119.35239" z="563.8344" h="50"/>
+            <spot x="151.6352" y="115.86527" z="563.5845" h="50"/>
+            <spot x="134.30232" y="103.39492" z="564.6246" h="13"/>
+            <spot x="117.7344" y="158.0819" z="576.4861" h="0" walker_id="iddf2flying_mpath_souledstoneared_31_2"/>
+            <spot x="122.7393" y="165.7230" z="574.7690" h="0" walker_id="iddf2flying_mpath_souledstoneared_31_3"/>
+            <spot x="50.25000" y="141.9400" z="581.5176" h="0" walker_id="iddf2flying_mpath_souledstoneared_31_4"/>
+			<spot x="85.69033" y="192.6585" z="568.4848" h="0" walker_id="iddf2flying_mpath_souledstoneared_31_5"/>
+			<spot x="61.39605" y="131.2996" z="574.7323" h="0" walker_id="iddf2flying_mpath_souledstoneared_31_7"/>
+			<spot x="106.5900" y="176.8700" z="574.7522" h="0" walker_id="iddf2flying_mpath_souledstoneared_31_8"/>
+			<spot x="77.91767" y="96.80496" z="579.9549" h="0" walker_id="iddf2flying_mpath_souledstoneared_31_9"/>
+        </spawn>
+        <!-- elementalfire4d_33_ae -->
+        <spawn npc_id="212780">
+            <spot x="136.90578" y="290.86032" z="550.4942" h="0"/>
+            <spot x="177.45308" y="233.52856" z="536.16974" h="80"/>
+            <spot x="199.9745" y="313.62576" z="550.49414" h="88"/>
+            <spot x="248.72723" y="277.25455" z="550.49414" h="69"/>
+            <spot x="244.25426" y="209.99431" z="550.44257" h="38"/>
+			<spot x="225.7853" y="213.5494" z="538.3314" h="0" walker_id="npcpathiddf2flying_mob_party7"/>
+            <spot x="144.6876" y="274.3533" z="538.3314" h="0" walker_id="npcpathiddf2flying_mob_party8"/>
+        </spawn>
+        <!-- shadowstalkerbigd_32_ae -->
+        <spawn npc_id="212781">
+            <spot x="121.28159" y="259.70706" z="538.4687" h="0"/>
+            <spot x="192.80544" y="223.7795" z="536.3318" h="50"/>
+            <spot x="163.44788" y="245.19324" z="536.59064" h="108"/>
+            <spot x="139.13696" y="235.61148" z="538.3314" h="4"/>
+            <spot x="191.97035" y="195.76463" z="538.3314" h="33"/>
+            <spot x="218.00867" y="187.01065" z="538.4448" h="39"/>
+			<spot x="164.9151" y="218.0368" z="536.8497" h="0" walker_id="npcpathiddf2flying_mob_party9"/>
+			<spot x="210.2579" y="263.4187" z="550.5646" h="0" walker_id="df2_c5_mobpath_g_shadowstalkerbigd_32"/>
+			<spot x="197.8585" y="271.6905" z="550.5646" h="0" walker_id="df2_c5_mobpath_g_shadowstalkerbigd_32_2"/>
+			<spot x="246.0858" y="267.9822" z="550.4939" h="0" walker_id="df2_c5_mobpath_n_shadowstalkerbigd_32_5"/>
+			<spot x="239.4592" y="254.2827" z="550.4938" h="0" walker_id="df2_c5_mobpath_n_shadowstalkerbigd_32_6"/>
+			<spot x="196.3156" y="308.3789" z="550.4939" h="0" walker_id="df2_c5_mobpath_n_shadowstalkerbigd_32_7"/>
+			<spot x="181.5400" y="297.8451" z="550.4938" h="0" walker_id="df2_c5_mobpath_n_shadowstalkerbigd_32_8"/>
+        </spawn>
+        <!-- souledstonearebigs_32_ae -->
+        <spawn npc_id="212782">
+            <spot x="143.29858" y="252.84958" z="537.8545" h="0"/>
+            <spot x="123.13957" y="236.11127" z="538.4687" h="0"/>
+            <spot x="205.36702" y="206.2897" z="537.8545" h="39"/>
+            <spot x="200.29605" y="182.66196" z="538.4448" h="33"/>
+			<spot x="164.6213" y="282.0001" z="552.1756" h="0" walker_id="npcpathiddf2flying_mob_party11"/>
+			<spot x="228.4677" y="234.9461" z="552.1730" h="0" walker_id="npcpathiddf2flying_mob_party12"/>
+        </spawn>
+        <!-- elementalwater3nmdq_31_an -->
+        <spawn npc_id="212833">
+            <spot x="380.86093" y="74.29152" z="226.6414" h="8"/>
+        </spawn>
+        <!-- elementalfire4namedq_33_ae -->
+        <spawn npc_id="212876">
+            <spot x="218.27043" y="287.33975" z="550.68805" h="75"/>
+        </spawn>
+		
+        <!-- df2_templedoor1_out -->
+        <spawn npc_id="730042">
+            <spot x="379.399994" y="72.830002" z="228.000000" entity_id="15"/>
+        </spawn>
+        <!-- df2_templedoor2_out -->
+        <spawn npc_id="730044">
+            <spot x="460.359985" y="437.45999" z="377.000000" entity_id="16"/>
+        </spawn>
+        <!-- df2_templedoor3_out -->
+        <spawn npc_id="730046">
+            <spot x="229.566193" y="301.40084" z="552.000000" entity_id="17"/>
+        </spawn>
+	</spawn_map>
+</spawns>

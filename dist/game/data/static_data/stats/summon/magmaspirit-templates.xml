@@ -1,0 +1,25 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Magma Spirit Stats
+	Develop: ADev.Team
+ -->
+<summon_stats_templates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../stats.xsd">
+	<summon_stats npc_id_dark="201041" level="50">
+		<stats_template maxHp="9701" pdefense="1611" mresist="1052" main_hand_attack="358" run_speed="10.0" main_hand_accuracy="1293" main_hand_crit_rate="50" magic_accuracy="1177" mcrit="9" parry="1293" evasion="0"/>
+	</summon_stats>
+	<summon_stats npc_id_dark="201041" level="51">
+		<stats_template maxHp="9888" pdefense="1636" mresist="1070" main_hand_attack="362" run_speed="10.0" main_hand_accuracy="1484" main_hand_crit_rate="50" magic_accuracy="1368" mcrit="9" parry="1484" evasion="0"/>
+	</summon_stats>
+	<summon_stats npc_id_dark="201041" level="52">
+		<stats_template maxHp="10111" pdefense="1671" mresist="1086" main_hand_attack="369" run_speed="10.0" main_hand_accuracy="1159" main_hand_crit_rate="50" magic_accuracy="1043" mcrit="9" parry="1159" evasion="0"/>
+	</summon_stats>
+	<summon_stats npc_id_dark="201041" level="53">
+		<stats_template maxHp="10262" pdefense="1676" mresist="1106" main_hand_attack="370" run_speed="10.0" main_hand_accuracy="1866" main_hand_crit_rate="50" magic_accuracy="1750" mcrit="9" parry="1866" evasion="0"/>
+	</summon_stats>
+	<summon_stats npc_id_dark="201041" level="54">
+		<stats_template maxHp="10449" pdefense="1691" mresist="1124" main_hand_attack="374" run_speed="10.0" main_hand_accuracy="2057" main_hand_crit_rate="50" magic_accuracy="1941" mcrit="9" parry="2057" evasion="0"/>
+	</summon_stats>
+	<summon_stats npc_id_dark="201041" level="55">
+		<stats_template maxHp="10636" pdefense="1716" mresist="1142" main_hand_attack="378" run_speed="10.0" main_hand_accuracy="2248" main_hand_crit_rate="50" magic_accuracy="2132" mcrit="9" parry="2248" evasion="0"/>
+	</summon_stats>
+</summon_stats_templates>

@@ -1,0 +1,468 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Kromede's Trial
+	Re-newed By Rinzler
+ -->
+<spawns>
+	<spawn_map map_id="300230000">
+	    <!-- idcromede_01_troll_38_an -->
+        <spawn npc_id="216961">
+            <spot x="293.02417" y="282.667" z="187.68922" h="0" random_walk="1"/>
+            <spot x="276.67752" y="245.3583" z="187.35538" h="0" random_walk="1"/>
+            <spot x="307.76007" y="261.66068" z="187.20866" h="0" random_walk="1"/>
+            <spot x="329.48944" y="269.36493" z="193.28519" h="0" random_walk="1"/>
+        </spawn>
+        <!-- idcromede_01_trollkin_38_an -->
+        <spawn npc_id="216962">
+            <spot x="315.2513" y="288.56268" z="192.7124" h="0" random_walk="1"/>
+            <spot x="291.3223" y="254.72147" z="186.85431" h="0" random_walk="1"/>
+        </spawn>
+        <!-- idcromede_01_souledstone_38_an -->
+        <spawn npc_id="216963">
+            <spot x="477.34293" y="335.29492" z="170.51108" h="0" walker_id="npcpathidcromede_12"/>
+            <spot x="446.34875" y="337.92557" z="172.28029" h="0" walker_id="npcpathidcromede_3"/>
+        </spawn>
+        <!-- idcromede_01_octaside_38_an -->
+        <spawn npc_id="216964">
+            <spot x="347.35962" y="254.79176" z="192.56593" h="0" walker_id="npcpathidcromede_5"/>
+            <spot x="549.20650" y="287.47882" z="153.40343" h="0" walker_id="npcpathidcromede_8"/>
+            <spot x="422.64365" y="325.97717" z="174.64610" h="0" walker_id="npcpathidcromede_6"/>
+            <spot x="516.53204" y="340.63910" z="165.68213" h="0" walker_id="npcpathidcromede_7"/>
+        </spawn>
+        <!-- idcromede_01_sam_divine_38_an -->
+        <spawn npc_id="216965">
+            <spot x="472.17892" y="353.4719" z="170.97864" h="68"/>
+            <spot x="514.839" y="237.882" z="142.4048" h="11"/>
+            <spot x="427.03882" y="234.22444" z="140.60266" h="14"/>
+            <spot x="414.80942" y="246.40828" z="140.60266" h="16"/>
+            <spot x="358.54507" y="190.88803" z="146.71289" h="45"/>
+            <spot x="372.7977" y="176.13416" z="146.71289" h="106"/>
+        </spawn>
+        <!-- idcromede_01_statue_m_divine_38_an -->
+        <spawn npc_id="216966">
+            <spot x="483.03662" y="229.39471" z="142.78296" h="0" walker_id="npcpathidcromede_9"/>
+            <spot x="475.86610" y="255.22575" z="139.05576" h="0" walker_id="npcpathidcromede_world4"/>
+            <spot x="525.91380" y="231.36897" z="143.78754" h="0" walker_id="npcpathidcromede_11"/>
+            <spot x="409.58075" y="228.27394" z="145.48969" h="0" walker_id="npcpathidcromede_world3"/>
+			<spot x="374.73132" y="199.01408" z="145.89180" h="0" walker_id="npcpathidcromede_world2_1"/>
+			<spot x="381.18112" y="191.67708" z="145.89180" h="0" walker_id="npcpathidcromede_world1_2"/>
+            <spot x="521.43210" y="256.33185" z="142.75812" h="0" walker_id="npcpathidcromede_10"/>
+        </spawn>
+        <!-- idcromede_01_key_cyclops_worker_38_an -->
+        <spawn npc_id="216967">
+            <spot x="391.2945" y="209.22015" z="145.85399" h="15"/>
+        </spawn>
+        <!-- idcromede_01_named_hierarch_38_an -->
+        <spawn npc_id="216968">
+            <spot x="352.06934" y="170.17793" z="146.22021" h="75"/>
+        </spawn>
+        <!-- idcromede_2low_prisonerwoman1_38_an -->
+        <spawn npc_id="216970">
+            <spot x="646.1768" y="615.59393" z="201.19109" h="0"/>
+            <spot x="645.52496" y="656.3329" z="201.19109" h="0"/>
+        </spawn>
+        <!-- idcromede_2low_prisonerman2_38_an -->
+        <spawn npc_id="216971">
+            <spot x="642.6354" y="600.21155" z="201.19109" h="0"/>
+            <spot x="651.7999" y="653.3091" z="201.19109" h="0"/>
+            <spot x="662.97943" y="596.97687" z="201.19109" h="31"/>
+            <spot x="649.3176" y="594.8026" z="201.19109" h="30"/>
+        </spawn>
+        <!-- idcromede_2low_prisonerwoman2_38_an -->
+        <spawn npc_id="216972">
+            <spot x="642.1069" y="665.2642" z="201.19109" h="0"/>
+            <spot x="655.0497" y="656.039" z="201.19109" h="0"/>
+            <spot x="666.6209" y="596.8349" z="201.19109" h="31"/>
+        </spawn>
+        <!-- idcromede_2low_mguard1_38_an -->
+        <spawn npc_id="216973">
+            <spot x="687.91974" y="505.86328" z="197.90062" h="0"/>
+            <spot x="730.8245" y="546.42615" z="198.53848" h="79"/>
+        </spawn>
+        <!-- idcromede_2low_rguard1_38_an -->
+        <spawn npc_id="216974">
+            <spot x="723.3063" y="524.74756" z="197.8742" h="98"/>
+            <spot x="729.60657" y="544.5235" z="198.53848" h="19"/>
+        </spawn>
+        <!-- idcromede_2low_mguard2_38_an -->
+        <spawn npc_id="216975">
+            <spot x="709.8857" y="523.5022" z="197.88681" h="51"/>
+        </spawn>
+        <!-- idcromede_2low_rguard2_38_an -->
+        <spawn npc_id="216976">
+            <spot x="710.00665" y="543.1917" z="197.88681" h="75"/>
+        </spawn>
+        <!-- idcromede_2low_servantman_38_an -->
+        <spawn npc_id="216977">
+            <spot x="713.63790" y="515.34155" z="197.87420" h="0" walker_id="npcpathidcromede_02low14"/>
+            <spot x="725.90356" y="547.73160" z="197.87420" h="0" walker_id="npcpathidcromede_02low15"/>
+        </spawn>
+        <!-- idcromede_2low_servantwoman_38_an -->
+        <spawn npc_id="216978">
+            <spot x="740.6497" y="517.9979" z="198.73691" h="1"/>
+        </spawn>
+        <!-- idcromede_2low_manager_38_an -->
+        <spawn npc_id="216979">
+            <spot x="544.5372" y="639.83466" z="215.3561" h="0"/>
+        </spawn>
+        <!-- idcromede_2low_key_prisonguards_38_an -->
+        <spawn npc_id="216980">
+            <spot x="688.73100" y="643.11993" z="200.11990" h="0" walker_id="npcpathidcromede_mob3"/>
+        </spawn>
+        <!-- idcromede_2low_key_guardboss_38_an -->
+        <spawn npc_id="216981">
+            <spot x="739.65717" y="532.1086" z="199.31773" h="60"/>
+        </spawn>
+        <!-- idcromede_2low_trigger_torture_38_an -->
+        <spawn npc_id="216982">
+            <spot x="750.29816" y="625.119" z="197.54474" h="50"/>
+        </spawn>
+        <!-- idcromede_2up_servantmana_38_an -->
+        <spawn npc_id="216983">
+            <spot x="507.21515" y="589.21783" z="215.5286" h="30"/>
+            <spot x="535.27576" y="702.71704" z="215.55" h="60"/>
+            <spot x="507.09604" y="780.6852" z="215.97673" h="83"/>
+			<spot x="498.80328" y="692.41064" z="215.52860" h="0" walker_id="npcpathidcromede_02up28"/>
+            <spot x="551.64230" y="642.19070" z="215.00104" h="0" walker_id="npcpathidcromede_02up31"/>
+        </spawn>
+        <!-- idcromede_2up_servantwomana_38_an -->
+        <spawn npc_id="216984">
+            <spot x="494.2564" y="683.2696" z="215.5286" h="0"/>
+            <spot x="518.1677" y="589.216" z="215.5286" h="30"/>
+            <spot x="517.9284" y="780.37177" z="215.97673" h="96"/>
+			<spot x="529.92480" y="706.56880" z="215.52860" h="0" walker_id="npcpathidcromede_02up42"/>
+        </spawn>
+        <!-- idcromede_2up_servantmanb_38_an -->
+        <spawn npc_id="216985">
+            <spot x="580.6339" y="634.3646" z="208.13837" h="0"/>
+            <spot x="541.41705" y="658.56290" z="201.51580" h="0" walker_id="npcpathidcromede_02up36"/>
+            <spot x="596.80270" y="618.68164" z="208.98854" h="0" walker_id="npcpathidcromede_02up21"/>
+			<spot x="595.81050" y="658.45557" z="208.98890" h="0" walker_id="npcpathidcromede_02up45"/>
+        </spawn>
+        <!-- idcromede_2up_mguard1_38_an -->
+        <spawn npc_id="216987">
+            <spot x="494.78812" y="702.2527" z="215.55" h="0"/>
+            <spot x="513.9263" y="611.6774" z="214.99915" h="61"/>
+            <spot x="559.25726" y="688.82166" z="215.5286" h="0"/>
+            <spot x="535.1151" y="721.2823" z="215.5286" h="46"/>
+            <spot x="513.8161" y="670.23193" z="214.99915" h="60"/>
+        </spawn>
+        <!-- idcromede_2up_rguard1_38_an -->
+        <spawn npc_id="216988">
+            <spot x="571.56067" y="769.8901" z="215.56647" h="90"/>
+            <spot x="557.70386" y="755.0237" z="225.7734" h="90"/>
+            <spot x="577.69220" y="824.10223" z="225.78215" h="0" walker_id="npcpathidcromede_02up33"/>
+            <spot x="562.42255" y="783.82230" z="215.88855" h="0" walker_id="npcpathidcromede_02up32"/>
+        </spawn>
+        <!-- idcromede_2up_mguard2_38_an -->
+        <spawn npc_id="216989">
+            <spot x="500.90088" y="754.3457" z="215.5286" h="0"/>
+            <spot x="524.2423" y="771.226" z="215.5286" h="0"/>
+            <spot x="501.83328" y="770.1322" z="215.5286" h="0"/>
+            <spot x="525.25336" y="756.42163" z="215.5286" h="51"/>
+        </spawn>
+        <!-- idcromede_2up_rguard2_38_an -->
+        <spawn npc_id="216990">
+            <spot x="504.0414" y="765.1647" z="215.5286" h="0"/>
+        </spawn>
+        <!-- idcromede_2up_gardener1_38_an -->
+        <spawn npc_id="216991">
+            <spot x="528.8164" y="653.4814" z="201.7365" h="12"/>
+            <spot x="496.4965" y="657.73785" z="201.71399" h="56"/>
+            <spot x="492.28998" y="631.58795" z="201.50766" h="89"/>
+        </spawn>
+        <!-- idcromede_2up_gardener2_38_an -->
+        <spawn npc_id="216992">
+            <spot x="533.5264" y="627.26874" z="201.62198" h="90"/>
+            <spot x="507.18024" y="619.31354" z="201.48755" h="5"/>
+            <spot x="510.02847" y="655.39430" z="201.49323" h="0" walker_id="npcpathidcromede_02up40"/>
+        </spawn>
+		<!-- idcromede_2up_chef1_38_an -->
+        <spawn npc_id="216994">
+            <spot x="521.04395" y="778.27520" z="215.97673" h="0" walker_id="npcpathidcromede_02up15_1"/>
+        </spawn>
+		<!-- idcromede_2up_chef2_38_an -->
+        <spawn npc_id="216995">
+            <spot x="505.10340" y="779.02300" z="215.97673" h="0" walker_id="npcpathidcromede_02up43_2"/>
+        </spawn>
+        <!-- idcromede_2up_housemaid_38_an -->
+        <spawn npc_id="216996">
+            <spot x="586.74100" y="640.75616" z="208.44672" h="0" walker_id="npcpathidcromede_02up19"/>
+        </spawn>
+        <!-- idcromede_2up_tog_38_an -->
+        <spawn npc_id="216997">
+            <spot x="498.08185" y="652.25500" z="201.53146" h="0" walker_id="npcpathidcromede_02up1"/>
+        </spawn>
+        <!-- idcromede_2up_key_butler_38_an -->
+        <spawn npc_id="216999">
+            <spot x="585.9432" y="774.20966" z="215.57028" h="0"/>
+        </spawn>
+        <!-- idcromede_2up_trigger_wife_38_an -->
+        <spawn npc_id="217000">
+            <spot x="512.48517" y="571.4" z="216.88846" h="29"/>
+        </spawn>
+        <!-- idcromede_2up_trigger_assijudge_38_an -->
+        <spawn npc_id="217002">
+            <spot x="567.9262" y="835.82404" z="225.82628" h="30"/>
+        </spawn>
+        <!-- idcromede_2low_prisonerman3_38_an -->
+        <spawn npc_id="217026">
+            <spot x="645.3802" y="646.1737" z="201.19109" h="0"/>
+            <spot x="663.79205" y="645.47235" z="201.19109" h="14"/>
+            <spot x="651.69055" y="645.27374" z="201.19109" h="0" walker_id="npcpathidcromede_02low17"/>
+            <spot x="652.28180" y="606.73950" z="201.19109" h="0" walker_id="npcpathidcromede_02low16"/>
+        </spawn>
+        <!-- idcromede_2low_prisonerwoman3_38_an -->
+        <spawn npc_id="217027">
+            <spot x="645.6742" y="603.3673" z="201.19109" h="0"/>
+			<spot x="662.55030" y="611.87840" z="201.19109" h="0" walker_id="npcpathidcromede_02low19"/>
+            <spot x="661.43134" y="655.90140" z="201.19109" h="0" walker_id="npcpathidcromede_02low18"/>
+        </spawn>
+        <!-- idcromede_2low_mguard3_38_an -->
+        <spawn npc_id="217028">
+            <spot x="675.49927" y="606.51917" z="201.19109" h="0"/>
+            <spot x="679.1647" y="629.1043" z="201.05258" h="0"/>
+            <spot x="673.8558" y="651.0355" z="201.19109" h="0"/>
+            <spot x="693.0452" y="530.59924" z="197.90062" h="60"/>
+            <spot x="638.4882" y="588.08044" z="209.04085" h="90"/>
+        </spawn>
+        <!-- idcromede_2low_rguard3_38_an -->
+        <spawn npc_id="217029">
+            <spot x="694.7424" y="623.84863" z="200.1199" h="42"/>
+            <spot x="689.09510" y="510.92224" z="197.90556" h="0" walker_id="npcpathidcromede_mob4"/>
+        </spawn>
+        <!-- idcromede_2low_prisonguards_38_an -->
+        <spawn npc_id="217030">
+            <spot x="655.17487" y="581.58344" z="198.92555" h="24"/>
+        </spawn>
+        <!-- idcromede_2up_servantwomanc_38_an  -->
+        <spawn npc_id="217031">
+            <spot x="606.0431" y="624.0882" z="208.98907" h="0"/>
+            <spot x="605.8997" y="656.4058" z="208.98906" h="0"/>
+            <spot x="591.70654" y="577.9151" z="208.9933" h="103"/>
+            <spot x="576.1647" y="646.502" z="208.14114" h="75"/>
+        </spawn>
+        <!-- idcromede_2up_mguard3_38_an -->
+        <spawn npc_id="217033">
+            <spot x="494.79144" y="699.9309" z="215.55" h="0"/>
+            <spot x="511.56604" y="611.6482" z="214.99915" h="0"/>
+            <spot x="511.46375" y="670.2571" z="214.99915" h="0"/>
+            <spot x="561.22345" y="688.77057" z="215.5286" h="60"/>
+            <spot x="533.12384" y="723.10944" z="215.5286" h="105"/>
+        </spawn>
+        <!-- idcromede_2up_rguard3_38_an -->
+        <spawn npc_id="217034">
+            <spot x="581.6134" y="757.81915" z="215.53482" h="90"/>
+            <spot x="571.1213" y="798.04913" z="215.53482" h="90"/>
+            <spot x="556.653" y="817.42883" z="225.78215" h="41"/>
+            <spot x="585.6278" y="808.6342" z="225.78215" h="103"/>
+            <spot x="582.0854" y="797.7192" z="225.77342" h="6"/>
+			<spot x="559.78750" y="813.70240" z="225.78215" h="0" walker_id="npcpathidcromede_02up34"/>
+            <spot x="558.02770" y="768.83900" z="215.55212" h="0" walker_id="npcpathidcromede_02up44"/>
+        </spawn>
+        <!-- idcromede_2up_mguard4_38_an -->
+        <spawn npc_id="217035">
+            <spot x="595.1304" y="639.506" z="208.44667" h="0"/>
+            <spot x="546.40295" y="657.0187" z="215.3561" h="113"/>
+            <spot x="544.8035" y="641.6206" z="215.3561" h="119"/>
+            <spot x="560.3448" y="616.91174" z="215.3561" h="30"/>
+            <spot x="610.89110" y="640.55320" z="208.98767" h="0" walker_id="npcpathidcromede_02up41"/>
+            <spot x="596.19525" y="608.64940" z="208.99330" h="0" walker_id="npcpathidcromede_mob5"/>
+            <spot x="531.92650" y="612.33936" z="201.58768" h="0" walker_id="npcpathidcromede_02up4"/>
+            <spot x="531.95374" y="668.53370" z="201.58723" h="0" walker_id="npcpathidcromede_02up39"/>
+        </spawn>
+        <!-- idcromede_2up_rguard4_38_an -->
+        <spawn npc_id="217036">
+            <spot x="595.12244" y="641.4727" z="208.4467" h="0"/>
+            <spot x="563.5476" y="662.7837" z="215.3561" h="74"/>
+            <spot x="546.255" y="623.70184" z="215.3561" h="6"/>
+			<spot x="626.34686" y="583.74220" z="208.99329" h="0" walker_id="npcpathidcromede_mob6"/>
+            <spot x="484.70676" y="621.18430" z="201.59500" h="0" walker_id="npcpathidcromede_02up2"/>
+        </spawn>
+		<!-- idcromede_2low_bat_38_an -->
+        <spawn npc_id="217109">
+            <spot x="638.6416" y="588.05536" z="209.04085" h="0" walker_id="npcpath_idcromede_2low_bat_01"/>
+        </spawn>
+        <!-- idcromede_2low_prisonerman4_38_an -->
+        <spawn npc_id="217113">
+            <spot x="668.36786" y="628.76514" z="201.19109" h="0"/>
+            <spot x="659.25916" y="633.6568" z="201.19109" h="89"/>
+        </spawn>
+        <!-- idcromede_2low_prisonerwoman4_38_an -->
+        <spawn npc_id="217114">
+            <spot x="650.2802" y="630.0307" z="201.19109" h="0"/>
+            <spot x="662.31464" y="622.99365" z="201.19109" h="29"/>
+        </spawn>
+        <!-- idcromede_2low_tog_38_an -->
+        <spawn npc_id="217115">
+            <spot x="738.7905" y="623.0411" z="196.77457" h="0" random_walk="1"/>
+            <spot x="723.59" y="633.545" z="196.77457" h="0" random_walk="1"/>
+			<spot x="723.32684" y="625.16780" z="196.77457" h="0" walker_id="npcpathidcromede_02low12"/>
+        </spawn>
+        <!-- idcromede_2up_mguard5_38_an -->
+        <spawn npc_id="217117">
+            <spot x="512.1932" y="706.12494" z="215.55972" h="0"/>
+            <spot x="512.0968" y="697.0641" z="215.55972" h="0"/>
+        </spawn>
+        <!-- idcromede_2up_rguard5_38_an -->
+        <spawn npc_id="217118">
+            <spot x="518.1245" y="701.69336" z="215.55972" h="0"/>
+        </spawn>
+        <!-- idcromede_2up_mguard6_38_an -->
+        <spawn npc_id="217130">
+            <spot x="609.3718" y="770.58014" z="215.58362" h="59"/>
+            <spot x="609.28143" y="778.24005" z="215.58362" h="59"/>
+        </spawn>
+        <!-- idcromede_2low_pettog_38_an -->
+        <spawn npc_id="217131">
+            <spot x="690.2756" y="505.93427" z="197.90062" h="61"/>
+        </spawn>
+        <!-- idcromede_2low_mguard4_38_an -->
+        <spawn npc_id="217134">
+            <spot x="685.169" y="661.9395" z="200.1199" h="0"/>
+        </spawn>
+        <!-- idcromede_2low_rguard4_38_an -->
+        <spawn npc_id="217135">
+            <spot x="689.8268" y="661.1661" z="200.1199" h="57"/>
+        </spawn>
+		
+		<!-- kromede_heal_me -->
+		<spawn npc_id="282092">
+		    <spot x="643.93500" y="795.35126" z="219.0564" h="0"/>
+		    <spot x="643.91718" y="753.29901" z="219.2851" h="0"/>
+		</spawn>
+        <!-- idcromede_unattack_statuem_38_an -->
+        <spawn npc_id="282126">
+            <spot x="613.88916" y="793.7428" z="216.09479" h="0"/>
+            <spot x="653.90796" y="793.66876" z="216.09479" h="0"/>
+            <spot x="653.92175" y="754.7974" z="216.09479" h="0"/>
+            <spot x="633.66956" y="793.66626" z="216.09479" h="0"/>
+            <spot x="623.76935" y="793.64795" z="216.09479" h="0"/>
+            <spot x="633.68335" y="754.7949" z="216.09479" h="0"/>
+            <spot x="623.78314" y="754.7766" z="216.09479" h="0"/>
+            <spot x="613.90295" y="754.87146" z="216.09479" h="0"/>
+        </spawn>
+        <!-- idcromede_stone_door -->
+        <spawn npc_id="700835">
+            <spot x="502.409210" y="345.996399" z="172.587433" entity_id="3"/>
+        </spawn>
+        <!-- idcromede_torture_door -->
+        <spawn npc_id="700922">
+            <spot x="711.599121" y="629.358582" z="197.542984" entity_id="320"/>
+        </spawn>
+        <!-- idcromede_bookcase_door_in -->
+        <spawn npc_id="700924">
+            <spot x="587.671082" y="774.231995" z="217.757614" entity_id="5"/>
+        </spawn>
+        <!-- idcromede_mansion_door_01 -->
+        <spawn npc_id="700926">
+            <spot x="560.931946" y="614.941284" z="216.368134" entity_id="80"/>
+        </spawn>
+        <!-- idcromede_mansion_door_02 -->
+        <spawn npc_id="700927">
+            <spot x="576.580322" y="800.753357" z="228.434158" entity_id="66"/>
+        </spawn>
+        <!-- idcromede_escape_door -->
+        <spawn npc_id="700928">
+            <spot x="680.778381" y="774.010132" z="218.845337" entity_id="105"/>
+        </spawn>
+		<!-- idcromede_npc_robstin -->
+        <spawn npc_id="700939">
+            <spot x="657.20074" y="585.7778" z="199.04715" h="0"/>
+        </spawn>
+        <!-- idcromede_prisonerman -->
+        <spawn npc_id="700946">
+            <spot x="754.1652" y="622.70197" z="197.54474" h="47"/>
+            <spot x="757.204" y="621.9196" z="197.54474" h="47"/>
+        </spawn>
+        <!-- idcromede_prisonerwoman -->
+        <spawn npc_id="700947">
+            <spot x="752.91296" y="620.31396" z="197.54474" h="47"/>
+            <spot x="754.51154" y="617.85156" z="197.17694" h="47"/>
+        </spawn>
+        <!-- idcromede_entrance_out -->
+        <spawn npc_id="700949">
+            <spot x="226.76628" y="252.532" z="191.75632" h="0"/>
+        </spawn>
+        <!-- idcromede_rotan_body -->
+        <spawn npc_id="700961">
+            <spot x="467.187653" y="351.885925" z="171.465439" entity_id="56"/>
+        </spawn>
+        <!-- idcromede_fobj_q18603 -->
+        <spawn npc_id="730308">
+            <spot x="350.283966" y="169.959595" z="147.850479" entity_id="6"/>
+        </spawn>
+        <!-- idcromede_statue_q18604 -->
+        <spawn npc_id="730309">
+            <spot x="462.528" y="353.395" z="171.347" h="90"/>
+        </spawn>
+        <!-- idcromede_flower_skill -->
+        <spawn npc_id="730325">
+            <spot x="492.224518" y="628.733032" z="203.963348" entity_id="79"/>
+        </spawn>
+        <!-- idcromede_sword -->
+        <spawn npc_id="730326">
+            <spot x="644.206421" y="763.198669" z="218.784897" entity_id="206"/>
+        </spawn>
+        <!-- idcromede_2hsword -->
+        <spawn npc_id="730327">
+            <spot x="613.790710" y="784.886597" z="219.062210" entity_id="13"/>
+        </spawn>
+        <!-- idcromede_dagger -->
+        <spawn npc_id="730328">
+            <spot x="644.249939" y="784.973450" z="219.115250" entity_id="197"/>
+        </spawn>
+        <!-- idcromede_polearm -->
+        <spawn npc_id="730329">
+            <spot x="653.365601" y="784.778381" z="219.202881" entity_id="200"/>
+        </spawn>
+        <!-- idcromede_bow -->
+        <spawn npc_id="730330">
+            <spot x="634.267456" y="785.091858" z="219.015915" entity_id="195"/>
+        </spawn>
+        <!-- idcromede_mace -->
+        <spawn npc_id="730331">
+            <spot x="653.249084" y="763.350830" z="218.938538" entity_id="202"/>
+        </spawn>
+        <!-- idcromede_staff -->
+        <spawn npc_id="730332">
+            <spot x="623.643860" y="763.160156" z="218.734207" entity_id="260"/>
+        </spawn>
+        <!-- idcromede_book -->
+        <spawn npc_id="730333">
+            <spot x="623.599060" y="784.950256" z="218.028198" entity_id="193"/>
+        </spawn>
+        <!-- idcromede_orb -->
+        <spawn npc_id="730334">
+            <spot x="634.113647" y="763.342651" z="219.014191" entity_id="208"/>
+        </spawn>
+        <!-- idcromede_shield -->
+        <spawn npc_id="730335">
+            <spot x="613.669800" y="763.253723" z="219.096542" entity_id="268"/>
+        </spawn>
+        <!-- idcromede_buff_fountain -->
+        <spawn npc_id="730336">
+            <spot x="512.254456" y="640.270020" z="210.171280" entity_id="14"/>
+        </spawn>
+        <!-- idcromede_buff_basket -->
+        <spawn npc_id="730337">
+            <spot x="522.862793" y="755.249390" z="217.167847" entity_id="70"/>
+        </spawn>
+        <!-- idcromede_buff_dish -->
+        <spawn npc_id="730338">
+            <spot x="503.469666" y="769.131531" z="217.360291" entity_id="69"/>
+        </spawn>
+        <!-- idcromede_buff_statue -->
+        <spawn npc_id="730339">
+            <spot x="591.206482" y="640.570496" z="211.845917" entity_id="15"/>
+        </spawn>
+        <!-- idcromede_box_skill -->
+        <spawn npc_id="730340">
+            <spot x="741.755127" y="530.597046" z="199.657013" entity_id="319"/>
+        </spawn>
+        <!-- idcromede_potion_skill -->
+        <spawn npc_id="730341">
+            <spot x="542.481018" y="641.374512" z="217.311401" entity_id="553"/>
+        </spawn>
+	</spawn_map>
+</spawns>

@@ -1,0 +1,78 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+<!--
+    Quest Taloc Hollow
+	Make By Encom
+ -->
+	<!-- For What Ails You -->
+    <report_to id="11451" start_npc_ids="798952" end_npc_ids="798933"/>
+    <!-- Last Part Of The Cure -->
+	<item_collecting id="11452" start_npc_ids="798933"/>
+	<!-- Fruit Of My Labor -->
+	<report_to id="11453" start_npc_ids="798933" end_npc_ids="799070"/>
+	<!-- The Ripe Stuff -->
+	<item_collecting id="11454" start_npc_ids="799070"/>
+	<!-- Wood-n't You Know It ? -->
+	<item_collecting id="11457" start_npc_ids="798953" action_item_ids="700635"/>
+	<!-- The Exterminator -->
+	<monster_hunt id="11456" start_npc_ids="798954">
+		<monster var="0" npc_ids="215454 215455 215456 215457 215458 215459" end_var="100"/>
+		<monster var="0" npc_ids="215460 215461 215462 215463 215464 215465" end_var="100"/>
+		<monster var="0" npc_ids="215466 215467 215482 216133 216134 216135" end_var="100"/>
+		<monster var="0" npc_ids="216136 216137 216138 216139 216140 216141" end_var="100"/>
+		<monster var="0" npc_ids="216142 216143 216144 216145 216146 216459 216460" end_var="100"/>
+	</monster_hunt>
+	<!-- The Balance -->
+	<monster_hunt id="11459" start_npc_ids="798952">
+		<monster var="0" npc_ids="215468 215469 215470 215471 215472 215473" end_var="40"/>
+		<monster var="0" npc_ids="215474 215475 215476 215477 215478 215479 215480" end_var="40"/>
+	</monster_hunt>
+	<!-- The Shulack Of Taloc -->
+	<report_to_many id="11460" start_npc_ids="798954" end_npc_ids="798985" start_dialog_id="1011">
+        <npc_infos npc_id="799502" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="798985" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- What Book ? -->
+    <item_collecting id="11461" start_npc_ids="799502" end_npc_ids="798955" action_item_ids="700636"/>
+	<!-- The Wounds Of Change -->
+	<item_collecting id="11464" start_npc_ids="799526" end_npc_ids="799503" action_item_ids="700634"/>
+	<!-- Blood Mark The Spot -->
+	<item_order id="11465" start_item_id="182209523" end_npc_id="279000"/>
+	<!-- A Hard Seed To Crack -->
+	<item_order id="11466" start_item_id="182209524" end_npc_id="279000"/>
+	
+	<!-- Intervention -->
+	<report_to id="21451" start_npc_ids="799248" end_npc_ids="799240"/>
+	<!-- Searching For A Cure -->
+	<item_collecting id="21452" start_npc_ids="799240"/>
+	<!-- Miener's Fruit -->
+	<report_to id="21453" start_npc_ids="799240" end_npc_ids="799404"/>
+	<!-- A Fruitful Endeavor -->
+	<item_collecting id="21454" start_npc_ids="799404"/>
+	<!-- Heart Of Wood -->
+	<item_collecting id="21457" start_npc_ids="799249" action_item_ids="700635"/>
+	<!-- Research On Mutant Insects -->
+	<monster_hunt id="21456" start_npc_ids="799247">
+		<monster var="0" npc_ids="215454 215455 215456 215457 215458 215459" end_var="100"/>
+		<monster var="0" npc_ids="215460 215461 215462 215463 215464 215465" end_var="100"/>
+		<monster var="0" npc_ids="215466 215467 215482 216133 216134 216135" end_var="100"/>
+		<monster var="0" npc_ids="216136 216137 216138 216139 216140 216141" end_var="100"/>
+		<monster var="0" npc_ids="216142 216143 216144 216145 216146 216459 216460" end_var="100"/>
+	</monster_hunt>
+	<!-- Taloc's Boughs -->
+	<monster_hunt id="21459" start_npc_ids="799250">
+		<monster var="0" npc_ids="215468 215469 215470 215471 215472 215473" end_var="40"/>
+		<monster var="0" npc_ids="215474 215475 215476 215477 215478 215479 215480" end_var="40"/>
+	</monster_hunt>
+	<!-- A Shulack Story -->
+	<report_to_many id="21460" start_npc_ids="799258" end_npc_ids="799276" start_dialog_id="1011">
+        <npc_infos npc_id="799502" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="799276" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- The Lost Tome -->
+	<item_collecting id="21461" start_npc_ids="799502" end_npc_ids="799256" action_item_ids="700636"/>
+	<!-- Soiled Soil -->
+	<item_collecting id="21464" start_npc_ids="799526" end_npc_ids="799503" action_item_ids="700634"/>
+	<!-- Mysterious Seed -->
+	<item_order id="21465" start_item_id="182209527" end_npc_id="279000"/>
+</quest_scripts>

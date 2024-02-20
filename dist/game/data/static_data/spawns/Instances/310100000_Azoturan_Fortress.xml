@@ -1,0 +1,339 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Azoturan Fortress
+	Re-newed By Rinzler
+ -->
+<spawns>
+    <spawn_map map_id="310100000">
+        <!-- acestes -->
+        <spawn npc_id="204652">
+            <spot x="309.7155" y="335.93845" z="1019.05304" h="27"/>
+        </spawn>
+        <!-- peitho -->
+        <spawn npc_id="204653">
+            <spot x="584.7704" y="508.95953" z="1186.5065" h="76"/>
+        </spawn>
+		
+        <!-- idlf3cl_kuillus_43_ae -->
+        <spawn npc_id="219124">
+            <spot x="343.20282" y="343.9289" z="1012.33057" h="0" random_walk="1"/>
+            <spot x="450.18985" y="533.1565" z="990.0529" h="0" random_walk="1"/>
+            <spot x="518.233" y="283.53284" z="1000.67664" h="0" random_walk="1"/>
+            <spot x="594.87384" y="478.98428" z="991.04193" h="0" random_walk="1"/>
+            <spot x="507.5414" y="595.0796" z="981.69226" h="0" random_walk="1"/>
+            <spot x="394.92972" y="395.0214" z="1037.5935" h="0" random_walk="1"/>
+            <spot x="387.08124" y="429.27914" z="1035.9318" h="0" random_walk="1"/>
+            <spot x="688.1588" y="719.473" z="962.84406" h="0" random_walk="1"/>
+            <spot x="672.1522" y="708.2734" z="964.4004" h="0" random_walk="1"/>
+            <spot x="609.6997" y="659.0804" z="968.1804" h="0" random_walk="1"/>
+            <spot x="312.9503" y="460.1286" z="1007.5946" h="0" random_walk="1"/>
+            <spot x="688.6662" y="602.0391" z="973.05756" h="0" random_walk="1"/>
+            <spot x="280.92584" y="451.61102" z="1011.5373" h="0" random_walk="1"/>
+            <spot x="657.6327" y="413.21808" z="998.1574" h="0" random_walk="1"/>
+            <spot x="570.24054" y="506.4699" z="991.5854" h="0" random_walk="1"/>
+            <spot x="689.747" y="700.2914" z="962.4882" h="0" random_walk="1"/>
+            <spot x="611.1771" y="673.94775" z="969.0575" h="0" random_walk="1"/>
+            <spot x="363.31317" y="450.32205" z="997.10614" h="0" random_walk="1"/>
+            <spot x="512.84717" y="551.01526" z="990.3839" h="0" random_walk="1"/>
+            <spot x="564.792" y="489.07593" z="993.38385" h="0" random_walk="1"/>
+            <spot x="673.4969" y="324.08612" z="1007.7335" h="0" random_walk="1"/>
+            <spot x="681.64825" y="368.5193" z="1001.7597" h="0" random_walk="1"/>
+            <spot x="223.15347" y="376.04782" z="1022.895" h="0" random_walk="1"/>
+            <spot x="258.17905" y="393.8334" z="1020.30804" h="0" random_walk="1"/>
+            <spot x="221.62634" y="405.07056" z="1023.02563" h="0" random_walk="1"/>
+            <spot x="235.99582" y="387.98346" z="1021.6286" h="0" random_walk="1"/>
+            <spot x="660.6802" y="348.56497" z="1001.89075" h="0" random_walk="1"/>
+            <spot x="325.99448" y="375.85944" z="1014.23315" h="0" random_walk="1"/>
+            <spot x="651.67145" y="464.5219" z="991.94086" h="0" random_walk="1"/>
+            <spot x="539.90546" y="696.1822" z="982.3061" h="0" random_walk="1"/>
+            <spot x="563.1212" y="698.8967" z="979.53564" h="0" random_walk="1"/>
+            <spot x="577.67395" y="734.5311" z="983.93445" h="0" random_walk="1"/>
+            <spot x="565.53735" y="287.70895" z="1005.6336" h="0" random_walk="1"/>
+            <spot x="624.3788" y="648.5652" z="967.01074" h="0" random_walk="1"/>
+            <spot x="690.7464" y="564.74005" z="976.9786" h="0" random_walk="1"/>
+            <spot x="280.39694" y="404.80862" z="1019.3007" h="0" random_walk="1"/>
+            <spot x="321.1592" y="412.41614" z="1013.20886" h="0" random_walk="1"/>
+            <spot x="698.03217" y="582.47473" z="975.3562" h="0" random_walk="1"/>
+            <spot x="584.3513" y="432.62958" z="994.6912" h="0" random_walk="1"/>
+            <spot x="688.987" y="453.73892" z="993.5893" h="0" random_walk="1"/>
+            <spot x="587.71136" y="312.27698" z="1003.83624" h="0" random_walk="1"/>
+            <spot x="332.02936" y="369.00467" z="1013.5803" h="0" random_walk="1"/>
+            <spot x="286.15005" y="363.8453" z="1019.12" h="0" random_walk="1"/>
+            <spot x="484.76114" y="593.9597" z="986.35046" h="0" random_walk="1"/>
+            <spot x="658.91925" y="376.15363" z="999.7171" h="0" random_walk="1"/>
+            <spot x="413.22705" y="324.78116" z="1001.1127" h="0" random_walk="1"/>
+            <spot x="625.6263" y="309.05194" z="1005.8561" h="0" random_walk="1"/>
+            <spot x="494.8986" y="555.5034" z="990.0999" h="0" random_walk="1"/>
+            <spot x="689.6161" y="531.5483" z="982.16895" h="0" random_walk="1"/>
+            <spot x="658.6763" y="394.69403" z="999.06586" h="0" random_walk="1"/>
+            <spot x="556.085" y="472.94974" z="992.78046" h="0" random_walk="1"/>
+            <spot x="673.96564" y="689.29584" z="964.2306" h="0" random_walk="1"/>
+            <spot x="468.76422" y="564.09607" z="987.8042" h="0" random_walk="1"/>
+            <spot x="560.53973" y="513.68225" z="990.9469" h="0" random_walk="1"/>
+            <spot x="468.71487" y="537.8327" z="990.22034" h="0" random_walk="1"/>
+        </spawn>
+        <!-- idlf3cl_kuillus_44_ae -->
+        <spawn npc_id="214505">
+            <spot x="243.18611" y="403.89236" z="1020.42065" h="0" random_walk="1"/>
+            <spot x="233.48535" y="362.2779" z="1022.3241" h="0" random_walk="1"/>
+            <spot x="569.2262" y="717.50055" z="982.5081" h="0" random_walk="1"/>
+            <spot x="584.53906" y="713.8839" z="979.97015" h="0" random_walk="1"/>
+            <spot x="606.8830" y="724.2788" z="977.9089" h="0" random_walk="1"/>
+            <spot x="589.7113" y="688.83734" z="973.54865" h="0" random_walk="1"/>
+        </spawn>
+        <!-- idlf3cl_lehparpet_kuillus_43_ae -->
+        <spawn npc_id="214506">
+            <spot x="425.34256" y="337.42465" z="999.3832" h="70"/>
+			<spot x="478.77770" y="282.78340" z="1001.0380" h="0" walker_id="npcpathidlf3_castle_lehpar_mob1_4"/>
+			<spot x="643.41250" y="362.67640" z="998.80640" h="0" walker_id="npcpathidlf3_castle_lehpar_mob1_12"/>
+			<spot x="489.72280" y="584.94110" z="985.79000" h="0" walker_id="npcpathidlf3_castle_lehpar_mob1_15"/>
+        </spawn>
+        <!-- idlf3cl_lehparpet_kuillus_44_ae -->
+        <spawn npc_id="214507">
+            <spot x="506.55582" y="253.59634" z="1001.94366" h="26"/>
+            <spot x="609.9627" y="703.84845" z="973.78754" h="68"/>
+            <spot x="535.0969" y="623.2648" z="974.6104" h="74"/>
+            <spot x="520.3730" y="513.98413" z="989.48285" h="24"/>
+            <spot x="255.58978" y="354.37485" z="1024.5353" h="11"/>
+        </spawn>
+        <!-- idlf3cl_pretorgreen_43_ae -->
+        <spawn npc_id="214508">
+            <spot x="501.6333" y="304.1953" z="1000.9773" h="0" random_walk="1"/>
+        </spawn>
+        <!-- idlf3cl_pretorgreen_44_ae -->
+        <spawn npc_id="214509">
+            <spot x="508.94946" y="337.00534" z="998.3239" h="0" random_walk="1"/>
+            <spot x="426.60608" y="486.3168" z="988.6001" h="33"/>
+        </spawn>
+        <!-- idlf3cl_lehparpet_pretorgreen_43_ae -->
+        <spawn npc_id="214510">
+            <spot x="378.87344" y="328.3324" z="1005.0126" h="44"/>
+            <spot x="453.53918" y="287.67596" z="999.8993" h="22"/>
+            <spot x="432.85263" y="549.1125" z="988.08167" h="100"/>
+			<spot x="539.98190" y="604.21200" z="977.94100" h="0" walker_id="npcpathidlf3_castle_lehpar_mob1_2"/>
+			<spot x="673.63600" y="486.19330" z="987.69510" h="0" walker_id="npcpathidlf3_castle_lehpar_mob1_5"/>
+			<spot x="661.27830" y="311.14390" z="1007.7910" h="0" walker_id="npcpathidlf3_castle_lehpar_mob1_9"/>
+			<spot x="558.56020" y="300.30560" z="1003.2570" h="0" walker_id="npcpathidlf3_castle_lehpar_mob1_10"/>
+			<spot x="486.49216" y="560.62590" z="990.12090" h="0" walker_id="npcpathidlf3_castle_lehpar_mob1_14"/>
+			<spot x="343.68420" y="483.50530" z="1000.6380" h="0" walker_id="npcpathidlf3_castle_lehpar_mob1_16"/>
+        </spawn>
+        <!-- idlf3cl_lehparpet_pretorgreen_44_ae -->
+        <spawn npc_id="214511">
+            <spot x="590.5955" y="283.28528" z="1008.60364" h="35"/>
+            <spot x="635.9045" y="671.2966" z="966.51117" h="65"/>
+            <spot x="463.29282" y="585.7372" z="990.14185" h="27"/>
+            <spot x="535.4406" y="554.1001" z="987.2947" h="83"/>
+            <spot x="298.86563" y="471.91052" z="1007.7583" h="84"/>
+        </spawn>
+        <!-- idlf3cl_pretorviolet_43_ae -->
+        <spawn npc_id="214512">
+            <spot x="515.3565" y="349.9762" z="997.6778" h="0" random_walk="1"/>
+            <spot x="560.6888" y="338.6325" z="999.0072" h="92"/>
+        </spawn>
+        <!-- idlf3cl_pretorviolet_44_ae -->
+        <spawn npc_id="214513">
+            <spot x="469.02597" y="323.52414" z="1000.8059" h="0" random_walk="1"/>
+            <spot x="563.60187" y="338.70135" z="998.9453" h="92"/>
+            <spot x="423.7296" y="485.79364" z="988.6789" h="33"/>
+			<spot x="585.70746" y="341.30197" z="999.91833" h="0" walker_id="npcpathidlf3_castle_lehpar_mob1_17"/>
+        </spawn>
+        <!-- idlf3cl_lehparpet_pretorviolet_43_ae -->
+        <spawn npc_id="214514">
+            <spot x="679.3692" y="396.13242" z="998.69293" h="71"/>
+            <spot x="570.96277" y="661.6516" z="970.2414" h="33"/>
+            <spot x="493.47278" y="532.5899" z="990.90784" h="49"/>
+            <spot x="537.4946" y="300.0623" z="1001.5806" h="73"/>
+        </spawn>
+        <!-- idlf3cl_lehparwabreeder_44_ae -->
+        <spawn npc_id="214516">
+            <spot x="377.00723" y="328.28653" z="1005.4623" h="44"/>
+            <spot x="451.5755" y="289.06216" z="999.84827" h="18"/>
+            <spot x="593.1206" y="283.82388" z="1008.8232" h="41"/>
+            <spot x="636.3549" y="669.20746" z="966.3502" h="65"/>
+            <spot x="465.00284" y="585.3491" z="989.9751" h="25"/>
+            <spot x="537.8011" y="553.2056" z="987.1584" h="84"/>
+            <spot x="430.89038" y="548.32996" z="988.3092" h="97"/>
+            <spot x="297.1499" y="472.3101" z="1007.7818" h="86"/>
+			<spot x="539.98190" y="604.21200" z="977.94100" h="0" walker_id="npcpathidlf3_castle_lehpar_mob1_2"/>
+			<spot x="673.63600" y="486.19330" z="987.69510" h="0" walker_id="npcpathidlf3_castle_lehpar_mob1_5"/>
+			<spot x="661.27830" y="311.14390" z="1007.7910" h="0" walker_id="npcpathidlf3_castle_lehpar_mob1_9"/>
+			<spot x="558.56020" y="300.30560" z="1003.2570" h="0" walker_id="npcpathidlf3_castle_lehpar_mob1_10"/>
+			<spot x="486.49216" y="560.62590" z="990.12090" h="0" walker_id="npcpathidlf3_castle_lehpar_mob1_14"/>
+			<spot x="343.68420" y="483.50530" z="1000.6380" h="0" walker_id="npcpathidlf3_castle_lehpar_mob1_16"/>
+        </spawn>
+        <!-- idlf3cl_lehparwa_44_ae -->
+        <spawn npc_id="219133">
+            <spot x="454.45966" y="362.8885" z="1036.4016" h="0" random_walk="1"/>
+            <spot x="495.03726" y="363.81387" z="1039.0653" h="0" random_walk="1"/>
+            <spot x="490.24326" y="493.53754" z="1036.8379" h="0" random_walk="1"/>
+            <spot x="412.07468" y="463.0235" z="1036.0438" h="0" random_walk="1"/>
+            <spot x="696.13086" y="341.23862" z="1007.49805" h="58"/>
+            <spot x="714.1008" y="533.8633" z="984.0475" h="52"/>
+			<spot x="362.35880" y="411.61730" z="1036.6180" h="0" walker_id="npcpathidlf3_castle_lehpar_mob1_8"/>
+			<spot x="590.42070" y="479.40390" z="991.87570" h="0" walker_id="npcpathidlf3_castle_lehpar_mob1_11"/>
+            <spot x="489.30320" y="418.00290" z="1038.6572" h="0" walker_id="npcpathidlf3_castle_lehpar_mob2_2"/>
+			<spot x="484.28660" y="447.74770" z="1038.6603" h="0" walker_id="npcpathidlf3_castle_lehpar_mob2_3"/>
+			<spot x="467.37180" y="472.96730" z="1046.8586" h="0" walker_id="npcpathidlf3_castle_lehpar_mob2_4"/>
+			<spot x="479.12950" y="388.19770" z="1046.8596" h="0" walker_id="npcpathidlf3_castle_lehpar_mob2_5"/>
+			<spot x="484.56160" y="463.72160" z="1043.0238" h="0" walker_id="npcpathidlf3_castle_lehpar_mob2_7"/>
+			<spot x="479.88530" y="431.12640" z="1031.7080" h="0" walker_id="npcpathidlf3_castle_lehpar_mob2_8"/>
+			<spot x="485.31450" y="400.84090" z="1022.5658" h="0" walker_id="npcpathidlf3_castle_lehpar_mob3_2"/>
+        </spawn>
+        <!-- idlf3cl_lehparwa_45_ae -->
+        <spawn npc_id="219134">
+            <spot x="401.8658" y="417.19727" z="1036.6946" h="59"/>
+            <spot x="400.9674" y="424.52625" z="1036.537" h="63"/>
+            <spot x="544.8105" y="436.57016" z="1036.108" h="0"/>
+            <spot x="544.4983" y="442.92813" z="1036.2476" h="1"/>
+            <spot x="455.53644" y="400.92828" z="990.7089" h="40"/>
+            <spot x="421.93976" y="425.42914" z="990.6159" h="115"/>
+            <spot x="452.30273" y="432.79987" z="993.3726" h="74"/>
+            <spot x="454.96204" y="430.60745" z="993.3726" h="79"/>
+			<spot x="446.56420" y="422.92510" z="991.53930" h="0" walker_id="npcpathidlf3_castle_lehpar_mob3_0"/>
+			<spot x="466.38220" y="416.76860" z="991.53930" h="0" walker_id="npcpathidlf3_castle_lehpar_mob3_1"/>
+			<spot x="436.68440" y="442.18830" z="991.53930" h="0" walker_id="npcpathidlf3_castle_lehpar_mob3_3"/>
+        </spawn>
+        <!-- idlf3cl_lehparwi_44_ae -->
+        <spawn npc_id="214519">
+            <spot x="696.4185" y="344.16547" z="1006.95685" h="58"/>
+            <spot x="639.16956" y="387.8120" z="998.1229" h="15"/>
+            <spot x="657.8891" y="489.58203" z="986.66644" h="97"/>
+            <spot x="636.7973" y="572.2491" z="980.30383" h="26"/>
+            <spot x="634.66046" y="572.85004" z="980.255" h="25"/>
+            <spot x="475.03256" y="373.9019" z="1046.8202" h="92"/>
+            <spot x="471.5325" y="486.36948" z="1046.8201" h="33"/>
+            <spot x="498.08292" y="386.88596" z="1020.8383" h="66"/>
+            <spot x="482.72354" y="382.01816" z="1020.8383" h="6"/>
+        </spawn>
+        <!-- idlf3cl_lehparwi_45_ae -->
+        <spawn npc_id="219135">
+            <spot x="465.90918" y="429.09158" z="1031.7946" h="2"/>
+            <spot x="445.18054" y="448.93277" z="993.3726" h="62"/>
+            <spot x="473.2578" y="425.87866" z="993.3726" h="93"/>
+			<spot x="446.56420" y="422.92510" z="991.53930" h="0" walker_id="npcpathidlf3_castle_lehpar_mob3_0"/>
+        </spawn>
+        <!-- idlf3cl_lehparasbreeder_44_ae -->
+        <spawn npc_id="214521">
+            <spot x="424.2694" y="339.09277" z="999.1893" h="70"/>
+            <spot x="508.77222" y="253.13387" z="1001.93066" h="28"/>
+            <spot x="609.16095" y="705.6364" z="974.2478" h="68"/>
+            <spot x="533.8070" y="624.70636" z="974.3283" h="87"/>
+            <spot x="518.33905" y="514.6283" z="989.3639" h="24"/>
+			<spot x="478.77770" y="282.78340" z="1001.0380" h="0" walker_id="npcpathidlf3_castle_lehpar_mob1_4"/>
+			<spot x="643.41250" y="362.67640" z="998.80640" h="0" walker_id="npcpathidlf3_castle_lehpar_mob1_12"/>
+			<spot x="489.72280" y="584.94110" z="985.79000" h="0" walker_id="npcpathidlf3_castle_lehpar_mob1_15"/>
+        </spawn>
+        <!-- idlf3cl_lehparas_44_ae -->
+        <spawn npc_id="219125">
+            <spot x="354.45087" y="428.00632" z="1002.9963" h="59"/>
+            <spot x="348.57596" y="380.7562" z="1010.3008" h="64"/>
+            <spot x="640.8001" y="385.7178" z="998.3085" h="14"/>
+            <spot x="660.4409" y="491.37125" z="986.45734" h="102"/>
+            <spot x="715.11224" y="536.4187" z="983.5897" h="54"/>
+            <spot x="481.52423" y="439.3804" z="1031.708" h="63"/>
+            <spot x="484.19507" y="424.25543" z="1031.5974" h="62"/>
+			<spot x="360.18854" y="348.95682" z="1008.6504" h="0" walker_id="npcpathidlf3_castle_lehpar_mob1_6"/>
+            <spot x="318.95544" y="436.80557" z="1031.6687" h="0" walker_id="npcpathidlf3_castle_lehpar_mob1_13"/>
+			<spot x="575.62760" y="429.22490" z="1029.6924" h="0" walker_id="npcpathidlf3_castle_lehpar_mob1_18"/>
+			<spot x="431.57922" y="394.65620" z="1008.7089" h="0" walker_id="npcpathidlf3_castle_lehpar_mob3_6"/>
+        </spawn>
+        <!-- idlf3cl_lehparas_45_ae -->
+        <spawn npc_id="219126">
+            <spot x="513.72437" y="482.4593" z="1036.6382" h="0" random_walk="1"/>
+            <spot x="439.52957" y="489.51508" z="1035.9904" h="0" random_walk="1"/>
+            <spot x="517.7733" y="383.75354" z="1039.9083" h="0" random_walk="1"/>
+            <spot x="426.29605" y="375.8671" z="1034.8325" h="0" random_walk="1"/>
+            <spot x="428.85718" y="405.21146" z="991.2871" h="16"/>
+            <spot x="432.64343" y="402.07013" z="991.2866" h="16"/>
+			<spot x="466.38220" y="416.76860" z="991.53930" h="0" walker_id="npcpathidlf3_castle_lehpar_mob3_1"/>
+			<spot x="436.68440" y="442.18830" z="991.53930" h="0" walker_id="npcpathidlf3_castle_lehpar_mob3_3"/>
+        </spawn>
+        <!-- idlf3cl_lehparashide_44_ae -->
+        <spawn npc_id="219127">
+            <spot x="451.62125" y="468.43457" z="1056.0637" h="0" walker_id="npcpathidlf3_castle_lehpar_mob2_0"/>
+			<spot x="461.72318" y="387.65040" z="1056.0519" h="0" walker_id="npcpathidlf3_castle_lehpar_mob2_1"/>
+            <spot x="456.24777" y="391.66663" z="1014.9949" h="0" walker_id="npcpathidlf3_castle_lehpar_mob3_5"/>
+        </spawn>
+        <!-- idlf3cl_lehparashide_45_ae -->
+        <spawn npc_id="219128">
+            <spot x="507.96426" y="413.89520" z="1051.0352" h="0" walker_id="npcpathidlf3_castle_lehpar_mob2_6"/>
+            <spot x="409.55110" y="429.99580" z="996.82227" h="0" walker_id="npcpathidlf3_castle_lehpar_mob3_4"/>
+        </spawn>
+        <!-- idlf3cl_lehparpr_45_ae -->
+        <spawn npc_id="219130">
+            <spot x="485.79523" y="375.26767" z="1046.8201" h="92"/>
+            <spot x="448.7082" y="427.02545" z="1038.6411" h="63"/>
+            <spot x="488.8482" y="429.5438" z="1039.9552" h="3"/>
+            <spot x="488.21188" y="434.75247" z="1039.9552" h="3"/>
+            <spot x="460.38895" y="485.18637" z="1046.8201" h="32"/>
+            <spot x="457.0877" y="401.81668" z="990.7038" h="40"/>
+            <spot x="422.42828" y="427.15674" z="990.61053" h="115"/>
+            <spot x="445.23868" y="446.94852" z="993.3726" h="61"/>
+            <spot x="471.52246" y="425.68118" z="993.3726" h="93"/>
+        </spawn>
+        <!-- idlf3cl_lehpartestresultm_44_ae -->
+        <spawn npc_id="219131">
+            <spot x="567.3037" y="460.5595" z="993.46936" h="0" random_walk="1"/>
+            <spot x="547.9119" y="500.30472" z="991.6495" h="0" random_walk="1"/>
+            <spot x="574.13025" y="433.17838" z="1030.6217" h="0" random_walk="1"/>
+            <spot x="354.1673" y="426.07108" z="1003.3752" h="58"/>
+            <spot x="348.79865" y="378.88956" z="1010.2359" h="63"/>
+            <spot x="368.49506" y="417.3797" z="1036.1256" h="64"/>
+            <spot x="368.70276" y="407.17" z="1037.035" h="57"/>
+            <spot x="560.05725" y="435.44998" z="1033.864" h="116"/>
+            <spot x="561.537" y="440.99814" z="1034.1252" h="116"/>
+            <spot x="454.23758" y="407.8939" z="1038.9758" h="32"/>
+            <spot x="449.07776" y="446.85107" z="1038.9758" h="93"/>
+            <spot x="495.7692" y="451.60364" z="1038.9758" h="92"/>
+            <spot x="500.5655" y="414.96252" z="1038.9758" h="32"/>
+			<spot x="332.22772" y="441.23280" z="1031.8837" h="0" walker_id="npcpathidlf3_castle_lehpar_mob1_0"/>
+        </spawn>
+        <!-- idlf3cl_lehpartestresultm_45_ae -->
+        <spawn npc_id="219132">
+            <spot x="543.1843" y="527.9368" z="989.72577" h="0" random_walk="1"/>
+            <spot x="594.843" y="461.25293" z="992.1405" h="0" random_walk="1"/>
+            <spot x="497.7339" y="411.75842" z="1051.1075" h="48"/>
+            <spot x="492.01926" y="455.27737" z="1051.1102" h="78"/>
+            <spot x="451.64792" y="451.3279" z="1051.6895" h="106"/>
+            <spot x="457.77536" y="404.44156" z="1051.6896" h="19"/>
+            <spot x="447.58023" y="411.94412" z="991.4402" h="40"/>
+            <spot x="436.17593" y="421.4126" z="991.3264" h="115"/>
+            <spot x="444.596" y="395.61572" z="990.29376" h="32"/>
+            <spot x="419.35925" y="413.47787" z="990.2911" h="4"/>
+            <spot x="327.75803" y="434.2333" z="1032.118" h="56"/>
+        </spawn>
+        <!-- idlf3cl_lehparwibreeder_44_ae -->
+        <spawn npc_id="214534">
+            <spot x="680.5219" y="394.37045" z="998.8508" h="70"/>
+            <spot x="569.1557" y="660.34796" z="970.1816" h="33"/>
+            <spot x="492.2005" y="530.50116" z="990.9587" h="48"/>
+            <spot x="538.6144" y="298.69894" z="1001.8249" h="72"/>
+        </spawn>
+        <!-- idlf3cl_lehparicaronixq_45_ah -->
+        <spawn npc_id="219129">
+            <spot x="460.74786" y="440.27396" z="993.0458" h="77"/>
+        </spawn>
+        <!-- idlf3cl_pretornamed_45_ae -->
+        <spawn npc_id="214800">
+            <spot x="584.7335" y="497.38422" z="990.9990" h="0" random_walk="1"/>
+        </spawn>
+        <!-- idlf3cl_lehparwinamed_45_ah -->
+        <spawn npc_id="214801">
+            <spot x="494.35367" y="372.28543" z="1021.2172" h="36"/>
+        </spawn>
+        <!-- idlf3cl_lehpartestresultmnamed_45_ah -->
+        <spawn npc_id="214802">
+            <spot x="423.7331" y="395.3542" z="991.2200" h="17"/>
+        </spawn>
+		
+        <!-- idlf3_castle_lehpar_exit -->
+        <spawn npc_id="700367">
+            <spot x="304.589020" y="326.550507" z="1024.778320" entity_id="314"/>
+        </spawn>
+        <!-- idlf3_castle_lehpar_door -->
+        <spawn npc_id="700373">
+            <spot x="418.964478" y="423.369507" z="1041.805542" entity_id="126"/>
+            <spot x="527.765442" y="437.156372" z="1040.987671" entity_id="125"/>
+        </spawn>
+	</spawn_map>
+</spawns>

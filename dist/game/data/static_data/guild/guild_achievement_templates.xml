@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<guild_achievement_templates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="guild_achievement_templates.xsd">
+   <guild_achievement_template id="4" name="Region_Daily_01" min_level="1" max_level="100" type="DAILY" max_stage="2">
+       <guild_action id="100012"/>
+       <guild_action id="100013"/>
+       <guild_action id="100014"/>
+       <guild_action id="100015"/>
+       <guild_action id="100016"/>
+       <guild_action id="100017"/>
+       <guild_action id="100018"/>
+       <guild_action id="100019"/>
+       <guild_action id="100020"/>
+       <guild_achievement_reward completecount="3" exp="114" essence_amount="0" essence_piece_amount="2"/>
+       <guild_achievement_reward completecount="2" exp="171" essence_amount="0" essence_piece_amount="2"/>
+   </guild_achievement_template>
+   <guild_achievement_template id="5" name="Region_Weekly_01" min_level="1" max_level="100" type="WEEKLY" max_stage="2">
+       <guild_action id="100021"/>
+       <guild_action id="100022"/>
+       <guild_action id="100023"/>
+       <guild_action id="100024"/>
+       <guild_action id="100025"/>
+       <guild_action id="100026"/>
+       <guild_action id="100027"/>
+       <guild_action id="100028"/>
+       <guild_action id="100029"/>
+       <guild_action id="100030"/>
+       <guild_action id="100031"/>
+       <guild_action id="100032"/>
+       <guild_action id="100033"/>
+       <guild_action id="100034"/>
+       <guild_action id="100035"/>
+       <guild_action id="100036"/>
+       <guild_action id="100037"/>
+       <guild_action id="100038"/>
+       <guild_action id="100039"/>
+       <guild_achievement_reward completecount="5" exp="1200" essence_amount="0" essence_piece_amount="11"/>
+       <guild_achievement_reward completecount="5" exp="1800" essence_amount="0" essence_piece_amount="17"/>
+   </guild_achievement_template>
+</guild_achievement_templates>

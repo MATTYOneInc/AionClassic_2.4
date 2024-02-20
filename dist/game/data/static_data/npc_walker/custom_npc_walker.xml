@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="utf-8"?>
+<!--
+	[Custom] Npc Walker
+	Develop: ADev.Team
+ -->
+<npc_walker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="npc_walker.xsd">
+	<!-- Q12004 -->
+	<walker_template route_id="12004" pool="1">
+		<routestep step="1" z="293.9016" y="1634.3055" x="298.42578"/>
+		<routestep step="2" z="272.61752" y="1583.9242" x="380.02393"/>
+		<routestep step="3" z="261.63916" y="1537.0002" x="413.88693"/>
+		<routestep step="4" z="254.44164" y="1473.5905" x="470.9338"/>
+		<routestep step="5" z="248.2898" y="1458.9011" x="531.3632"/>
+		<routestep step="6" z="227.56067" y="1505.2026" x="603.2756"/>
+		<routestep step="7" z="223.35631" y="1543.4657" x="620.4193"/>
+		<routestep step="8" z="218.51515" y="1540.7197" x="682.2424"/>
+		<routestep step="9" z="219.4855" y="1540.8422" x="733.65125"/>
+	</walker_template>
+	<!-- Q22004 -->
+	<walker_template route_id="22004" pool="1">
+		<routestep step="1" z="292.62445" y="1843.3639" x="307.9955"/>
+		<routestep step="2" z="292.48218" y="1849.1543" x="318.28516"/>
+		<routestep step="3" z="279.3752" y="1870.5776" x="370.47302"/>
+		<routestep step="4" z="269.6589" y="1846.2295" x="414.5624"/>
+		<routestep step="5" z="259.24786" y="1826.5609" x="474.01712"/>
+		<routestep step="6" z="255.01163" y="1808.1859" x="545.0711"/>
+		<routestep step="7" z="251.64893" y="1803.3744" x="581.4958"/>
+		<routestep step="8" z="245.15735" y="1763.2682" x="605.28705"/>
+		<routestep step="9" z="235.1241" y="1726.6587" x="653.5577"/>
+		<routestep step="10" z="234.14885" y="1688.3146" x="663.5619"/>
+		<routestep step="11" z="228.29335" y="1645.1868" x="668.6936"/>
+		<routestep step="12" z="223.98837" y="1610.11" x="635.8139"/>
+		<routestep step="13" z="223.59695" y="1544.9473" x="618.1847"/>
+		<routestep step="14" z="217.15735" y="1537.7155" x="658.51764"/>
+		<routestep step="15" z="219.4855" y="1548.5891" x="726.15826" rest_time="20000"/>
+	</walker_template>
+	<!-- Q4212 (The Missing Cube Craftsman) -->
+	<walker_template route_id="4212" pool="1">
+		<routestep step="1" z="887.706" y="447.30682" x="444.48502"/>
+		<routestep step="2" z="887.70605" y="457.64" x="443.88196"/>
+		<routestep step="3" z="887.706" y="459.32437" x="468.82617"/>
+		<routestep step="4" z="885.4783" y="459.88834" x="502.14362"/>
+		<routestep step="5" z="885.1844" y="437.69382" x="505.69427" rest_time="20000"/>
+	</walker_template>
+</npc_walker>

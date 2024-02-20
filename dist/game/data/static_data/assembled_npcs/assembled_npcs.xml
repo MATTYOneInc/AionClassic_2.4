@@ -1,0 +1,724 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Abyss Carrier
+	Recode By Encom
+ -->
+<assembled_npcs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="assembled_npcs.xsd">
+	<!-- dredgion ships -->
+	<!-- pace dredgion (fake assault 2011) -->
+	<assembled_npc nr="1" routeId="3" liveTime="600000" mapId="210050000">
+		<assembled_part npcId="258247" entityId="909"/>
+		<assembled_part npcId="254152" entityId="1244"/>
+		<assembled_part npcId="258249" entityId="907"/>
+		<assembled_part npcId="258249" entityId="1333"/>
+		<assembled_part npcId="258250" entityId="636"/>
+		<assembled_part npcId="258254" entityId="502"/>
+		<assembled_part npcId="258252" entityId="917"/>
+		<assembled_part npcId="258253" entityId="914"/>
+		<assembled_part npcId="258256" entityId="494"/>
+		<assembled_part npcId="258256" entityId="493"/>
+		<assembled_part npcId="258256" entityId="918"/>
+		<assembled_part npcId="258256" entityId="1251"/>
+		<assembled_part npcId="258256" entityId="922"/>
+		<assembled_part npcId="254161" entityId="499"/>
+		<assembled_part npcId="258257" entityId="910"/>
+		<assembled_part npcId="258256" entityId="489"/>
+		<assembled_part npcId="258256" entityId="500"/>
+		<assembled_part npcId="258256" entityId="930"/>
+		<assembled_part npcId="258256" entityId="1248"/>
+		<assembled_part npcId="258256" entityId="501"/>
+		<assembled_part npcId="258256" entityId="928"/>
+		<assembled_part npcId="258256" entityId="920"/>
+		<assembled_part npcId="258256" entityId="1245"/>
+		<assembled_part npcId="258256" entityId="906"/>
+		<assembled_part npcId="258256" entityId="506"/>
+		<assembled_part npcId="258256" entityId="913"/>
+		<assembled_part npcId="258256" entityId="635"/>
+		<assembled_part npcId="258256" entityId="486"/>
+	</assembled_npc>
+	<!-- pace dredgion -->
+	<assembled_npc nr="2" routeId="3" liveTime="600000" mapId="210050000">
+		<assembled_part npcId="258247" entityId="909"/>
+		<assembled_part npcId="258248" entityId="1244"/>
+		<assembled_part npcId="258249" entityId="907"/>
+		<assembled_part npcId="258249" entityId="1333"/>
+		<assembled_part npcId="258250" entityId="636"/>
+		<assembled_part npcId="258254" entityId="502"/>
+		<assembled_part npcId="258252" entityId="917"/>
+		<assembled_part npcId="258253" entityId="914"/>
+		<assembled_part npcId="258256" entityId="494"/>
+		<assembled_part npcId="258256" entityId="493"/>
+		<assembled_part npcId="258256" entityId="918"/>
+		<assembled_part npcId="258256" entityId="1251"/>
+		<assembled_part npcId="258256" entityId="922"/>
+		<assembled_part npcId="258257" entityId="499"/>
+		<assembled_part npcId="258257" entityId="910"/>
+		<assembled_part npcId="258256" entityId="489"/>
+		<assembled_part npcId="258256" entityId="500"/>
+		<assembled_part npcId="258256" entityId="930"/>
+		<assembled_part npcId="258256" entityId="1248"/>
+		<assembled_part npcId="258256" entityId="501"/>
+		<assembled_part npcId="258256" entityId="928"/>
+		<assembled_part npcId="258256" entityId="920"/>
+		<assembled_part npcId="258256" entityId="1245"/>
+		<assembled_part npcId="258256" entityId="906"/>
+		<assembled_part npcId="258256" entityId="506"/>
+		<assembled_part npcId="258256" entityId="913"/>
+		<assembled_part npcId="258256" entityId="635"/>
+		<assembled_part npcId="258256" entityId="486"/>
+	</assembled_npc>
+	<!-- pace dredgion (Inggison Fortress) -->
+	<assembled_npc nr="3" routeId="4" liveTime="600000" mapId="210050000">
+		<assembled_part npcId="258247" entityId="909"/>
+		<assembled_part npcId="258248" entityId="1244"/>
+		<assembled_part npcId="258249" entityId="907"/>
+		<assembled_part npcId="258249" entityId="1333"/>
+		<assembled_part npcId="258250" entityId="636"/>
+		<assembled_part npcId="258254" entityId="502"/>
+		<assembled_part npcId="258252" entityId="917"/>
+		<assembled_part npcId="258253" entityId="914"/>
+		<assembled_part npcId="258256" entityId="494"/>
+		<assembled_part npcId="258256" entityId="493"/>
+		<assembled_part npcId="258256" entityId="918"/>
+		<assembled_part npcId="258256" entityId="1251"/>
+		<assembled_part npcId="258256" entityId="922"/>
+		<assembled_part npcId="258257" entityId="499"/>
+		<assembled_part npcId="258257" entityId="910"/>
+		<assembled_part npcId="258256" entityId="489"/>
+		<assembled_part npcId="258256" entityId="500"/>
+		<assembled_part npcId="258256" entityId="930"/>
+		<assembled_part npcId="258256" entityId="1248"/>
+		<assembled_part npcId="258256" entityId="501"/>
+		<assembled_part npcId="258256" entityId="928"/>
+		<assembled_part npcId="258256" entityId="920"/>
+		<assembled_part npcId="258256" entityId="1245"/>
+		<assembled_part npcId="258256" entityId="906"/>
+		<assembled_part npcId="258256" entityId="506"/>
+		<assembled_part npcId="258256" entityId="913"/>
+		<assembled_part npcId="258256" entityId="635"/>
+		<assembled_part npcId="258256" entityId="486"/>
+	</assembled_npc>
+	<!-- peace dredgion -->
+	<assembled_npc nr="4" routeId="2" liveTime="600000" mapId="210050000">
+		<assembled_part npcId="258247" entityId="909"/>
+		<assembled_part npcId="254152" entityId="1244"/>
+		<assembled_part npcId="258249" entityId="907"/>
+		<assembled_part npcId="258249" entityId="1333"/>
+		<assembled_part npcId="258250" entityId="636"/>
+		<assembled_part npcId="258254" entityId="502"/>
+		<assembled_part npcId="258252" entityId="917"/>
+		<assembled_part npcId="258253" entityId="914"/>
+		<assembled_part npcId="258256" entityId="494"/>
+		<assembled_part npcId="258256" entityId="493"/>
+		<assembled_part npcId="258256" entityId="918"/>
+		<assembled_part npcId="258256" entityId="1251"/>
+		<assembled_part npcId="258256" entityId="922"/>
+		<assembled_part npcId="254161" entityId="499"/>
+		<assembled_part npcId="258257" entityId="910"/>
+		<assembled_part npcId="258256" entityId="489"/>
+		<assembled_part npcId="258256" entityId="500"/>
+		<assembled_part npcId="258256" entityId="930"/>
+		<assembled_part npcId="258256" entityId="1248"/>
+		<assembled_part npcId="258256" entityId="501"/>
+		<assembled_part npcId="258256" entityId="928"/>
+		<assembled_part npcId="258256" entityId="920"/>
+		<assembled_part npcId="258256" entityId="1245"/>
+		<assembled_part npcId="258256" entityId="906"/>
+		<assembled_part npcId="258256" entityId="506"/>
+		<assembled_part npcId="258256" entityId="913"/>
+		<assembled_part npcId="258256" entityId="635"/>
+		<assembled_part npcId="258256" entityId="486"/>
+	</assembled_npc>
+	<!-- battle dredgion 2011 -->
+	<assembled_npc nr="5" routeId="5" liveTime="600000" mapId="210050000"> 
+		<assembled_part npcId="258247" entityId="909"/>
+		<assembled_part npcId="254152" entityId="1244"/>
+		<assembled_part npcId="258249" entityId="907"/>
+		<assembled_part npcId="258249" entityId="1333"/>
+		<assembled_part npcId="258250" entityId="636"/>
+		<assembled_part npcId="258254" entityId="502"/>
+		<assembled_part npcId="258252" entityId="917"/>
+		<assembled_part npcId="258253" entityId="914"/>
+		<assembled_part npcId="258256" entityId="494"/>
+		<assembled_part npcId="258256" entityId="493"/>
+		<assembled_part npcId="258256" entityId="918"/>
+		<assembled_part npcId="258256" entityId="1251"/>
+		<assembled_part npcId="258256" entityId="922"/>
+		<assembled_part npcId="254161" entityId="499"/>
+		<assembled_part npcId="258257" entityId="910"/>
+		<assembled_part npcId="258256" entityId="489"/>
+		<assembled_part npcId="258256" entityId="500"/>
+		<assembled_part npcId="258256" entityId="930"/>
+		<assembled_part npcId="258256" entityId="1248"/>
+		<assembled_part npcId="258256" entityId="501"/>
+		<assembled_part npcId="258256" entityId="928"/>
+		<assembled_part npcId="258256" entityId="920"/>
+		<assembled_part npcId="258256" entityId="1245"/>
+		<assembled_part npcId="258256" entityId="906"/>
+		<assembled_part npcId="258256" entityId="506"/>
+		<assembled_part npcId="258256" entityId="913"/>
+		<assembled_part npcId="258256" entityId="635"/>
+		<assembled_part npcId="258256" entityId="486"/>
+	</assembled_npc>
+	<!-- battle dredgion 2021 -->
+	<assembled_npc nr="6" routeId="6" liveTime="600000" mapId="210050000">
+		<assembled_part npcId="258247" entityId="909"/>
+		<assembled_part npcId="254152" entityId="1244"/>
+		<assembled_part npcId="258249" entityId="907"/>
+		<assembled_part npcId="258249" entityId="1333"/>
+		<assembled_part npcId="258250" entityId="636"/>
+		<assembled_part npcId="258254" entityId="502"/>
+		<assembled_part npcId="258252" entityId="917"/>
+		<assembled_part npcId="258253" entityId="914"/>
+		<assembled_part npcId="258256" entityId="494"/>
+		<assembled_part npcId="258256" entityId="493"/>
+		<assembled_part npcId="258256" entityId="918"/>
+		<assembled_part npcId="258256" entityId="1251"/>
+		<assembled_part npcId="258256" entityId="922"/>
+		<assembled_part npcId="254161" entityId="499"/>
+		<assembled_part npcId="258257" entityId="910"/>
+		<assembled_part npcId="258256" entityId="489"/>
+		<assembled_part npcId="258256" entityId="500"/>
+		<assembled_part npcId="258256" entityId="930"/>
+		<assembled_part npcId="258256" entityId="1248"/>
+		<assembled_part npcId="258256" entityId="501"/>
+		<assembled_part npcId="258256" entityId="928"/>
+		<assembled_part npcId="258256" entityId="920"/>
+		<assembled_part npcId="258256" entityId="1245"/>
+		<assembled_part npcId="258256" entityId="906"/>
+		<assembled_part npcId="258256" entityId="506"/>
+		<assembled_part npcId="258256" entityId="913"/>
+		<assembled_part npcId="258256" entityId="635"/>
+		<assembled_part npcId="258256" entityId="486"/>
+	</assembled_npc>
+	<!-- peace dredgion gelkmaros fortress -->
+	<assembled_npc nr="7" routeId="3" liveTime="600000" mapId="220070000">
+		<assembled_part npcId="258247" entityId="1373"/>
+		<assembled_part npcId="258248" entityId="1301"/>
+		<assembled_part npcId="258249" entityId="1299"/>
+		<assembled_part npcId="258249" entityId="1300"/>
+		<assembled_part npcId="258250" entityId="1347"/>
+		<assembled_part npcId="258253" entityId="1294"/>
+		<assembled_part npcId="258252" entityId="1733"/>
+		<assembled_part npcId="258254" entityId="1732"/>
+		<assembled_part npcId="258256" entityId="1080"/>
+		<assembled_part npcId="258256" entityId="1350"/>
+		<assembled_part npcId="258256" entityId="1369"/>
+		<assembled_part npcId="258256" entityId="1359"/>
+		<assembled_part npcId="258256" entityId="1349"/>
+		<assembled_part npcId="258256" entityId="1730"/>
+		<assembled_part npcId="258257" entityId="1379"/>
+		<assembled_part npcId="258257" entityId="1352"/>
+		<assembled_part npcId="258256" entityId="1358"/>
+		<assembled_part npcId="258256" entityId="1293"/>
+		<assembled_part npcId="258256" entityId="1339"/>
+		<assembled_part npcId="258256" entityId="1298"/>
+		<assembled_part npcId="258256" entityId="1363"/>
+		<assembled_part npcId="258256" entityId="1375"/>
+		<assembled_part npcId="258256" entityId="1355"/>
+		<assembled_part npcId="258256" entityId="1362"/>
+		<assembled_part npcId="258256" entityId="1371"/>
+		<assembled_part npcId="258256" entityId="1376"/>
+		<assembled_part npcId="258256" entityId="1378"/>
+		<assembled_part npcId="258256" entityId="1344"/>
+	</assembled_npc>
+	<!-- peace dredgion -->
+	<assembled_npc nr="8" routeId="4" liveTime="600000" mapId="220070000">
+		<assembled_part npcId="258247" entityId="1373"/>
+		<assembled_part npcId="258248" entityId="1301"/>
+		<assembled_part npcId="258249" entityId="1299"/>
+		<assembled_part npcId="258249" entityId="1300"/>
+		<assembled_part npcId="258250" entityId="1347"/>
+		<assembled_part npcId="258253" entityId="1294"/>
+		<assembled_part npcId="258252" entityId="1733"/>
+		<assembled_part npcId="258254" entityId="1732"/>
+		<assembled_part npcId="258256" entityId="1080"/>
+		<assembled_part npcId="258256" entityId="1350"/>
+		<assembled_part npcId="258256" entityId="1369"/>
+		<assembled_part npcId="258256" entityId="1359"/>
+		<assembled_part npcId="258256" entityId="1349"/>
+		<assembled_part npcId="258256" entityId="1730"/>
+		<assembled_part npcId="258257" entityId="1379"/>
+		<assembled_part npcId="258257" entityId="1352"/>
+		<assembled_part npcId="258256" entityId="1358"/>
+		<assembled_part npcId="258256" entityId="1293"/>
+		<assembled_part npcId="258256" entityId="1339"/>
+		<assembled_part npcId="258256" entityId="1298"/>
+		<assembled_part npcId="258256" entityId="1363"/>
+		<assembled_part npcId="258256" entityId="1375"/>
+		<assembled_part npcId="258256" entityId="1355"/>
+		<assembled_part npcId="258256" entityId="1362"/>
+		<assembled_part npcId="258256" entityId="1371"/>
+		<assembled_part npcId="258256" entityId="1376"/>
+		<assembled_part npcId="258256" entityId="1378"/>
+		<assembled_part npcId="258256" entityId="1344"/>
+	</assembled_npc>
+	<!-- peace dredgion -->
+	<assembled_npc nr="9" routeId="7" liveTime="600000" mapId="220070000">
+		<assembled_part npcId="258247" entityId="1373"/>
+		<assembled_part npcId="258248" entityId="1301"/>
+		<assembled_part npcId="258249" entityId="1299"/>
+		<assembled_part npcId="258249" entityId="1300"/>
+		<assembled_part npcId="258250" entityId="1347"/>
+		<assembled_part npcId="258253" entityId="1294"/>
+		<assembled_part npcId="258252" entityId="1733"/>
+		<assembled_part npcId="258254" entityId="1732"/>
+		<assembled_part npcId="258256" entityId="1080"/>
+		<assembled_part npcId="258256" entityId="1350"/>
+		<assembled_part npcId="258256" entityId="1369"/>
+		<assembled_part npcId="258256" entityId="1359"/>
+		<assembled_part npcId="258256" entityId="1349"/>
+		<assembled_part npcId="258256" entityId="1730"/>
+		<assembled_part npcId="258257" entityId="1379"/>
+		<assembled_part npcId="258257" entityId="1352"/>
+		<assembled_part npcId="258256" entityId="1358"/>
+		<assembled_part npcId="258256" entityId="1293"/>
+		<assembled_part npcId="258256" entityId="1339"/>
+		<assembled_part npcId="258256" entityId="1298"/>
+		<assembled_part npcId="258256" entityId="1363"/>
+		<assembled_part npcId="258256" entityId="1375"/>
+		<assembled_part npcId="258256" entityId="1355"/>
+		<assembled_part npcId="258256" entityId="1362"/>
+		<assembled_part npcId="258256" entityId="1371"/>
+		<assembled_part npcId="258256" entityId="1376"/>
+		<assembled_part npcId="258256" entityId="1378"/>
+		<assembled_part npcId="258256" entityId="1344"/>
+	</assembled_npc>
+	<!-- battle dredgion 3021 -->
+	<assembled_npc nr="10" routeId="6" liveTime="600000" mapId="220070000">
+		<assembled_part npcId="258247" entityId="1373"/>
+		<assembled_part npcId="258248" entityId="1301"/>
+		<assembled_part npcId="258249" entityId="1299"/>
+		<assembled_part npcId="258249" entityId="1300"/>
+		<assembled_part npcId="258250" entityId="1347"/>
+		<assembled_part npcId="258253" entityId="1294"/>
+		<assembled_part npcId="258252" entityId="1733"/>
+		<assembled_part npcId="258254" entityId="1732"/>
+		<assembled_part npcId="258256" entityId="1080"/>
+		<assembled_part npcId="258256" entityId="1350"/>
+		<assembled_part npcId="258256" entityId="1369"/>
+		<assembled_part npcId="258256" entityId="1359"/>
+		<assembled_part npcId="258256" entityId="1349"/>
+		<assembled_part npcId="258256" entityId="1730"/>
+		<assembled_part npcId="258257" entityId="1379"/>
+		<assembled_part npcId="258257" entityId="1352"/>
+		<assembled_part npcId="258256" entityId="1358"/>
+		<assembled_part npcId="258256" entityId="1293"/>
+		<assembled_part npcId="258256" entityId="1339"/>
+		<assembled_part npcId="258256" entityId="1298"/>
+		<assembled_part npcId="258256" entityId="1363"/>
+		<assembled_part npcId="258256" entityId="1375"/>
+		<assembled_part npcId="258256" entityId="1355"/>
+		<assembled_part npcId="258256" entityId="1362"/>
+		<assembled_part npcId="258256" entityId="1371"/>
+		<assembled_part npcId="258256" entityId="1376"/>
+		<assembled_part npcId="258256" entityId="1378"/>
+		<assembled_part npcId="258256" entityId="1344"/>
+	</assembled_npc>
+	<!-- battle dredgion fortress 3011 -->
+	<assembled_npc nr="11" routeId="5" liveTime="600000" mapId="220070000">
+		<assembled_part npcId="258247" entityId="1373"/>
+		<assembled_part npcId="258248" entityId="1301"/>
+		<assembled_part npcId="258249" entityId="1299"/>
+		<assembled_part npcId="258249" entityId="1300"/>
+		<assembled_part npcId="258250" entityId="1347"/>
+		<assembled_part npcId="258253" entityId="1294"/>
+		<assembled_part npcId="258252" entityId="1733"/>
+		<assembled_part npcId="258254" entityId="1732"/>
+		<assembled_part npcId="258256" entityId="1080"/>
+		<assembled_part npcId="258256" entityId="1350"/>
+		<assembled_part npcId="258256" entityId="1369"/>
+		<assembled_part npcId="258256" entityId="1359"/>
+		<assembled_part npcId="258256" entityId="1349"/>
+		<assembled_part npcId="258256" entityId="1730"/>
+		<assembled_part npcId="258257" entityId="1379"/>
+		<assembled_part npcId="258257" entityId="1352"/>
+		<assembled_part npcId="258256" entityId="1358"/>
+		<assembled_part npcId="258256" entityId="1293"/>
+		<assembled_part npcId="258256" entityId="1339"/>
+		<assembled_part npcId="258256" entityId="1298"/>
+		<assembled_part npcId="258256" entityId="1363"/>
+		<assembled_part npcId="258256" entityId="1375"/>
+		<assembled_part npcId="258256" entityId="1355"/>
+		<assembled_part npcId="258256" entityId="1362"/>
+		<assembled_part npcId="258256" entityId="1371"/>
+		<assembled_part npcId="258256" entityId="1376"/>
+		<assembled_part npcId="258256" entityId="1378"/>
+		<assembled_part npcId="258256" entityId="1344"/>
+	</assembled_npc>
+	<!-- battle dredgion fortress 1141 -->
+	<assembled_npc nr="12" routeId="3" liveTime="600000" mapId="400010000">
+		<assembled_part npcId="296126" entityId="376"/>
+		<assembled_part npcId="277024" entityId="70"/>
+		<assembled_part npcId="277025" entityId="67"/>
+		<assembled_part npcId="277025" entityId="69"/>
+		<assembled_part npcId="277026" entityId="73"/>
+		<assembled_part npcId="277029" entityId="36"/>
+		<assembled_part npcId="277028" entityId="1337"/>
+		<assembled_part npcId="277030" entityId="1336"/>
+		<assembled_part npcId="276724" entityId="35"/>
+		<assembled_part npcId="276724" entityId="77"/>
+		<assembled_part npcId="276724" entityId="366"/>
+		<assembled_part npcId="276724" entityId="89"/>
+		<assembled_part npcId="276724" entityId="74"/>
+		<assembled_part npcId="276724" entityId="1252"/>
+		<assembled_part npcId="276725" entityId="1242"/>
+		<assembled_part npcId="276725" entityId="78"/>
+		<assembled_part npcId="276724" entityId="83"/>
+		<assembled_part npcId="276724" entityId="75"/>
+		<assembled_part npcId="276724" entityId="76"/>
+		<assembled_part npcId="276724" entityId="40"/>
+		<assembled_part npcId="276724" entityId="154"/>
+		<assembled_part npcId="276724" entityId="384"/>
+		<assembled_part npcId="276724" entityId="79"/>
+		<assembled_part npcId="276724" entityId="90"/>
+		<assembled_part npcId="276724" entityId="372"/>
+		<assembled_part npcId="276724" entityId="388"/>
+		<assembled_part npcId="276724" entityId="1241"/>
+		<assembled_part npcId="276724" entityId="72"/>
+	</assembled_npc>
+	<!-- battle dredgion 1221 -->
+	<assembled_npc nr="13" routeId="6" liveTime="600000" mapId="400010000">
+		<assembled_part npcId="296126" entityId="376"/>
+		<assembled_part npcId="277024" entityId="70"/>
+		<assembled_part npcId="277025" entityId="67"/>
+		<assembled_part npcId="277025" entityId="69"/>
+		<assembled_part npcId="277026" entityId="73"/>
+		<assembled_part npcId="277029" entityId="36"/>
+		<assembled_part npcId="277028" entityId="1337"/>
+		<assembled_part npcId="277030" entityId="1336"/>
+		<assembled_part npcId="276724" entityId="35"/>
+		<assembled_part npcId="276724" entityId="77"/>
+		<assembled_part npcId="276724" entityId="366"/>
+		<assembled_part npcId="276724" entityId="89"/>
+		<assembled_part npcId="276724" entityId="74"/>
+		<assembled_part npcId="276724" entityId="1252"/>
+		<assembled_part npcId="276725" entityId="1242"/>
+		<assembled_part npcId="276725" entityId="78"/>
+		<assembled_part npcId="276724" entityId="83"/>
+		<assembled_part npcId="276724" entityId="75"/>
+		<assembled_part npcId="276724" entityId="76"/>
+		<assembled_part npcId="276724" entityId="40"/>
+		<assembled_part npcId="276724" entityId="154"/>
+		<assembled_part npcId="276724" entityId="384"/>
+		<assembled_part npcId="276724" entityId="79"/>
+		<assembled_part npcId="276724" entityId="90"/>
+		<assembled_part npcId="276724" entityId="372"/>
+		<assembled_part npcId="276724" entityId="388"/>
+		<assembled_part npcId="276724" entityId="1241"/>
+		<assembled_part npcId="276724" entityId="72"/>
+	</assembled_npc>
+	<!-- battle dredgion 1132 -->
+	<assembled_npc nr="14" routeId="1" liveTime="600000" mapId="400010000">
+		<assembled_part npcId="296126" entityId="376"/>
+		<assembled_part npcId="277024" entityId="70"/>
+		<assembled_part npcId="277025" entityId="67"/>
+		<assembled_part npcId="277025" entityId="69"/>
+		<assembled_part npcId="277026" entityId="73"/>
+		<assembled_part npcId="277029" entityId="36"/>
+		<assembled_part npcId="277028" entityId="1337"/>
+		<assembled_part npcId="277030" entityId="1336"/>
+		<assembled_part npcId="276724" entityId="35"/>
+		<assembled_part npcId="276724" entityId="77"/>
+		<assembled_part npcId="276724" entityId="366"/>
+		<assembled_part npcId="276724" entityId="89"/>
+		<assembled_part npcId="276724" entityId="74"/>
+		<assembled_part npcId="276724" entityId="1252"/>
+		<assembled_part npcId="276725" entityId="1242"/>
+		<assembled_part npcId="276725" entityId="78"/>
+		<assembled_part npcId="276724" entityId="83"/>
+		<assembled_part npcId="276724" entityId="75"/>
+		<assembled_part npcId="276724" entityId="76"/>
+		<assembled_part npcId="276724" entityId="40"/>
+		<assembled_part npcId="276724" entityId="154"/>
+		<assembled_part npcId="276724" entityId="384"/>
+		<assembled_part npcId="276724" entityId="79"/>
+		<assembled_part npcId="276724" entityId="90"/>
+		<assembled_part npcId="276724" entityId="372"/>
+		<assembled_part npcId="276724" entityId="388"/>
+		<assembled_part npcId="276724" entityId="1241"/>
+		<assembled_part npcId="276724" entityId="72"/>
+		<assembled_part npcId="295130" entityId="338"/>
+		<assembled_part npcId="276623" entityId="340"/>
+		<assembled_part npcId="295130" entityId="334"/>
+		<assembled_part npcId="276623" entityId="337"/>
+	</assembled_npc>
+	<!-- battle dredgion 1131-->
+	<assembled_npc nr="15" routeId="2" liveTime="600000" mapId="400010000">
+		<assembled_part npcId="296126" entityId="376"/>
+		<assembled_part npcId="277024" entityId="70"/>
+		<assembled_part npcId="277025" entityId="67"/>
+		<assembled_part npcId="277025" entityId="69"/>
+		<assembled_part npcId="277026" entityId="73"/>
+		<assembled_part npcId="277029" entityId="36"/>
+		<assembled_part npcId="277028" entityId="1337"/>
+		<assembled_part npcId="277030" entityId="1336"/>
+		<assembled_part npcId="276724" entityId="35"/>
+		<assembled_part npcId="276724" entityId="77"/>
+		<assembled_part npcId="276724" entityId="366"/>
+		<assembled_part npcId="276724" entityId="89"/>
+		<assembled_part npcId="276724" entityId="74"/>
+		<assembled_part npcId="276724" entityId="1252"/>
+		<assembled_part npcId="276725" entityId="1242"/>
+		<assembled_part npcId="276725" entityId="78"/>
+		<assembled_part npcId="276724" entityId="83"/>
+		<assembled_part npcId="276724" entityId="75"/>
+		<assembled_part npcId="276724" entityId="76"/>
+		<assembled_part npcId="276724" entityId="40"/>
+		<assembled_part npcId="276724" entityId="154"/>
+		<assembled_part npcId="276724" entityId="384"/>
+		<assembled_part npcId="276724" entityId="79"/>
+		<assembled_part npcId="276724" entityId="90"/>
+		<assembled_part npcId="276724" entityId="372"/>
+		<assembled_part npcId="276724" entityId="388"/>
+		<assembled_part npcId="276724" entityId="1241"/>
+		<assembled_part npcId="276724" entityId="72"/>
+		<assembled_part npcId="295130" entityId="338"/>
+		<assembled_part npcId="276623" entityId="340"/>
+	</assembled_npc>
+	<!-- battle dredgion 1241 -->
+	<assembled_npc nr="16" routeId="4" liveTime="600000" mapId="400010000">
+		<assembled_part npcId="296126" entityId="376"/>
+		<assembled_part npcId="277024" entityId="70"/>
+		<assembled_part npcId="277025" entityId="67"/>
+		<assembled_part npcId="277025" entityId="69"/>
+		<assembled_part npcId="277026" entityId="73"/>
+		<assembled_part npcId="277029" entityId="36"/>
+		<assembled_part npcId="277028" entityId="1337"/>
+		<assembled_part npcId="277030" entityId="1336"/>
+		<assembled_part npcId="276724" entityId="35"/>
+		<assembled_part npcId="276724" entityId="77"/>
+		<assembled_part npcId="276724" entityId="366"/>
+		<assembled_part npcId="276724" entityId="89"/>
+		<assembled_part npcId="276724" entityId="74"/>
+		<assembled_part npcId="276724" entityId="1252"/>
+		<assembled_part npcId="276725" entityId="1242"/>
+		<assembled_part npcId="276725" entityId="78"/>
+		<assembled_part npcId="276724" entityId="83"/>
+		<assembled_part npcId="276724" entityId="75"/>
+		<assembled_part npcId="276724" entityId="76"/>
+		<assembled_part npcId="276724" entityId="40"/>
+		<assembled_part npcId="276724" entityId="154"/>
+		<assembled_part npcId="276724" entityId="384"/>
+		<assembled_part npcId="276724" entityId="79"/>
+		<assembled_part npcId="276724" entityId="90"/>
+		<assembled_part npcId="276724" entityId="372"/>
+		<assembled_part npcId="276724" entityId="388"/>
+		<assembled_part npcId="276724" entityId="1241"/>
+		<assembled_part npcId="276724" entityId="72"/>
+		<assembled_part npcId="295130" entityId="334"/>
+		<assembled_part npcId="276623" entityId="337"/>
+	</assembled_npc>
+	<!-- battle dredgion 1231 -->
+	<assembled_npc nr="17" routeId="5" liveTime="600000" mapId="400010000">
+		<assembled_part npcId="296126" entityId="376"/>
+		<assembled_part npcId="277024" entityId="70"/>
+		<assembled_part npcId="277025" entityId="67"/>
+		<assembled_part npcId="277025" entityId="69"/>
+		<assembled_part npcId="277026" entityId="73"/>
+		<assembled_part npcId="277029" entityId="36"/>
+		<assembled_part npcId="277028" entityId="1337"/>
+		<assembled_part npcId="277030" entityId="1336"/>
+		<assembled_part npcId="276724" entityId="35"/>
+		<assembled_part npcId="276724" entityId="77"/>
+		<assembled_part npcId="276724" entityId="366"/>
+		<assembled_part npcId="276724" entityId="89"/>
+		<assembled_part npcId="276724" entityId="74"/>
+		<assembled_part npcId="276724" entityId="1252"/>
+		<assembled_part npcId="276725" entityId="1242"/>
+		<assembled_part npcId="276725" entityId="78"/>
+		<assembled_part npcId="276724" entityId="83"/>
+		<assembled_part npcId="276724" entityId="75"/>
+		<assembled_part npcId="276724" entityId="76"/>
+		<assembled_part npcId="276724" entityId="40"/>
+		<assembled_part npcId="276724" entityId="154"/>
+		<assembled_part npcId="276724" entityId="384"/>
+		<assembled_part npcId="276724" entityId="79"/>
+		<assembled_part npcId="276724" entityId="90"/>
+		<assembled_part npcId="276724" entityId="372"/>
+		<assembled_part npcId="276724" entityId="388"/>
+		<assembled_part npcId="276724" entityId="1241"/>
+		<assembled_part npcId="276724" entityId="72"/>
+		<assembled_part npcId="295130" entityId="338"/>
+		<assembled_part npcId="276623" entityId="340"/>
+	</assembled_npc>
+	<!-- battle dredgion 1211 -->
+	<assembled_npc nr="18" routeId="7" liveTime="600000" mapId="400010000">
+		<assembled_part npcId="296126" entityId="376"/>
+		<assembled_part npcId="277024" entityId="70"/>
+		<assembled_part npcId="277025" entityId="67"/>
+		<assembled_part npcId="277025" entityId="69"/>
+		<assembled_part npcId="277026" entityId="73"/>
+		<assembled_part npcId="277029" entityId="36"/>
+		<assembled_part npcId="277028" entityId="1337"/>
+		<assembled_part npcId="277030" entityId="1336"/>
+		<assembled_part npcId="276724" entityId="35"/>
+		<assembled_part npcId="276724" entityId="77"/>
+		<assembled_part npcId="276724" entityId="366"/>
+		<assembled_part npcId="276724" entityId="89"/>
+		<assembled_part npcId="276724" entityId="74"/>
+		<assembled_part npcId="276724" entityId="1252"/>
+		<assembled_part npcId="276725" entityId="1242"/>
+		<assembled_part npcId="276725" entityId="78"/>
+		<assembled_part npcId="276724" entityId="83"/>
+		<assembled_part npcId="276724" entityId="75"/>
+		<assembled_part npcId="276724" entityId="76"/>
+		<assembled_part npcId="276724" entityId="40"/>
+		<assembled_part npcId="276724" entityId="154"/>
+		<assembled_part npcId="276724" entityId="384"/>
+		<assembled_part npcId="276724" entityId="79"/>
+		<assembled_part npcId="276724" entityId="90"/>
+		<assembled_part npcId="276724" entityId="372"/>
+		<assembled_part npcId="276724" entityId="388"/>
+		<assembled_part npcId="276724" entityId="1241"/>
+		<assembled_part npcId="276724" entityId="72"/>
+		<assembled_part npcId="295130" entityId="338"/>
+		<assembled_part npcId="276623" entityId="340"/>
+		<assembled_part npcId="295130" entityId="334"/>
+		<assembled_part npcId="276623" entityId="337"/>
+	</assembled_npc>
+	<!-- battle dredgion 1251 -->
+	<assembled_npc nr="19" routeId="8" liveTime="600000" mapId="400010000">
+		<assembled_part npcId="296126" entityId="376"/>
+		<assembled_part npcId="277024" entityId="70"/>
+		<assembled_part npcId="277025" entityId="67"/>
+		<assembled_part npcId="277025" entityId="69"/>
+		<assembled_part npcId="277026" entityId="73"/>
+		<assembled_part npcId="277029" entityId="36"/>
+		<assembled_part npcId="277028" entityId="1337"/>
+		<assembled_part npcId="277030" entityId="1336"/>
+		<assembled_part npcId="276724" entityId="35"/>
+		<assembled_part npcId="276724" entityId="77"/>
+		<assembled_part npcId="276724" entityId="366"/>
+		<assembled_part npcId="276724" entityId="89"/>
+		<assembled_part npcId="276724" entityId="74"/>
+		<assembled_part npcId="276724" entityId="1252"/>
+		<assembled_part npcId="276725" entityId="1242"/>
+		<assembled_part npcId="276725" entityId="78"/>
+		<assembled_part npcId="276724" entityId="83"/>
+		<assembled_part npcId="276724" entityId="75"/>
+		<assembled_part npcId="276724" entityId="76"/>
+		<assembled_part npcId="276724" entityId="40"/>
+		<assembled_part npcId="276724" entityId="154"/>
+		<assembled_part npcId="276724" entityId="384"/>
+		<assembled_part npcId="276724" entityId="79"/>
+		<assembled_part npcId="276724" entityId="90"/>
+		<assembled_part npcId="276724" entityId="372"/>
+		<assembled_part npcId="276724" entityId="388"/>
+		<assembled_part npcId="276724" entityId="1241"/>
+		<assembled_part npcId="276724" entityId="72"/>
+		<assembled_part npcId="295130" entityId="338"/>
+		<assembled_part npcId="276623" entityId="340"/>
+	</assembled_npc>
+	<!-- battle dredgion 1011 -->
+	<assembled_npc nr="20" routeId="9" liveTime="600000" mapId="400010000">
+		<assembled_part npcId="296126" entityId="376"/>
+		<assembled_part npcId="277024" entityId="70"/>
+		<assembled_part npcId="277025" entityId="67"/>
+		<assembled_part npcId="277025" entityId="69"/>
+		<assembled_part npcId="277026" entityId="73"/>
+		<assembled_part npcId="277029" entityId="36"/>
+		<assembled_part npcId="277028" entityId="1337"/>
+		<assembled_part npcId="277030" entityId="1336"/>
+		<assembled_part npcId="276724" entityId="35"/>
+		<assembled_part npcId="276724" entityId="77"/>
+		<assembled_part npcId="276724" entityId="366"/>
+		<assembled_part npcId="276724" entityId="89"/>
+		<assembled_part npcId="276724" entityId="74"/>
+		<assembled_part npcId="276724" entityId="1252"/>
+		<assembled_part npcId="276725" entityId="1242"/>
+		<assembled_part npcId="276725" entityId="78"/>
+		<assembled_part npcId="276724" entityId="83"/>
+		<assembled_part npcId="276724" entityId="75"/>
+		<assembled_part npcId="276724" entityId="76"/>
+		<assembled_part npcId="276724" entityId="40"/>
+		<assembled_part npcId="276724" entityId="154"/>
+		<assembled_part npcId="276724" entityId="384"/>
+		<assembled_part npcId="276724" entityId="79"/>
+		<assembled_part npcId="276724" entityId="90"/>
+		<assembled_part npcId="276724" entityId="372"/>
+		<assembled_part npcId="276724" entityId="388"/>
+		<assembled_part npcId="276724" entityId="1241"/>
+		<assembled_part npcId="276724" entityId="72"/>
+		<assembled_part npcId="295130" entityId="254"/>
+		<assembled_part npcId="276622" entityId="241"/>
+	</assembled_npc>
+	
+	<!-- Flame Meteorite
+	<assembled_npc nr="21" routeId="505" liveTime="9000" mapId="400010000">
+		<assembled_part npcId="295130" entityId="334"/>
+		<assembled_part npcId="276623" entityId="337"/>
+	</assembled_npc>
+	<assembled_npc nr="22" routeId="506" liveTime="10000" mapId="400010000">
+		<assembled_part npcId="295130" entityId="338"/>
+		<assembled_part npcId="276623" entityId="340"/>
+	</assembled_npc>
+	<assembled_npc nr="23" routeId="507" liveTime="13000" mapId="400010000">
+		<assembled_part npcId="295130" entityId="339"/>
+		<assembled_part npcId="276622" entityId="341"/>
+	</assembled_npc>
+	<assembled_npc nr="24" routeId="508" liveTime="13000" mapId="400010000">
+		<assembled_part npcId="295130" entityId="254"/>
+		<assembled_part npcId="276622" entityId="241"/>
+	</assembled_npc>
+	<assembled_npc nr="25" routeId="509" liveTime="13000" mapId="400010000">
+		<assembled_part npcId="295130" entityId="255"/>
+		<assembled_part npcId="276623" entityId="244"/>
+	</assembled_npc>
+	<assembled_npc nr="26" routeId="510" liveTime="14000" mapId="400010000">
+		<assembled_part npcId="295130" entityId="332"/>
+		<assembled_part npcId="276624" entityId="335"/>
+	</assembled_npc>
+	<assembled_npc nr="27" routeId="511" liveTime="10000" mapId="400010000">
+		<assembled_part npcId="295130" entityId="334"/>
+		<assembled_part npcId="276623" entityId="337"/>
+	</assembled_npc>
+	<assembled_npc nr="28" routeId="512" liveTime="11000" mapId="400010000">
+		<assembled_part npcId="295130" entityId="338"/>
+		<assembled_part npcId="276623" entityId="340"/>
+	</assembled_npc>
+	<assembled_npc nr="29" routeId="513" liveTime="12000" mapId="400010000">
+		<assembled_part npcId="295130" entityId="339"/>
+		<assembled_part npcId="276622" entityId="341"/>
+	</assembled_npc>
+	<assembled_npc nr="30" routeId="514" liveTime="13000" mapId="400010000">
+		<assembled_part npcId="295130" entityId="254"/>
+		<assembled_part npcId="276622" entityId="241"/>
+	</assembled_npc>
+	<assembled_npc nr="31" routeId="515" liveTime="14000" mapId="400010000">
+		<assembled_part npcId="295130" entityId="255"/>
+		<assembled_part npcId="276623" entityId="244"/>
+	</assembled_npc>
+	<assembled_npc nr="32" routeId="516" liveTime="14000" mapId="400010000">
+		<assembled_part npcId="295130" entityId="334"/>
+		<assembled_part npcId="276623" entityId="337"/>
+	</assembled_npc>
+	<assembled_npc nr="33" routeId="517" liveTime="16000" mapId="400010000">
+		<assembled_part npcId="295130" entityId="338"/>
+		<assembled_part npcId="276623" entityId="340"/>
+	</assembled_npc>
+	<assembled_npc nr="34" routeId="518" liveTime="14000" mapId="400010000">
+		<assembled_part npcId="295130" entityId="339"/>
+		<assembled_part npcId="276622" entityId="341"/>
+	</assembled_npc>
+	<assembled_npc nr="35" routeId="519" liveTime="14000" mapId="400010000">
+		<assembled_part npcId="295130" entityId="339"/>
+		<assembled_part npcId="276622" entityId="341"/>
+	</assembled_npc>
+	<assembled_npc nr="36" routeId="520" liveTime="14000" mapId="400010000">
+		<assembled_part npcId="295130" entityId="255"/>
+		<assembled_part npcId="276623" entityId="244"/>
+	</assembled_npc>
+	<assembled_npc nr="37" routeId="521" liveTime="16000" mapId="400010000">
+		<assembled_part npcId="295130" entityId="218"/>
+		<assembled_part npcId="276624" entityId="220"/>
+	</assembled_npc>
+	<assembled_npc nr="38" routeId="522" liveTime="14000" mapId="400010000">
+		<assembled_part npcId="295130" entityId="332"/>
+		<assembled_part npcId="276624" entityId="335"/>
+	</assembled_npc>
+	<assembled_npc nr="39" routeId="523" liveTime="14000" mapId="400010000">
+		<assembled_part npcId="295130" entityId="333"/>
+		<assembled_part npcId="276622" entityId="336"/>
+	</assembled_npc> -->
+</assembled_npcs>

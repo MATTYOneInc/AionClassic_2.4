@@ -1,0 +1,61 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<guides xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="guide.xsd">
+	<!-- Asmodians -->
+	<guide title="adventurers_guide51.1_asmo" level="51" race="ASMODIANS" rewardCount="2">
+		<message>
+			<![CDATA[<BR><BR>
+			Additional reward: in order to facilitate your
+            progress in the game, receive these few coins
+            as well as a small PvP bonus.<br>
+            Good game on New-Aion!
+			<br><br>]]>
+		</message>
+		<select>Sincerely your New-Aion Team !</select>
+	    <!--Crucible Insignia-->
+		<survey itemId="186000131" count="10000"/>
+     	<!--Groggie's ASMO ID -->
+		<survey itemId="186000123" count="100"/>
+	</guide>
+	<!-- Elyos -->
+	<guide title="adventurers_guide51.1_ely" level="51" race="ELYOS" rewardCount="2">
+		<message>
+			<![CDATA[<BR><BR>
+			Additional reward: in order to facilitate your
+            progress in the game, receive these few coins
+            as well as a small PvP bonus.<br>
+            Good game on New-Aion!
+			<br><br>]]>
+		</message>
+		<select>Sincerely your New-Aion Team !</select>
+	    <!--Crucible Insignia-->
+		<survey itemId="186000131" count="10000"/>
+     	<!--Groggie's Elyos ID -->
+		<survey itemId="186000122" count="100"/>
+	</guide>
+	<!-- Elyos -->
+	<guide title="adventurers_guide20_ely" level="20" race="ELYOS" rewardCount="1">
+		<message>
+          <![CDATA[<BR><BR>
+          Additional reward: in order to facilitate your
+          progress in the game, receive these few crystals
+          as a small bonus.<br>
+          Good game on New-Aion!
+			<br><br>]]>
+		</message>
+		<select>Sincerely your New-Aion Team !</select>
+		<survey itemId="186000389 " count="5"/>
+	</guide>
+	<!-- Asmodians -->
+	<guide title="adventurers_guide20_asmo" level="20" race="ASMODIANS" rewardCount="1">
+		<message>
+          <![CDATA[<BR><BR>
+          Additional reward: in order to facilitate your
+          progress in the game, receive these few crystals
+          as a small bonus.<br>
+          Good game on New-Aion!
+			<br><br>]]>
+		</message>
+		<select>Sincerely your New-Aion Team !</select>
+		<survey itemId="186000389 " count="5"/>
+	</guide>
+</guides>

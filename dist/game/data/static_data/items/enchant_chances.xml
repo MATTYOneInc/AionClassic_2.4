@@ -1,0 +1,80 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Enchant Chance Items
+	Develop: ADev.Team
+ -->
+<enchant_chances xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="enchant_chances.xsd">
+	<!-- COMMON -->
+	<!-- RARE -->
+    <enchant_chance id="1">
+        <item level="1" chance="100" crit="10"/>
+        <item level="2" chance="100" crit="10"/>
+        <item level="3" chance="100" crit="10"/>
+        <item level="4" chance="100" crit="10"/>
+        <item level="5" chance="100" crit="10"/>
+        <item level="6" chance="100" crit="10"/>
+        <item level="7" chance="100" crit="10"/>
+        <item level="8" chance="88" crit="10"/>
+        <item level="9" chance="88" crit="10"/>
+        <item level="10" chance="88" crit="10"/>
+        <item level="11" chance="68" crit="10"/>
+        <item level="12" chance="68" crit="10"/>
+        <item level="13" chance="68" crit="10"/>
+        <item level="14" chance="68" crit="10"/>
+        <item level="15" chance="68" crit="10"/>
+    </enchant_chance>
+	<!-- LEGEND -->
+    <enchant_chance id="2">
+        <item level="1" chance="100" crit="10"/>
+        <item level="2" chance="100" crit="10"/>
+        <item level="3" chance="100" crit="10"/>
+        <item level="4" chance="98" crit="10"/>
+        <item level="5" chance="98" crit="10"/>
+        <item level="6" chance="98" crit="10"/>
+        <item level="7" chance="78" crit="10"/>
+        <item level="8" chance="78" crit="10"/>
+        <item level="9" chance="78" crit="10"/>
+        <item level="10" chance="58" crit="10"/>
+        <item level="11" chance="58" crit="10"/>
+        <item level="12" chance="58" crit="10"/>
+        <item level="13" chance="58" crit="10"/>
+        <item level="14" chance="58" crit="10"/>
+        <item level="15" chance="58" crit="10"/>
+    </enchant_chance>
+	<!-- UNIQUE -->
+    <enchant_chance id="3">
+        <item level="1" chance="100" crit="10"/>
+        <item level="2" chance="100" crit="10"/>
+        <item level="3" chance="100" crit="10"/>
+        <item level="4" chance="92" crit="10"/>
+        <item level="5" chance="92" crit="10"/>
+        <item level="6" chance="92" crit="10"/>
+        <item level="7" chance="72" crit="10"/>
+        <item level="8" chance="72" crit="10"/>
+        <item level="9" chance="72" crit="10"/>
+        <item level="10" chance="52" crit="10"/>
+        <item level="11" chance="52" crit="10"/>
+        <item level="12" chance="52" crit="10"/>
+        <item level="13" chance="52" crit="10"/>
+        <item level="14" chance="52" crit="10"/>
+        <item level="15" chance="52" crit="10"/>
+    </enchant_chance>
+	<!-- EPIC -->
+    <enchant_chance id="4">
+        <item level="1" chance="100" crit="10"/>
+        <item level="2" chance="100" crit="10"/>
+        <item level="3" chance="100" crit="10"/>
+        <item level="4" chance="82" crit="10"/>
+        <item level="5" chance="82" crit="10"/>
+        <item level="6" chance="82" crit="10"/>
+        <item level="7" chance="62" crit="10"/>
+        <item level="8" chance="62" crit="10"/>
+        <item level="9" chance="62" crit="10"/>
+        <item level="10" chance="42" crit="10"/>
+        <item level="11" chance="42" crit="10"/>
+        <item level="12" chance="42" crit="10"/>
+        <item level="13" chance="42" crit="10"/>
+        <item level="14" chance="42" crit="10"/>
+        <item level="15" chance="42" crit="10"/>
+    </enchant_chance>
+</enchant_chances>

@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Rift Morheim
+	Re-newed By Rinzler
+ -->
+<spawns>
+	<spawn_map map_id="220020000">
+		<!-- directportal_start -->
+		<spawn npc_id="700137" handler="RIFT">
+			<spot x="451.40402" y="2313.6016" z="439.41293" anchor="MORHEIM_AM"/>
+			<spot x="770.31810" y="913.43616" z="328.75000" anchor="MORHEIM_BM"/>
+			<spot x="231.70863" y="486.40112" z="437.13187" anchor="MORHEIM_CM"/>
+			<spot x="1667.3259" y="1469.1770" z="163.98000" anchor="MORHEIM_DM"/>
+			<spot x="1739.4828" y="1080.9491" z="131.23041" anchor="MORHEIM_EM"/>
+			<spot x="2358.1914" y="2335.3062" z="113.19467" anchor="MORHEIM_FM"/>
+			<spot x="2489.6736" y="655.77450" z="258.85460" anchor="MORHEIM_GM"/>
+		</spawn>
+		<!-- directportal_destination -->
+		<spawn npc_id="700138" handler="RIFT">
+			<spot x="801.23334" y="1938.6088" z="382.45210" anchor="MORHEIM_AS"/>
+			<spot x="1195.8313" y="1572.3889" z="283.37500" anchor="MORHEIM_BS"/>
+			<spot x="373.22342" y="218.65251" z="506.82712" anchor="MORHEIM_CS"/>
+			<spot x="1526.4073" y="1133.9950" z="153.97423" anchor="MORHEIM_DS"/>
+			<spot x="2081.9570" y="2520.3303" z="291.62490" anchor="MORHEIM_ES"/>
+			<spot x="2553.4717" y="2289.3760" z="147.00000" anchor="MORHEIM_FS"/>
+			<spot x="3016.4110" y="591.28000" z="344.59930" anchor="MORHEIM_GS"/>
+		</spawn>
+		
+		<!-- Not Used -->
+        <rift_spawn id="2120">
+        </rift_spawn>
+        <rift_spawn id="2121">
+        </rift_spawn>
+        <rift_spawn id="2122">
+        </rift_spawn>
+        <rift_spawn id="2123">
+        </rift_spawn>
+        <rift_spawn id="2124">
+        </rift_spawn>
+        <rift_spawn id="2125">
+        </rift_spawn>
+        <rift_spawn id="2126">
+        </rift_spawn>
+	</spawn_map>
+</spawns>

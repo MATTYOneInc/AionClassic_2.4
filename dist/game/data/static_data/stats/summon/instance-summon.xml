@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Instance Summon
+	Develop: ADev.Team
+ -->
+<summon_stats_templates xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="../stats.xsd">
+	<!-- ******************** -->
+	<!-- INSTANCE SUMMON -->
+	<!-- ******************** -->
+	<!-- TALOC HOLLOW -->
+	<summon_stats npc_id_light="799500" npc_id_dark="799500" level="55">
+		<stats_template maxHp="11700" pdefense="1270" mresist="970" main_hand_attack="670" run_speed="9.6" main_hand_accuracy="1370" main_hand_crit_rate="50" magic_accuracy="970" mcrit="18" parry="0" evasion="1170"/>
+	</summon_stats>
+	<summon_stats npc_id_light="799501" npc_id_dark="799501" level="55">
+		<stats_template maxHp="11700" pdefense="1270" mresist="970" main_hand_attack="670" run_speed="9.6" main_hand_accuracy="1370" main_hand_crit_rate="50" magic_accuracy="970" mcrit="18" parry="0" evasion="1170"/>
+	</summon_stats>
+</summon_stats_templates>

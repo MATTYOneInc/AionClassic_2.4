@@ -1,0 +1,267 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Alquimia Research Center
+	Re-newed By Rinzler
+ -->
+<spawns>
+    <spawn_map map_id="320110000">
+        <!-- df3_npc_intube -->
+        <spawn npc_id="204810">
+            <spot x="456.4349" y="511.47293" z="206.73636" h="59"/>
+            <spot x="448.82" y="486.81854" z="206.73471" h="30"/>
+            <spot x="424.42615" y="487.67804" z="206.73471" h="35"/>
+        </spawn>
+        <!-- stein -->
+        <spawn npc_id="204814">
+            <spot x="456.0430" y="503.5990" z="206.7360" h="77"/>
+        </spawn>
+        <!-- atla -->
+        <spawn npc_id="204815">
+            <spot x="440.2360" y="487.1070" z="206.7350" h="22"/>
+        </spawn>
+		
+        <!-- iddf3lp1_feb_lehparfid_43_ae -->
+        <spawn npc_id="213934">
+            <spot x="554.7736" y="485.09756" z="199.90137" h="30"/>
+            <spot x="559.8296" y="533.7826" z="199.73503" h="0"/>
+            <spot x="593.37244" y="565.19617" z="199.73503" h="96"/>
+            <spot x="567.6185" y="570.2781" z="199.73503" h="89"/>
+            <spot x="550.92847" y="550.4894" z="199.73503" h="0"/>
+        </spawn>
+        <!-- iddf3lp1_feb_lehparfid_44_ae -->
+        <spawn npc_id="213935">
+            <spot x="525.7469" y="488.99872" z="199.73503" h="12"/>
+            <spot x="536.05347" y="496.77475" z="199.73503" h="0"/>
+            <spot x="554.6625" y="513.4643" z="199.73503" h="0"/>
+        </spawn>
+        <!-- iddf3lp1_keb_lehparknd_43_ae -->
+        <spawn npc_id="213936">
+            <spot x="525.0597" y="509.65533" z="199.73503" h="90"/>
+            <spot x="583.4423" y="541.9101" z="199.73503" h="105"/>
+            <spot x="513.7885" y="556.50385" z="202.13818" h="0"/>
+        </spawn>
+        <!-- iddf3lp1_aeb_lehparasd_43_ae -->
+        <spawn npc_id="213937">
+            <spot x="578.39404" y="484.1976" z="199.90137" h="30"/>
+            <spot x="563.7951" y="543.3567" z="199.73503" h="119"/>
+            <spot x="593.2576" y="561.38696" z="199.73503" h="19"/>
+            <spot x="569.1766" y="570.3275" z="199.73503" h="89"/>
+        </spawn>
+        <!-- iddf3lp1_aeb_lehparasd_44_ae -->
+        <spawn npc_id="213938">
+            <spot x="553.4632" y="485.03406" z="199.90137" h="30"/>
+        </spawn>
+        <!-- iddf3lp1_rebs3_lehparrad_44_ae -->
+        <spawn npc_id="213939">
+            <spot x="589.5627" y="501.9783" z="199.47145" h="43"/>
+            <spot x="563.2865" y="520.90076" z="199.73503" h="0"/>
+            <spot x="550.82196" y="559.3255" z="199.73503" h="0"/>
+			<spot x="587.61240" y="520.44320" z="199.73503" h="0" walker_id="iddf3_mpath_iddf3lp1_rebs3_lehparrad_44_1"/>
+			<spot x="567.71310" y="568.12260" z="199.73503" h="0" walker_id="iddf3lp_mpath_iddf3lp1_rebs3_lehparrad_44"/>
+			<spot x="569.53380" y="506.71230" z="199.47145" h="0" walker_id="iddf3_mpath_iddf3lp1_rebs3_lehparrad_44_2"/>
+        </spawn>
+        <!-- iddf3lp1_wea_lehparwid_43_ae -->
+        <spawn npc_id="213940">
+            <spot x="580.2124" y="483.57425" z="199.90137" h="30"/>
+            <spot x="527.2496" y="509.68893" z="199.73503" h="90"/>
+            <spot x="584.83734" y="543.3161" z="199.73503" h="105"/>
+        </spawn>
+        <!-- iddf3lp1_eeb_lehparwid_43_ae -->
+        <spawn npc_id="213941">
+            <spot x="587.76025" y="501.0541" z="199.47145" h="42"/>
+            <spot x="543.60095" y="509.70853" z="199.73503" h="90"/>
+        </spawn>
+        <!-- iddf3lp1_pea_lehparprd_43_ae -->
+        <spawn npc_id="213942">
+            <spot x="526.8435" y="487.45044" z="199.73503" h="12"/>
+            <spot x="595.945" y="564.07495" z="199.73503" h="72"/>
+        </spawn>
+		<!-- iddf3lp1_kuilluspetd_43_an -->
+        <spawn npc_id="213943">
+		    <spot x="587.61240" y="520.44320" z="199.73503" h="0" walker_id="iddf3_mpath_iddf3lp1_rebs3_lehparrad_44_1"/>
+			<spot x="567.71310" y="568.12260" z="199.73503" h="0" walker_id="iddf3lp_mpath_iddf3lp1_rebs3_lehparrad_44"/>
+			<spot x="569.53380" y="506.71230" z="199.47145" h="0" walker_id="iddf3_mpath_iddf3lp1_rebs3_lehparrad_44_2"/>
+        </spawn>
+        <!-- iddf3lp1_fna_lehparfid_43_ae -->
+        <spawn npc_id="213944">
+            <spot x="530.3629" y="547.5857" z="202.1684" h="13"/>
+            <spot x="540.3107" y="563.72284" z="202.12965" h="0"/>
+            <spot x="518.15295" y="545.8314" z="202.13678" h="3"/>
+            <spot x="521.0353" y="560.949" z="202.13585" h="108"/>
+        </spawn>
+        <!-- iddf3lp1_aea_lehparasd_43_ae -->
+        <spawn npc_id="213945">
+            <spot x="540.0586" y="560.29175" z="202.12973" h="119"/>
+            <spot x="532.1218" y="567.0122" z="202.1323" h="107"/>
+            <spot x="517.37585" y="543.7349" z="202.13704" h="6"/>
+        </spawn>
+        <!-- iddf3lp1_pna_lehparprd_43_ae -->
+        <spawn npc_id="213946">
+            <spot x="531.76587" y="545.76483" z="202.1324" h="13"/>
+            <spot x="522.0088" y="558.5882" z="202.16211" h="0"/>
+        </spawn>
+        <!-- iddf3lp2_wea_lehparwid_45_ae -->
+        <spawn npc_id="219167">
+            <spot x="444.7208" y="518.61633" z="204.69067" h="90"/>
+            <spot x="451.97192" y="509.0989" z="205.33049" h="60"/>
+            <spot x="410.2472" y="488.0096" z="205.32997" h="90"/>
+            <spot x="401.3656" y="515.48486" z="205.36707" h="0"/>
+        </spawn>
+        <!-- iddf3lp2_eeb_lehparwid_44_ae -->
+        <spawn npc_id="219158">
+            <spot x="451.77792" y="491.43857" z="205.32957" h="44"/>
+            <spot x="400.0183" y="517.3111" z="205.33063" h="0"/>
+            <spot x="399.66907" y="495.9472" z="205.33063" h="0"/>
+        </spawn>
+        <!-- iddf3lp2_aeb_lehparasd_44_ae -->
+        <spawn npc_id="219157">
+            <spot x="486.9767" y="524.77844" z="204.87302" h="0"/>
+            <spot x="403.6127" y="531.4868" z="204.69067" h="0"/>
+            <spot x="435.59744" y="566.65076" z="204.70325" h="90"/>
+            <spot x="409.31027" y="553.41077" z="204.69989" h="27"/>
+            <spot x="429.37936" y="499.02054" z="204.69067" h="30"/>
+		    <spot x="442.19656" y="493.77887" z="205.32932" h="0" walker_id="iddf3lp_mpath_iddf3lp2_aeb_lehparasd_44"/>
+        </spawn>
+        <!-- iddf3lp2_feb_lehparfid_44_ae -->
+        <spawn npc_id="219159">
+            <spot x="413.39398" y="500.09387" z="204.69067" h="0"/>
+            <spot x="472.20746" y="506.16122" z="204.69067" h="0"/>
+            <spot x="471.0172" y="545.66174" z="204.69067" h="0"/>
+            <spot x="410.35403" y="565.4349" z="204.70465" h="114"/>
+            <spot x="453.15942" y="492.36353" z="205.32974" h="44"/>
+            <spot x="428.11252" y="498.95563" z="204.69067" h="30"/>
+            <spot x="399.6802" y="497.90335" z="205.33063" h="0"/>
+			<spot x="428.00000" y="507.19000" z="204.69067" h="0" walker_id="iddf3_lp_npcpathiddf3lp_mob_2.2"/>
+			<spot x="451.20000" y="492.29000" z="205.32948" h="0" walker_id="iddf3_lp_npcpathiddf3lp_mob_2.6"/>
+        </spawn>
+        <!-- iddf3lp2_keb_lehparknd_44_ae -->
+        <spawn npc_id="219160">
+            <spot x="472.31592" y="508.038" z="204.69067" h="0"/>
+            <spot x="478.5731" y="484.36298" z="204.69067" h="30"/>
+            <spot x="472.99203" y="563.583" z="204.69067" h="103"/>
+            <spot x="401.5546" y="533.5755" z="204.69067" h="0"/>
+            <spot x="451.74347" y="510.54538" z="205.33054" h="60"/>
+		    <spot x="430.94020" y="550.36945" z="204.69067" h="0" walker_id="iddf3lp_mpath_iddf3lp2_keb_lehparknd_44"/>
+		    <spot x="477.00000" y="517.83000" z="204.69067" h="0" walker_id="iddf3_lp_npcpathiddf3lp_mob_2.1"/>
+        </spawn>
+        <!-- iddf3lp2_keb_lehparknd_45_ae -->
+        <spawn npc_id="219161">
+            <spot x="410.42993" y="485.34958" z="205.33026" h="30"/>
+            <spot x="421.5732" y="518.48676" z="204.71576" h="110"/>
+        </spawn>
+        <!-- iddf3lp2_rebs3_lehparrad_44_ae -->
+        <spawn npc_id="219163">
+            <spot x="431.35380" y="507.46610" z="204.69067" h="0" walker_id="iddf3lp_mpath_iddf3lp2_rebs3_lehparrad_44_3"/>
+            <spot x="422.22208" y="557.90040" z="204.69067" h="0" walker_id="iddf3lp_mpath_iddf3lp2_rebs3_lehparrad_44"/>
+        </spawn>
+        <!-- iddf3lp2_testtubehumanfid_44_an -->
+        <spawn npc_id="219165">
+            <spot x="455.80414" y="495.8918" z="206.73471" h="60"/>
+            <spot x="432.89243" y="487.3037" z="206.73471" h="32"/>
+            <spot x="416.97583" y="487.89395" z="206.73471" h="29"/>
+        </spawn>
+        <!-- iddf3lp2_feb_lehparfid_45_ae -->
+        <spawn npc_id="213956">
+            <spot x="419.40646" y="530.93536" z="204.69067" h="0"/>
+            <spot x="444.36005" y="548.3399" z="204.69067" h="30"/>
+            <spot x="451.46637" y="568.52997" z="204.69067" h="104"/>
+            <spot x="436.5966" y="569.8079" z="204.70325" h="90"/>
+            <spot x="406.41553" y="553.785" z="204.69989" h="14"/>
+            <spot x="397.5737" y="559.1318" z="204.69067" h="0"/>
+        </spawn>
+        <!-- iddf3lp2_aea_lehparasd_44_ae -->
+        <spawn npc_id="219156">
+            <spot x="446.4262" y="536.0509" z="204.69067" h="0"/>
+            <spot x="381.476" y="501.82986" z="208.84811" h="0"/>
+		    <spot x="546.06274" y="527.05980" z="199.25480" h="0" walker_id="iddf3_mpath_rebs3_lehparrad_44"/>
+        </spawn>
+        <!-- iddf3lp2_pea_lehparprd_44_ae -->
+        <spawn npc_id="219162">
+            <spot x="470.9685" y="547.4148" z="204.69067" h="0"/>
+            <spot x="474.39297" y="562.1123" z="204.69067" h="45"/>
+            <spot x="403.65686" y="536.33167" z="204.69067" h="0"/>
+            <spot x="419.40646" y="535.5872" z="204.69067" h="0"/>
+            <spot x="455.31683" y="548.6137" z="204.69067" h="29"/>
+            <spot x="452.76913" y="569.3234" z="204.69067" h="104"/>
+            <spot x="431.86102" y="569.63995" z="204.70325" h="90"/>
+            <spot x="411.67285" y="565.16833" z="204.70465" h="56"/>
+            <spot x="407.82736" y="553.079" z="204.69989" h="22"/>
+            <spot x="397.54013" y="561.42847" z="204.69067" h="0"/>
+			<spot x="412.00000" y="566.50000" z="204.69067" h="0" walker_id="iddf3_lp_npcpathiddf3lp_mob_2.5"/>
+        </spawn>
+        <!-- iddf3lp2_rebs3_lehparrad_45_ae -->
+        <spawn npc_id="219164">
+            <spot x="470.55914" y="533.09644" z="204.69067" h="0" walker_id="iddf3lp_mpath_iddf3lp2_rebs3_lehparrad_45"/>
+        </spawn>
+        <!-- iddf3lp3_fea_lehparfid_45_ae -->
+        <spawn npc_id="213960">
+            <spot x="349.3898" y="503.4865" z="209.21713" h="0"/>
+            <spot x="349.36163" y="498.55933" z="209.21713" h="0"/>
+            <spot x="331.31104" y="503.7023" z="209.21713" h="0"/>
+            <spot x="331.31174" y="498.4367" z="209.21713" h="0"/>
+            <spot x="314.07565" y="498.48856" z="209.21713" h="0"/>
+            <spot x="314.08258" y="503.64984" z="209.21713" h="0"/>
+        </spawn>
+        <!-- iddf3lp3_rebs3_lehparrad_45_ae -->
+        <spawn npc_id="213961">
+            <spot x="306.76242" y="490.63046" z="209.92009" h="16"/>
+            <spot x="307.294" y="511.2446" z="209.9201" h="109"/>
+			<spot x="364.01000" y="501.16000" z="209.23999" h="0" walker_id="iddf3_lp_npcpathiddf3lp_mob_2.8"/>
+		    <spot x="364.17618" y="500.62408" z="209.23999" h="0" walker_id="iddf3lp_mpath_iddf3lp3_rebs3_lehparrad_45"/>
+            <spot x="364.12247" y="502.38580" z="209.23999" h="0" walker_id="iddf3lp_mpath_iddf3lp3_rebs3_lehparrad_45_2"/>
+        </spawn>
+        <!-- iddf3lp_lehparknresearchnmddq_43_an -->
+        <spawn npc_id="214027">
+            <spot x="513.19476" y="498.9898" z="199.73503" h="0"/>
+        </spawn>
+        <!-- iddf3lp_lehpareleshamannmddq_45_ae -->
+        <spawn npc_id="214028">
+            <spot x="280.3719" y="501.02463" z="211.67049" h="0"/>
+        </spawn>
+        <!-- iddf3lp2_lehparwikeynamedd_44_ae -->
+        <spawn npc_id="214034">
+            <spot x="459.8768" y="558.74915" z="204.69067" h="60"/>
+        </spawn>
+		
+        <!-- df3_tube_q2058 -->
+        <spawn npc_id="700289">
+            <spot x="440.530487" y="489.721191" z="209.408310" entity_id="149"/>
+            <spot x="454.893158" y="503.782288" z="209.408310" entity_id="47"/>
+            <spot x="454.699554" y="511.428284" z="209.408310" entity_id="135"/>
+            <spot x="454.670746" y="496.264954" z="209.408310" entity_id="133"/>
+            <spot x="454.037964" y="488.411987" z="209.408310" entity_id="146"/>
+            <spot x="448.851898" y="489.684570" z="209.408310" entity_id="182"/>
+            <spot x="433.185394" y="489.458252" z="209.408310" entity_id="142"/>
+            <spot x="424.740936" y="489.547852" z="209.408310" entity_id="137"/>
+            <spot x="416.746429" y="489.614990" z="209.408310" entity_id="175"/>
+        </spawn>
+        <!-- df3_powerplant_q2058 -->
+        <spawn npc_id="700349">
+            <spot x="452.404114" y="516.995239" z="205.864395" entity_id="3"/>
+        </spawn>
+        <!-- iddf3_lp_lehparcabinet_q2698 -->
+        <spawn npc_id="700362">
+            <spot x="401.965424" y="547.710327" z="206.296906" entity_id="9"/>
+        </spawn>
+        <!-- df3_lehparbook_02 -->
+        <spawn npc_id="700363">
+            <spot x="448.712006" y="570.211975" z="207.004013" entity_id="455"/>
+        </spawn>
+        <!-- df3_alquimiadoor_out -->
+        <spawn npc_id="730111">
+            <spot x="609.212646" y="527.000000" z="201.000000" entity_id="1"/>
+        </spawn>
+        <!-- df3_lehparbook_01 -->
+        <spawn npc_id="730112">
+            <spot x="405.921478" y="484.015198" z="208.301132" entity_id="456"/>
+        </spawn>
+        <!-- df3_lehparbook_03 -->
+        <spawn npc_id="730113">
+            <spot x="398.696991" y="518.578674" z="207.499619" entity_id="450"/>
+        </spawn>
+        <!-- df3_lehparbook_04 -->
+        <spawn npc_id="730114">
+            <spot x="396.769623" y="560.138977" z="208.273544" entity_id="451"/>
+        </spawn>
+	</spawn_map>
+</spawns>

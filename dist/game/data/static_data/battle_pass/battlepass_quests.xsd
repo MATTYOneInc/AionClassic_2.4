@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:include schemaLocation="../global_types.xsd"/>
+    <xs:element name="battlepass_quests">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="battlepass_quest" type="BattlePassQuestTemplate" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:complexType name="BattlePassQuestTemplate">
+        <xs:attribute name="id" type="xs:int" use="required"/>
+        <xs:attribute name="type" type="BattleQuestType"/>
+        <xs:attribute name="pass_id" type="xs:int"/>
+        <xs:attribute name="action_id" type="xs:int"/>
+        <xs:attribute name="active" type="xs:boolean"/>
+        <xs:attribute name="min_level" type="xs:int"/>
+        <xs:attribute name="max_level" type="xs:int"/>
+        <xs:attribute name="complete_exp" type="xs:int"/>
+        <xs:attribute name="race" type="Race"/>
+        <xs:attribute name="start" type="xs:dateTime" use="required"/>
+        <xs:attribute name="end" type="xs:dateTime" use="required"/>
+    </xs:complexType>
+    <xs:simpleType name="BattleQuestType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="DAILY"/>
+            <xs:enumeration value="WEEKLY"/>
+            <xs:enumeration value="SEASON"/>
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>

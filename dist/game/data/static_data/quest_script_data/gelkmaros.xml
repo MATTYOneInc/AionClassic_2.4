@@ -1,0 +1,443 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+<!--
+    Quest Gelkmaros
+	Make By Encom
+ -->
+	<report_to id="21018" start_npc_ids="799245" end_npc_ids="799256"/>
+	<report_to id="21019" start_npc_ids="799246" end_npc_ids="799247"/>
+	<report_to id="21064" start_npc_ids="799249" end_npc_ids="799252"/>
+	<report_to id="21065" start_npc_ids="799231" end_npc_ids="799322"/>
+	<report_to id="21066" start_npc_ids="799232" end_npc_ids="799242"/>
+	<report_to id="21067" start_npc_ids="799238" end_npc_ids="799245" item_id="182207912"/>
+	<report_to id="21103" start_npc_ids="799280" end_npc_ids="799276"/>
+	<report_to id="21110" start_npc_ids="799263" end_npc_ids="799289"/>
+	<report_to id="21121" start_npc_ids="799292" end_npc_ids="799295"/>
+	<report_to id="21239" start_npc_ids="799418" end_npc_ids="799420" item_id="182207928"/>
+	<report_to id="30112" start_npc_ids="799279" end_npc_ids="799337"/>
+	<!-- Sword's Potential -->
+	<report_to id="30115" start_npc_ids="799336" end_npc_ids="799336"/>
+	<!-- Greatsword's Potential -->
+	<report_to id="30117" start_npc_ids="799336" end_npc_ids="799336"/>
+	<!-- Polearm's Potential -->
+	<report_to id="30119" start_npc_ids="799336" end_npc_ids="799336"/>
+	<!-- Staff's Potential -->
+	<report_to id="30121" start_npc_ids="799336" end_npc_ids="799336"/>
+	<!-- Spellbook's Potential -->
+	<report_to id="30123" start_npc_ids="799336" end_npc_ids="799336"/>
+	<!-- Orb's Potential -->
+	<report_to id="30125" start_npc_ids="799336" end_npc_ids="799336"/>
+	<!-- Bow's Potential -->
+	<report_to id="30127" start_npc_ids="799336" end_npc_ids="799336"/>
+	<!-- Dagger's Potential -->
+	<report_to id="30129" start_npc_ids="799336" end_npc_ids="799336"/>
+	<!-- Mace's Potential -->
+	<report_to id="30131" start_npc_ids="799336" end_npc_ids="799336"/>
+	<!-- 손상된 사슬검 -->
+	<report_to id="30134" start_npc_ids="799336" end_npc_ids="799336"/>
+	
+	<item_collecting id="21000" start_npc_ids="799202" action_item_ids="700708"/>
+	<item_collecting id="21001" start_npc_ids="799227"/>
+	<item_collecting id="21015" start_npc_ids="799246" action_item_ids="700721"/>
+	<item_collecting id="21022" start_npc_ids="799249"/>
+	<item_collecting id="21025" start_npc_ids="799252" action_item_ids="700723"/>
+	<item_collecting id="21028" start_npc_ids="799254"/>
+	<!-- An Unusual Trap -->
+	<item_collecting id="21030" start_npc_ids="799252" action_item_ids="730246"/>
+	<item_collecting id="21031" start_npc_ids="799256" action_item_ids="700724"/>
+	<item_collecting id="21032" start_npc_ids="799256"/>
+	<item_collecting id="21035" start_npc_ids="799258"/>
+	<item_collecting id="21037" start_npc_ids="799209"/>
+	<item_collecting id="21038" start_npc_ids="799209"/>
+	<item_collecting id="21039" start_npc_ids="799213"/>
+	<item_collecting id="21041" start_npc_ids="799216"/>
+	<item_collecting id="21042" start_npc_ids="799215"/>
+	<item_collecting id="21043" start_npc_ids="799215"/>
+	<item_collecting id="21069" start_npc_ids="799406" action_item_ids="700932 700933"/>
+	<item_collecting id="21072" start_npc_ids="799407" action_item_ids="700931"/>
+	<item_collecting id="21078" start_npc_ids="799249"/>
+	<item_collecting id="21100" start_npc_ids="799280"/>
+	<item_collecting id="21101" start_npc_ids="799280"/>
+	<item_collecting id="21104" start_npc_ids="799270" action_item_ids="700725"/>
+	<item_collecting id="21107" start_npc_ids="799262"/>
+	<item_collecting id="21112" start_npc_ids="799282" action_item_ids="700726"/>
+	<item_collecting id="21116" start_npc_ids="799289"/>
+	<item_collecting id="21123" start_npc_ids="799296"/>
+	<item_collecting id="21126" start_npc_ids="799297"/>
+	<item_collecting id="21200" start_npc_ids="799300" action_item_ids="700731 700751"/>
+	<item_collecting id="21201" start_npc_ids="799300"/>
+	<item_collecting id="21204" start_npc_ids="799298"/>
+	<!-- Basic War Tactics -->
+	<item_collecting id="21205" start_npc_ids="799308" action_item_ids="700733"/>
+	<item_collecting id="21207" start_npc_ids="799308"/>
+	<item_collecting id="21212" start_npc_ids="799317" action_item_ids="700734"/>
+	<item_collecting id="21214" start_npc_ids="799317" action_item_ids="700735"/>
+	<item_collecting id="21220" start_npc_ids="799320" action_item_ids="700736"/>
+	<item_collecting id="21224" start_npc_ids="799318"/>
+	<!-- [Daily] To Procure Supplies -->
+	<item_collecting id="21225" start_npc_ids="799306"/>
+	<!-- [Daily] The Seed Of Anxiety -->
+	<item_collecting id="21226" start_npc_ids="799305"/>
+	<!-- [Daily] Exterminator Duty -->
+	<item_collecting id="21229" start_npc_ids="799314"/>
+	<!-- [Daily] Drackies And Defense -->
+	<item_collecting id="21230" start_npc_ids="799315"/>
+	<!-- [Spy/Daily] Food For Rationing -->
+	<item_collecting id="21233" start_npc_ids="799354"/>
+	<!-- [Spy/Daily] Sandstorms Get In Your Eyes -->
+	<item_collecting id="21236" start_npc_ids="799360"/>
+	<item_collecting id="21242" start_npc_ids="799421"/>
+	<item_collecting id="21245" start_npc_ids="799317"/>
+	<item_collecting id="21247" start_npc_ids="799416"/>
+	<item_collecting id="21248" start_npc_ids="799416" action_item_ids="700930"/>
+	<!-- Enhancing The Greatsword -->
+	<item_collecting id="21251" start_npc_ids="799340" end_npc_ids="798317"/>
+	<!-- Enhancing The Spellbook -->
+	<item_collecting id="21253" start_npc_ids="799340" end_npc_ids="798317"/>
+	<!-- Enhancing The Bow -->
+	<item_collecting id="21255" start_npc_ids="799340" end_npc_ids="798317"/>
+	<!-- Enhancing The Dagger -->
+	<item_collecting id="21257" start_npc_ids="799340" end_npc_ids="798317"/>
+	<!-- Enhancing The Mace -->
+	<item_collecting id="21259" start_npc_ids="799340" end_npc_ids="798317"/>
+	<!-- Enhancing The Orb -->
+	<item_collecting id="21261" start_npc_ids="799340" end_npc_ids="798317"/>
+	<!-- Enhancing The Polearm -->
+	<item_collecting id="21263" start_npc_ids="799340" end_npc_ids="798317"/>
+	<!-- Enhancing The Staff -->
+	<item_collecting id="21265" start_npc_ids="799340" end_npc_ids="798317"/>
+	<!-- Enhancing The Sword -->
+	<item_collecting id="21267" start_npc_ids="799340" end_npc_ids="798317"/>
+	<!-- Heart Of Asmodae -->
+	<item_collecting id="21268" start_npc_ids="799323" end_npc_ids="799323" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Standing For Asmodae -->
+    <item_collecting id="21269" start_npc_ids="799323" end_npc_ids="799323" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Path Of Asmodae -->
+	<item_collecting id="21270" start_npc_ids="799323" end_npc_ids="799323" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Holding On For Asmodae -->
+	<item_collecting id="21271" start_npc_ids="799323" end_npc_ids="799323" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Bearing Up For Asmodae -->
+	<item_collecting id="21272" start_npc_ids="799323" end_npc_ids="799323" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Seals And Earrings -->
+	<item_collecting id="21273" start_npc_ids="799421" end_npc_ids="799421" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Seals And Rings -->
+	<item_collecting id="21274" start_npc_ids="799421" end_npc_ids="799421" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Weapons Of Asmodae -->
+	<item_collecting id="21275" start_npc_ids="799323" end_npc_ids="799323" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Shielding Asmodae -->
+	<item_collecting id="21276" start_npc_ids="799323" end_npc_ids="799323" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [Spy/Daily] Mudthorn Of The Inggison Abyss -->
+	<item_collecting id="21297" start_npc_ids="799354" end_npc_ids="799354" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- [일일] 겔크마로스의 생태계 -->
+	<item_collecting id="21298" start_npc_ids="799326" end_npc_ids="799326" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Releasing The Sword's Potential -->
+	<item_collecting id="30116" start_npc_ids="799336" end_npc_ids="799336" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Releasing The Greatsword's Potential -->
+	<item_collecting id="30118" start_npc_ids="799336" end_npc_ids="799336" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Releasing The Polearm's Potential -->
+	<item_collecting id="30120" start_npc_ids="799336" end_npc_ids="799336" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Releasing The Staff's Potential -->
+	<item_collecting id="30122" start_npc_ids="799336" end_npc_ids="799336" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Releasing The Spellbook's Potential -->
+	<item_collecting id="30124" start_npc_ids="799336" end_npc_ids="799336" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Releasing The Orb's Potential -->
+	<item_collecting id="30126" start_npc_ids="799336" end_npc_ids="799336" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Releasing The Bow's Potential -->
+	<item_collecting id="30128" start_npc_ids="799336" end_npc_ids="799336" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Releasing The Dagger's Potential -->
+	<item_collecting id="30130" start_npc_ids="799336" end_npc_ids="799336" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- Releasing The Mace's Potential -->
+	<item_collecting id="30132" start_npc_ids="799336" end_npc_ids="799336" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<!-- 사슬검 복원하기 -->
+	<item_collecting id="30135" start_npc_ids="799336" end_npc_ids="799336" start_dialog_id="1011" start_dialog_id2="2375"/>
+	<item_collecting id="48502" start_npc_ids="799424"/>
+	<item_collecting id="48503" start_npc_ids="799425"/>
+	<item_collecting id="48505" start_npc_ids="799424"/>
+	<item_collecting id="48506" start_npc_ids="799425"/>
+	
+	<!-- Shining Scroll -->
+	<item_order id="21059" start_item_id="182207848" end_npc_id="799305"/>
+	<!-- Mystery Blueprint -->
+	<item_order id="21125" start_item_id="182207865" end_npc_id="799295"/>
+	<!-- Berokin Image Marble -->
+	<item_order id="21137" start_item_id="182207920" talk_npc_id1="799270" end_npc_id="799239"/>
+	<!-- Rusty Relic -->
+	<item_order id="21221" start_item_id="182207878" talk_npc_id1="799239" end_npc_id="799320"/>
+	<!-- Mastarius's Gift -->
+	<item_order id="21291" start_item_id="182213148" end_npc_id="799340"/>
+	
+	<!-- [일일] 천족 세력 견제 -->
+	<kill_in_world id="70046" start_npc_ids="800625" end_npc_ids="800625" start_dialog_id="1011" worlds="0" amount="20"/>
+	<!-- [일일] 마족의 영광을 위해 -->
+	<kill_in_world id="70047" start_npc_ids="800627" end_npc_ids="800627" start_dialog_id="1011" worlds="0" amount="30"/>
+	
+	<!-- Village Status Report -->
+	<report_to_many id="21004" start_npc_ids="799227" end_npc_ids="799227" start_dialog_id="1011">
+        <npc_infos npc_id="799268" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="799269" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="799227" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Exorcising Infisto -->
+	<report_to_many id="21033" start_npc_ids="799256" end_npc_ids="799256" start_dialog_id="1011">
+        <npc_infos npc_id="204734" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="799256" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Delivery Of Aether Sample -->
+	<report_to_many id="21036" start_npc_ids="799258" end_npc_ids="799239" start_dialog_id="1011">
+        <npc_infos npc_id="799238" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="798713" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="799239" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- The Summation -->
+	<report_to_many id="21070" start_npc_ids="799406" end_npc_ids="799406" start_dialog_id="1011">
+        <npc_infos npc_id="799405" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="799406" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Missing Bard -->
+	<report_to_many id="21071" start_npc_ids="799407" end_npc_ids="799407" start_dialog_id="1011">
+        <npc_infos npc_id="799329" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="799407" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Listen To My Song, Strigiks -->
+	<report_to_many id="21073" start_npc_ids="799407" end_npc_ids="799407" start_dialog_id="1011">
+        <npc_infos npc_id="799408" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="799407" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- A Helping Hand -->
+	<report_to_many id="21081" start_npc_ids="799225" end_npc_ids="799202" start_dialog_id="1011">
+        <npc_infos npc_id="799332" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="799217" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="799202" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- The Real Rhonnam -->
+	<report_to_many id="21106" start_npc_ids="799271" end_npc_ids="799271" start_dialog_id="1011">
+        <npc_infos npc_id="799272" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="799273" var="1" quest_dialog="1693"/>
+		<npc_infos npc_id="799274" var="2" quest_dialog="2034"/>
+        <npc_infos npc_id="799271" var="3" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Test Your Might -->
+	<report_to_many id="21111" start_npc_ids="799261" end_npc_ids="799261" start_dialog_id="1011">
+        <npc_infos npc_id="730249" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="799261" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Vellun's Request -->
+	<report_to_many id="21135" start_npc_ids="799239" end_npc_ids="799271" start_dialog_id="1011">
+        <npc_infos npc_id="799270" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="799271" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- In Search Of A Witness -->
+	<report_to_many id="21136" start_npc_ids="799271" end_npc_ids="730355" start_dialog_id="1011">
+        <npc_infos npc_id="799413" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="799414" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="730355" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Odd Strigik -->
+	<report_to_many id="21138" start_npc_ids="799415" end_npc_ids="799415" start_dialog_id="1011">
+        <npc_infos npc_id="799274" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="799273" var="1" quest_dialog="1693"/>
+		<npc_infos npc_id="799263" var="2" quest_dialog="2034"/>
+        <npc_infos npc_id="799415" var="3" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- New Research Plan -->
+	<report_to_many id="21217" start_npc_ids="799316" end_npc_ids="799226" start_dialog_id="1011">
+        <npc_infos npc_id="799239" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="798713" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="799226" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Search For The Biolab -->
+	<report_to_many id="21244" start_npc_ids="799317" end_npc_ids="799317" start_dialog_id="1011">
+        <npc_infos npc_id="799318" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="799320" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="799317" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Test Subject One -->
+	<report_to_many id="21278" start_npc_ids="799208" end_npc_ids="799208" start_dialog_id="1011">
+        <npc_infos npc_id="799208" var="0" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Ingredients For The Antidote -->
+	<report_to_many id="21455" start_npc_ids="799404" end_npc_ids="799244" start_dialog_id="1011">
+        <npc_infos npc_id="799240" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="799244" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Practical Research -->
+	<report_to_many id="21458" start_npc_ids="799249" end_npc_ids="799249" start_dialog_id="1011">
+        <npc_infos npc_id="204052" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="799249" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- [Daily] Mastarius's Blessing -->
+	<report_to_many id="21290" start_npc_ids="799095" end_npc_ids="799095" start_dialog_id="1011">
+        <npc_infos npc_id="799095" var="0" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	
+	<relic_rewards id="21281" start_npc_ids="799949" relic_var1="186000066" relic_var2="186000065" relic_var3="186000064" relic_var4="186000063"/>
+	<relic_rewards id="21282" start_npc_ids="799950" relic_var1="186000062" relic_var2="186000061" relic_var3="186000060" relic_var4="186000059"/>
+	<relic_rewards id="21283" start_npc_ids="799951" relic_var1="186000058" relic_var2="186000057" relic_var3="186000056" relic_var4="186000055"/>
+	<relic_rewards id="21284" start_npc_ids="799952" relic_var1="186000054" relic_var2="186000053" relic_var3="186000052" relic_var4="186000051"/>
+	<relic_rewards id="21285" start_npc_ids="799957" relic_var1="186000066" relic_var2="186000065" relic_var3="186000064" relic_var4="186000063" relic_count="10"/>
+	<relic_rewards id="21286" start_npc_ids="799958" relic_var1="186000062" relic_var2="186000061" relic_var3="186000060" relic_var4="186000059" relic_count="10"/>
+	<relic_rewards id="21287" start_npc_ids="799959" relic_var1="186000058" relic_var2="186000057" relic_var3="186000056" relic_var4="186000055" relic_count="10"/>
+	<relic_rewards id="21288" start_npc_ids="799960" relic_var1="186000054" relic_var2="186000053" relic_var3="186000052" relic_var4="186000051" relic_count="10"/>
+	
+	<!-- Cleaning Out Leftovers -->
+	<monster_hunt id="21002" start_npc_ids="799228">
+		<monster var="0" npc_ids="216092 216096" end_var="10"/>
+		<monster var="1" npc_ids="216093 216097" end_var="10"/>
+	</monster_hunt>
+	<!-- Distract The Balaur -->
+	<monster_hunt id="21005" start_npc_ids="799228">
+		<monster var="0" npc_ids="216092 216096" end_var="10"/>
+		<monster var="1" npc_ids="216093 216097" end_var="10"/>
+	</monster_hunt>
+	<monster_hunt id="21009" start_npc_ids="799229">
+		<monster var="0" npc_ids="216091 216095" end_var="10"/>
+		<monster var="1" npc_ids="216545" end_var="1"/>
+	</monster_hunt>
+	<monster_hunt id="21016" start_npc_ids="799245">
+		<monster var="0" npc_ids="215882" end_var="30"/>
+	</monster_hunt>
+	<monster_hunt id="21017" start_npc_ids="799245">
+		<monster var="0" npc_ids="700722" end_var="3"/>
+	</monster_hunt>
+	<monster_hunt id="21020" start_npc_ids="799248">
+		<monster var="0" npc_ids="215955 216407" end_var="20"/>
+	</monster_hunt>
+	<monster_hunt id="21021" start_npc_ids="799248">
+		<monster var="0" npc_ids="216549" end_var="1"/>
+	</monster_hunt>
+	<monster_hunt id="21026" start_npc_ids="799253">
+		<monster var="0" npc_ids="215910 215911" end_var="20"/>
+		<monster var="1" npc_ids="215932 216443" end_var="20"/>
+	</monster_hunt>
+	<monster_hunt id="21029" start_npc_ids="799253">
+		<monster var="0" npc_ids="216552" end_var="1"/>
+	</monster_hunt>
+	<monster_hunt id="21034" start_npc_ids="799256">
+		<monster var="0" npc_ids="215885 215886" end_var="20"/>
+		<monster var="1" npc_ids="216555" end_var="1"/>
+	</monster_hunt>
+	<monster_hunt id="21074" start_npc_ids="799409">
+		<monster var="0" npc_ids="215891 215892" end_var="10"/>
+	</monster_hunt>
+	<monster_hunt id="21076" start_npc_ids="799245">
+		<monster var="0" npc_ids="700722" end_var="3"/>
+	</monster_hunt>
+	<monster_hunt id="21077" start_npc_ids="799256">
+		<monster var="0" npc_ids="215885 215886" end_var="20"/>
+	</monster_hunt>
+	<monster_hunt id="21079" start_npc_ids="799229">
+		<monster var="0" npc_ids="217082 217083 217084" end_var="2"/>
+		<monster var="1" npc_ids="217080" end_var="1"/>
+		<monster var="2" npc_ids="217081" end_var="1"/>
+	</monster_hunt>
+	<!-- Clearing The Road -->
+	<monster_hunt id="21102" start_npc_ids="799281">
+		<monster var="0" npc_ids="215933 215934" end_var="20"/>
+		<monster var="1" npc_ids="215905 215906" end_var="20"/>
+	</monster_hunt>
+	<monster_hunt id="21108" start_npc_ids="799276">
+		<monster var="0" npc_ids="216079 216080" end_var="10"/>
+		<monster var="1" npc_ids="216082 216083" end_var="10"/>
+		<monster var="2" npc_ids="216085 216086" end_var="10"/>
+		<monster var="3" npc_ids="216088 216089" end_var="10"/>
+	</monster_hunt>
+	<monster_hunt id="21113" start_npc_ids="799283">
+		<monster var="0" npc_ids="216543 216544" end_var="20"/>
+		<monster var="1" npc_ids="215893 215894" end_var="20"/>
+	</monster_hunt>
+	<monster_hunt id="21115" start_npc_ids="799290">
+		<monster var="0" npc_ids="216015" end_var="10"/>
+		<monster var="1" npc_ids="216016" end_var="5"/>
+		<monster var="2" npc_ids="216017" end_var="5"/>
+	</monster_hunt>
+	<monster_hunt id="21117" start_npc_ids="799292">
+		<monster var="0" npc_ids="216041 216042" end_var="10"/>
+		<monster var="1" npc_ids="216043 216044" end_var="10"/>
+	</monster_hunt>
+	<monster_hunt id="21118" start_npc_ids="799292">
+		<monster var="0" npc_ids="216565" end_var="1"/>
+	</monster_hunt>
+	<monster_hunt id="21120" start_npc_ids="799291">
+		<monster var="0" npc_ids="216102 216103" end_var="10"/>
+	</monster_hunt>
+	<monster_hunt id="21122" start_npc_ids="799295">
+		<monster var="0" npc_ids="216049 216050" end_var="5"/>
+		<monster var="1" npc_ids="216051 216052" end_var="5"/>
+		<monster var="2" npc_ids="216053 216054" end_var="5"/>
+	</monster_hunt>
+	<monster_hunt id="21124" start_npc_ids="799295">
+		<monster var="0" npc_ids="216566" end_var="1"/>
+	</monster_hunt>
+	<monster_hunt id="21139" start_npc_ids="799415">
+		<monster var="0" npc_ids="216444 216445" end_var="5"/>
+		<monster var="1" npc_ids="216446 216447" end_var="5"/>
+	</monster_hunt>
+	<monster_hunt id="21203" start_npc_ids="799298">
+		<monster var="0" npc_ids="216025" end_var="5"/>
+		<monster var="1" npc_ids="216571" end_var="1"/>
+	</monster_hunt>
+	<monster_hunt id="21206" start_npc_ids="799309">
+		<monster var="0" npc_ids="216033 216034" end_var="15"/>
+		<monster var="1" npc_ids="216035 216036" end_var="15"/>
+	</monster_hunt>
+	<monster_hunt id="21208" start_npc_ids="799309">
+		<monster var="0" npc_ids="216081 216452" end_var="10"/>
+		<monster var="1" npc_ids="216084 216453" end_var="5"/>
+		<monster var="2" npc_ids="216087 216454" end_var="10"/>
+		<monster var="3" npc_ids="216090 216455" end_var="5"/>
+	</monster_hunt>
+	<monster_hunt id="21213" start_npc_ids="799316">
+		<monster var="0" npc_ids="215903 215904" end_var="20"/>
+		<monster var="1" npc_ids="215946 215947" end_var="10"/>
+		<monster var="2" npc_ids="215927 215928" end_var="10"/>
+	</monster_hunt>
+	<monster_hunt id="21215" start_npc_ids="799316">
+		<monster var="0" npc_ids="215929 215930" end_var="15"/>
+	</monster_hunt>
+	<monster_hunt id="21216" start_npc_ids="799316">
+		<monster var="0" npc_ids="700744" end_var="5"/>
+	</monster_hunt>
+	<monster_hunt id="21222" start_npc_ids="799319">
+		<monster var="0" npc_ids="216005 216006" end_var="5"/>
+		<monster var="1" npc_ids="216577" end_var="1"/>
+	</monster_hunt>
+	<!-- [Alliance] Be The Vanguard! -->
+	<monster_hunt id="21227" start_npc_ids="799362" end_npc_ids="799305">
+        <monster var="0" npc_ids="257615 257630 257642 257645 257651 257654 257657 257660 257663 257666 257669" end_var="20"/>
+        <monster var="0" npc_ids="257625 257632 257644 257647 257653 257656 257659 257662 257665 257668 257671" end_var="20"/>
+    </monster_hunt>
+	<!-- [League] Seize The Citadel -->
+	<monster_hunt id="21228" start_npc_ids="799362" end_npc_ids="799305">
+        <monster var="0" npc_ids="257600 257610" end_var="1"/>
+    </monster_hunt>
+	<!-- [Alliance] Harass The Enemy Guard -->
+	<monster_hunt id="21231" start_npc_ids="799363" end_npc_ids="799315">
+        <monster var="0" npc_ids="257930 257939 257942 257945 257951 257957 257960 257963 257966 257969" end_var="20"/>
+        <monster var="0" npc_ids="257932 257941 257944 257947 257953 257959 257962 257965 257968 257971" end_var="20"/>
+    </monster_hunt>
+	<!-- [League] Seize The Citadel -->
+	<monster_hunt id="21232" start_npc_ids="799363" end_npc_ids="799315">
+        <monster var="0" npc_ids="257900 257910" end_var="1"/>
+    </monster_hunt>
+	<monster_hunt id="21237" start_npc_ids="799420">
+		<monster var="0" npc_ids="215997" end_var="10"/>
+		<monster var="1" npc_ids="217079" end_var="1"/>
+	</monster_hunt>
+	<monster_hunt id="21238" start_npc_ids="799421">
+		<monster var="0" npc_ids="215982" end_var="20"/>
+	</monster_hunt>
+	<!-- Daeva, Hero, Plumber -->
+	<monster_hunt id="21240" start_npc_ids="799420">
+		<monster var="0" npc_ids="217177" end_var="1"/>
+	</monster_hunt>
+	<monster_hunt id="21241" start_npc_ids="799419">
+		<monster var="0" npc_ids="217123 217124 217125 217126 217127" end_var="10"/>
+	</monster_hunt>
+	<monster_hunt id="21246" start_npc_ids="799320">
+		<monster var="0" npc_ids="217086" end_var="10"/>
+	</monster_hunt>
+	<!-- 30군단 은닉처의 나바트마 처치 -->
+	<monster_hunt id="21469" start_npc_ids="799226" end_dialog_id="1352">
+		<monster var="0" npc_ids="215424" end_var="1"/>
+	</monster_hunt>
+</quest_scripts>

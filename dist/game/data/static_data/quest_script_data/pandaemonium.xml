@@ -1,0 +1,313 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+<!--
+    Quest Pandaemonium
+	Make By Encom
+ -->
+    <!-- Unexpected Reward -->
+	<report_to id="2937" start_npc_ids="204092" end_npc_ids="798059"/>
+	<report_to id="2939" start_npc_ids="204104" end_npc_ids="278010" item_id="182207027"/>
+	<report_to id="2940" start_npc_ids="204106" end_npc_ids="278011" item_id="182207028"/>
+	<report_to id="2941" start_npc_ids="204108" end_npc_ids="278010" item_id="182207029"/>
+	<report_to id="2942" start_npc_ids="204100" end_npc_ids="278007" item_id="182207030"/>
+	<report_to id="2943" start_npc_ids="204102" end_npc_ids="278010" item_id="182207032"/>
+	<report_to id="2944" start_npc_ids="204110" end_npc_ids="278011" item_id="182207032"/>
+	<report_to id="2955" start_npc_ids="204242" end_npc_ids="204127"/>
+	<report_to id="2959" start_npc_ids="204211" end_npc_ids="204164"/>
+	<report_to id="2961" start_npc_ids="204055" end_npc_ids="204253"/>
+	<report_to id="2964" start_npc_ids="204253" end_npc_ids="278137" item_id="182207043"/>
+	<report_to id="2984" start_npc_ids="204138" end_npc_ids="204121" item_id="182207064"/>
+	<report_to id="4901" start_npc_ids="204080" end_npc_ids="204056" item_id="182207067"/>
+	<report_to id="4902" start_npc_ids="204081" end_npc_ids="204057" item_id="182207068"/>
+	<report_to id="4903" start_npc_ids="204082" end_npc_ids="204058" item_id="182207069"/>
+	<report_to id="4904" start_npc_ids="204083" end_npc_ids="204059" item_id="182207070"/>
+	<!-- [Expert] Weaponsmithing Expert -->
+	<report_to id="4947" start_npc_ids="204104" end_npc_ids="204052" item_id="182207129"/>
+	<!-- [Expert] Armorsmithing Expert -->
+	<report_to id="4950" start_npc_ids="204106" end_npc_ids="204052" item_id="182207130"/>
+	<!-- [Expert] Handicrafting Expert -->
+	<report_to id="4953" start_npc_ids="204108" end_npc_ids="204052" item_id="182207131"/>
+	<!-- [Expert] Cooking Expert -->
+	<report_to id="4956" start_npc_ids="204100" end_npc_ids="204052" item_id="182207132"/>
+	<!-- [Expert] Alchemy Expert -->
+	<report_to id="4959" start_npc_ids="204102" end_npc_ids="204052" item_id="182207133"/>
+	<!-- [Expert] Tailoring Expert -->
+	<report_to id="4962" start_npc_ids="204110" end_npc_ids="204052" item_id="182207134"/>
+	<report_to id="4964" start_npc_ids="204286" end_npc_ids="204051"/>
+	<report_to id="4965" start_npc_ids="204182" end_npc_ids="204207" item_id="182207135"/>
+	<report_to id="29040" start_npc_ids="798385" end_npc_ids="798443"/>
+	<report_to id="29041" start_npc_ids="204051" end_npc_ids="204286"/>
+	<report_to id="29044" start_npc_ids="798443" end_npc_ids="798441"/>
+	<report_to id="29045" start_npc_ids="798441" end_npc_ids="798442"/>
+	<report_to id="29047" start_npc_ids="204052" end_npc_ids="204052"/>
+	<report_to id="29060" start_npc_ids="204056" end_npc_ids="798701" item_id="182215168"/>
+	<report_to id="29061" start_npc_ids="204057" end_npc_ids="798702" item_id="182215169"/>
+	<report_to id="29062" start_npc_ids="204058" end_npc_ids="798703" item_id="182215170"/>
+	<report_to id="29063" start_npc_ids="204059" end_npc_ids="798704" item_id="182215171"/>
+	
+	<!-- Dispatch To Altgard [Gladiator-Templar] -->
+	<report_to_many id="2901" start_npc_ids="204080" end_npc_ids="203559" start_dialog_id="1011">
+        <npc_infos npc_id="204191" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="203559" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Dispatch To Altgard [Assassin-Ranger] -->
+	<report_to_many id="2902" start_npc_ids="204081" end_npc_ids="203559" start_dialog_id="1011">
+        <npc_infos npc_id="204191" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="203559" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Dispatch To Altgard [Sorcerer-Spiritmaster] -->
+	<report_to_many id="2903" start_npc_ids="204082" end_npc_ids="203559" start_dialog_id="1011">
+        <npc_infos npc_id="204191" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="203559" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Dispatch To Altgard [Chanter-Cleric] -->
+	<report_to_many id="2904" start_npc_ids="204083" end_npc_ids="203559" start_dialog_id="1011">
+        <npc_infos npc_id="204191" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="203559" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Follow The Ribbon -->
+	<report_to_many id="2912" start_npc_ids="204193" end_npc_ids="204236" start_dialog_id="1011">
+        <npc_infos npc_id="204089" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="204088" var="1" quest_dialog="1693"/>
+		<npc_infos npc_id="204240" var="2" quest_dialog="2034"/>
+        <npc_infos npc_id="204236" var="3" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- A Chain Of Debt -->
+	<report_to_many id="2913" start_npc_ids="204193" end_npc_ids="204173" start_dialog_id="1011">
+        <npc_infos npc_id="204170" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="798065" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="204173" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- A Token Of Lost Love -->
+	<report_to_many id="2914" start_npc_ids="204147" end_npc_ids="204147" start_dialog_id="1011">
+        <npc_infos npc_id="204236" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="204147" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Arekedil's Heritage -->
+	<report_to_many id="2917" start_npc_ids="203574" end_npc_ids="204241" start_dialog_id="1011">
+        <npc_infos npc_id="798029" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="204108" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="204241" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Love At First Sight -->
+	<report_to_many id="2921" start_npc_ids="204261" end_npc_ids="204261" start_dialog_id="1011">
+        <npc_infos npc_id="204256" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="204192" var="1" quest_dialog="1693"/>
+		<npc_infos npc_id="204130" var="2" quest_dialog="2034"/>
+        <npc_infos npc_id="204261" var="3" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Power Of Love -->
+	<report_to_many id="2928" start_npc_ids="204261" end_npc_ids="204261" start_dialog_id="1011">
+        <npc_infos npc_id="204235" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="204261" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Welcome To The Temple Of Artisans -->
+	<report_to_many id="2929" start_npc_ids="204092" end_npc_ids="798317" start_dialog_id="4762">
+        <npc_infos npc_id="798317" var="0" quest_dialog="10002" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Delivering Supply Request -->
+	<report_to_many id="2953" start_npc_ids="204191" end_npc_ids="204191" start_dialog_id="1011">
+        <npc_infos npc_id="204071" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="204191" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Delivering Odella Juice -->
+	<report_to_many id="2954" start_npc_ids="204191" end_npc_ids="204191" start_dialog_id="1011">
+        <npc_infos npc_id="204221" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="204191" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- On Behalf Of A Friend -->
+	<report_to_many id="2963" start_npc_ids="204253" end_npc_ids="204253" start_dialog_id="1011">
+        <npc_infos npc_id="278137" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="204253" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- An Expert's Reward -->
+	<report_to_many id="2985" start_npc_ids="204052" end_npc_ids="204072" start_dialog_id="4762">
+        <npc_infos npc_id="204072" var="0" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Interviewing The Veterans -->
+	<report_to_many id="4905" start_npc_ids="204211" end_npc_ids="204211" start_dialog_id="1011">
+        <npc_infos npc_id="205155" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="205156" var="1" quest_dialog="1693"/>
+		<npc_infos npc_id="205157" var="2" quest_dialog="2034"/>
+        <npc_infos npc_id="204211" var="3" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Tales Of Heroes -->
+	<report_to_many id="4906" start_npc_ids="204211" end_npc_ids="204211" start_dialog_id="1011">
+        <npc_infos npc_id="205188" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="278003" var="1" quest_dialog="1693"/>
+		<npc_infos npc_id="204057" var="2" quest_dialog="2034"/>
+        <npc_infos npc_id="204211" var="3" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Lifeform Remodeling Report -->
+	<report_to_many id="4914" start_item_id="182207127" end_npc_ids="203385">
+		<npc_infos npc_id="204182" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="203385" var="1" quest_dialog="2375" close_dialog="1009"/>
+	</report_to_many>
+	<!-- The Fashionistas -->
+	<report_to_many id="4970" start_npc_ids="798315" end_npc_ids="798393" start_dialog_id="1011">
+        <npc_infos npc_id="798392" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="798393" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Project Runway -->
+	<report_to_many id="4971" start_npc_ids="798393" end_npc_ids="798393" start_dialog_id="1011">
+        <npc_infos npc_id="204119" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="204727" var="1" quest_dialog="1693"/>
+		<npc_infos npc_id="798300" var="2" quest_dialog="2034"/>
+        <npc_infos npc_id="798393" var="3" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Judge Not -->
+	<report_to_many id="4972" start_npc_ids="798393" end_npc_ids="798393" start_dialog_id="1011">
+        <npc_infos npc_id="204120" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="798393" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Marra's Worry -->
+	<report_to_many id="4973" start_npc_ids="798392" end_npc_ids="798392" start_dialog_id="1011">
+        <npc_infos npc_id="204130" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="204728" var="1" quest_dialog="1693"/>
+		<npc_infos npc_id="204324" var="2" quest_dialog="2034"/>
+        <npc_infos npc_id="798392" var="3" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- The Secret Of His Success -->
+	<report_to_many id="4974" start_npc_ids="798392" end_npc_ids="798392" start_dialog_id="1011">
+        <npc_infos npc_id="798393" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="798392" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- A Settler's Ambition -->
+	<report_to_many id="4976" start_npc_ids="204181" end_npc_ids="204181" start_dialog_id="1011">
+        <npc_infos npc_id="205152" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="205155" var="1" quest_dialog="1693"/>
+		<npc_infos npc_id="798300" var="2" quest_dialog="2034"/>
+        <npc_infos npc_id="204181" var="3" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- Veldina's Call -->
+	<report_to_many id="29004" start_npc_ids="204071" end_npc_ids="798700" start_dialog_id="1011">
+        <npc_infos npc_id="204075" var="0" quest_dialog="1352"/>
+		<npc_infos npc_id="204053" var="1" quest_dialog="1693"/>
+        <npc_infos npc_id="798700" var="2" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- 레기온 연속 생산 주화 안내 -->
+	<report_to_many id="48008" start_npc_ids="204262" end_npc_ids="204262" start_dialog_id="1011">
+        <npc_infos npc_id="204262" var="0" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	
+	<!-- [Craft] Elgar's Mistake -->
+	<item_collecting id="2905" start_npc_ids="204104"/>
+	<!-- [Craft] Ingots For Armor -->
+	<item_collecting id="2906" start_npc_ids="204106"/>
+	<!-- [Craft] Cooking Commitment -->
+	<item_collecting id="2907" start_npc_ids="204100"/>
+	<!-- [Craft] The Governor's Chair -->
+	<item_collecting id="2908" start_npc_ids="204108"/>
+	<!-- [Craft] The Basics Of Alchemy -->
+	<item_collecting id="2909" start_npc_ids="204102"/>
+	<!-- [Craft] Wasted Materials -->
+	<item_collecting id="2910" start_npc_ids="204110"/>
+	<!-- Helping Apellbine -->
+	<item_collecting id="2915" start_npc_ids="204173"/>
+	<!-- A Rose Will Bloom -->
+	<item_collecting id="2923" start_npc_ids="798058"/>
+	<!-- Siel's Tears -->
+	<item_collecting id="2924" start_npc_ids="204108"/>
+	<!-- Heart In Love -->
+	<item_collecting id="2926" start_npc_ids="204261"/>
+	<!-- [Spy/Group] A Many-Splendored Ring -->
+	<item_collecting id="2927" start_npc_ids="204235" end_npc_ids="204261"/>
+	<!-- Just Dye, Already -->
+	<item_collecting id="2949" start_npc_ids="204121"/>
+	<!-- Materials For 100-Slot Cube -->
+	<item_collecting id="2950" start_npc_ids="798059"/>
+	<!-- Winning Vindachinerk's Favor -->
+	<item_collecting id="2952" start_npc_ids="279006" end_npc_ids="279016"/>
+	<!-- Preparing The Banquet -->
+	<item_collecting id="2956" start_npc_ids="204127"/>
+	<!-- Peace Offering -->
+	<item_collecting id="2960" start_npc_ids="204164"/>
+	<!-- [Expert] Weaponsmith's Test -->
+	<item_collecting id="2972" start_npc_ids="204104" end_npc_ids="204104" start_dialog_id="1011"/>
+	<!-- [Expert] Weaponsmith's Final Exam -->
+	<item_collecting id="2973" start_npc_ids="204104" end_npc_ids="204104" start_dialog_id="1011"/>
+	<!-- [Expert] Armorsmith's Test -->
+	<item_collecting id="2974" start_npc_ids="204106" end_npc_ids="204106" start_dialog_id="1011"/>
+	<!-- [Expert] Armorsmith's Final Exam -->
+	<item_collecting id="2975" start_npc_ids="204106" end_npc_ids="204106" start_dialog_id="1011"/>
+	<!-- [Expert] Handicrafter's Test -->
+	<item_collecting id="2976" start_npc_ids="204108" end_npc_ids="204108" start_dialog_id="1011"/>
+	<!-- [Expert] Handicrafter's Final Exam -->
+	<item_collecting id="2977" start_npc_ids="204108" end_npc_ids="204108" start_dialog_id="1011"/>
+	<!-- [Expert] Cook's Test -->
+	<item_collecting id="2978" start_npc_ids="204100" end_npc_ids="204100" start_dialog_id="1011"/>
+	<!-- [Expert] Cook's Final Exam -->
+	<item_collecting id="2979" start_npc_ids="204100" end_npc_ids="204100" start_dialog_id="1011"/>
+	<!-- [Expert] Alchemist's Test -->
+	<item_collecting id="2980" start_npc_ids="204102" end_npc_ids="204102" start_dialog_id="1011"/>
+	<!-- [Expert] Alchemist's Final Exam -->
+	<item_collecting id="2981" start_npc_ids="204102" end_npc_ids="204102" start_dialog_id="1011"/>
+	<!-- [Expert] Tailor's Test -->
+	<item_collecting id="2982" start_npc_ids="204110" end_npc_ids="204110" start_dialog_id="1011"/>
+	<!-- [Expert] Tailor's Final Exam -->
+	<item_collecting id="2983" start_npc_ids="204110" end_npc_ids="204110" start_dialog_id="1011"/>
+	<!-- [Spy/Group] Lepharists In Elysea -->
+	<item_collecting id="4907" start_npc_ids="204208" action_item_ids="700511"/>
+	<!-- [Group] 3 Fragments Of Agrif's Rage -->
+	<item_collecting id="4909" start_npc_ids="798317"/>
+	<!-- [Group] 2 Fragments Of Agrif's Rage -->
+    <item_collecting id="4910" start_npc_ids="798317"/>
+	<!-- [Group] Hilt Of Agrif's Rage -->
+    <item_collecting id="4911" start_npc_ids="798317"/>
+	<!-- [Group] The Curse Of Agrif's Rage -->
+	<item_collecting id="4912" start_npc_ids="798317" end_npc_ids="798317" start_dialog_id="4762" start_dialog_id2="1011"/>
+	<!-- [Expert] Weaponsmithing Zeal -->
+	<item_collecting id="4945" start_npc_ids="204104"/>
+	<!-- [Expert] Weaponsmith's Skill -->
+	<item_collecting id="4946" start_npc_ids="204104"/>
+	<!-- [Expert] Armorsmithing Zeal -->
+	<item_collecting id="4948" start_npc_ids="204106"/>
+	<!-- [Expert] Armorsmith's Skill -->
+	<item_collecting id="4949" start_npc_ids="204106"/>
+	<!-- [Expert] Handicrafting Zeal -->
+	<item_collecting id="4951" start_npc_ids="204108"/>
+	<!-- [Expert] Handicrafter's Skill -->
+	<item_collecting id="4952" start_npc_ids="204108"/>
+	<!-- [Expert] Cooking Zeal -->
+	<item_collecting id="4954" start_npc_ids="204100"/>
+	<!-- [Expert] Cook's Skill -->
+	<item_collecting id="4955" start_npc_ids="204100"/>
+	<!-- [Expert] Alchemy Zeal -->
+	<item_collecting id="4957" start_npc_ids="204102"/>
+	<!-- [Expert] Alchemist's Skill -->
+	<item_collecting id="4958" start_npc_ids="204102"/>
+	<!-- [Expert] Tailoring Zeal -->
+	<item_collecting id="4960" start_npc_ids="204110"/>
+	<!-- [Expert] Tailor's Skill -->
+	<item_collecting id="4961" start_npc_ids="204110"/>
+	<!-- Moorinerk's Offer -->
+	<item_collecting id="4975" start_npc_ids="204283"/>
+	<!-- An Awkward Alliance -->
+	<item_collecting id="29042" start_npc_ids="204286"/>
+	<!-- [Daily] Flower Power -->
+	<item_collecting id="29043" start_npc_ids="798445"/>
+	
+	<!-- [Coin] Safecracking -->
+	<monster_hunt id="4978" start_npc_ids="204286">
+		<monster var="0" npc_ids="215079" end_var="1"/>
+	</monster_hunt>
+	<!-- [Coin/Group] In Shugo's Clothing -->
+	<monster_hunt id="4979" start_npc_ids="204283">
+		<monster var="0" npc_ids="215081" end_var="1"/>
+	</monster_hunt>
+	
+	<!-- Deep Maternal Love -->
+	<item_order id="2918" start_item_id="182207009" end_npc_id="203574"/>
+	<!-- [Craft] A Sword In The Wrong Place -->
+	<item_order id="2966" start_item_id="182207044" end_npc_id="278055"/>
+	<!-- [Craft] A Helmet In The Wrong Place -->
+	<item_order id="2967" start_item_id="182207045" end_npc_id="278055"/>
+	<!-- [Craft] A Staff In The Wrong Place -->
+	<item_order id="2968" start_item_id="182207046" end_npc_id="278055"/>
+	<!-- [Craft] Battle Factions -->
+	<item_order id="2969" start_item_id="182207047" end_npc_id="278056"/>
+	<!-- [Craft] Healing Potion -->
+	<item_order id="2970" start_item_id="182207048" end_npc_id="278056"/>
+	<!-- [Craft] A Robe In The Wrong Place -->
+	<item_order id="2971" start_item_id="182207049" end_npc_id="278056"/>
+</quest_scripts>

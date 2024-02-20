@@ -1,0 +1,186 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<!--
+	Zone Quest
+	Develop: ADev.Team
+ -->
+<zones xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="zones.xsd">
+	<!-- Poeta -->
+	<zone mapid="210010000" name="LF1_SENSORY_AREA_Q1005_210010000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="823.0000" y="1237.0000" z="118.0000" r="20.0"/>
+	</zone>
+	<zone mapid="210010000" name="LF1_SENSORY_AREA_Q1123_210010000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="225.0000" y="1905.0000" z="170.0000" r="25.0"/>
+	</zone>
+	<!-- Eltnen -->
+	<zone mapid="210020000" name="LF2_SENSORY_AREA_Q1041_A_210020000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="2266.0000" y="2354.0000" z="277.0000" r="15.0"/>
+	</zone>
+	<zone mapid="210020000" name="LF2_SENSORY_AREA_Q1041_B_210020000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="1829.0000" y="2537.0000" z="267.0000" r="15.0"/>
+	</zone>
+	<zone mapid="210020000" name="LF2_SENSORY_AREA_Q1336_A_210040000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="418.0000" y="939.0000" z="292.0000" r="25.0"/>
+	</zone>
+	<zone mapid="210020000" name="LF2_SENSORY_AREA_Q1336_B_210040000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="667.0000" y="1495.0000" z="270.0000" r="25.0"/>
+	</zone>
+	<zone mapid="210020000" name="LF2_SENSORY_AREA_Q1336_C_210040000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="889.0000" y="904.0000" z="285.0000" r="25.0"/>
+	</zone>
+	<!-- Verteron -->
+	<zone mapid="210030000" name="LF1A_SENSORY_AREA_Q1012_A_210030000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="1499.0000" y="1507.0000" z="101.0000" r="50.0"/>
+	</zone>
+	<zone mapid="210030000" name="LF1A_SENSORY_AREA_Q1012_B_210030000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="1649.0000" y="1313.0000" z="104.0000" r="25.0"/>
+	</zone>
+	<zone mapid="210030000" name="LF1A_SENSORY_AREA_Q1012_C_210030000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="1847.0000" y="1420.0000" z="101.0000" r="25.0"/>
+	</zone>
+	<zone mapid="210030000" name="LF1A_SENSORY_AREA_Q1023_210030000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="2096.0000" y="612.0000" z="104.0000" r="25.0"/>
+	</zone>
+	<zone mapid="210030000" name="LF1A_SENSORY_AREA_Q1194_210030000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="2532.0000" y="1160.0000" z="194.0000" r="25.0"/>
+	</zone>
+	<zone mapid="210030000" name="LF1A_SENSORY_AREA_Q18500_210030000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="2530.0000" y="834.0000" z="103.0000" r="25.0"/>
+	</zone>
+	<!-- Heiron -->
+	<zone mapid="210040000" name="LF3_SENSORY_AREA_Q1607_A_210040000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="297.0000" y="526.0000" z="121.0000" r="25.0"/>
+	</zone>
+	<zone mapid="210040000" name="LF3_SENSORY_AREA_Q1607_B_210040000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="242.0000" y="596.0000" z="146.0000" r="25.0"/>
+	</zone>
+	<zone mapid="210040000" name="LF3_SENSORY_AREA_Q1607_C_210040000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="382.0000" y="717.0000" z="127.0000" r="25.0"/>
+	</zone>
+	<zone mapid="210040000" name="LF3_SENSORY_AREA_Q1607_D_210040000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="493.0000" y="1040.0000" z="122.0000" r="25.0"/>
+	</zone>
+	<zone mapid="210040000" name="LF3_SENSORY_AREA_Q1614_A_210040000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="385.0000" y="528.0000" z="133.0000" r="25.0"/>
+	</zone>
+	<zone mapid="210040000" name="LF3_ITEM_USE_AREA_Q1636" area_type="SPHERE" zone_type="SUB">
+		<sphere x="181.0000" y="2712.0000" z="141.0000" r="25.0"/>
+	</zone>
+	<zone mapid="210040000" name="LF3_SENSORY_AREA_Q1661_A_210040000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="2356.0000" y="1604.0000" z="125.0000" r="25.0"/>
+	</zone>
+	<zone mapid="210040000" name="LF3_SENSORY_AREA_Q1661_B_210040000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="2432.0000" y="1525.0000" z="128.0000" r="25.0"/>
+	</zone>
+	<zone mapid="210040000" name="LF3_SENSORY_AREA_Q1661_C_210040000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="2510.0000" y="1657.0000" z="134.0000" r="25.0"/>
+	</zone>
+	<!-- Theobomos -->
+	<zone mapid="210060000" name="LF2A_SENSORY_AREA_Q3090_210060000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="213.0000" y="1352.0000" z="63.0" r="25.0"/>
+	</zone>
+	<!-- Inggison -->
+	<zone mapid="210050000" name="LF4_Q11076_A_1_210050000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="1414.0000" y="351.0000" z="590.0000" r="25.0"/>
+	</zone>
+	<zone mapid="210050000" name="LF4_Q11076_A_2_210050000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="1389.0000" y="370.0000" z="590.0000" r="25.0"/>
+	</zone>
+	<zone mapid="210050000" name="LF4_Q11076_B_210050000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="1609.0000" y="509.0000" z="540.0000" r="100.0"/>
+	</zone>
+	<zone mapid="210050000" name="LF4_Q11076_C_210050000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="2530.0000" y="190.0000" z="445.0000" r="100.0"/>
+	</zone>
+	<zone mapid="210050000" name="LF4_SENSORY_AREA_Q11118A_210050000" area_type="SPHERE" zone_type="SUB">
+        <sphere x="1861.0000" y="1045.0000" z="393.0000" r="25.0"/>
+    </zone>
+	<zone mapid="210050000" name="LF4_SENSORY_AREA_Q11147_210050000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="1096.5378" y="1129.3385" z="446.0" r="25.0"/>
+	</zone>
+	<zone mapid="210050000" name="LF4_SENSORY_AREA_Q11149_A_210050000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="797.0000" y="1414.0000" z="194.0000" r="25.0"/>
+	</zone>
+	<zone mapid="210050000" name="LF4_SENSORY_AREA_Q11149_B_210050000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="1010.0000" y="1682.0000" z="182.0000" r="25.0"/>
+	</zone>
+	<zone mapid="210050000" name="LF4_SENSORY_AREA_Q11149_C_210050000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="1098.0000" y="1686.0000" z="185.0000" r="25.0"/>
+	</zone>
+	<!-- Telos [Elyos] -->
+	<zone mapid="210070000" name="IDLDF1_SENSORY_AREA_Q10103_210070000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="1525.0000" y="783.0000" z="273.0000" r="25.0"/>
+	</zone>
+	<zone mapid="210070000" name="IDLDF1_SENSORY_AREA_Q10105_210070000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="1893.0000" y="786.0000" z="227.0000" r="50.0"/>
+	</zone>
+	<zone mapid="210070000" name="IDLDF1_SENSORY_AREA_Q10108_A_210070000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="1111.0000" y="1274.0000" z="323.0000" r="25.0"/>
+	</zone>
+	<zone mapid="210070000" name="IDLDF1_SENSORY_AREA_Q10108_B_210070000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="1061.0000" y="1165.0000" z="333.0000" r="25.0"/>
+	</zone>
+	<zone mapid="210070000" name="IDLDF1_SENSORY_AREA_Q10108_C_210070000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="1033.0000" y="941.0000" z="339.0000" r="25.0"/>
+	</zone>
+	<zone mapid="210070000" name="IDLDF1_SENSORY_AREA_Q10109_210070000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="1028.0000" y="1044.0000" z="344.0000" r="25.0"/>
+	</zone>
+	<!-- Ishalgen -->
+	<zone mapid="220010000" name="DF1_SENSORY_AREA_Q2007_220010000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="589.0000" y="2453.0000" z="278.0000" r="20.0"/>
+	</zone>
+	<!-- Altgard -->
+	<zone mapid="220030000" name="DF1A_SENSORY_AREA_Q2021_220030000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="1968.0000" y="2389.0000" z="317.0000" r="20.0"/>
+	</zone>
+	<zone mapid="220030000" name="DF1A_SENSORY_AREA_Q2289_220030000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="1818.0000" y="589.0000" z="256.0000" r="25.0"/>
+	</zone>
+	<zone mapid="220030000" name="DF1A_SENSORY_AREA_Q28500_220030000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="2904.0000" y="1473.0000" z="252.0000" r="25.0"/>
+	</zone>
+	<!-- Morheim -->
+	<zone mapid="220020000" name="DF2_SENSORY_AREA_Q2333_220020000" area_type="SPHERE" zone_type="SUB">
+        <sphere x="718.0000" y="1148.0000" z="281.0000" r="25.0"/>
+    </zone>
+	<zone mapid="220020000" name="DF2_SENSORY_AREA_Q2394_220020000" area_type="SPHERE" zone_type="SUB">
+        <sphere x="2576.0000" y="2210.0000" z="94.0000" r="25.0"/>
+    </zone>
+	<!-- Beluslan -->
+	<zone mapid="220040000" name="DF3_SENSORY_AREA_Q2058_220040000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="1749.0000" y="1299.0000" z="405.0000" r="15.0"/>
+	</zone>
+	<zone mapid="220040000" name="DF3_SENSORY_AREA_Q2059_220040000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="2307.0000" y="1566.0000" z="498.0000" r="20.0"/>
+	</zone>
+	<!-- Telos [Asmodians] -->
+	<zone mapid="220080000" name="IDLDF1_SENSORY_AREA_Q10103_220080000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="1525.0000" y="783.0000" z="273.0000" r="25.0"/>
+	</zone>
+	<zone mapid="220080000" name="IDLDF1_SENSORY_AREA_Q10105_220080000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="1893.0000" y="786.0000" z="227.0000" r="50.0"/>
+	</zone>
+	<zone mapid="220080000" name="IDLDF1_SENSORY_AREA_Q10108_A_220080000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="1111.0000" y="1274.0000" z="323.0000" r="25.0"/>
+	</zone>
+	<zone mapid="220080000" name="IDLDF1_SENSORY_AREA_Q10108_B_220080000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="1061.0000" y="1165.0000" z="333.0000" r="25.0"/>
+	</zone>
+	<zone mapid="220080000" name="IDLDF1_SENSORY_AREA_Q10108_C_220080000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="1033.0000" y="941.0000" z="339.0000" r="25.0"/>
+	</zone>
+	<zone mapid="220080000" name="IDLDF1_SENSORY_AREA_Q20109_220080000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="1028.0000" y="1044.0000" z="344.0000" r="25.0"/>
+	</zone>
+	<!-- Steel Rake -->
+	<zone mapid="300100000" name="IDShulack_ItemUseArea_Q3200" area_type="SPHERE" zone_type="SUB">
+        <sphere x="405.0000" y="506.0000" z="885.0000" r="25.0"/>
+    </zone>
+	<!-- Rentus Base -->
+	<zone mapid="300280000" name="RENTUS_BASE_SENSORY_AREA_300280000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="599.0000" y="129.0000" z="46.0000" r="25.0"/>
+	</zone>
+	<zone mapid="300280000" name="RENTUS_BASE_Q30504_300280000" area_type="SPHERE" zone_type="SUB">
+		<sphere x="513.0000" y="547.0000" z="146.0000" r="25.0"/>
+	</zone>
+</zones>

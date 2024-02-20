@@ -1,0 +1,50 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+<!--
+    Quest Telos
+	Make By Encom
+ -->
+	<!-- 식량 보급 문제 -->
+	<item_collecting id="10120" start_npc_ids="800653" end_npc_ids="800649"/>
+	<!-- 부드러운 토양이 필요해 -->
+	<item_collecting id="10121" start_npc_ids="800675"/>
+	<!-- 텔로스 해안가 우두머리 처치 -->
+    <monster_hunt id="10122" start_npc_ids="800678">
+        <monster var="0" npc_ids="219375" end_var="1"/>
+    </monster_hunt>
+	<!-- 에푸지움 마을의 상인들 -->
+	<report_to_many id="10123" start_npc_ids="800705" end_npc_ids="800725" start_dialog_id="1011">
+        <npc_infos npc_id="800656" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="800725" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- 텔로스 해안가 우두머리 처치 -->
+    <monster_hunt id="10124" start_npc_ids="800725">
+        <monster var="0" npc_ids="219245 219246 219247" end_var="10"/>
+    </monster_hunt>
+	<!-- 10호의 부탁 -->
+	<report_to_many id="10125" start_npc_ids="800710" end_npc_ids="800710" start_dialog_id="1011">
+        <npc_infos npc_id="800668" var="0" quest_dialog="1352"/>
+        <npc_infos npc_id="800710" var="1" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- 68호의 부탁 -->
+	<monster_hunt id="10126" start_npc_ids="800711">
+        <monster var="0" npc_ids="219383" end_var="10"/>
+    </monster_hunt>
+	<!-- 599호의 부탁 -->
+	<monster_hunt id="10127" start_npc_ids="800712">
+        <monster var="0" npc_ids="219384" end_var="1"/>
+    </monster_hunt>
+	<!-- 뇌전섬의 위협적인 생명체 -->
+	<monster_hunt id="10128" start_npc_ids="800714">
+        <monster var="0" npc_ids="219308 219309 219313 219314 219318 219319 219320 219323" end_var="15"/>
+		<monster var="0" npc_ids="219328 219330 219331 219335 219336 219338 219339 219340 219341" end_var="15"/>
+    </monster_hunt>
+	<!-- 집행자 스승의 부름 -->
+	<report_to_many id="10130" start_npc_ids="800718" end_npc_ids="800751" start_dialog_id="1011">
+        <npc_infos npc_id="800751" var="0" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- 집행자 스승의 호출 -->
+	<report_to_many id="20130" start_npc_ids="800719" end_npc_ids="800752" start_dialog_id="1011">
+        <npc_infos npc_id="800752" var="0" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+</quest_scripts>

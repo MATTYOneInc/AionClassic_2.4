@@ -1,0 +1,47 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc_walker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <walker_template route_id="idabgatel2_npcpath_q2041_a" pool="1">
+	    <routestep step="1" x="249.072342" y="256.038177" z="230.100006"/>
+	    <routestep step="2" x="250.758514" y="251.324722" z="228.506531"/>
+	    <routestep step="3" x="252.017532" y="247.577240" z="227.176407"/>
+	    <routestep step="4" x="253.737228" y="242.855316" z="224.417633"/>
+	    <routestep step="5" x="256.009186" y="236.705948" z="220.854523"/>
+	    <routestep step="6" x="259.255493" y="228.818527" z="217.313416"/>
+	    <routestep step="7" x="262.447571" y="219.368607" z="214.146973"/>
+	    <routestep step="8" x="264.295654" y="212.589722" z="212.694168"/>
+	    <routestep step="9" x="266.476746" y="205.607315" z="211.353088"/>
+	    <routestep step="10" x="271.812988" y="176.883560" z="209.985962"/>
+    </walker_template>
+    <walker_template route_id="idabgatel2_npcpath_q2041_b" pool="1">
+	    <routestep step="1" x="252.023941" y="256.976074" z="230.100006"/>
+	    <routestep step="2" x="252.874710" y="253.051590" z="228.834137"/>
+	    <routestep step="3" x="254.196121" y="246.798447" z="226.113220"/>
+	    <routestep step="4" x="256.778931" y="239.579514" z="221.727600"/>
+	    <routestep step="5" x="259.032349" y="229.752838" z="217.605957"/>
+	    <routestep step="6" x="261.506317" y="221.085876" z="214.903412"/>
+	    <routestep step="7" x="264.225037" y="210.400665" z="212.663208"/>
+	    <routestep step="8" x="265.687469" y="202.808258" z="211.349548"/>
+	    <routestep step="9" x="271.042847" y="176.730423" z="210.117813"/>
+    </walker_template>
+    <walker_template route_id="idabgatel2_npcpath_q2041_c" pool="1">
+	    <routestep step="1" x="252.404205" y="261.075043" z="230.100006"/>
+	    <routestep step="2" x="253.463837" y="255.418060" z="228.453217"/>
+	    <routestep step="3" x="254.769913" y="248.486374" z="225.715286"/>
+	    <routestep step="4" x="257.173218" y="237.934006" z="220.000931"/>
+	    <routestep step="5" x="260.865906" y="227.452835" z="215.536270"/>
+	    <routestep step="6" x="263.283386" y="216.900269" z="212.561783"/>
+	    <routestep step="7" x="265.436462" y="208.484955" z="210.854782"/>
+	    <routestep step="8" x="272.540314" y="176.679352" z="209.023300"/>
+    </walker_template>
+    <walker_template route_id="idabgatel2_npcpath_q2041_d" pool="1">
+	    <routestep step="1" x="257.248718" y="256.876343" z="230.100006"/>
+	    <routestep step="2" x="257.473969" y="253.607208" z="228.834137"/>
+	    <routestep step="3" x="258.725922" y="247.147034" z="226.113220"/>
+	    <routestep step="4" x="260.173340" y="239.587479" z="221.727600"/>
+	    <routestep step="5" x="262.426758" y="229.760803" z="217.605957"/>
+	    <routestep step="6" x="264.900726" y="221.093842" z="214.903412"/>
+	    <routestep step="7" x="267.619446" y="210.408630" z="212.663208"/>
+	    <routestep step="8" x="269.081879" y="202.816223" z="211.349548"/>
+	    <routestep step="9" x="273.450012" y="176.352997" z="210.117813"/>
+    </walker_template>
+</npc_walker>

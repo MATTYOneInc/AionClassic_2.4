@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc_walker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <walker_template route_id="idabgated1_mobpath_n_lizardmanfighter_20" pool="1">
+	    <routestep step="1" x="244.71017" y="207.06342" z="204.8241"/>
+		<routestep step="2" x="236.62848" y="211.26764" z="206.63019"/>
+		<routestep step="3" x="227.52304" y="215.93956" z="207.05046"/>
+		<routestep step="4" x="229.06114" y="215.12743" z="207.10367"/>
+		<routestep step="5" x="236.61838" y="211.2701" z="206.63557"/>
+		<routestep step="6" x="244.53847" y="206.76016" z="204.77237"/>
+		<routestep step="7" x="251.70639" y="203.26175" z="203.809"/>
+		<routestep step="8" x="258.59384" y="200.54681" z="206.13828"/>
+		<routestep step="9" x="267.01276" y="199.54434" z="207.38116"/>
+		<routestep step="10" x="266.3102" y="199.49121" z="207.40834"/>
+		<routestep step="11" x="258.4751" y="200.50877" z="206.0545"/>
+		<routestep step="12" x="251.78647" y="203.2529" z="203.83105"/>
+		<routestep step="13" x="244.99883" y="206.81783" z="204.74898"/>
+    </walker_template>
+    <walker_template route_id="idabgated1_mobpath_n_lizardmanfighter_20_2" pool="1">
+	    <routestep step="1" x="281.4939" y="221.41315" z="206.28624"/>
+		<routestep step="2" x="281.57272" y="227.89272" z="207.21823"/>
+		<routestep step="3" x="282.2792" y="235.40775" z="208.19072"/>
+		<routestep step="4" x="284.39163" y="240.89032" z="208.80441"/>
+		<routestep step="5" x="285.52518" y="246.77582" z="209.65611"/>
+		<routestep step="6" x="285.73178" y="247.52356" z="209.7008"/>
+		<routestep step="7" x="284.47018" y="240.97844" z="208.8114"/>
+		<routestep step="8" x="282.1788" y="235.41852" z="208.18973"/>
+		<routestep step="9" x="281.94266" y="228.18825" z="207.21872"/>
+		<routestep step="10" x="281.59448" y="220.9982" z="206.21715"/>
+		<routestep step="11" x="279.19635" y="215.09544" z="206.6809"/>
+		<routestep step="12" x="275.5645" y="209.4759" z="207.94196"/>
+		<routestep step="13" x="271.96338" y="205.10158" z="207.96982"/>
+		<routestep step="14" x="270.55603" y="203.24649" z="207.79022"/>
+		<routestep step="15" x="269.78928" y="202.04073" z="207.6379"/>
+		<routestep step="16" x="272.01978" y="205.20723" z="207.98111"/>
+		<routestep step="17" x="275.6338" y="209.38231" z="207.90923"/>
+		<routestep step="18" x="279.3189" y="215.1765" z="206.62906"/>
+		<routestep step="19" x="281.42307" y="221.04405" z="206.26443"/>
+    </walker_template>
+</npc_walker>

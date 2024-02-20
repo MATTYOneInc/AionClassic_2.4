@@ -1,0 +1,274 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Siege Locations
+	Develop: ADev.Team
+	https://aionpowerbook.com/powerbook/KR_Classic_-_Update_May_12th_2021
+ -->
+<siege_locations xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="siege_locations.xsd">
+	<siege_location id="0" type="UNDERPASS" world="210050000" name_id="730256"/>
+	<siege_location id="0" type="UNDERPASS" world="220070000" name_id="730260"/>
+	<siege_location id="0" type="UNDERPASS" world="210050000" name_id="730256"/>
+	<siege_location id="0" type="UNDERPASS" world="220070000" name_id="730260"/>
+	
+	<siege_location id="1" type="INDUN" world="210040000" name_id="0"/>
+	<siege_location id="2" type="INDUN" world="220040000" name_id="0"/>
+	<siege_location id="3" type="INDUN" world="210020000" name_id="0"/>
+	<siege_location id="3" type="INDUN" world="220020000" name_id="0"/>
+	<siege_location id="4" type="INDUN" world="210040000" name_id="0"/>
+	<siege_location id="5" type="INDUN" world="220040000" name_id="0"/>
+	<siege_location id="6" type="INDUN" world="210060000" name_id="0"/>
+	<siege_location id="7" type="INDUN" world="220050000" name_id="0"/>
+	<siege_location id="8" type="INDUN" world="400010000" name_id="0"/>
+	<siege_location id="8" type="INDUN" world="400010000" name_id="0"/>
+	<siege_location id="9" type="INDUN" world="210040000" name_id="0"/>
+	<siege_location id="9" type="INDUN" world="220040000" name_id="0"/>
+	<siege_location id="9" type="INDUN" world="400010000" name_id="0"/>
+	<siege_location id="18" type="INDUN" world="110010000" name_id="0"/>
+	<siege_location id="18" type="INDUN" world="120010000" name_id="0"/>
+	<siege_location id="25" type="INDUN" world="210040000" name_id="0"/>
+	<siege_location id="45" type="INDUN" world="210040000" name_id="0"/>
+	<siege_location id="45" type="INDUN" world="220040000" name_id="0"/>
+	
+	<!-- RESHANTA -->
+	<!-- Divine Fortress -->
+	<siege_location id="1011" type="FORTRESS" world="400010000" name_id="801109" siege_duration="7200" influence="14">
+		<door_repair itemid="188030000" repair_fee="5" repair_cooltime="30"/>
+		<artifact_activation itemid="188020000" count="1" skill="12078" repeat_count="1" repeat_interval="1" cd="7200"/>
+		<siege_reward result="OCCUPY" item_id="186000163" item_count="80" item_id2="186000030" item_count2="80" item_id3="186000031" item_count3="80" item_id4="186000096" item_count4="80" item_id5="185000117" item_count5="1" ap_count="20000" kinah_count="1000000" exp_count="100000000"/>
+		<siege_reward result="DEFENDER" item_id="186000163" item_count="40" item_id2="186000030" item_count2="40" item_id3="186000031" item_count3="40" item_id4="186000096" item_count4="40" ap_count="10000" kinah_count="500000" exp_count="50000000"/>
+		<siege_reward result="FAIL" item_id="186000163" item_count="20" item_id2="186000030" item_count2="20" item_id3="186000031" item_count3="20" item_id4="186000096" item_count4="20" ap_count="5000" kinah_count="250000" exp_count="25000000"/>
+	</siege_location>
+	<siege_location id="1012" type="ARTIFACT" name_id="801755" world="400010000">
+		<artifact_activation itemid="188020000" count="3" skill="12092" repeat_count="1" repeat_interval="1" cd="1800"/>
+	</siege_location>
+	<siege_location id="1013" type="ARTIFACT" name_id="801489" world="400010000">
+		<artifact_activation itemid="188020000" count="2" skill="12079" repeat_count="1" repeat_interval="1" cd="2700"/>
+	</siege_location>
+	<siege_location id="1014" type="ARTIFACT" name_id="801489" world="400010000">
+		<artifact_activation itemid="188020000" count="2" skill="12079" repeat_count="1" repeat_interval="1" cd="2700"/>
+	</siege_location>
+	<siege_location id="1015" type="ARTIFACT" name_id="801491" world="400010000">
+		<artifact_activation itemid="188020000" count="1" skill="12089" repeat_count="6" repeat_interval="9" cd="900"/>
+	</siege_location>
+	<siege_location id="1016" type="ARTIFACT" name_id="801495" world="400010000">
+		<artifact_activation itemid="188020000" count="2" skill="12081" repeat_count="1" repeat_interval="1" cd="2700"/>
+	</siege_location>
+	<siege_location id="1017" type="ARTIFACT" name_id="801501" world="400010000">
+		<artifact_activation itemid="188020000" count="3" skill="12090" repeat_count="5" repeat_interval="3" cd="2700"/>
+	</siege_location>
+	<siege_location id="1018" type="ARTIFACT" name_id="801501" world="400010000">
+		<artifact_activation itemid="188020000" count="3" skill="12090" repeat_count="5" repeat_interval="3" cd="2700"/>
+	</siege_location>
+	<siege_location id="1019" type="ARTIFACT" name_id="801501" world="400010000">
+		<artifact_activation itemid="188020000" count="3" skill="12090" repeat_count="5" repeat_interval="3" cd="2700"/>
+	</siege_location>
+	<siege_location id="1020" type="ARTIFACT" name_id="801497" world="400010000">
+		<artifact_activation itemid="188020000" count="1" skill="12087" repeat_count="1" repeat_interval="1" cd="900"/>
+	</siege_location>
+	<!-- Siel's Western Fortress -->
+	<siege_location id="1131" type="FORTRESS" world="400010000" name_id="801119" siege_duration="1800" influence="8">
+		<door_repair itemid="188030000" repair_fee="5" repair_cooltime="30"/>
+		<artifact_activation itemid="188020000" count="1" skill="12070" repeat_count="1" repeat_interval="1" cd="3600"/>
+		<siege_reward result="OCCUPY" item_id="186000163" item_count="80" item_id2="186000030" item_count2="80" item_id3="186000031" item_count3="80" item_id4="186000096" item_count4="80" ap_count="20000" kinah_count="1000000" exp_count="100000000"/>
+		<siege_reward result="DEFENDER" item_id="186000163" item_count="40" item_id2="186000030" item_count2="40" item_id3="186000031" item_count3="40" item_id4="186000096" item_count4="40" ap_count="10000" kinah_count="500000" exp_count="50000000"/>
+		<siege_reward result="FAIL" item_id="186000163" item_count="20" item_id2="186000030" item_count2="20" item_id3="186000031" item_count3="20" item_id4="186000096" item_count4="20" ap_count="5000" kinah_count="250000" exp_count="25000000"/>
+	</siege_location>
+	<!-- Siel's Eastern Fortress -->
+	<siege_location id="1132" type="FORTRESS" world="400010000" name_id="801131" siege_duration="1800" influence="8">
+		<door_repair itemid="188030000" repair_fee="5" repair_cooltime="30"/>
+		<artifact_activation itemid="188020000" count="1" skill="12071" repeat_count="1" repeat_interval="1" cd="3600"/>
+		<siege_reward result="OCCUPY" item_id="186000163" item_count="80" item_id2="186000030" item_count2="80" item_id3="186000031" item_count3="80" item_id4="186000096" item_count4="80" ap_count="20000" kinah_count="1000000" exp_count="100000000"/>
+		<siege_reward result="DEFENDER" item_id="186000163" item_count="40" item_id2="186000030" item_count2="40" item_id3="186000031" item_count3="40" item_id4="186000096" item_count4="40" ap_count="10000" kinah_count="500000" exp_count="50000000"/>
+		<siege_reward result="FAIL" item_id="186000163" item_count="20" item_id2="186000030" item_count2="20" item_id3="186000031" item_count3="20" item_id4="186000096" item_count4="20" ap_count="5000" kinah_count="250000" exp_count="25000000"/>
+	</siege_location>
+	<siege_location id="1133" type="ARTIFACT" name_id="801489" world="400010000">
+		<artifact_activation itemid="188020000" count="2" skill="12043" repeat_count="1" repeat_interval="1" cd="2700"/>
+	</siege_location>
+	<siege_location id="1134" type="ARTIFACT" name_id="801489" world="400010000">
+		<artifact_activation itemid="188020000" count="2" skill="12043" repeat_count="1" repeat_interval="1" cd="2700"/>
+	</siege_location>
+	<siege_location id="1135" type="ARTIFACT" name_id="801487" world="400010000">
+		<artifact_activation itemid="188020000" count="1" skill="12042" repeat_count="1" repeat_interval="1" cd="900"/>
+	</siege_location>
+	<!-- Sulfur Fortress -->
+	<siege_location id="1141" type="FORTRESS" world="400010000" name_id="801143" siege_duration="1800" influence="8">
+		<door_repair itemid="188030000" repair_fee="5" repair_cooltime="30"/>
+		<artifact_activation itemid="188020000" count="1" skill="12072" repeat_count="1" repeat_interval="1" cd="3600"/>
+		<siege_reward result="OCCUPY" item_id="186000163" item_count="80" item_id2="186000030" item_count2="80" item_id3="186000031" item_count3="80" item_id4="186000096" item_count4="80" ap_count="20000" kinah_count="1000000" exp_count="100000000"/>
+		<siege_reward result="DEFENDER" item_id="186000163" item_count="40" item_id2="186000030" item_count2="40" item_id3="186000031" item_count3="40" item_id4="186000096" item_count4="40" ap_count="10000" kinah_count="500000" exp_count="50000000"/>
+		<siege_reward result="FAIL" item_id="186000163" item_count="20" item_id2="186000030" item_count2="20" item_id3="186000031" item_count3="20" item_id4="186000096" item_count4="20" ap_count="5000" kinah_count="250000" exp_count="25000000"/>
+	</siege_location>
+	<siege_location id="1142" type="ARTIFACT" name_id="801489" world="400010000">
+		<artifact_activation itemid="188020000" count="2" skill="12043" repeat_count="1" repeat_interval="1" cd="2700"/>
+	</siege_location>
+	<siege_location id="1143" type="ARTIFACT" name_id="801487" world="400010000">
+		<artifact_activation itemid="188020000" count="1" skill="12042" repeat_count="1" repeat_interval="1" cd="900"/>
+	</siege_location>
+	<siege_location id="1144" type="ARTIFACT" name_id="801493" world="400010000">
+		<artifact_activation itemid="188020000" count="1" skill="12045" repeat_count="1" repeat_interval="1" cd="900"/>
+	</siege_location>
+	<siege_location id="1145" type="ARTIFACT" name_id="801759" world="400010000">
+		<artifact_activation itemid="188020000" count="2" skill="12057" repeat_count="1" repeat_interval="1" cd="2700"/>
+	</siege_location>
+	<siege_location id="1146" type="ARTIFACT" name_id="801245" world="400010000">
+		<artifact_activation itemid="188020000" count="2" skill="12085" repeat_count="1" repeat_interval="1" cd="2700"/>
+	</siege_location>
+	<!-- Roah Fortress -->
+	<siege_location id="1211" type="FORTRESS" world="400010000" name_id="801829" siege_duration="2700" influence="10">
+		<door_repair itemid="188030000" repair_fee="5" repair_cooltime="30"/>
+		<artifact_activation itemid="188020000" count="1" skill="12073" repeat_count="1" repeat_interval="1" cd="5400"/>
+		<siege_reward result="OCCUPY" item_id="186000163" item_count="80" item_id2="186000030" item_count2="80" item_id3="186000031" item_count3="80" item_id4="186000096" item_count4="80" ap_count="20000" kinah_count="1000000" exp_count="100000000"/>
+		<siege_reward result="DEFENDER" item_id="186000163" item_count="40" item_id2="186000030" item_count2="40" item_id3="186000031" item_count3="40" item_id4="186000096" item_count4="40" ap_count="10000" kinah_count="500000" exp_count="50000000"/>
+		<siege_reward result="FAIL" item_id="186000163" item_count="20" item_id2="186000030" item_count2="20" item_id3="186000031" item_count3="20" item_id4="186000096" item_count4="20" ap_count="5000" kinah_count="250000" exp_count="25000000"/>
+	</siege_location>
+	<siege_location id="1212" type="ARTIFACT" name_id="801495" world="400010000">
+		<artifact_activation itemid="188020000" count="2" skill="12081" repeat_count="1" repeat_interval="1" cd="2700"/>
+	</siege_location>
+	<siege_location id="1213" type="ARTIFACT" name_id="801491" world="400010000">
+		<artifact_activation itemid="188020000" count="1" skill="12089" repeat_count="6" repeat_interval="9" cd="900"/>
+	</siege_location>
+	<siege_location id="1214" type="ARTIFACT" name_id="801757" world="400010000">
+		<artifact_activation itemid="188020000" count="2" skill="12083" repeat_count="1" repeat_interval="1" cd="2700"/>
+	</siege_location>
+	<siege_location id="1215" type="ARTIFACT" name_id="801493" world="400010000">
+		<artifact_activation itemid="188020000" count="1" skill="12082" repeat_count="1" repeat_interval="1" cd="900"/>
+	</siege_location>
+	<!-- Krotan Refuge -->
+	<siege_location id="1221" type="FORTRESS" world="400010000" name_id="801413" siege_duration="2700" influence="35">
+		<door_repair itemid="188030000" repair_fee="5" repair_cooltime="30"/>
+		<artifact_activation itemid="188020000" count="1" skill="12075" repeat_count="1" repeat_interval="1" cd="5400"/>
+		<siege_reward result="OCCUPY" item_id="186000163" item_count="80" item_id2="186000030" item_count2="80" item_id3="186000031" item_count3="80" item_id4="186000096" item_count4="80" ap_count="20000" kinah_count="1000000" exp_count="100000000"/>
+		<siege_reward result="DEFENDER" item_id="186000163" item_count="40" item_id2="186000030" item_count2="40" item_id3="186000031" item_count3="40" item_id4="186000096" item_count4="40" ap_count="10000" kinah_count="500000" exp_count="50000000"/>
+		<siege_reward result="FAIL" item_id="186000163" item_count="20" item_id2="186000030" item_count2="20" item_id3="186000031" item_count3="20" item_id4="186000096" item_count4="20" ap_count="5000" kinah_count="250000" exp_count="25000000"/>
+	</siege_location>
+	<siege_location id="1222" type="ARTIFACT" name_id="801501" world="400010000">
+		<artifact_activation itemid="188020000" count="2" skill="12090" repeat_count="5" repeat_interval="3" cd="2700"/>
+	</siege_location>
+	<siege_location id="1223" type="ARTIFACT" name_id="801245" world="400010000">
+		<artifact_activation itemid="188020000" count="2" skill="12085" repeat_count="1" repeat_interval="1" cd="2700"/>
+	</siege_location>
+	<siege_location id="1224" type="ARTIFACT" name_id="801763" world="400010000">
+		<artifact_activation itemid="188020000" count="3" skill="12091" repeat_count="5" repeat_interval="3" cd="2700"/>
+	</siege_location>
+	<!-- Kysis Fortress -->
+	<siege_location id="1231" type="FORTRESS" world="400010000" name_id="801503" siege_duration="2700" influence="35">
+		<door_repair itemid="188030000" repair_fee="5" repair_cooltime="30"/>
+		<artifact_activation itemid="188020000" count="1" skill="12076" repeat_count="1" repeat_interval="1" cd="5400"/>
+		<siege_reward result="OCCUPY" item_id="186000163" item_count="80" item_id2="186000030" item_count2="80" item_id3="186000031" item_count3="80" item_id4="186000096" item_count4="80" ap_count="20000" kinah_count="1000000" exp_count="100000000"/>
+		<siege_reward result="DEFENDER" item_id="186000163" item_count="40" item_id2="186000030" item_count2="40" item_id3="186000031" item_count3="40" item_id4="186000096" item_count4="40" ap_count="10000" kinah_count="500000" exp_count="50000000"/>
+		<siege_reward result="FAIL" item_id="186000163" item_count="20" item_id2="186000030" item_count2="20" item_id3="186000031" item_count3="20" item_id4="186000096" item_count4="20" ap_count="5000" kinah_count="250000" exp_count="25000000"/>
+	</siege_location>
+	<siege_location id="1232" type="ARTIFACT" name_id="801501" world="400010000">
+		<artifact_activation itemid="188020000" count="2" skill="12090" repeat_count="5" repeat_interval="3" cd="2700"/>
+	</siege_location>
+	<siege_location id="1233" type="ARTIFACT" name_id="801491" world="400010000">
+		<artifact_activation itemid="188020000" count="1" skill="12089" repeat_count="6" repeat_interval="9" cd="900"/>
+	</siege_location>
+	<!-- Miren Fortress -->
+	<siege_location id="1241" type="FORTRESS" world="400010000" name_id="801509" siege_duration="2700" influence="35">
+		<door_repair itemid="188030000" repair_fee="5" repair_cooltime="30"/>
+		<artifact_activation itemid="188020000" count="1" skill="12077" repeat_count="1" repeat_interval="1" cd="5400"/>
+		<siege_reward result="OCCUPY" item_id="186000163" item_count="80" item_id2="186000030" item_count2="80" item_id3="186000031" item_count3="80" item_id4="186000096" item_count4="80" ap_count="20000" kinah_count="1000000" exp_count="100000000"/>
+		<siege_reward result="DEFENDER" item_id="186000163" item_count="40" item_id2="186000030" item_count2="40" item_id3="186000031" item_count3="40" item_id4="186000096" item_count4="40" ap_count="10000" kinah_count="500000" exp_count="50000000"/>
+		<siege_reward result="FAIL" item_id="186000163" item_count="20" item_id2="186000030" item_count2="20" item_id3="186000031" item_count3="20" item_id4="186000096" item_count4="20" ap_count="5000" kinah_count="250000" exp_count="25000000"/>
+	</siege_location>
+	<siege_location id="1242" type="ARTIFACT" name_id="801501" world="400010000">
+		<artifact_activation itemid="188020000" count="2" skill="12090" repeat_count="5" repeat_interval="3" cd="2700"/>
+	</siege_location>
+	<siege_location id="1243" type="ARTIFACT" name_id="801487" world="400010000">
+		<artifact_activation itemid="188020000" count="1" skill="12080" repeat_count="1" repeat_interval="1" cd="900"/>
+	</siege_location>
+	<!-- Asteria Fortress -->
+	<siege_location id="1251" type="FORTRESS" world="400010000" name_id="801837" siege_duration="2700" influence="10">
+		<door_repair itemid="188030000" repair_fee="5" repair_cooltime="30"/>
+		<artifact_activation itemid="188020000" count="1" skill="12074" repeat_count="1" repeat_interval="1" cd="5400"/>
+		<siege_reward result="OCCUPY" item_id="186000163" item_count="80" item_id2="186000030" item_count2="80" item_id3="186000031" item_count3="80" item_id4="186000096" item_count4="80" ap_count="20000" kinah_count="1000000" exp_count="100000000"/>
+		<siege_reward result="DEFENDER" item_id="186000163" item_count="40" item_id2="186000030" item_count2="40" item_id3="186000031" item_count3="40" item_id4="186000096" item_count4="40" ap_count="10000" kinah_count="500000" exp_count="50000000"/>
+		<siege_reward result="FAIL" item_id="186000163" item_count="20" item_id2="186000030" item_count2="20" item_id3="186000031" item_count3="20" item_id4="186000096" item_count4="20" ap_count="5000" kinah_count="250000" exp_count="25000000"/>
+	</siege_location>
+	<siege_location id="1252" type="ARTIFACT" name_id="801497" world="400010000">
+		<artifact_activation itemid="188020000" count="1" skill="12087" repeat_count="1" repeat_interval="1" cd="900"/>
+	</siege_location>
+	<siege_location id="1253" type="ARTIFACT" name_id="801499" world="400010000">
+		<artifact_activation itemid="188020000" count="1" skill="12088" repeat_count="1" repeat_interval="1" cd="900"/>
+	</siege_location>
+	<siege_location id="1254" type="ARTIFACT" name_id="801761" world="400010000">
+		<artifact_activation itemid="188020000" count="2" skill="12086" repeat_count="1" repeat_interval="1" cd="2700"/>
+	</siege_location>
+	
+	<!-- INGGISON -->
+	<!-- Temple Of Scales -->
+	<siege_location id="2011" type="FORTRESS" world="210050000" name_id="802577" siege_duration="3600" influence="16">
+		<artifact_activation itemid="188020001" count="3" skill="12103" repeat_count="1" repeat_interval="1" cd="7200"/>
+		<siege_reward result="OCCUPY" item_id="186000163" item_count="80" item_id2="186000030" item_count2="80" item_id3="186000031" item_count3="80" item_id4="186000096" item_count4="80" ap_count="20000" kinah_count="1000000" exp_count="100000000"/>
+		<siege_reward result="DEFENDER" item_id="186000163" item_count="40" item_id2="186000030" item_count2="40" item_id3="186000031" item_count3="40" item_id4="186000096" item_count4="40" ap_count="10000" kinah_count="500000" exp_count="50000000"/>
+		<siege_reward result="FAIL" item_id="186000163" item_count="20" item_id2="186000030" item_count2="20" item_id3="186000031" item_count3="20" item_id4="186000096" item_count4="20" ap_count="5000" kinah_count="250000" exp_count="25000000"/>
+	</siege_location>
+	<siege_location id="2012" type="ARTIFACT" name_id="802801" world="210050000">
+		<artifact_activation itemid="188020001" count="1" skill="12104" repeat_count="1" repeat_interval="1" cd="1800"/>
+	</siege_location>
+	<siege_location id="2013" type="ARTIFACT" name_id="802807" world="210050000">
+		<artifact_activation itemid="188020001" count="1" skill="12107" repeat_count="1" repeat_interval="1" cd="1800"/>
+	</siege_location>
+	<siege_location id="2014" type="ARTIFACT" name_id="806739" world="210050000">
+		<artifact_activation itemid="188020001" count="1" skill="12125" repeat_count="5" repeat_interval="3" cd="1800"/>
+	</siege_location>
+	<!-- Altar Of Avarice -->
+	<siege_location id="2021" type="FORTRESS" world="210050000" name_id="802581" siege_duration="3600" influence="16">
+		<artifact_activation itemid="188020001" count="2" skill="12106" repeat_count="1" repeat_interval="1" cd="7200"/>
+		<siege_reward result="OCCUPY" item_id="186000163" item_count="80" item_id2="186000030" item_count2="80" item_id3="186000031" item_count3="80" item_id4="186000096" item_count4="80" ap_count="20000" kinah_count="1000000" exp_count="100000000"/>
+		<siege_reward result="DEFENDER" item_id="186000163" item_count="40" item_id2="186000030" item_count2="40" item_id3="186000031" item_count3="40" item_id4="186000096" item_count4="40" ap_count="10000" kinah_count="500000" exp_count="50000000"/>
+		<siege_reward result="FAIL" item_id="186000163" item_count="20" item_id2="186000030" item_count2="20" item_id3="186000031" item_count3="20" item_id4="186000096" item_count4="20" ap_count="5000" kinah_count="250000" exp_count="25000000"/>
+	</siege_location>
+	<siege_location id="2022" type="ARTIFACT" name_id="802803" world="210050000">
+		<artifact_activation itemid="188020001" count="1" skill="12105" repeat_count="1" repeat_interval="1" cd="1800"/>
+	</siege_location>
+	<siege_location id="2023" type="ARTIFACT" name_id="802809" world="210050000">
+		<artifact_activation itemid="188020001" count="1" skill="12108" repeat_count="1" repeat_interval="1" cd="1800"/>
+	</siege_location>
+	
+	<!-- GELKMAROS -->
+	<!-- Vorgaltem Citadel -->
+	<siege_location id="3011" type="FORTRESS" world="220070000" name_id="802585" siege_duration="3600" influence="16">
+		<artifact_activation itemid="188020001" count="2" skill="12109" repeat_count="1" repeat_interval="1" cd="7200"/>
+		<siege_reward result="OCCUPY" item_id="186000163" item_count="80" item_id2="186000030" item_count2="80" item_id3="186000031" item_count3="80" item_id4="186000096" item_count4="80" ap_count="20000" kinah_count="1000000" exp_count="100000000"/>
+		<siege_reward result="DEFENDER" item_id="186000163" item_count="40" item_id2="186000030" item_count2="40" item_id3="186000031" item_count3="40" item_id4="186000096" item_count4="40" ap_count="10000" kinah_count="500000" exp_count="50000000"/>
+		<siege_reward result="FAIL" item_id="186000163" item_count="20" item_id2="186000030" item_count2="20" item_id3="186000031" item_count3="20" item_id4="186000096" item_count4="20" ap_count="5000" kinah_count="250000" exp_count="25000000"/>
+	</siege_location>
+	<siege_location id="3012" type="ARTIFACT" name_id="802813" world="220070000">
+		<artifact_activation itemid="188020001" count="1" skill="12110" repeat_count="1" repeat_interval="1" cd="1800"/>
+	</siege_location>
+	<siege_location id="3013" type="ARTIFACT" name_id="802821" world="220070000">
+		<artifact_activation itemid="188020001" count="1" skill="12113" repeat_count="1" repeat_interval="1" cd="1800"/>
+	</siege_location>
+	<siege_location id="3014" type="ARTIFACT" name_id="806741" world="220070000">
+		<artifact_activation itemid="188020001" count="1" skill="12124" repeat_count="5" repeat_interval="3" cd="1800"/>
+	</siege_location>
+	<!-- Crimsom Temple -->
+	<siege_location id="3021" type="FORTRESS" world="220070000" name_id="802589" siege_duration="3600" influence="16">
+		<artifact_activation itemid="188020001" count="3" skill="12112" repeat_count="1" repeat_interval="1" cd="7200"/>
+		<siege_reward result="OCCUPY" item_id="186000163" item_count="80" item_id2="186000030" item_count2="80" item_id3="186000031" item_count3="80" item_id4="186000096" item_count4="80" ap_count="20000" kinah_count="1000000" exp_count="100000000"/>
+		<siege_reward result="DEFENDER" item_id="186000163" item_count="40" item_id2="186000030" item_count2="40" item_id3="186000031" item_count3="40" item_id4="186000096" item_count4="40" ap_count="10000" kinah_count="500000" exp_count="50000000"/>
+		<siege_reward result="FAIL" item_id="186000163" item_count="20" item_id2="186000030" item_count2="20" item_id3="186000031" item_count3="20" item_id4="186000096" item_count4="20" ap_count="5000" kinah_count="250000" exp_count="25000000"/>
+	</siege_location>
+	<siege_location id="3022" type="ARTIFACT" name_id="802819" world="220070000">
+		<artifact_activation itemid="188020001" count="1" skill="12114" repeat_count="1" repeat_interval="1" cd="1800"/>
+	</siege_location>
+	<siege_location id="3023" type="ARTIFACT" name_id="802815" world="220070000">
+		<artifact_activation itemid="188020001" count="1" skill="12111" repeat_count="1" repeat_interval="1" cd="1800"/>
+	</siege_location>
+	
+	<!-- BOSS RAID -->
+	<!-- Enraged Veille's -->
+	<siege_location id="2111" type="BOSSRAID_LIGHT" world="210050000" fortress_dependency="2011 2021" siege_duration="7200">
+	    <siege_reward result="OCCUPY" item_id="186000163" item_count="80" item_id2="186000030" item_count2="80" item_id3="186000031" item_count3="80" item_id4="186000096" item_count4="80" item_id5="188050702" item_count5="4" ap_count="20000" kinah_count="1000000" exp_count="100000000"/>
+		<siege_reward result="DEFENDER" item_id="186000163" item_count="40" item_id2="186000030" item_count2="40" item_id3="186000031" item_count3="40" item_id4="186000096" item_count4="40" item_id5="188050703" item_count5="2" ap_count="10000" kinah_count="500000" exp_count="50000000"/>
+		<siege_reward result="FAIL" item_id="186000163" item_count="20" item_id2="186000030" item_count2="20" item_id3="186000031" item_count3="20" item_id4="186000096" item_count4="20" item_id5="188050704" item_count5="1" ap_count="5000" kinah_count="250000" exp_count="25000000"/>
+	</siege_location>
+	<!-- Enraged Mastarius's -->
+	<siege_location id="3111" type="BOSSRAID_DARK" world="220070000" fortress_dependency="3011 3021" siege_duration="7200">
+	    <siege_reward result="OCCUPY" item_id="186000163" item_count="80" item_id2="186000030" item_count2="80" item_id3="186000031" item_count3="80" item_id4="186000096" item_count4="80" item_id5="188050706" item_count5="4" ap_count="20000" kinah_count="1000000" exp_count="100000000"/>
+		<siege_reward result="DEFENDER" item_id="186000163" item_count="40" item_id2="186000030" item_count2="40" item_id3="186000031" item_count3="40" item_id4="186000096" item_count4="40" item_id5="188050707" item_count5="2" ap_count="10000" kinah_count="500000" exp_count="50000000"/>
+		<siege_reward result="FAIL" item_id="186000163" item_count="20" item_id2="186000030" item_count2="20" item_id3="186000031" item_count3="20" item_id4="186000096" item_count4="20" item_id5="188050708" item_count5="1" ap_count="5000" kinah_count="250000" exp_count="25000000"/>
+	</siege_location>
+</siege_locations>

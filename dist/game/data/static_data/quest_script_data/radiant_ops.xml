@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+<!--
+    Quest Radiant OPS
+	Make By Encom
+ -->
+    <!-- [Daily] Asmodians On The Loose -->
+	<kill_in_world id="35502" start_npc_ids="0" end_npc_ids="799831" worlds="400010000" amount="3"/>
+	<!-- [Weekly] Everything Is Radiant -->
+    <kill_in_world id="35503" start_npc_ids="799825 799826" end_npc_ids="799825 799826" worlds="600010000" amount="5"/>
+	<!-- [Daily] Asmodian Extermination -->
+    <kill_in_world id="35504" start_npc_ids="0" end_npc_ids="799825 799826" worlds="210050000" amount="5"/>
+	<!-- [Spy/Daily] Operation: Gelkmaros -->
+	<kill_in_world id="35505" start_npc_ids="0" end_npc_ids="799825 799826" worlds="220070000" amount="5"/>
+	<!-- [Weekly] Asmodians Abated -->
+	<kill_in_world id="35506" start_npc_ids="799831" end_npc_ids="799831" worlds="210020000 210040000" amount="2"/>
+	<!-- [Spy/Weekly] Operation: Asmodae -->
+    <kill_in_world id="35507" start_npc_ids="799831" end_npc_ids="799831" worlds="220020000 220040000" amount="1"/>
+	<!-- [Daily] Zero Tolerance Policy -->
+	<kill_in_world id="35508" start_npc_ids="0" end_npc_ids="799831" worlds="0" amount="5"/>
+	<!-- [Daily] Zero Tolerance Or Less -->
+	<kill_in_world id="35509" start_npc_ids="0" end_npc_ids="799825 799826" worlds="0" amount="5"/>
+</quest_scripts>

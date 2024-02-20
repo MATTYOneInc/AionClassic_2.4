@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<curing_objects xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="curing_objects.xsd">
+	<curing_object map_id="900020000" x="0" y="0" z="0" range="0"/>
+</curing_objects>

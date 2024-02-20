@@ -1,0 +1,244 @@
+<?xml version="1.0" encoding="utf-8"?>
+<npc_walker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+	<walker_template route_id="idabre_core_path_1" pool="1">
+        <routestep step="1" x="762.52" y="605.41" z="464.03"/>
+        <routestep step="2" x="764.00" y="612.19" z="463.93"/>
+        <routestep step="3" x="771.60" y="617.56" z="462.54"/>
+        <routestep step="4" x="782.36" y="619.62" z="460.68"/>
+        <routestep step="5" x="788.48" y="619.38" z="459.40"/>
+        <routestep step="6" x="795.45" y="618.41" z="458.09"/>
+        <routestep step="7" x="801.89" y="620.00" z="457.61"/>
+        <routestep step="8" x="804.36" y="624.16" z="457.56"/>
+        <routestep step="9" x="804.94" y="629.28" z="457.30"/>
+        <routestep step="10" x="809.34" y="634.01" z="457.05"/>
+        <routestep step="11" x="813.78" y="629.01" z="457.17"/>
+        <routestep step="12" x="810.42" y="622.85" z="456.96"/>
+        <routestep step="13" x="805.51" y="616.54" z="457.32"/>
+        <routestep step="14" x="797.58" y="612.11" z="457.63"/>
+        <routestep step="15" x="788.56" y="610.93" z="459.36"/>
+        <routestep step="16" x="779.58" y="610.93" z="460.54"/>
+        <routestep step="17" x="772.02" y="609.89" z="462.93"/>
+        <routestep step="18" x="768.07" y="605.65" z="463.93"/>
+        <routestep step="19" x="764.01" y="603.48" z="463.93"/>
+        <routestep step="20" x="762.52" y="605.40" z="464.03"/>
+    </walker_template>
+	<walker_template route_id="idabre_core_path_2" pool="1">
+        <routestep step="1" x="807.04" y="630.01" z="459.46"/>
+        <routestep step="2" x="805.88" y="632.62" z="459.36"/>
+        <routestep step="3" x="806.52" y="638.28" z="458.31"/>
+        <routestep step="4" x="804.41" y="644.21" z="456.88"/>
+        <routestep step="5" x="799.88" y="648.50" z="456.57"/>
+        <routestep step="6" x="792.97" y="649.00" z="455.72"/>
+        <routestep step="7" x="784.28" y="646.34" z="453.48"/>
+        <routestep step="8" x="779.70" y="644.30" z="452.75"/>
+        <routestep step="9" x="775.88" y="647.12" z="452.22"/>
+        <routestep step="10" x="775.22" y="652.28" z="451.85"/>
+        <routestep step="11" x="783.30" y="654.96" z="454.01"/>
+        <routestep step="12" x="790.70" y="656.80" z="455.70"/>
+        <routestep step="13" x="799.60" y="654.53" z="456.71"/>
+        <routestep step="14" x="808.86" y="647.15" z="456.60"/>
+        <routestep step="15" x="814.26" y="637.33" z="459.36"/>
+        <routestep step="16" x="813.97" y="629.68" z="459.36"/>
+        <routestep step="17" x="809.84" y="627.69" z="459.36"/>
+        <routestep step="18" x="807.13" y="629.99" z="459.46"/>
+    </walker_template>
+	<walker_template route_id="idabre_core_path_3" pool="1">
+        <routestep step="1" x="790.75" y="656.64" z="456.46"/>
+        <routestep step="2" x="783.24" y="655.42" z="456.36"/>
+        <routestep step="3" x="775.14" y="653.04" z="454.23"/>
+        <routestep step="4" x="766.63" y="652.41" z="451.92"/>
+        <routestep step="5" x="761.04" y="653.90" z="451.32"/>
+        <routestep step="6" x="753.06" y="652.60" z="448.20"/>
+        <routestep step="7" x="744.07" y="649.32" z="444.45"/>
+        <routestep step="8" x="739.68" y="646.59" z="441.65"/>
+        <routestep step="9" x="742.47" y="644.41" z="442.19"/>
+        <routestep step="10" x="750.03" y="645.09" z="445.32"/>
+        <routestep step="11" x="758.67" y="645.87" z="448.63"/>
+        <routestep step="12" x="766.30" y="647.74" z="451.66"/>
+        <routestep step="13" x="773.58" y="649.61" z="453.87"/>
+        <routestep step="14" x="781.76" y="648.01" z="456.36"/>
+        <routestep step="15" x="789.83" y="649.58" z="456.36"/>
+        <routestep step="16" x="790.79" y="656.64" z="456.46"/>
+    </walker_template>
+    <walker_template route_id="idabre_core_path_4" pool="1">
+        <routestep step="1" x="737.50" y="645.28" z="441.46"/>
+        <routestep step="2" x="737.51" y="641.16" z="441.36"/>
+        <routestep step="3" x="732.38" y="641.79" z="439.78"/>
+        <routestep step="4" x="721.08" y="635.52" z="437.28"/>
+        <routestep step="5" x="716.68" y="628.09" z="434.95"/>
+        <routestep step="6" x="712.71" y="620.05" z="433.62"/>
+        <routestep step="7" x="706.73" y="614.23" z="432.02"/>
+        <routestep step="8" x="703.02" y="619.14" z="432.96"/>
+        <routestep step="9" x="703.87" y="628.58" z="434.90"/>
+        <routestep step="10" x="708.14" y="637.49" z="436.00"/>
+        <routestep step="11" x="714.66" y="642.79" z="438.24"/>
+        <routestep step="12" x="723.40" y="643.64" z="439.32"/>
+        <routestep step="13" x="730.28" y="645.43" z="440.18"/>
+        <routestep step="14" x="737.77" y="645.29" z="441.46"/>
+    </walker_template>
+	<walker_template route_id="idabre_core_path_5" pool="1">
+        <routestep step="1" x="756.76" y="600.93" z="466.64"/>
+        <routestep step="2" x="755.82" y="609.50" z="466.64"/>
+        <routestep step="3" x="766.85" y="615.55" z="466.64"/>
+        <routestep step="4" x="770.79" y="609.17" z="466.64"/>
+        <routestep step="5" x="761.89" y="608.54" z="466.64"/>
+        <routestep step="6" x="762.36" y="598.53" z="466.64"/>
+        <routestep step="7" x="766.24" y="604.43" z="466.64"/>
+        <routestep step="8" x="759.66" y="607.28" z="466.64"/>
+        <routestep step="9" x="751.53" y="604.14" z="466.64"/>
+        <routestep step="10" x="751.51" y="596.42" z="466.54"/>
+        <routestep step="11" x="759.86" y="596.27" z="466.54"/>
+        <routestep step="12" x="756.81" y="600.85" z="466.64"/>
+    </walker_template>
+	<walker_template route_id="idabre_core_path_6" pool="1">
+        <routestep step="1" x="796.89" y="617.22" z="458.57"/>
+        <routestep step="2" x="799.44" y="622.23" z="458.57"/>
+        <routestep step="3" x="803.03" y="626.76" z="458.57"/>
+        <routestep step="4" x="813.33" y="626.71" z="458.57"/>
+        <routestep step="5" x="807.50" y="622.05" z="458.57"/>
+        <routestep step="6" x="806.25" y="631.28" z="458.57"/>
+        <routestep step="7" x="804.24" y="622.59" z="458.57"/>
+        <routestep step="8" x="802.04" y="615.61" z="458.57"/>
+        <routestep step="9" x="793.31" y="616.68" z="458.57"/>
+        <routestep step="10" x="785.38" y="621.69" z="458.57"/>
+        <routestep step="11" x="784.30" y="613.27" z="458.57"/>
+        <routestep step="12" x="795.59" y="613.08" z="458.47"/>
+        <routestep step="13" x="796.96" y="617.21" z="458.57"/>
+    </walker_template>
+    <walker_template route_id="idabre_core_path_7" pool="1">
+        <routestep step="1" x="780.35" y="651.83" z="454.76"/>
+        <routestep step="2" x="788.43" y="660.06" z="454.76"/>
+        <routestep step="3" x="795.24" y="658.49" z="454.76"/>
+        <routestep step="4" x="795.99" y="651.83" z="454.76"/>
+        <routestep step="5" x="789.93" y="646.37" z="454.76"/>
+        <routestep step="6" x="787.31" y="653.03" z="454.76"/>
+        <routestep step="7" x="781.47" y="645.92" z="454.76"/>
+        <routestep step="8" x="772.79" y="649.96" z="454.76"/>
+        <routestep step="9" x="773.75" y="653.36" z="454.76"/>
+        <routestep step="10" x="781.36" y="657.32" z="454.76"/>
+    </walker_template>
+	<walker_template route_id="idabre_core_path_8" pool="1">
+        <routestep step="1" x="808.18" y="647.51" z="457.46"/>
+        <routestep step="2" x="802.57" y="648.00" z="457.46"/>
+        <routestep step="3" x="797.04" y="649.63" z="457.46"/>
+        <routestep step="4" x="793.22" y="659.19" z="457.46"/>
+        <routestep step="5" x="799.72" y="655.54" z="457.46"/>
+        <routestep step="6" x="791.64" y="650.92" z="457.46"/>
+        <routestep step="7" x="800.45" y="652.31" z="457.46"/>
+        <routestep step="8" x="807.75" y="652.89" z="457.46"/>
+        <routestep step="9" x="810.02" y="644.39" z="457.46"/>
+        <routestep step="10" x="808.35" y="635.16" z="457.46"/>
+        <routestep step="11" x="816.56" y="637.32" z="457.46"/>
+        <routestep step="12" x="812.50" y="647.86" z="457.36"/>
+        <routestep step="13" x="808.16" y="647.57" z="457.46"/>
+    </walker_template>
+    <walker_template route_id="idabre_core_path_9" pool="1">
+        <routestep step="1" x="756.64" y="648.51" z="449.93"/>
+        <routestep step="2" x="748.41" y="640.42" z="449.93"/>
+        <routestep step="3" x="741.63" y="642.11" z="449.93"/>
+        <routestep step="4" x="741.00" y="648.78" z="449.93"/>
+        <routestep step="5" x="747.16" y="654.13" z="449.93"/>
+        <routestep step="6" x="749.66" y="647.43" z="449.93"/>
+        <routestep step="7" x="755.62" y="654.44" z="449.93"/>
+        <routestep step="8" x="764.22" y="650.24" z="449.93"/>
+        <routestep step="9" x="763.21" y="646.86" z="449.93"/>
+        <routestep step="10" x="755.53" y="643.04" z="449.93"/>
+    </walker_template>
+    <walker_template route_id="idabre_core_path_10" pool="1">
+        <routestep step="1" x="707.61" y="619.79" z="438.46"/>
+        <routestep step="2" x="703.01" y="627.08" z="438.46"/>
+        <routestep step="3" x="710.27" y="637.36" z="438.46"/>
+        <routestep step="4" x="716.61" y="633.35" z="438.46"/>
+        <routestep step="5" x="708.88" y="628.88" z="438.46"/>
+        <routestep step="6" x="713.70" y="620.09" z="438.46"/>
+        <routestep step="7" x="714.60" y="627.10" z="438.46"/>
+        <routestep step="8" x="707.43" y="626.77" z="438.46"/>
+        <routestep step="9" x="701.50" y="620.38" z="438.46"/>
+        <routestep step="10" x="704.87" y="613.44" z="438.36"/>
+        <routestep step="11" x="712.44" y="616.96" z="438.36"/>
+        <routestep step="12" x="707.69" y="619.74" z="438.46"/>
+    </walker_template>
+    <walker_template route_id="idabre_core_path_11" pool="1">
+        <routestep step="1" x="534.34" y="666.23" z="426.17184"/>
+		<routestep step="2" x="545.02" y="662.71" z="425.25403"/>
+		<routestep step="3" x="558.28" y="653.25" z="424.16306"/>
+		<routestep step="4" x="563.64" y="644.78" z="421.4778"/>
+		<routestep step="5" x="566.22" y="632.59" z="419.98068"/>
+		<routestep step="6" x="565.07" y="621.35" z="419.66592"/>
+		<routestep step="7" x="564.18" y="621.6" z="419.83453"/>
+		<routestep step="8" x="565.31" y="632.64" z="420.09802"/>
+		<routestep step="9" x="562.75" y="644.46" z="421.49097"/>
+		<routestep step="10" x="557.46" y="652.77" z="424.11755"/>
+		<routestep step="11" x="544.28" y="661.96" z="425.12308"/>
+		<routestep step="12" x="534.34" y="666.23" z="426.17184"/>
+    </walker_template>
+	<walker_template route_id="idabre_core_prime" pool="1">
+	    <routestep step="1" x="634.7293" y="557.0301" z="423.15295"/>
+		<routestep step="2" x="623.41034" y="549.3959" z="423.01126"/>
+		<routestep step="3" x="616.99084" y="544.8005" z="423.0"/>
+		<routestep step="4" x="616.12024" y="563.974" z="423.15106"/>
+		<routestep step="5" x="629.8186" y="580.8627" z="424.20493"/>
+		<routestep step="6" x="645.0247" y="572.42285" z="423.46365"/>
+		<routestep step="7" x="655.58685" y="553.91406" z="423.7513"/>
+		<routestep step="8" x="654.051" y="541.2711" z="423.04553"/>
+		<routestep step="9" x="643.2894" y="532.1711" z="422.96127"/>
+		<routestep step="10" x="628.2943" y="533.4911" z="422.80417"/>
+		<routestep step="11" x="634.89" y="557.0893" z="423.1572"/>
+    </walker_template>
+	<walker_template route_id="idabre_core_lizard_path_1" pool="2" formation="SQUARE" rows="1,1">
+	    <routestep step="1" x="699.34686" y="406.3516" z="462.824"/>
+        <routestep step="2" x="703.27545" y="409.59174" z="462.9047"/>
+        <routestep step="3" x="702.86304" y="421.55157" z="462.44247"/>
+	    <routestep step="4" x="699.4696" y="425.66827" z="462.25784"/>
+	    <routestep step="5" x="704.0546" y="414.56485" z="462.69238"/>
+		<routestep step="6" x="699.4696" y="425.66827" z="462.25784"/>
+		<routestep step="7" x="702.86304" y="421.55157" z="462.44247"/>
+		<routestep step="8" x="703.27545" y="409.59174" z="462.9047"/>
+		<routestep step="9" x="699.34686" y="406.3516" z="462.824"/>
+    </walker_template>
+    <walker_template route_id="idabre_core_lizard_path_2" pool="2" formation="SQUARE" rows="1,1">
+	    <routestep step="1" x="716.66296" y="381.4" z="463.99463"/>
+	    <routestep step="2" x="709.6031" y="384.0229" z="464.42184"/>
+	    <routestep step="3" x="708.1629" y="402.79596" z="463.21075"/>
+	    <routestep step="4" x="706.71765" y="417.2237" z="462.49393"/>
+	    <routestep step="5" x="701.9344" y="427.28378" z="462.16553"/>
+		<routestep step="6" x="706.71765" y="417.2237" z="462.49393"/>
+		<routestep step="7" x="708.1629" y="402.79596" z="463.21075"/>
+		<routestep step="8" x="709.6031" y="384.0229" z="464.42184"/>
+		<routestep step="9" x="716.66296" y="381.4" z="463.99463"/>
+    </walker_template>
+    <walker_template route_id="idabre_core_lizard_path_3" pool="2" formation="SQUARE" rows="1,1">
+	    <routestep step="1" x="687.42896" y="430.56448" z="461.68112"/>
+	    <routestep step="2" x="688.99725" y="430.6241" z="461.6767"/>
+	    <routestep step="3" x="691.57025" y="430.8053" z="461.78436"/>
+	    <routestep step="4" x="693.56146" y="431.4777" z="461.84134"/>
+	    <routestep step="5" x="696.5537" y="432.12027" z="461.91068"/>
+		<routestep step="6" x="693.56146" y="431.4777" z="461.84134"/>
+		<routestep step="7" x="691.57025" y="430.8053" z="461.78436"/>
+		<routestep step="8" x="688.99725" y="430.6241" z="461.6767"/>
+		<routestep step="9" x="687.42896" y="430.56448" z="461.68112"/>
+    </walker_template>
+    <walker_template route_id="idabre_core_lizard_path_4" pool="2" formation="SQUARE" rows="1,1">
+	    <routestep step="1" x="692.241" y="469.1927" z="460.70905"/>
+	    <routestep step="2" x="685.50824" y="460.08514" z="461.1798"/>
+	    <routestep step="3" x="684.9757" y="450.6691" z="460.9789"/>
+	    <routestep step="4" x="689.4498" y="439.254" z="461.19757"/>
+	    <routestep step="5" x="695.2844" y="433.4399" z="461.81027"/>
+		<routestep step="6" x="689.4498" y="439.254" z="461.19757"/>
+		<routestep step="7" x="684.9757" y="450.6691" z="460.9789"/>
+		<routestep step="8" x="685.50824" y="460.08514" z="461.1798"/>
+		<routestep step="9" x="692.241" y="469.1927" z="460.70905"/>
+    </walker_template>
+	<walker_template route_id="Yamennes_Summon_1" pool="1">
+	    <routestep step="1" z="217.99059" y="748.86346" x="365.82254"/>
+        <routestep step="2" z="212.0432" y="743.6962" x="335.1856" rest_time="7200000"/>
+	</walker_template>
+	<walker_template route_id="Yamennes_Summon_2" pool="1">
+	    <routestep step="1" z="217.62852" y="706.0319" x="339.75485"/>
+        <routestep step="2" z="207.52011" y="721.3841" x="332.77896" rest_time="7200000"/>
+	</walker_template>
+	<walker_template route_id="Yamennes_Summon_3" pool="1">
+	    <routestep step="1" z="218.61214" y="728.4576" x="297.9466"/>
+        <routestep step="2" z="213.54118" y="730.78424" x="316.8658" rest_time="7200000"/>
+	</walker_template>
+</npc_walker>

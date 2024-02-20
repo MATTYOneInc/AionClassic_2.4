@@ -1,0 +1,806 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+    Silentera Canyon
+	Re-newed By Rinzler
+ -->
+<spawns>
+    <spawn_map map_id="600010000">
+        <!-- pvp_f4_lguard_li_fighter_ah1_lv55 -->
+        <spawn npc_id="209051" respawn_time="150">
+            <spot x="494.77997" y="414.29468" z="327.15436" h="117"/>
+            <spot x="504.3036" y="420.5908" z="327.26398" h="85"/>
+            <spot x="667.7600" y="460.2500" z="319.3533" h="0" walker_id="underpass_npcpathunderpass_new_npc10"/>
+            <spot x="472.9100" y="458.7500" z="329.8606" h="0" walker_id="underpass_npcpathunderpass_new_npc1"/>
+            <spot x="508.4600" y="400.4700" z="327.2448" h="0" walker_id="underpass_npcpathunderpass_npcs3"/>
+            <spot x="490.2600" y="271.2100" z="309.0929" h="0" walker_id="underpass_npcpathunderpass_new_npc3"/>
+            <spot x="490.2600" y="271.2100" z="309.0929" h="0" walker_id="underpass_npcpathunderpass_new_npc3"/>
+			<spot x="479.0500" y="381.3100" z="327.0720" h="0" walker_id="underpass_npcpathunderpass_npcs2"/>
+			<spot x="667.2900" y="474.0500" z="319.3957" h="0" walker_id="underpass_npcpathunderpass_new_npc9"/>
+			<spot x="667.2900" y="474.0500" z="319.3957" h="0" walker_id="underpass_npcpathunderpass_new_npc9"/>
+			<spot x="667.2900" y="474.0500" z="319.3957" h="0" walker_id="underpass_npcpathunderpass_new_npc9"/>
+			<spot x="692.8900" y="425.7100" z="317.2458" h="0" walker_id="underpass_npcpathunderpass_new_npc11"/>
+        </spawn>
+        <!-- pvp_f4_lguard_li_ranger_ah1_lv55 -->
+        <spawn npc_id="209056" respawn_time="150">
+            <spot x="588.66425" y="465.67584" z="332.75305" h="0"/>
+            <spot x="585.09753" y="487.505" z="332.31265" h="0"/> 
+            <spot x="587.16754" y="479.00677" z="332.48642" h="0"/>
+            <spot x="415.1781" y="253.83537" z="317.17804" h="60"/>
+            <spot x="413.32413" y="241.3589" z="318.7043" h="63"/>
+			<spot x="531.5756" y="363.24274" z="323.55515" h="94"/>
+            <spot x="539.85706" y="362.53467" z="322.91708" h="93"/>
+        </spawn>
+        <!-- pvp_f4_dguard_da_fighter_ah1_lv55 -->
+        <spawn npc_id="209251" respawn_time="120">
+            <spot x="491.6426" y="1132.1051" z="332.71454" h="10"/>
+            <spot x="502.3641" y="1126.437" z="332.4986" h="36"/>
+			<spot x="473.7000" y="1082.2300" z="335.40704" h="0" walker_id="underpass_npcpathunderpass_new_npc7"/>
+            <spot x="676.6800" y="1084.1900" z="319.27673" h="0" walker_id="underpass_npcpathunderpass_new_npc13"/>
+            <spot x="676.6800" y="1084.1900" z="319.27673" h="0" walker_id="underpass_npcpathunderpass_new_npc13"/>
+            <spot x="675.0400" y="1069.9800" z="319.27673" h="0" walker_id="underpass_npcpathunderpass_new_npc12"/>
+            <spot x="675.0400" y="1069.9800" z="319.27673" h="0" walker_id="underpass_npcpathunderpass_new_npc12"/>
+            <spot x="675.0400" y="1069.9800" z="319.27673" h="0" walker_id="underpass_npcpathunderpass_new_npc12"/>
+            <spot x="538.8900" y="1146.0600" z="332.50195" h="0" walker_id="underpass_npcpathunderpass_new_npc5"/>
+            <spot x="535.3100" y="1210.4500" z="303.05624" h="0" walker_id="underpass_npcpathunderpass_new_npc8" walker_index="1"/>
+            <spot x="535.3100" y="1210.4500" z="303.05624" h="0" walker_id="underpass_npcpathunderpass_new_npc8" walker_index="1"/>
+            <spot x="538.6000" y="1129.3900" z="332.41794" h="0" walker_id="underpass_npcpathunderpass_new_npc6"/>
+        </spawn>
+        <!-- pvp_f4_dguard_da_ranger_ah1_lv55 -->
+        <spawn npc_id="209256" respawn_time="120">
+            <spot x="583.9702" y="1078.367" z="331.0133" h="0"/>
+            <spot x="584.4763" y="1065.8506" z="331.4334" h="1"/>
+            <spot x="415.4456" y="1278.5347" z="308.98764" h="63"/>
+            <spot x="413.5311" y="1294.6409" z="305.8427" h="61"/>
+            <spot x="586.64984" y="1053.0426" z="331.87067" h="1"/>
+            <spot x="514.5003" y="1191.5376" z="330.10306" h="18"/>
+            <spot x="524.42" y="1183.3328" z="329.92136" h="18"/>
+			<spot x="535.3100" y="1210.4500" z="303.05624" h="0" walker_id="underpass_npcpathunderpass_new_npc8"/>
+            <spot x="535.3100" y="1210.4500" z="303.05624" h="0" walker_id="underpass_npcpathunderpass_new_npc8"/>
+        </spawn>
+		<!-- pvp_f4_dguard_da_ranger_ah1_lv55_underpass -->
+        <spawn npc_id="800829" respawn_time="120">
+		    <spot x="414.3001" y="1286.9456" z="306.90283" h="64"/>
+            <spot x="543.0000" y="1213.0000" z="303.2500" h="22" random_walk="2"/>
+            <spot x="542.4500" y="1210.5100" z="303.34332" h="0" walker_id="underpass_npcpathunderpass_world1" walker_index="1"/>
+            <spot x="542.4500" y="1210.5100" z="303.34332" h="0" walker_id="underpass_npcpathunderpass_world1" walker_index="1"/>
+        </spawn>
+		<!-- pvp_f4_dguard_da_fighter_ah1_lv55_underpass -->
+        <spawn npc_id="800830" respawn_time="120">
+            <spot x="542.4500" y="1210.5100" z="303.34332" h="0" walker_id="underpass_npcpathunderpass_world1"/>
+            <spot x="542.4500" y="1210.5100" z="303.34332" h="0" walker_id="underpass_npcpathunderpass_world1"/>
+        </spawn>
+		<!-- pvp_f4_dguard_da_wizard_ah1_lv55_underpass -->
+        <spawn npc_id="800831" respawn_time="120">
+            <spot x="535.3100" y="1210.4500" z="303.05624" h="0" walker_id="underpass_npcpathunderpass_new_npc8"/>
+            <spot x="535.3100" y="1210.4500" z="303.05624" h="0" walker_id="underpass_npcpathunderpass_new_npc8"/>
+            <spot x="542.4500" y="1210.5100" z="303.34332" h="0" walker_id="underpass_npcpathunderpass_world1"/>
+            <spot x="542.4500" y="1210.5100" z="303.34332" h="0" walker_id="underpass_npcpathunderpass_world1"/>
+        </spawn>
+		<!-- pvp_f4_lguard_li_fighter_ah1_lv55_underpass -->
+        <spawn npc_id="800832" respawn_time="120">
+		    <spot x="548.5200" y="325.7900" z="299.8543" h="0" walker_id="underpass_npcpathunderpass_new_npc4" walker_index="1"/>
+            <spot x="548.5200" y="325.7900" z="299.8543" h="0" walker_id="underpass_npcpathunderpass_new_npc4" walker_index="1"/>
+			<spot x="540.2900" y="322.6600" z="299.7794" h="0" walker_id="underpass_npcpathunderpass_new_npc2" walker_index="1"/>
+            <spot x="540.2900" y="322.6600" z="299.7794" h="0" walker_id="underpass_npcpathunderpass_new_npc2" walker_index="1"/>
+        </spawn>
+		<!-- pvp_f4_dguard_li_ranger_ah1_lv55_underpass -->
+        <spawn npc_id="800833" respawn_time="120">
+		    <spot x="414.43848" y="247.33435" z="317.69028" h="59"/>
+		    <spot x="540.2233" y="332.91006" z="299.48596" h="89" random_walk="2"/>
+            <spot x="548.5200" y="325.7900" z="299.8543" h="0" walker_id="underpass_npcpathunderpass_new_npc4"/>
+            <spot x="548.5200" y="325.7900" z="299.8543" h="0" walker_id="underpass_npcpathunderpass_new_npc4"/>
+			<spot x="540.2900" y="322.6600" z="299.7794" h="0" walker_id="underpass_npcpathunderpass_new_npc2"/>
+            <spot x="540.2900" y="322.6600" z="299.7794" h="0" walker_id="underpass_npcpathunderpass_new_npc2"/>
+        </spawn>
+		<!-- pvp_f4_dguard_li_wizard_ah1_lv55_underpass -->
+        <spawn npc_id="800834" respawn_time="120">
+            <spot x="548.5200" y="325.7900" z="299.8543" h="0" walker_id="underpass_npcpathunderpass_new_npc4"/>
+            <spot x="548.5200" y="325.7900" z="299.8543" h="0" walker_id="underpass_npcpathunderpass_new_npc4"/>
+			<spot x="540.2900" y="322.6600" z="299.7794" h="0" walker_id="underpass_npcpathunderpass_new_npc2"/>
+            <spot x="540.2900" y="322.6600" z="299.7794" h="0" walker_id="underpass_npcpathunderpass_new_npc2"/>
+        </spawn>
+		
+        <!-- underpass_drakankn_55_ae -->
+        <spawn npc_id="216353" respawn_time="300">
+            <spot x="1254.0461" y="786.88727" z="302.84378" h="60"/>
+            <spot x="1253.9153" y="748.13885" z="302.8411" h="60"/>
+            <spot x="1283.6029" y="748.34595" z="304.4061" h="60"/>
+            <spot x="1283.6624" y="786.6493" z="304.4061" h="60"/>
+            <spot x="1381.8812" y="753.4183" z="312.8755" h="30"/>
+			<spot x="424.38287" y="765.80884" z="311.60257" h="59"/>
+        </spawn>
+        <!-- underpass_fanatickn_55_ae -->
+        <spawn npc_id="216354" respawn_time="300">
+            <spot x="946.6271" y="1085.786" z="315.22745" h="59"/>
+            <spot x="794.3300" y="1023.040" z="325.10666" h="0" walker_id="underpass_npcpath_fanatickn_55_ae_1"/>
+        </spawn>
+        <!-- underpass_fanaticfi_55_ae -->
+        <spawn npc_id="216355" respawn_time="300">
+            <spot x="897.86115" y="1111.0226" z="317.88538" h="30"/>
+			<spot x="543.8498" y="660.71826" z="327.68466" h="59"/>
+            <spot x="543.2411" y="875.6971" z="327.76096" h="60"/>
+			<spot x="833.7900" y="987.7700" z="322.4885" h="0" walker_id="underpass_npcpath_fanaticsc_55_ae_3"/>
+			<spot x="882.9600" y="1044.260" z="325.0780" h="0" walker_id="underpass_npcpath_fanaticsc_55_ae_1"/>
+			<spot x="887.6500" y="1094.530" z="316.3620" h="0" walker_id="underpass_npcpath_fanaticsc_55_ae_2"/>
+        </spawn>
+		<!-- underpass_fanaticas_55_ae -->
+		<spawn npc_id="216356" respawn_time="300">
+			<spot x="887.6500" y="1094.530" z="316.3620" h="0" walker_id="underpass_npcpath_fanaticsc_55_ae_2"/>
+		</spawn>
+        <!-- underpass_fanaticsc_55_ae -->
+        <spawn npc_id="216357" respawn_time="300">
+            <spot x="833.7900" y="987.7700" z="322.4885" h="0" walker_id="underpass_npcpath_fanaticsc_55_ae_3"/>
+			<spot x="896.8500" y="430.7800" z="316.2140" h="0" walker_id="underpass_npcpath_fanaticsc_55_ae_4"/>
+			<spot x="882.9600" y="1044.260" z="325.0780" h="0" walker_id="underpass_npcpath_fanaticsc_55_ae_1"/>
+			<spot x="973.0700" y="429.6200" z="316.6320" h="0" walker_id="underpass_npcpath_fanaticsc_55_ae_5"/>
+			<spot x="759.0600" y="1030.390" z="324.6750" h="0" walker_id="underpass_npcpath__fanaticsc_55_ae_2"/>
+			<spot x="446.1100" y="811.1500" z="311.5714" h="0" walker_id="underpass_npcpath__fanaticsc_55_ae_3"/>
+			<spot x="506.1200" y="885.2400" z="327.6846" h="0" walker_id="underpass_npcpath_fanaticsc_55_ae_7"/>
+			<spot x="500.7300" y="662.5400" z="327.6846" h="0" walker_id="underpass_npcpath_fanaticsc_55_ae_6"/>
+        </spawn>
+        <!-- underpass_fanaticwi_55_ae -->
+        <spawn npc_id="216358" respawn_time="300">
+            <spot x="872.4834" y="439.24054" z="316.2148" h="0"/>
+            <spot x="943.1835" y="1085.9159" z="315.3477" h="0"/>
+        </spawn>
+        <!-- underpass_fanaticel_55_ae -->
+        <spawn npc_id="216359" respawn_time="300">
+            <spot x="893.7731" y="1112.2168" z="317.19977" h="15"/>
+			<spot x="539.8502" y="661.9875" z="327.68466" h="60"/>
+            <spot x="539.26465" y="876.9854" z="327.76096" h="60"/>
+        </spawn>
+        <!-- underpass_fanaticpr_55_ae -->
+        <spawn npc_id="216360" respawn_time="300">
+            <spot x="897.88226" y="1115.5873" z="318.4036" h="81"/>
+			<spot x="543.9175" y="665.29956" z="327.68466" h="60"/>
+            <spot x="543.37616" y="880.36053" z="327.76096" h="60"/>
+        </spawn>
+        <!-- underpass_fanaticch_55_ae -->
+        <spawn npc_id="216361" respawn_time="300">
+            <spot x="981.1251" y="1087.6212" z="314.6487" h="29"/>
+        </spawn>
+        <!-- underpass_fanaticasworker_55_ae -->
+        <spawn npc_id="216362" respawn_time="240">
+            <spot x="1212.9176" y="620.94464" z="303.9914" h="0"/>
+            <spot x="1213.107" y="631.39325" z="303.33707" h="0"/>
+            <spot x="1138.2098" y="1014.4354" z="305.73187" h="0"/>
+            <spot x="1168.4746" y="884.9116" z="300.98026" h="0"/>
+            <spot x="1153.2518" y="623.4919" z="304.345" h="0"/>
+            <spot x="1181.9591" y="722.5937" z="298.08484" h="0"/>
+            <spot x="1103.0933" y="662.79645" z="300.875" h="0"/>
+            <spot x="1162.6417" y="901.0725" z="301.14285" h="0"/>
+            <spot x="1148.7877" y="576.0388" z="312.86874" h="0"/>
+            <spot x="1216.1227" y="916.64996" z="305.38495" h="0"/>
+            <spot x="1060.8926" y="696.4441" z="305.70502" h="61"/>
+            <spot x="1091.436" y="709.6387" z="299.49283" h="32"/>
+            <spot x="1099.5481" y="725.15826" z="300.33472" h="81"/>
+            <spot x="1136.3522" y="663.74194" z="299.98203" h="80"/>
+            <spot x="1154.4923" y="649.0106" z="300.9685" h="96"/>
+            <spot x="1112.1707" y="600.81696" z="309.061" h="58"/>
+            <spot x="1111.6937" y="528.0906" z="311.72287" h="59"/>
+            <spot x="1187.2188" y="649.33276" z="299.33374" h="87"/>
+            <spot x="1212.9875" y="676.02527" z="298.48428" h="18"/>
+            <spot x="1246.6519" y="671.5475" z="299.95926" h="55"/>
+            <spot x="1231.5022" y="693.8801" z="298.6941" h="74"/>
+            <spot x="1195.2238" y="842.6389" z="297.3459" h="15"/>
+            <spot x="1228.5244" y="840.83044" z="300.192" h="62"/>
+            <spot x="1205.5901" y="860.23956" z="298.6881" h="101"/>
+            <spot x="1196.0996" y="895.0704" z="301.1338" h="51"/>
+            <spot x="1109.7134" y="933.6318" z="305.86258" h="61"/>
+            <spot x="1096.2311" y="806.9781" z="301.6641" h="48"/>
+            <spot x="1058.3318" y="830.3648" z="307.5856" h="50"/>
+            <spot x="1082.1504" y="883.46313" z="301.34296" h="29"/>
+			<spot x="476.60358" y="664.35724" z="315.55505" h="9"/>
+            <spot x="480.90588" y="885.4078" z="315.55505" h="105"/>
+        </spawn>
+		<!-- underpass_fanaticpet_55_an -->
+		<spawn npc_id="216363" respawn_time="300">
+			<spot x="896.8500" y="430.7800" z="316.21480" h="0" walker_id="underpass_npcpath_fanaticsc_55_ae_4"/>
+			<spot x="973.0700" y="429.6200" z="316.63293" h="0" walker_id="underpass_npcpath_fanaticsc_55_ae_5"/>
+			<spot x="1116.230" y="477.7700" z="310.84775" h="0" walker_id="underpass_npcpath_fanaticsctall_55_ae_2"/>
+			<spot x="1103.360" y="1073.850" z="305.98486" h="0" walker_id="underpass_npcpath_fanaticwismall_55_ae_1"/>
+			<spot x="827.5700" y="510.2700" z="321.56232" h="0" walker_id="underpass_npcpath_fanaticwiknee_55_ae_1"/>
+			<spot x="900.6200" y="497.7700" z="321.56232" h="0" walker_id="underpass_fanaticchsmall_55_ae_2"/>
+			<spot x="738.8200" y="489.3000" z="324.17260" h="0" walker_id="underpass_npcpath_fanaticastall_55_ae_1"/>
+			<spot x="1045.230" y="415.6400" z="316.61490" h="0" walker_id="underpass_npcpath_fanaticscknee_55_ae_2"/>
+			<spot x="998.1900" y="443.4400" z="316.74190" h="0" walker_id="underpass_npcpath_fanaticscsmall_55_ae_2"/>
+			<spot x="1120.750" y="504.0300" z="311.19562" h="0" walker_id="underpass_npcpath_fanatickntall_55_ae_3"/>
+			<spot x="774.4400" y="512.4300" z="323.99402" h="0" walker_id="underpass_npcpath_fanaticchtall_55_ae_2"/>
+			<spot x="860.9900" y="483.0800" z="321.56232" h="0" walker_id="underpass_npcpath_fanaticscsmall_55_ae_1"/>
+			<spot x="981.8300" y="1110.830" z="314.76144" h="0" walker_id="underpass_npcpath_fanaticknknee_55_ae_1"/>
+			<spot x="759.0600" y="1030.390" z="324.67500" h="0" walker_id="underpass_npcpath__fanaticsc_55_ae_2"/>
+			<spot x="794.3300" y="1023.040" z="325.10666" h="0" walker_id="underpass_npcpath_fanatickn_55_ae_1"/>
+			<spot x="506.1200" y="885.2400" z="327.6846" h="0" walker_id="underpass_npcpath_fanaticsc_55_ae_7"/>
+			<spot x="500.7300" y="662.5400" z="327.6846" h="0" walker_id="underpass_npcpath_fanaticsc_55_ae_6"/>
+		</spawn>
+        <!-- underpass_sheluk_55_ae -->
+        <spawn npc_id="216364" respawn_time="240">
+            <spot x="620.90564" y="276.54333" z="308.71652" h="14" random_walk="1"/>
+            <spot x="796.32697" y="398.96432" z="310.51495" h="0" random_walk="1"/>
+            <spot x="593.42926" y="292.75076" z="311.14557" h="0" random_walk="1"/>
+            <spot x="646.6603" y="238.97272" z="316.5515" h="0" random_walk="1"/>
+            <spot x="626.3581" y="312.00143" z="310.6251" h="0" random_walk="1"/>
+            <spot x="637.4115" y="1251.6948" z="307.23334" h="0" random_walk="1"/>
+            <spot x="628.77026" y="1291.3689" z="309.04874" h="0" random_walk="1"/>
+            <spot x="801.37915" y="335.57318" z="309.9526" h="0" random_walk="1"/>
+            <spot x="577.199" y="1238.8623" z="314.31442" h="0" random_walk="1"/>
+        </spawn>
+        <!-- underpass_octacide_55_ae -->
+        <spawn npc_id="216365" respawn_time="240">
+            <spot x="472.26282" y="1251.9673" z="310.89755" h="32" random_walk="1"/>
+            <spot x="333.91583" y="1408.6592" z="304.51578" h="0" random_walk="1"/>
+            <spot x="445.86362" y="133.13028" z="316.71292" h="0" random_walk="1"/>
+            <spot x="330.39224" y="273.97787" z="295.82596" h="0" random_walk="1"/>
+            <spot x="296.55872" y="1312.5322" z="295.19662" h="0" random_walk="1"/>
+            <spot x="334.52267" y="1322.514" z="293.45868" h="0" random_walk="1"/>
+            <spot x="381.00906" y="1275.31" z="283.375" h="0" random_walk="1"/>
+            <spot x="294.91562" y="186.17535" z="297.3657" h="0" random_walk="1"/>
+            <spot x="372.10822" y="117.22798" z="309.6583" h="0" random_walk="1"/>
+            <spot x="357.42023" y="150.84201" z="306.21042" h="0" random_walk="1"/>
+            <spot x="328.03784" y="1256.3538" z="294.40894" h="0" random_walk="1"/>
+            <spot x="296.97815" y="1283.7667" z="298.60684" h="0" random_walk="1"/>
+            <spot x="295.21777" y="217.97743" z="294.71854" h="113" random_walk="1"/>
+        </spawn>
+        <!-- underpass_scorpion_55_ae -->
+        <spawn npc_id="216366" respawn_time="240">
+            <spot x="814.4981" y="267.56412" z="314.42947" h="0"/>
+            <spot x="846.79736" y="1350.1876" z="329.40936" h="0"/>
+            <spot x="780.822" y="1220.0575" z="317.79803" h="0"/>
+            <spot x="818.58704" y="1255.963" z="317.77817" h="0"/>
+            <spot x="827.9634" y="1350.2269" z="328.84207" h="0"/>
+            <spot x="757.66943" y="432.54535" z="317.74066" h="0"/>
+            <spot x="739.4756" y="266.53015" z="322.50647" h="0"/>
+            <spot x="828.89996" y="220.6099" z="323.5875" h="0"/>
+            <spot x="790.5831" y="1290.3145" z="318.39752" h="0"/>
+            <spot x="773.27893" y="235.34442" z="320.043" h="0"/>
+        </spawn>
+        <!-- underpass_nepilimguard_55_ah -->
+        <spawn npc_id="216367" respawn_time="300">
+            <spot x="619.1118" y="747.73395" z="292.8112" h="0"/>
+            <spot x="619.30743" y="786.9366" z="292.948" h="0"/>
+            <spot x="625.6682" y="888.67883" z="296.3658" h="90" random_walk="1"/>
+            <spot x="713.28174" y="833.91125" z="292.7245" h="91" random_walk="1"/>
+            <spot x="779.7372" y="761.9012" z="292.74167" h="62"/>
+            <spot x="714.5133" y="699.8931" z="292.71832" h="31" random_walk="1"/>
+            <spot x="893.56946" y="819.57574" z="296.41022" h="61" random_walk="1"/>
+			<spot x="364.2400" y="1121.430" z="305.0505" h="0" walker_id="underpass_npcpathunderpass_mob1"/>
+			<spot x="941.1900" y="723.8200" z="297.1538" h="0" walker_id="underpass_npcpath_nepilimguard_55_ah_36"/>
+			<spot x="366.7300" y="402.9700" z="304.4482" h="0" walker_id="underpass_npcpathunderpass_mob2"/>
+			<spot x="352.7900" y="960.7200" z="306.6062" h="0" walker_id="underpass_npcpathunderpass_mob3"/>
+			<spot x="351.6000" y="595.8000" z="305.3625" h="0" walker_id="underpass_npcpathunderpass_mob4"/>
+        </spawn>
+        <!-- underpass_nepilimwalker_55_ah -->
+        <spawn npc_id="216368" respawn_time="300">
+            <spot x="413.65906" y="998.29456" z="313.3992" h="69"/>
+            <spot x="622.6962" y="968.84595" z="306.31223" h="11"/>
+            <spot x="729.084" y="766.4716" z="292.5408" h="60"/>
+            <spot x="699.68396" y="766.5141" z="292.54642" h="0"/>
+            <spot x="573.38947" y="575.6129" z="304.68347" h="60"/>
+            <spot x="495.8438" y="531.9533" z="310.76852" h="30"/>
+        </spawn>
+        <!-- underpass_souledstone_55_ae -->
+        <spawn npc_id="216370" respawn_time="240">
+            <spot x="753.9995" y="1159.9562" z="314.362" h="0"/>
+            <spot x="803.88055" y="870.2353" z="297.8716" h="0"/>
+            <spot x="797.2051" y="922.2995" z="297.02563" h="0"/>
+            <spot x="450.1431" y="985.58606" z="314.48743" h="0"/>
+            <spot x="886.09064" y="613.3931" z="301.36063" h="69"/>
+            <spot x="359.05692" y="1015.2507" z="305.80414" h="42"/>
+            <spot x="492.86728" y="1006.6938" z="313.07172" h="57"/>
+            <spot x="540.50555" y="994.3246" z="313.4052" h="109"/>
+            <spot x="578.33496" y="1020.5257" z="312.88022" h="71"/>
+            <spot x="647.22314" y="929.83356" z="304.95575" h="67"/>
+            <spot x="597.3905" y="526.2034" z="311.0361" h="57"/>
+            <spot x="555.39795" y="533.71814" z="310.96783" h="78"/>
+            <spot x="434.81058" y="558.3006" z="311.39062" h="105"/>
+            <spot x="353.39615" y="509.20203" z="305.0802" h="90"/>
+            <spot x="777.30176" y="608.614" z="303.7282" h="26"/>
+            <spot x="917.4763" y="699.81" z="300.20972" h="47"/>
+            <spot x="957.6563" y="712.61487" z="297.15384" h="60"/>
+            <spot x="834.0069" y="807.43176" z="296.8732" h="30"/>
+            <spot x="789.04456" y="1129.7582" z="312.12897" h="29"/>
+			<spot x="541.06445" y="594.1813" z="318.4794" h="74"/>
+            <spot x="516.87146" y="637.94775" z="327.68466" h="106"/>
+            <spot x="333.48248" y="585.06335" z="305.2384" h="14"/>
+            <spot x="367.56155" y="644.1344" z="305.6124" h="63"/>
+            <spot x="331.7553" y="749.1783" z="299.63757" h="15"/>
+            <spot x="332.0455" y="777.45935" z="299.2152" h="104"/>
+            <spot x="367.89005" y="944.9422" z="306.12766" h="76"/>
+            <spot x="338.192" y="868.9522" z="306.2787" h="13"/>
+            <spot x="542.57477" y="955.12756" z="317.07254" h="42"/>
+            <spot x="517.85846" y="901.3065" z="327.79074" h="15"/>
+        </spawn>
+        <!-- underpass_sam_55_ae -->
+        <spawn npc_id="216371" respawn_time="240">
+            <spot x="880.6994" y="1017.8998" z="325.07846" h="0"/>
+            <spot x="887.38403" y="1005.0043" z="322.53284" h="0"/>
+            <spot x="744.32135" y="1069.9338" z="324.4079" h="0"/>
+            <spot x="864.4974" y="1061.6879" z="325.1421" h="0"/>
+        </spawn>
+        <!-- underpass_drakanfi_55_ae -->
+        <spawn npc_id="216372" respawn_time="300">
+            <spot x="1119.9971" y="698.30707" z="301.22556" h="90"/>
+            <spot x="1154.6294" y="698.0176" z="301.22525" h="90"/>
+            <spot x="1296.6274" y="786.7066" z="304.4061" h="60"/>
+            <spot x="1296.5166" y="748.2693" z="304.4061" h="60"/>
+            <spot x="1346.9437" y="781.131" z="312.8755" h="90"/>
+            <spot x="1153.7467" y="836.387" z="301.22577" h="30"/>
+            <spot x="1120.5232" y="836.485" z="301.22565" h="30"/>
+			<spot x="1191.5800" y="779.9900" z="300.8120" h="0" walker_id="underpass_npcpath_drakanfi_55_ae_4"/>
+			<spot x="1192.1700" y="754.7700" z="300.8120" h="0" walker_id="underpass_npcpath_drakanfi_55_ae_3"/>
+        </spawn>
+        <!-- underpass_drakanwi_55_ae -->
+        <spawn npc_id="216373" respawn_time="300">
+            <spot x="1163.2853" y="756.83704" z="301.3624" h="0"/>
+            <spot x="1347.082" y="753.71063" z="312.8755" h="30"/>
+            <spot x="1113.9498" y="777.9846" z="301.32224" h="60"/>
+			<spot x="447.21094" y="788.88446" z="311.60257" h="27"/>
+        </spawn>
+        <!-- underpass_drakansc_55_ae -->
+        <spawn npc_id="216375" respawn_time="300">
+		    <spot x="446.93912" y="743.4259" z="311.60355" h="90"/>
+            <spot x="1234.7800" y="794.9700" z="300.3983" h="0" walker_id="underpass_npcpath_drakanwi_55_ae_7"/>
+			<spot x="1234.5300" y="741.1300" z="300.4160" h="0" walker_id="underpass_npcpath_drakanwi_55_ae_6"/>
+			<spot x="1289.3300" y="706.8600" z="302.8541" h="0" walker_id="underpass_npcpath_drakansc_55_ae_15"/>
+			<spot x="1291.2100" y="824.1800" z="302.8541" h="0" walker_id="underpass_npcpath_drakansc_55_ae_17"/>
+			<spot x="1279.8000" y="772.5300" z="304.3182" h="0" walker_id="underpass_npcpath_drakanwi_55_ae_8"/>
+			<spot x="1217.8400" y="654.6600" z="301.4369" h="0" walker_id="underpass_npcpath_drakansc_55_ae_16"/>
+			<spot x="1279.7500" y="763.0900" z="304.3182" h="0" walker_id="underpass_npcpath_drakanwi_55_ae_1"/>
+			<spot x="1217.5600" y="880.6400" z="301.4369" h="0" walker_id="underpass_npcpath_drakansc_55_ae_19"/>
+        </spawn>
+        <!-- underpass_drakancl_55_ae -->
+        <spawn npc_id="216376" respawn_time="300">
+            <spot x="1163.2161" y="777.86346" z="301.36246" h="0"/>
+            <spot x="1382.0637" y="781.53705" z="312.8755" h="90"/>
+            <spot x="1114.249" y="756.67267" z="301.32233" h="60"/>
+			<spot x="469.54468" y="766.13617" z="311.60257" h="0"/>
+        </spawn>
+        <!-- underpass_drynac_55_ae -->
+        <spawn npc_id="216377" respawn_time="240">
+            <spot x="940.2434" y="881.79846" z="301.20316" h="0" random_walk="1"/>
+            <spot x="1010.4909" y="882.3342" z="301.6134" h="0" random_walk="1"/>
+            <spot x="956.53766" y="881.93085" z="301.0293" h="0" random_walk="1"/>
+            <spot x="971.59033" y="642.7551" z="303.6075" h="0" random_walk="1"/>
+            <spot x="1008.6988" y="679.1196" z="302.77386" h="0" random_walk="1"/>
+            <spot x="934.7824" y="643.81976" z="309.06024" h="0" random_walk="1"/>
+        </spawn>
+        <!-- underpass_fanaticknknee_55_ae -->
+        <spawn npc_id="216378" respawn_time="300">
+            <spot x="981.8300" y="1110.830" z="314.76144" h="0" walker_id="underpass_npcpath_fanaticknknee_55_ae_1"/>
+        </spawn>
+        <!-- underpass_fanaticfiknee_55_ae -->
+        <spawn npc_id="216379" respawn_time="300">
+            <spot x="1051.8700" y="1117.9100" z="310.3836" h="0" walker_id="underpass_npcpath_fanaticfiknee_55_ae_1"/>
+        </spawn>
+        <!-- underpass_fanaticasknee_55_ae -->
+        <spawn npc_id="216380" respawn_time="300">
+            <spot x="1130.6212" y="407.67392" z="311.64343" h="41" random_walk="1"/>
+        </spawn>
+        <!-- underpass_fanaticscknee_55_ae -->
+        <spawn npc_id="216381" respawn_time="300">
+            <spot x="1045.230" y="415.6400" z="316.61490" h="0" walker_id="underpass_npcpath_fanaticscknee_55_ae_2"/>
+			<spot x="1116.230" y="477.7700" z="310.84775" h="0" walker_id="underpass_npcpath_fanaticsctall_55_ae_2"/>
+			<spot x="863.2400" y="1045.600" z="325.03760" h="0" walker_id="underpass_npcpath_fanaticscknee_55_ae_1"/>
+        </spawn>
+        <!-- underpass_fanaticwiknee_55_ae -->
+        <spawn npc_id="216382" respawn_time="300">
+            <spot x="827.5700" y="510.2700" z="321.56232" h="0" walker_id="underpass_npcpath_fanaticwiknee_55_ae_1"/>
+        </spawn>
+		<!-- underpass_fanaticelknee_55_ae -->
+		<spawn npc_id="216383" respawn_time="295">
+			<spot x="863.2400" y="1045.600" z="325.03760" h="0" walker_id="underpass_npcpath_fanaticscknee_55_ae_1"/>
+			<spot x="1116.050" y="1113.400" z="305.98470" h="0" walker_id="underpass_npcpath_fanaticsctall_55_ae_1"/>
+		</spawn>
+        <!-- underpass_fanatickntall_55_ae -->
+        <spawn npc_id="216386" respawn_time="300">
+            <spot x="1120.750" y="504.0300" z="311.19562" h="0" walker_id="underpass_npcpath_fanatickntall_55_ae_3"/>
+        </spawn>
+        <!-- underpass_fanaticfitall_55_ae -->
+        <spawn npc_id="216387" respawn_time="300">
+            <spot x="900.28046" y="479.1574" z="321.84845" h="81" random_walk="1"/>
+            <spot x="1125.7031" y="1125.9446" z="306.84607" h="87" random_walk="1"/>
+        </spawn>
+        <!-- underpass_fanaticastall_55_ae -->
+        <spawn npc_id="216388" respawn_time="300">
+            <spot x="738.8200" y="489.3000" z="324.17260" h="0" walker_id="underpass_npcpath_fanaticastall_55_ae_1"/>
+        </spawn>
+		<!-- underpass_fanaticsctall_55_ae -->
+		<spawn npc_id="216389" respawn_time="295">
+			<spot x="1116.050" y="1113.400" z="305.98470" h="0" walker_id="underpass_npcpath_fanaticsctall_55_ae_1"/>
+		</spawn>
+        <!-- underpass_fanaticwismall_55_ae -->
+        <spawn npc_id="216390" respawn_time="300">
+            <spot x="1103.360" y="1073.850" z="305.98486" h="0" walker_id="underpass_npcpath_fanaticwismall_55_ae_1"/>
+        </spawn>
+        <!-- underpass_fanaticprsmall_55_ae -->
+        <spawn npc_id="216392" respawn_time="300">
+            <spot x="877.2856" y="442.2574" z="316.2148" h="0"/>
+            <spot x="944.2052" y="415.87494" z="316.74982" h="30"/>
+			<spot x="443.06613" y="652.9584" z="315.55505" h="30"/>
+            <spot x="443.14984" y="894.8534" z="315.92072" h="89"/>
+        </spawn>
+        <!-- underpass_fanaticchsmall_55_ae -->
+        <spawn npc_id="216393" respawn_time="300">
+            <spot x="739.90594" y="511.66577" z="324.1726" h="60"/>
+			<spot x="900.6200" y="497.7700" z="321.56232" h="0" walker_id="underpass_fanaticchsmall_55_ae_2"/>
+        </spawn>
+        <!-- underpass_fanaticknsmall_55_ae -->
+        <spawn npc_id="216394" respawn_time="300">
+            <spot x="1136.6825" y="1075.6198" z="305.88104" h="59" random_walk="1"/>
+        </spawn>
+        <!-- underpass_fanaticfismall_55_ae -->
+        <spawn npc_id="216395" respawn_time="300">
+            <spot x="948.976" y="416.06085" z="316.74658" h="30"/>
+			<spot x="447.82803" y="652.9486" z="315.55505" h="30"/>
+            <spot x="447.82196" y="894.9374" z="315.92072" h="90"/>
+        </spawn>
+        <!-- underpass_fanaticassmall_55_ae -->
+        <spawn npc_id="216396" respawn_time="300">
+            <spot x="873.93146" y="445.62857" z="316.2148" h="0"/>
+            <spot x="1136.0300" y="447.6800" z="311.1667" h="0" walker_id="underpass_npcpath_fanaticassmall_55_ae_1"/>
+        </spawn>
+        <!-- underpass_fanaticscsmall_55_ae -->
+        <spawn npc_id="216397" respawn_time="300">
+            <spot x="860.9900" y="483.0800" z="321.56232" h="0" walker_id="underpass_npcpath_fanaticscsmall_55_ae_1"/>
+			<spot x="998.1900" y="443.4400" z="316.74190" h="0" walker_id="underpass_npcpath_fanaticscsmall_55_ae_2"/>
+        </spawn>
+		<!-- underpass_fanaticeltall_55_ae -->
+		<spawn npc_id="216399" respawn_time="300">
+            <spot x="734.2261" y="511.63174" z="324.1726" h="0"/>
+			<spot x="493.6800" y="759.0200" z="310.86246" h="0" walker_id="underpass_npcpathmob_2.3"/>
+			<spot x="414.8800" y="766.5800" z="311.20172" h="0" walker_id="underpass_npcpathunderpass_design_2.3"/>
+        </spawn>
+        <!-- underpass_fanaticchtall_55_ae -->
+        <spawn npc_id="216401" respawn_time="300">
+            <spot x="869.73663" y="530.13885" z="321.61905" h="89" random_walk="1"/>
+            <spot x="774.4400" y="512.4300" z="323.99402" h="0" walker_id="underpass_npcpath_fanaticchtall_55_ae_2"/>
+            <spot x="442.9300" y="720.7000" z="311.37228" h="0" walker_id="underpass_npcpath_fanaticchtall_55_ae_3"/>
+        </spawn>
+        <!-- underpass_sheluk_55_an -->
+        <spawn npc_id="216403" respawn_time="240">
+            <spot x="623.07324" y="274.11935" z="309.03555" h="0" random_walk="1"/>
+            <spot x="638.0483" y="1294.7545" z="309.14752" h="0" random_walk="1"/>
+            <spot x="626.0666" y="1284.3467" z="308.005" h="0" random_walk="1"/>
+            <spot x="565.143" y="300.32196" z="310.84808" h="0" random_walk="1"/>
+            <spot x="828.85876" y="328.20126" z="311.63586" h="0" random_walk="1"/>
+            <spot x="577.199" y="1238.8623" z="314.31442" h="0" random_walk="1"/>
+            <spot x="581.0913" y="301.82547" z="312.3068" h="0" random_walk="1"/>
+            <spot x="790.4538" y="343.7464" z="311.8558" h="0" random_walk="1"/>
+            <spot x="595.3738" y="297.0966" z="311.2884" h="0" random_walk="1"/>
+            <spot x="644.65857" y="1257.575" z="309.23352" h="0" random_walk="1"/>
+            <spot x="638.70386" y="245.31377" z="316.6818" h="0" random_walk="1"/>
+            <spot x="655.32837" y="231.47101" z="319.5654" h="0" random_walk="1"/>
+            <spot x="634.1303" y="309.5827" z="312.2836" h="0" random_walk="1"/>
+            <spot x="623.20496" y="317.75592" z="311.1344" h="0" random_walk="1"/>
+            <spot x="801.37915" y="335.57318" z="309.9526" h="0" random_walk="1"/>
+        </spawn>
+        <!-- underpass_octacide_55_an -->
+        <spawn npc_id="216404" respawn_time="240">
+            <spot x="365.36942" y="149.04024" z="306.79242" h="0" random_walk="1"/>
+            <spot x="331.9707" y="1249.1458" z="294.76822" h="0" random_walk="1"/>
+            <spot x="330.6132" y="1328.4548" z="293.16306" h="0" random_walk="1"/>
+            <spot x="327.12546" y="1326.1357" z="292.33603" h="0" random_walk="1"/>
+            <spot x="296.59796" y="177.91167" z="297.5518" h="0" random_walk="1"/>
+            <spot x="333.6517" y="284.5996" z="294.56485" h="0" random_walk="1"/>
+            <spot x="354.35257" y="142.12218" z="304.7513" h="0" random_walk="1"/>
+            <spot x="326.23505" y="133.12946" z="306.65152" h="0" random_walk="1"/>
+            <spot x="300.87292" y="1320.4667" z="292.73788" h="0" random_walk="1"/>
+            <spot x="373.65442" y="331.03354" z="301.168" h="0" random_walk="1"/>
+            <spot x="442.4649" y="123.84734" z="316.7009" h="0" random_walk="1"/>
+            <spot x="291.95856" y="200.93915" z="296.906" h="0" random_walk="1"/>
+            <spot x="435.79968" y="1407.7881" z="321.45316" h="0" random_walk="1"/>
+            <spot x="326.79416" y="202.42477" z="301.45892" h="0" random_walk="1"/>
+            <spot x="339.31268" y="275.1839" z="294.2968" h="0" random_walk="1"/>
+            <spot x="375.9403" y="1281.1692" z="283.375" h="0" random_walk="1"/>
+            <spot x="303.33878" y="1278.7825" z="294.27725" h="0" random_walk="1"/>
+            <spot x="442.93365" y="1420.4707" z="321.63748" h="0" random_walk="1"/>
+            <spot x="343.2652" y="1407.89" z="305.44128" h="0" random_walk="1"/>
+            <spot x="361.42194" y="117.20653" z="307.1539" h="0" random_walk="1"/>
+            <spot x="322.21463" y="1262.3134" z="292.78406" h="0" random_walk="1"/>
+            <spot x="299.324" y="224.60149" z="294.8316" h="0" random_walk="1"/>
+            <spot x="361.54193" y="1415.3204" z="312.3945" h="0" random_walk="1"/>
+        </spawn>
+        <!-- underpass_scorpion_55_an -->
+        <spawn npc_id="216405" respawn_time="240">
+            <spot x="728.945" y="1287.2599" z="320.74408" h="0" random_walk="1"/>
+            <spot x="848.88226" y="207.73396" z="332.21112" h="0" random_walk="1"/>
+            <spot x="749.77246" y="275.596" z="318.53677" h="0" random_walk="1"/>
+            <spot x="897.5693" y="1358.0052" z="333.9777" h="0" random_walk="1"/>
+            <spot x="872.05927" y="180.6737" z="335.6801" h="0" random_walk="1"/>
+            <spot x="753.17737" y="1275.7844" z="317.41235" h="0" random_walk="1"/>
+            <spot x="754.34125" y="390.86136" z="312.82834" h="0" random_walk="1"/>
+            <spot x="787.7858" y="1227.384" z="313.02676" h="0" random_walk="1"/>
+            <spot x="793.4659" y="303.76535" z="312.19623" h="0" random_walk="1"/>
+            <spot x="732.2498" y="219.47046" z="322.13425" h="0" random_walk="1"/>
+            <spot x="821.2313" y="220.51274" z="321.56097" h="0" random_walk="1"/>
+            <spot x="824.51917" y="1339.5927" z="326.03714" h="0" random_walk="1"/>
+            <spot x="870.30804" y="1337.5214" z="334.86758" h="0" random_walk="1"/>
+            <spot x="844.0404" y="1328.0264" z="327.25262" h="0" random_walk="1"/>
+            <spot x="829.9356" y="1242.8864" z="323.97635" h="0" random_walk="1"/>
+            <spot x="762.5013" y="1300.6877" z="320.34058" h="0" random_walk="1"/>
+            <spot x="762.77875" y="1267.2731" z="317.8333" h="0" random_walk="1"/>
+            <spot x="811.91095" y="1250.9246" z="315.40063" h="0" random_walk="1"/>
+            <spot x="764.1123" y="427.1862" z="316.80356" h="0" random_walk="1"/>
+            <spot x="790.4572" y="1209.9591" z="315.1475" h="0" random_walk="1"/>
+            <spot x="899.8186" y="1371.9669" z="334.13702" h="0" random_walk="1"/>
+            <spot x="778.10645" y="1298.2808" z="322.08917" h="0" random_walk="1"/>
+            <spot x="751.8202" y="222.49573" z="322.37912" h="0" random_walk="1"/>
+            <spot x="830.2076" y="191.45183" z="328.54172" h="0" random_walk="1"/>
+        </spawn>
+        <!-- underpass_nepilimnamed_55_al -->
+        <spawn npc_id="217120" respawn_time="14400">
+            <spot x="678.8080" y="767.0393" z="289.70210" h="0" walker_id="underpass_path_nepilimnamed_55_al"/>
+        </spawn>
+		<!-- underpass_nepilimboss_55_ah -->
+        <spawn npc_id="219197" respawn_time="14400">
+		    <temporary_spawn/>
+            <spot x="637.0295" y="767.0163" z="293.0038" h="0">
+                <temporary_spawn spawn_time="23.*.*" despawn_time="1.*.*"/>
+            </spot>
+        </spawn>
+        <!-- underpass_drakanfinmd_55_ah -->
+        <spawn npc_id="219198" respawn_time="14400">
+            <temporary_spawn/>
+            <spot x="1261.7572" y="767.5312" z="302.7642" h="59">
+                <temporary_spawn spawn_time="23.*.*" despawn_time="1.*.*"/>
+            </spot>
+        </spawn>
+		<!-- puzzlec_underpass_box_light -->
+        <spawn npc_id="219390" pool="1" respawn_time="300">
+            <spot x="856.0000" y="714.5000" z="296.48486" h="59"/>
+            <spot x="1272.4000" y="810.2000" z="302.76337" h="59"/>
+            <spot x="472.4000" y="798.6310" z="311.37228" h="59"/>
+            <spot x="715.0000" y="731.8000" z="289.70215" h="59"/>
+            <spot x="999.4000" y="870.5000" z="300.80545" h="59"/>
+            <spot x="1166.5000" y="664.6000" z="297.10626" h="59"/>
+            <spot x="381.70224" y="887.7329" z="324.9317" h="0"/>
+        </spawn>
+        <!-- puzzlec_underpass_box_dark -->
+        <spawn npc_id="219391" pool="1" respawn_time="300">
+            <spot x="1162.9445" y="850.59247" z="298.38287" h="25"/>
+            <spot x="469.3000" y="738.1000" z="311.37228" h="70"/>
+            <spot x="1274.4000" y="720.6000" z="302.85416" h="70"/>
+            <spot x="377.1443" y="663.7000" z="323.8186" h="0"/>
+            <spot x="714.9762" y="808.35504" z="289.70215" h="90"/>
+            <spot x="861.76086" y="820.7008" z="296.66452" h="60"/>
+            <spot x="999.79974" y="665.5583" z="302.77386" h="119"/>
+        </spawn>
+		
+        <!-- underpass_nepilimrelic_q30052 -->
+        <spawn npc_id="700568" respawn_time="300">
+            <spot x="640.008423" y="726.074402" z="294.006500" entity_id="62"/>
+            <spot x="1281.10461" y="670.524475" z="302.675781" entity_id="90"/>
+            <spot x="1091.86035" y="660.624756" z="300.320129" entity_id="104"/>
+            <spot x="924.775574" y="820.709534" z="298.459290" entity_id="73"/>
+            <spot x="609.509644" y="986.185669" z="312.084412" entity_id="71"/>
+            <spot x="1195.54003" y="890.014893" z="301.932159" entity_id="86"/>
+            <spot x="357.101135" y="499.755371" z="306.641541" entity_id="77"/>
+            <spot x="1215.16137" y="663.566162" z="302.011353" entity_id="89"/>
+            <spot x="672.719482" y="708.320923" z="294.255707" entity_id="110"/>
+            <spot x="612.159119" y="594.263611" z="302.475037" entity_id="65"/>
+            <spot x="1162.77111" y="819.677979" z="302.276520" entity_id="80"/>
+            <spot x="594.905334" y="848.837952" z="293.694733" entity_id="101"/>
+            <spot x="601.487427" y="693.732056" z="293.936371" entity_id="67"/>
+            <spot x="421.175079" y="1029.61718" z="314.693176" entity_id="99"/>
+            <spot x="952.447266" y="880.903442" z="301.882507" entity_id="94"/>
+            <spot x="374.789795" y="376.374878" z="305.151093" entity_id="50"/>
+            <spot x="564.055725" y="497.824402" z="311.261322" entity_id="105"/>
+            <spot x="1113.36523" y="510.850098" z="311.833496" entity_id="83"/>
+            <spot x="592.135803" y="1028.02343" z="318.116241" entity_id="115"/>
+            <spot x="383.727966" y="1083.02905" z="306.542236" entity_id="114"/>
+            <spot x="386.984406" y="515.534485" z="306.092224" entity_id="51"/>
+            <spot x="354.792999" y="1072.45031" z="306.220215" entity_id="59"/>
+            <spot x="701.072876" y="837.053284" z="294.560181" entity_id="69"/>
+            <spot x="687.648987" y="824.221985" z="294.269409" entity_id="97"/>
+            <spot x="1186.27697" y="819.841736" z="297.505463" entity_id="91"/>
+            <spot x="600.570740" y="848.742310" z="293.694733" entity_id="70"/>
+            <spot x="466.605072" y="1003.62902" z="314.050842" entity_id="64"/>
+            <spot x="399.238434" y="525.374084" z="306.034546" entity_id="92"/>
+            <spot x="638.468445" y="881.609009" z="297.048065" entity_id="108"/>
+            <spot x="630.243103" y="644.724487" z="296.632416" entity_id="74"/>
+            <spot x="388.099884" y="423.459198" z="306.223022" entity_id="100"/>
+            <spot x="787.940186" y="760.925903" z="294.686615" entity_id="55"/>
+            <spot x="421.560120" y="1004.11499" z="314.710449" entity_id="58"/>
+            <spot x="1183.81298" y="651.686401" z="300.570984" entity_id="81"/>
+            <spot x="354.512573" y="1202.98974" z="298.961151" entity_id="95"/>
+            <spot x="735.084229" y="736.185425" z="290.653412" entity_id="79"/>
+            <spot x="645.285156" y="953.945618" z="306.270538" entity_id="72"/>
+            <spot x="1103.03454" y="898.952209" z="302.793732" entity_id="75"/>
+            <spot x="352.078033" y="394.615143" z="305.974243" entity_id="57"/>
+            <spot x="419.477112" y="546.928284" z="314.804779" entity_id="112"/>
+            <spot x="489.638275" y="528.865234" z="311.966827" entity_id="66"/>
+            <spot x="678.841675" y="852.050232" z="294.329559" entity_id="56"/>
+            <spot x="377.886749" y="1113.41101" z="306.954712" entity_id="113"/>
+            <spot x="598.326294" y="690.696167" z="293.936371" entity_id="63"/>
+            <spot x="1114.73339" y="576.929626" z="312.123840" entity_id="84"/>
+            <spot x="598.083252" y="1012.06921" z="318.932037" entity_id="54"/>
+            <spot x="398.394440" y="502.243134" z="305.926971" entity_id="103"/>
+            <spot x="759.833435" y="708.163513" z="294.385834" entity_id="61"/>
+            <spot x="748.812744" y="796.087646" z="290.061890" entity_id="85"/>
+            <spot x="1066.07873" y="687.177917" z="303.060608" entity_id="88"/>
+            <spot x="681.760437" y="740.271851" z="291.374725" entity_id="60"/>
+            <spot x="1106.52685" y="838.401001" z="302.844147" entity_id="76"/>
+            <spot x="591.870972" y="510.017120" z="311.483826" entity_id="107"/>
+            <spot x="1229.00476" y="828.163513" z="298.892822" entity_id="78"/>
+            <spot x="353.681000" y="1152.84106" z="307.257507" entity_id="102"/>
+            <spot x="658.226563" y="755.071350" z="293.825836" entity_id="68"/>
+            <spot x="606.662598" y="885.972290" z="297.366333" entity_id="109"/>
+            <spot x="1288.42285" y="880.606140" z="303.102661" entity_id="111"/>
+            <spot x="568.465210" y="970.833618" z="307.714905" entity_id="116"/>
+            <spot x="843.372559" y="810.896362" z="297.393707" entity_id="96"/>
+            <spot x="1135.13903" y="610.480713" z="304.345917" entity_id="82"/>
+            <spot x="579.131531" y="1012.30169" z="313.537842" entity_id="93"/>
+            <spot x="978.957886" y="674.965881" z="303.533020" entity_id="87"/>
+            <spot x="615.457458" y="815.020264" z="294.139069" entity_id="98"/>
+            <spot x="553.919739" y="1034.23584" z="314.337799" entity_id="106"/>
+            <spot x="582.333435" y="777.405212" z="301.491516" entity_id="53"/>
+            <spot x="386.918701" y="453.091644" z="305.912476" entity_id="49"/>
+        </spawn>
+        <!-- underpass_listatue_q30056 -->
+        <spawn npc_id="700569" respawn_time="240">
+            <spot x="555.884216" y="307.809204" z="313.010498" entity_id="148"/>
+        </spawn>
+        <!-- underpass_dastatue_q30156 -->
+        <spawn npc_id="700570" respawn_time="240">
+            <spot x="546.867798" y="1233.753174" z="306.122955" entity_id="149"/>
+        </spawn>
+		<!-- idcatacombs_door_in -->
+        <spawn npc_id="730231" respawn_time="300">
+            <spot x="1418.768677" y="766.225464" z="314.698547" entity_id="33"/>
+        </spawn>
+        <!-- lf4_underpass_out_01 -->
+        <spawn npc_id="730257" respawn_time="1">
+            <spot x="489.466125" y="104.948700" z="330.809937" entity_id="121"/>
+        </spawn>
+        <!-- lf4_underpass_out_02 -->
+        <spawn npc_id="730258" respawn_time="1">
+            <spot x="920.446899" y="148.931671" z="349.578186" entity_id="122"/>
+        </spawn>
+        <!-- lf4_underpass_out_03 -->
+        <spawn npc_id="730259" respawn_time="1">
+            <spot x="981.302795" y="555.314941" z="315.742828" entity_id="127"/>
+        </spawn>
+        <!-- df4_underpass_out_01 -->
+        <spawn npc_id="730261" respawn_time="1">
+            <spot x="493.679230" y="1440.850830" z="333.484467" entity_id="124"/>
+        </spawn>
+        <!-- df4_underpass_out_02 -->
+        <spawn npc_id="730262" respawn_time="1">
+            <spot x="931.401428" y="1404.810425" z="344.896484" entity_id="123"/>
+        </spawn>
+        <!-- df4_underpass_out_03 -->
+        <spawn npc_id="730263" respawn_time="1">
+            <spot x="1020.277588" y="970.362061" z="314.909912" entity_id="118"/>
+        </spawn>
+        <!-- lf4_underpass_out -->
+        <spawn npc_id="730270" respawn_time="1">
+            <spot x="466.747284" y="465.266083" z="332.251648" entity_id="48"/>
+        </spawn>
+        <!-- df4_underpass_out -->
+        <spawn npc_id="730271" respawn_time="1">
+            <spot x="471.539337" y="1078.135986" z="337.936462" entity_id="47"/>
+        </spawn>
+		<!-- underpass_to_idcthell_artifact_l -->
+        <spawn npc_id="730530" respawn_time="1">
+            <spot x="476.589780" y="361.0495300" z="329.152950" entity_id="768"/>
+        </spawn>
+		<!-- underpass_to_idcthell_artifact_d -->
+        <spawn npc_id="730531" respawn_time="1">
+            <spot x="558.379520" y="1138.274500" z="334.568700" entity_id="763"/>
+        </spawn>
+        <!-- enus -->
+        <spawn npc_id="799033" respawn_time="150">
+            <spot x="482.31973" y="427.3627" z="327.93457" h="11"/>
+        </spawn>
+        <!-- shugo_exchange_05 -->
+        <spawn npc_id="799087" respawn_time="150">
+            <spot x="530.9349" y="334.97055" z="299.61768" h="104"/>
+        </spawn>
+        <!-- rueur -->
+        <spawn npc_id="799338" respawn_time="150">
+            <spot x="496.7922" y="1109.3625" z="333.30612" h="51"/>
+        </spawn>
+        <!-- asinelli -->
+        <spawn npc_id="799381" respawn_time="150">
+            <spot x="482.4571" y="372.41006" z="327.38293" h="20"/>
+        </spawn>
+        <!-- elatos -->
+        <spawn npc_id="799382" respawn_time="150">
+            <spot x="486.9571" y="372.18677" z="327.38293" h="20"/>
+        </spawn>
+        <!-- vergelan -->
+        <spawn npc_id="799383" respawn_time="120">
+            <spot x="545.85895" y="1137.3356" z="332.73047" h="61"/>
+        </spawn>
+        <!-- arne -->
+        <spawn npc_id="799384" respawn_time="120">
+            <spot x="543.07196" y="1143.9476" z="332.4900" h="61"/>
+        </spawn>
+        <!-- underpass_light_of_illusion_1 -->
+        <spawn npc_id="799385" respawn_time="150">
+            <spot x="487.21597" y="384.06805" z="327.38293" h="80"/>
+        </spawn>
+        <!-- underpass_light_of_illusion_2 -->
+        <spawn npc_id="799386" respawn_time="150">
+            <spot x="490.98212" y="381.91705" z="327.38293" h="80"/>
+        </spawn>
+        <!-- underpass_light_of_illusion_3 -->
+        <spawn npc_id="799387" respawn_time="150">
+            <spot x="486.1411" y="381.99503" z="327.38293" h="80"/>
+        </spawn>
+        <!-- underpass_light_of_illusion_4 -->
+        <spawn npc_id="799388" respawn_time="150">
+            <spot x="489.9070" y="379.99954" z="327.38293" h="80"/>
+        </spawn>
+        <!-- underpass_light_of_illusion_5 -->
+        <spawn npc_id="799389" respawn_time="150">
+            <spot x="488.00906" y="380.95282" z="327.38293" h="80"/>
+        </spawn>
+        <!-- underpass_light_of_illusion_6 -->
+        <spawn npc_id="799390" respawn_time="150">
+            <spot x="485.20865" y="380.02664" z="327.38293" h="80"/>
+            <spot x="487.07062" y="379.01508" z="327.38293" h="80"/>
+        </spawn>
+        <!-- underpass_light_of_illusion_7 -->
+        <spawn npc_id="799391" respawn_time="150">
+            <spot x="489.1668" y="383.0240" z="327.38293" h="80"/>
+        </spawn>
+        <!-- underpass_light_of_illusion_8 -->
+        <spawn npc_id="799392" respawn_time="150">
+            <spot x="488.9461" y="378.05075" z="327.38293" h="80"/>
+        </spawn>
+        <!-- underpass_scale_of_destiny_1 -->
+        <spawn npc_id="799393" respawn_time="120">
+            <spot x="530.70654" y="1140.0051" z="332.73047" h="0"/>
+            <spot x="534.9647" y="1137.2896" z="332.73047" h="0"/>
+        </spawn>
+        <!-- underpass_scale_of_destiny_2 -->
+        <spawn npc_id="799394" respawn_time="120">
+            <spot x="534.95776" y="1139.9945" z="332.73047" h="0"/>
+        </spawn>
+        <!-- underpass_scale_of_destiny_3 -->
+        <spawn npc_id="799395" respawn_time="120">
+            <spot x="535.02594" y="1134.6484" z="332.81143" h="0"/>
+        </spawn>
+        <!-- underpass_scale_of_destiny_4 -->
+        <spawn npc_id="799396" respawn_time="120">
+            <spot x="532.7331" y="1134.6368" z="332.81393" h="0"/>
+        </spawn>
+        <!-- underpass_scale_of_destiny_5 -->
+        <spawn npc_id="799397" respawn_time="120">
+            <spot x="532.6479" y="1137.2775" z="332.73047" h="0"/>
+        </spawn>
+        <!-- underpass_scale_of_destiny_6 -->
+        <spawn npc_id="799398" respawn_time="120">
+            <spot x="532.7047" y="1140.0319" z="332.73047" h="0"/>
+        </spawn>
+        <!-- underpass_scale_of_destiny_7 -->
+        <spawn npc_id="799399" respawn_time="120">
+            <spot x="530.6319" y="1134.6084" z="332.81635" h="0"/>
+        </spawn>
+        <!-- underpass_scale_of_destiny_8 -->
+        <spawn npc_id="799400" respawn_time="120">
+            <spot x="530.54614" y="1137.2924" z="332.73047" h="0"/>
+        </spawn>
+        <!-- shugo_exchange_09 -->
+        <spawn npc_id="799426" respawn_time="150">
+            <spot x="511.02576" y="1274.033" z="313.56824" h="76"/>
+        </spawn>
+		<!-- shugo_underpass_01 -->
+        <spawn npc_id="799507" respawn_time="13800">
+            <spot x="1014.07043" y="643.9505" z="305.75696" h="48"/>
+        </spawn>
+		<!-- shugo_underpass_04 -->
+        <spawn npc_id="799510" respawn_time="13800">
+            <spot x="472.94586" y="1425.0115" z="327.9517" h="42"/>
+        </spawn>
+		<!-- underpass_nepilimnamed_die -->
+        <spawn npc_id="800479" respawn_time="120">
+            <spot x="501.98816" y="769.2996" z="310.86246" h="30"/>
+        </spawn>
+        <!-- idldf1_entrance -->
+        <spawn npc_id="800722" respawn_time="120">
+            <spot x="446.93997" y="765.9995" z="313.6232" h="60"/>
+        </spawn>
+	</spawn_map>
+</spawns>

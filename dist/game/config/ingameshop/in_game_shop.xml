@@ -1,0 +1,31 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<in_game_shop xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="in_game_shop.xsd">
+	<category id="0" name="ELYOS">
+		<sub_category id="3" name="Bag Support"/>
+		<sub_category id="4" name="Food"/>
+		<sub_category id="5" name="Potion"/>
+		<sub_category id="6" name="Dye"/>
+		<sub_category id="7" name="Character"/>
+		<sub_category id="8" name="Scroll"/>
+		<sub_category id="9" name="Enchantment Stone"/>
+		<sub_category id="10" name="Pets Enhancer"/>
+		<sub_category id="11" name="Pets Carrier"/>
+		<sub_category id="12" name="Pets Browser"/>
+		<sub_category id="13" name="Pets Food"/>
+		<sub_category id="14" name="Emotion/Motion Card"/>
+	</category>
+	<category id="1" name="ASMODIANS">
+		<sub_category id="3" name="Bag Support"/>
+		<sub_category id="4" name="Food"/>
+		<sub_category id="5" name="Potion"/>
+		<sub_category id="6" name="Dye"/>
+		<sub_category id="7" name="Character"/>
+		<sub_category id="8" name="Scroll"/>
+		<sub_category id="9" name="Enchantment Stone"/>
+		<sub_category id="10" name="Pets Enhancer"/>
+		<sub_category id="11" name="Pets Carrier"/>
+		<sub_category id="12" name="Pets Browser"/>
+		<sub_category id="13" name="Pets Food"/>
+		<sub_category id="14" name="Emotion/Motion Card"/>
+	</category>
+</in_game_shop>

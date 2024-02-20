@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Abyss Bonus
+	Re-newed By Rinzler
+ -->
+<abyss_bonusattrs xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="abyss_bonusattr.xsd">
+	<abyss_bonusattr buff_id="11" name="Ariel's Blessing" race="ELYOS">
+		<bonus_attr stat="PVP_ATTACK_RATIO" func="PERCENT" value="80"/>
+		<bonus_attr stat="PVP_DEFEND_RATIO" func="PERCENT" value="40"/>
+	</abyss_bonusattr>
+	<abyss_bonusattr buff_id="12" name="Ariel's Blessing" race="ELYOS">
+		<bonus_attr stat="PVP_ATTACK_RATIO" func="PERCENT" value="80"/>
+		<bonus_attr stat="PVP_DEFEND_RATIO" func="PERCENT" value="60"/>
+	</abyss_bonusattr>
+	<abyss_bonusattr buff_id="13" name="Ariel's Blessing" race="ELYOS">
+		<bonus_attr stat="PVP_ATTACK_RATIO" func="PERCENT" value="80"/>
+		<bonus_attr stat="PVP_DEFEND_RATIO" func="PERCENT" value="80"/>
+	</abyss_bonusattr>
+	<abyss_bonusattr buff_id="14" name="Ariel's Blessing" race="ELYOS">
+		<bonus_attr stat="PVP_ATTACK_RATIO" func="PERCENT" value="80"/>
+		<bonus_attr stat="PVP_DEFEND_RATIO" func="PERCENT" value="100"/>
+	</abyss_bonusattr>
+	<abyss_bonusattr buff_id="15" name="Ariel's Blessing" race="ELYOS">
+		<bonus_attr stat="PVP_ATTACK_RATIO" func="PERCENT" value="120"/>
+		<bonus_attr stat="PVP_DEFEND_RATIO" func="PERCENT" value="60"/>
+	</abyss_bonusattr>
+	<abyss_bonusattr buff_id="16" name="Ariel's Blessing" race="ELYOS">
+		<bonus_attr stat="PVP_ATTACK_RATIO" func="PERCENT" value="120"/>
+		<bonus_attr stat="PVP_DEFEND_RATIO" func="PERCENT" value="80"/>
+	</abyss_bonusattr>
+	<abyss_bonusattr buff_id="17" name="Ariel's Blessing" race="ELYOS">
+		<bonus_attr stat="PVP_ATTACK_RATIO" func="PERCENT" value="120"/>
+		<bonus_attr stat="PVP_DEFEND_RATIO" func="PERCENT" value="100"/>
+	</abyss_bonusattr>
+	<abyss_bonusattr buff_id="18" name="Ariel's Blessing" race="ELYOS">
+		<bonus_attr stat="PVP_ATTACK_RATIO" func="PERCENT" value="150"/>
+		<bonus_attr stat="PVP_DEFEND_RATIO" func="PERCENT" value="80"/>
+	</abyss_bonusattr>
+	<abyss_bonusattr buff_id="19" name="Ariel's Blessing" race="ELYOS">
+		<bonus_attr stat="PVP_ATTACK_RATIO" func="PERCENT" value="150"/>
+		<bonus_attr stat="PVP_DEFEND_RATIO" func="PERCENT" value="100"/>
+	</abyss_bonusattr>
+	<abyss_bonusattr buff_id="20" name="Ariel's Blessing" race="ELYOS">
+		<bonus_attr stat="PVP_ATTACK_RATIO" func="PERCENT" value="200"/>
+		<bonus_attr stat="PVP_DEFEND_RATIO" func="PERCENT" value="100"/>
+	</abyss_bonusattr>
+	
+	<abyss_bonusattr buff_id="31" name="Blessing Of Azphel" race="ASMODIANS">
+		<bonus_attr stat="PVP_ATTACK_RATIO" func="PERCENT" value="80"/>
+		<bonus_attr stat="PVP_DEFEND_RATIO" func="PERCENT" value="40"/>
+	</abyss_bonusattr>
+	<abyss_bonusattr buff_id="32" name="Blessing Of Azphel" race="ASMODIANS">
+		<bonus_attr stat="PVP_ATTACK_RATIO" func="PERCENT" value="80"/>
+		<bonus_attr stat="PVP_DEFEND_RATIO" func="PERCENT" value="60"/>
+	</abyss_bonusattr>
+	<abyss_bonusattr buff_id="33" name="Blessing Of Azphel" race="ASMODIANS">
+		<bonus_attr stat="PVP_ATTACK_RATIO" func="PERCENT" value="80"/>
+		<bonus_attr stat="PVP_DEFEND_RATIO" func="PERCENT" value="80"/>
+	</abyss_bonusattr>
+	<abyss_bonusattr buff_id="34" name="Blessing Of Azphel" race="ASMODIANS">
+		<bonus_attr stat="PVP_ATTACK_RATIO" func="PERCENT" value="80"/>
+		<bonus_attr stat="PVP_DEFEND_RATIO" func="PERCENT" value="100"/>
+	</abyss_bonusattr>
+	<abyss_bonusattr buff_id="35" name="Blessing Of Azphel" race="ASMODIANS">
+		<bonus_attr stat="PVP_ATTACK_RATIO" func="PERCENT" value="120"/>
+		<bonus_attr stat="PVP_DEFEND_RATIO" func="PERCENT" value="60"/>
+	</abyss_bonusattr>
+	<abyss_bonusattr buff_id="36" name="Blessing Of Azphel" race="ASMODIANS">
+		<bonus_attr stat="PVP_ATTACK_RATIO" func="PERCENT" value="120"/>
+		<bonus_attr stat="PVP_DEFEND_RATIO" func="PERCENT" value="80"/>
+	</abyss_bonusattr>
+	<abyss_bonusattr buff_id="37" name="Blessing Of Azphel" race="ASMODIANS">
+		<bonus_attr stat="PVP_ATTACK_RATIO" func="PERCENT" value="120"/>
+		<bonus_attr stat="PVP_DEFEND_RATIO" func="PERCENT" value="100"/>
+	</abyss_bonusattr>
+	<abyss_bonusattr buff_id="38" name="Blessing Of Azphel" race="ASMODIANS">
+		<bonus_attr stat="PVP_ATTACK_RATIO" func="PERCENT" value="150"/>
+		<bonus_attr stat="PVP_DEFEND_RATIO" func="PERCENT" value="80"/>
+	</abyss_bonusattr>
+	<abyss_bonusattr buff_id="39" name="Blessing Of Azphel" race="ASMODIANS">
+		<bonus_attr stat="PVP_ATTACK_RATIO" func="PERCENT" value="150"/>
+		<bonus_attr stat="PVP_DEFEND_RATIO" func="PERCENT" value="100"/>
+	</abyss_bonusattr>
+	<abyss_bonusattr buff_id="40" name="Blessing Of Azphel" race="ASMODIANS">
+		<bonus_attr stat="PVP_ATTACK_RATIO" func="PERCENT" value="200"/>
+		<bonus_attr stat="PVP_DEFEND_RATIO" func="PERCENT" value="100"/>
+	</abyss_bonusattr>
+</abyss_bonusattrs>

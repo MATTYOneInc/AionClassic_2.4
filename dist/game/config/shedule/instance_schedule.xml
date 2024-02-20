@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Instance Rift [Aion Classic]
+	Made By Rinzler (Encom)
+ -->
+<instance_schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="instance_schedule.xsd">
+	<!-- DRAUPNIR CAVE -->
+	<instance id="1">
+		<instanceTime>0 10 9-16 ? * MON-THU *</instanceTime>
+		<instanceTime>0 0 18-2 ? * MON-THU *</instanceTime>
+		<instanceTime>0 0 2-1 ? * FRI-SUN *</instanceTime>
+	</instance>
+	<!-- INDRATU FORTRESS -->
+	<instance id="2">
+		<instanceTime>0 10 9-16 ? * MON-THU *</instanceTime>
+		<instanceTime>0 0 18-2 ? * MON-THU *</instanceTime>
+		<instanceTime>0 0 2-1 ? * FRI-SUN *</instanceTime>
+	</instance>
+</instance_schedule>

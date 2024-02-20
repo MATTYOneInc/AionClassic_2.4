@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Instance Rift
+	Re-newed By Rinzler
+ -->
+<spawns>
+    <spawn_map map_id="220040000">
+		<!-- Indratu Fortress -->
+		<instance_rift_spawn id="2">
+			<instance_rift_type estate="OPEN">
+			    <!-- df3_lf3_dragonportal_q1063 -->
+				<spawn npc_id="700360">
+					<spot x="1480.725952" y="1941.947754" z="590.379395" entity_id="813"/>
+				</spawn>
+			</instance_rift_type>
+			<instance_rift_type estate="CLOSED">
+			</instance_rift_type>
+		</instance_rift_spawn>
+    </spawn_map>
+</spawns>

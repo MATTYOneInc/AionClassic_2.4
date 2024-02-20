@@ -1,0 +1,366 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Tiak Research Base
+	Re-newed By Rinzler
+ -->
+<spawns>
+    <spawn_map map_id="300440000">
+		<!-- idtiamatlab_war_lizard_fi_50_ae -->
+        <spawn npc_id="218871">
+            <spot x="701.5000" y="619.5000" z="147.7777" h="0" walker_id="idtiamatlab_war_npcpathidwar_d9"/>
+            <spot x="689.5000" y="692.0000" z="147.4614" h="0" walker_id="idtiamatlab_war_npcpathidwar_d11"/>
+            <spot x="713.0000" y="437.5000" z="152.3169" h="0" walker_id="idtiamatlab_war_npcpathidwar_d15"/>
+            <spot x="702.0000" y="535.5000" z="147.8485" h="0" walker_id="idtiamatlab_war_npcpathidwar_d10"/>
+            <spot x="689.5000" y="460.5000" z="147.4614" h="0" walker_id="idtiamatlab_war_npcpathidwar_d14"/>
+            <spot x="713.0000" y="715.5000" z="152.3169" h="0" walker_id="idtiamatlab_war_npcpathidwar_d16"/>
+        </spawn>
+		<!-- idtiamatlab_war_lizard_as_50_ae -->
+        <spawn npc_id="218872">
+            <spot x="740.1274" y="579.5004" z="136.4868" h="0" walker_id="idtiamatlab_war_npcpathidwar_d7"/>
+        </spawn>
+		<!-- idtiamatlab_war_lizard_pr_50_ae -->
+        <spawn npc_id="218874">
+            <spot x="701.3077" y="577.4991" z="148.3799" h="0" walker_id="idtiamatlab_war_npcpathidwar_d6"/>
+            <spot x="716.5552" y="489.0013" z="147.4614" h="0" walker_id="idtiamatlab_war_npcpathidwar_d13"/>
+            <spot x="716.5000" y="664.5000" z="147.4614" h="0" walker_id="idtiamatlab_war_npcpathidwar_d12"/>
+        </spawn>
+		<!-- idtiamatlab_war_drakan_as_50_ae -->
+        <spawn npc_id="218876">
+            <spot x="568.5000" y="650.5000" z="132.1663" h="0" walker_id="idtiamatlab_war_npcpathidwar_d3_drakan4"/>
+            <spot x="614.5008" y="683.7445" z="118.3828" h="0" walker_id="idtiamatlab_war_npcpathidwar_d3_drakan7"/>
+            <spot x="557.5392" y="577.1008" z="148.0404" h="0" walker_id="idtiamatlab_war_npcpathidwar_d3_drakan13"/>
+            <spot x="568.5000" y="501.5000" z="132.1663" h="0" walker_id="idtiamatlab_war_npcpathidwar_d3_drakan3"/>
+            <spot x="614.5000" y="472.5000" z="118.3828" h="0" walker_id="idtiamatlab_war_npcpathidwar_d3_drakan5"/>
+            <spot x="480.0000" y="661.0000" z="145.8751" h="0" walker_id="idtiamatlab_war_npcpathidwar_d3_drakan30"/>
+            <spot x="480.0000" y="492.5000" z="145.6932" h="0" walker_id="idtiamatlab_war_npcpathidwar_d3_drakan27"/>
+            <spot x="557.9175" y="574.6507" z="148.0404" h="0" walker_id="idtiamatlab_war_npcpathidwar_d3_drakan12"/>
+        </spawn>
+		<!-- idtiamatlab_war_drakan_pr_50_ae -->
+        <spawn npc_id="218879">
+            <spot x="611.0000" y="618.5000" z="127.1584" h="0" walker_id="idtiamatlab_war_npcpathidwar_d3_drakan11"/>
+            <spot x="611.0000" y="533.5000" z="127.1584" h="0" walker_id="idtiamatlab_war_npcpathidwar_d3_drakan10"/>
+        </spawn>
+		<!-- idtiamatlab_war_drakanlab_fi_50_ae -->
+        <spawn npc_id="218880">
+            <spot x="684.5000" y="510.0000" z="147.7500" h="0" walker_id="idtiamatlab_war_npcpathidwar_d3_drakan25"/>
+            <spot x="684.5000" y="642.5000" z="147.7500" h="0" walker_id="idtiamatlab_war_npcpathidwar_d3_drakan24"/>
+        </spawn>
+		<!-- idtiamatlab_war_drakanlab_as_50_ae -->
+        <spawn npc_id="218881">
+            <spot x="583.5000" y="594.0000" z="132.1663" h="0" walker_id="idtiamatlab_war_npcpathidwar_d3_drakan16"/>
+        </spawn>
+		<!-- idtiamatlab_war_drakanlab_ra_50_ae -->
+        <spawn npc_id="218882">
+            <spot x="620.5000" y="553.0000" z="133.5182" h="0" walker_id="idtiamatlab_war_npcpathidwar_d3_drakan8"/>
+            <spot x="620.5000" y="599.0000" z="133.5181" h="0" walker_id="idtiamatlab_war_npcpathidwar_d3_drakan9"/>
+        </spawn>
+		<!-- idtiamatlab_war_drakanlab_wi_50_ae -->
+        <spawn npc_id="218883">
+            <spot x="499.0000" y="572.0000" z="145.6635" h="0" walker_id="idtiamatlab_war_npcpathidwar_d3_drakan17"/>
+            <spot x="499.0000" y="580.5000" z="145.6635" h="0" walker_id="idtiamatlab_war_npcpathidwar_d3_drakan18"/>
+        </spawn>
+		<!-- idtiamatlab_war_drakanlab_pr_50_ae -->
+        <spawn npc_id="218884">
+            <spot x="555.1200" y="544.0000" z="132.8768" h="0" walker_id="idtiamatlab_war_npcpathidwar_d3_drakan14"/>
+        </spawn>
+		<!-- idtiamatlab_war_undrakan_fi_50_ae -->
+        <spawn npc_id="218885">
+            <spot x="671.6300" y="516.7500" z="148.5000" h="0"/>
+            <spot x="684.8800" y="637.2500" z="148.5000" h="0"/>
+            <spot x="714.2500" y="420.5000" z="153.0000" h="0"/>
+            <spot x="706.41833" y="731.78125" z="152.88858" h="84"/>
+            <spot x="741.5975" y="731.9199" z="152.88858" h="91"/>
+            <spot x="661.3829" y="420.02573" z="152.7380" h="31"/>
+        </spawn>
+		<!-- idtiamatlab_war_undrakan_as_50_ae -->
+        <spawn npc_id="218886">
+            <spot x="661.3486" y="646.5867" z="148.30534" h="0"/>
+            <spot x="658.12274" y="695.60376" z="152.88858" h="0"/>
+            <spot x="741.65753" y="420.3388" z="152.7380" h="32"/>
+        </spawn>
+		<!-- idtiamatlab_war_undrakan_ra_50_ae -->
+        <spawn npc_id="218887">
+            <spot x="672.5000" y="637.0000" z="149.0000" h="0"/>
+            <spot x="722.7126" y="517.4284" z="152.77876" h="90"/>
+            <spot x="728.96027" y="731.6307" z="152.88858" h="91"/>
+            <spot x="722.39453" y="635.2422" z="152.90015" h="30"/>
+            <spot x="673.2349" y="731.59576" z="152.88858" h="91"/>
+            <spot x="716.6429" y="731.71173" z="152.88858" h="91"/>
+            <spot x="745.6568" y="472.01614" z="152.7811" h="61"/>
+            <spot x="729.1473" y="420.16537" z="152.7380" h="31"/>
+            <spot x="698.8828" y="420.23157" z="152.7380" h="30"/>
+        </spawn>
+		<!-- idtiamatlab_war_undrakan_wi_50_ae -->
+        <spawn npc_id="218888">
+            <spot x="661.1300" y="506.6100" z="148.5000" h="0"/>
+            <spot x="661.8800" y="659.5300" z="148.5000" h="0"/>
+            <spot x="674.1300" y="420.5000" z="153.000" h="0"/>
+            <spot x="660.6300" y="731.5000" z="153.1400" h="0"/>
+            <spot x="745.7500" y="454.1300" z="153.2500" h="0"/>
+            <spot x="660.7887" y="494.3202" z="148.2201" h="1"/>
+            <spot x="684.1425" y="516.88025" z="148.2201" h="91"/>
+            <spot x="735.1765" y="518.3201" z="152.77876" h="90"/>
+        </spawn>
+		<!-- idtiamatlab_war_undrakan_pr_50_ae -->
+        <spawn npc_id="218889">
+            <spot x="685.6105" y="731.7996" z="152.88858" h="91"/>
+            <spot x="686.4509" y="419.71103" z="152.7380" h="30"/>
+        </spawn>
+		<!-- idtiamatlab_war_zaif_50_an -->
+        <spawn npc_id="218890">
+            <spot x="691.85242" y="505.15314" z="148.5000" h="0"/>
+            <spot x="719.14832" y="520.45142" z="164.7500" h="0"/>
+            <spot x="712.60242" y="504.15314" z="149.5000" h="0"/>
+            <spot x="712.35242" y="502.40314" z="149.5000" h="0"/>
+            <spot x="729.10242" y="674.15314" z="149.5000" h="0"/>
+            <spot x="671.50421" y="664.28882" z="148.5000" h="0"/>
+        </spawn>
+        <!-- idtiamatlab_war_zaifundead_50_an -->
+        <spawn npc_id="218891">
+            <spot x="673.14832" y="518.20142" z="161.5000" h="0"/>
+            <spot x="656.89832" y="508.70142" z="161.5000" h="0"/>
+            <spot x="669.64832" y="520.20142" z="161.5000" h="0"/>
+            <spot x="743.73749" y="418.81708" z="165.7500" h="0"/>
+            <spot x="691.60242" y="503.15314" z="148.5000" h="0"/>
+            <spot x="668.64832" y="517.70142" z="161.5000" h="0"/>
+            <spot x="674.89832" y="519.70142" z="161.5000" h="0"/>
+            <spot x="743.10242" y="635.65314" z="152.5000" h="0"/>
+        </spawn>
+        <!-- idtiamatlab_war_porguss_50_an -->
+        <spawn npc_id="218892">
+            <spot x="724.89832" y="520.45142" z="164.7500" h="0"/>
+            <spot x="718.0000" y="707.27612" z="149.0000" h="0"/>
+            <spot x="693.0000" y="641.77612" z="148.0000" h="0"/>
+            <spot x="673.52722" y="670.19672" z="148.0000" h="0"/>
+        </spawn>
+        <!-- idtiamatlab_war_undeadporguss_50_an -->
+        <spawn npc_id="218893">
+            <spot x="670.2500" y="489.02612" z="148.7500" h="0"/>
+            <spot x="745.5000" y="639.77612" z="153.0000" h="0"/>
+            <spot x="656.64832" y="502.70142" z="161.5000" h="0"/>
+            <spot x="741.73749" y="417.06708" z="165.7500" h="0"/>
+            <spot x="658.0000" y="438.52612" z="153.0000" h="0"/>
+            <spot x="658.2500" y="440.52612" z="153.0000" h="0"/>
+            <spot x="691.2500" y="509.52612" z="148.7500" h="0"/>
+            <spot x="745.5000" y="715.77612" z="153.0000" h="0"/>
+            <spot x="670.5000" y="490.52612" z="148.5000" h="0"/>
+            <spot x="693.5000" y="732.27612" z="156.5000" h="0"/>
+            <spot x="693.5000" y="732.27612" z="153.0000" h="0"/>
+        </spawn>
+        <!-- idtiamatlab_war_zombie_50_an -->
+        <spawn npc_id="218894">
+            <spot x="671.23749" y="736.06708" z="165.2500" h="0"/>
+            <spot x="696.5000" y="728.27612" z="153.0000" h="0"/>
+            <spot x="664.48749" y="733.06708" z="165.2500" h="0"/>
+            <spot x="658.73749" y="735.56708" z="165.2500" h="0"/>
+            <spot x="672.23749" y="733.81708" z="165.2500" h="0"/>
+            <spot x="726.73749" y="736.06708" z="165.2500" h="0"/>
+            <spot x="656.98749" y="733.56708" z="165.2500" h="0"/>
+            <spot x="674.23749" y="735.56708" z="165.2500" h="0"/>
+            <spot x="731.23749" y="733.56708" z="165.2500" h="0"/>
+            <spot x="729.98749" y="735.81708" z="165.2500" h="0"/>
+            <spot x="676.98749" y="735.81708" z="165.2500" h="0"/>
+            <spot x="659.5000" y="704.77612" z="152.5000" h="0"/>
+            <spot x="675.48749" y="733.81708" z="165.2500" h="0"/>
+            <spot x="662.23749" y="735.31708" z="165.2500" h="0"/>
+            <spot x="740.73749" y="733.31708" z="165.2500" h="0"/>
+            <spot x="745.48749" y="733.31708" z="165.2500" h="0"/>
+            <spot x="669.48749" y="733.56708" z="165.2500" h="0"/>
+            <spot x="737.98749" y="417.81708" z="165.7500" h="0"/>
+            <spot x="657.73749" y="657.81708" z="161.7500" h="0"/>
+            <spot x="742.48749" y="735.56708" z="165.2500" h="0"/>
+            <spot x="659.73749" y="733.31708" z="165.2500" h="0"/>
+            <spot x="745.48749" y="735.81708" z="165.2500" h="0"/>
+            <spot x="737.73749" y="733.06708" z="165.2500" h="0"/>
+            <spot x="728.23749" y="733.56708" z="165.2500" h="0"/>
+            <spot x="732.98749" y="735.81708" z="165.2500" h="0"/>
+            <spot x="738.98749" y="735.56708" z="165.2500" h="0"/>
+            <spot x="725.23749" y="733.31708" z="165.2500" h="0"/>
+            <spot x="743.98749" y="733.56708" z="165.2500" h="0"/>
+            <spot x="746.7500" y="430.52612" z="152.5000" h="0"/>
+            <spot x="656.39832" y="489.70142" z="161.5000" h="0"/>
+        </spawn>
+        <!-- idtiamatlab_war_zombiem_50_an -->
+        <spawn npc_id="218895">
+            <spot x="743.73749" y="416.81708" z="165.7500" h="0"/>
+            <spot x="658.64832" y="492.95142" z="161.5000" h="0"/>
+            <spot x="658.5000" y="721.27612" z="152.5000" h="0"/>
+            <spot x="659.0000" y="719.77612" z="152.5000" h="0"/>
+            <spot x="746.98749" y="469.06708" z="166.2500" h="0"/>
+            <spot x="655.48749" y="692.31708" z="166.2500" h="0"/>
+            <spot x="657.98749" y="662.31708" z="161.7500" h="0"/>
+        </spawn>
+        <!-- idtiamatlab_war_zombief_50_an -->
+        <spawn npc_id="218896">
+            <spot x="698.98749" y="418.56708" z="165.7500" h="0"/>
+            <spot x="658.23749" y="417.81708" z="165.7500" h="0"/>
+            <spot x="701.98749" y="418.81708" z="165.7500" h="0"/>
+            <spot x="656.89832" y="496.45142" z="161.5000" h="0"/>
+            <spot x="747.98749" y="474.56708" z="166.2500" h="0"/>
+            <spot x="658.0000" y="704.27612" z="152.5000" h="0"/>
+            <spot x="745.2500" y="462.52612" z="152.5000" h="0"/>
+            <spot x="695.73749" y="418.31708" z="165.7500" h="0"/>
+            <spot x="745.2500" y="430.02612" z="152.5000" h="0"/>
+            <spot x="663.98749" y="417.81708" z="165.7500" h="0"/>
+            <spot x="729.48749" y="418.81708" z="165.7500" h="0"/>
+            <spot x="700.98749" y="416.81708" z="165.7500" h="0"/>
+            <spot x="659.48749" y="659.81708" z="161.7500" h="0"/>
+            <spot x="729.23749" y="417.06708" z="165.7500" h="0"/>
+            <spot x="726.98749" y="417.06708" z="165.7500" h="0"/>
+            <spot x="695.0000" y="727.77612" z="153.0000" h="0"/>
+            <spot x="740.23749" y="418.56708" z="165.7500" h="0"/>
+            <spot x="660.73749" y="418.06708" z="165.7500" h="0"/>
+            <spot x="656.48749" y="697.81708" z="166.2500" h="0"/>
+            <spot x="697.73749" y="417.06708" z="165.7500" h="0"/>
+            <spot x="662.23749" y="416.81708" z="165.7500" h="0"/>
+            <spot x="731.73749" y="417.06708" z="165.7500" h="0"/>
+        </spawn>
+        <!-- idtiamatlab_war_drakanworker_fi_50_an -->
+        <spawn npc_id="218897">
+            <spot x="680.0000" y="546.5000" z="129.000" h="13"/>
+            <spot x="680.5000" y="606.7500" z="129.000" h="13"/>
+            <spot x="712.5000" y="567.2500" z="129.000" h="13"/>
+            <spot x="729.0000" y="590.7500" z="129.000" h="13"/>
+        </spawn>
+        <!-- idtiamatlab_war_drakanworker_pr_50_an -->
+        <spawn npc_id="218898">
+            <spot x="688.25037" y="615.22339" z="129.0" h="13"/>
+        </spawn>
+        <!-- idtiamatlab_war_slime_50_an -->
+        <spawn npc_id="218900">
+            <spot x="832.8577" y="512.7032" z="157.0000" h="83"/>
+            <spot x="844.17035" y="640.22217" z="156.6250" h="34"/>
+            <spot x="844.81665" y="565.44073" z="124.55104" h="67"/>
+            <spot x="805.7361" y="559.1968" z="127.6250" h="14"/>
+            <spot x="818.2671" y="606.85645" z="126.8797" h="98"/>
+            <spot x="849.61224" y="600.7576" z="124.36782" h="85"/>
+        </spawn>
+        <!-- idtiamatlab_war_rafflesia_50_an -->
+        <spawn npc_id="218901">
+            <spot x="796.0000" y="535.2500" z="129.5000" h="13"/>
+            <spot x="839.5000" y="586.7500" z="124.5000" h="11"/>
+            <spot x="802.9595" y="648.7090" z="156.24979" h="38"/>
+            <spot x="779.6019" y="503.10376" z="152.1250" h="102"/>
+            <spot x="837.4968" y="536.7624" z="124.7500" h="109"/>
+            <spot x="830.88837" y="615.7837" z="125.805954" h="8"/>
+            <spot x="786.02997" y="622.10126" z="127.51266" h="86"/>
+        </spawn>
+        <!-- idtiamatlab_war_fellial_50_an -->
+        <spawn npc_id="218902">
+            <spot x="778.5000" y="533.7500" z="129.0000" h="13"/>
+            <spot x="735.6640" y="603.7238" z="127.96174" h="51"/>
+            <spot x="668.9590" y="618.2606" z="127.98893" h="41"/>
+            <spot x="704.96375" y="556.7202" z="127.935234" h="19"/>
+            <spot x="763.5486" y="621.06116" z="127.93907" h="93"/>
+        </spawn>
+        <!-- idtiamatlab_war_spaller_mini_50_an -->
+        <spawn npc_id="218903">
+			<spot x="721.3790" y="550.29736" z="127.6250" h="43"/>
+            <spot x="734.9008" y="550.31024" z="128.21121" h="19"/>
+            <spot x="719.98004" y="605.2228" z="127.627495" h="75"/>
+            <spot x="673.6368" y="558.7888" z="127.7500" h="6"/>
+            <spot x="676.72614" y="595.7103" z="127.7500" h="112"/>
+            <spot x="758.40796" y="566.26575" z="128.62616" h="83"/>
+        </spawn>
+		<!-- idtiamatlab_war_watergolem_named_50_ah -->
+        <spawn npc_id="218904">
+            <spot x="588.98773" y="501.28384" z="137.36266" h="60"/>
+        </spawn>
+		<!-- idtiamatlab_war_spaller_named_50_ah -->
+        <spawn npc_id="218905">
+            <spot x="590.90735" y="650.7833" z="137.36266" h="60"/>
+        </spawn>
+		<!-- idtiamatlab_war_slime_named_50_ah -->
+        <spawn npc_id="218906" pool="1">
+            <spot x="805.0836" y="578.2808" z="127.82818" h="10"/>
+            <spot x="849.2765" y="575.02094" z="124.31119" h="65"/>
+            <spot x="810.8679" y="612.8815" z="127.46142" h="85"/>
+        </spawn>
+        <!-- idtiamatlab_war_bioniccpunamed_50_ah -->
+        <spawn npc_id="218907">
+            <spot x="453.65692" y="576.06885" z="146.14565" h="107"/>
+        </spawn>
+		
+		<!-- idtiamatlab_war_score_obj_01_dr -->
+        <spawn npc_id="800063">
+            <spot x="678.00000" y="451.04001" z="147.75000" entity_id="231"/>
+        </spawn>
+		<!-- idtiamatlab_war_score_obj_02_dr -->
+        <spawn npc_id="800066">
+			<spot x="678.00000" y="704.00000" z="147.75000" entity_id="234"/>
+        </spawn>
+		<!-- idtiamatlab_war_score_obj_03_dr -->
+        <spawn npc_id="800069">
+		    <spot x="732.80005" y="578.95001" z="128.63245" entity_id="84"/>
+        </spawn>
+		<!-- idtiamatlab_war_score_obj_04_dr -->
+        <spawn npc_id="800072">
+			<spot x="575.20569" y="529.88647" z="132.16638" entity_id="237"/>
+        </spawn>
+		<!-- idtiamatlab_war_score_obj_05_dr -->
+        <spawn npc_id="800075">
+			<spot x="574.95306" y="621.31555" z="132.16638" entity_id="240"/>
+        </spawn>
+		<!-- idtiamatlab_war_itemnamed_cage_01 -->
+        <spawn npc_id="800083">
+		    <spot x="582.87347" y="501.19000" z="135.17000" entity_id="1021"/>
+        </spawn>
+		<!-- idtiamatlab_war_itemnamed_cage_02 -->
+        <spawn npc_id="800084">
+			<spot x="583.40332" y="650.72412" z="135.17000" entity_id="1020"/>
+        </spawn>
+		<!-- idtiamatlab_war_attackable_door_06 -->
+		<spawn npc_id="800117">
+		    <spot x="659.70282" y="577.03491" z="131.59146" entity_id="37"/>
+		</spawn>
+		<!-- idtiamatlab_war_attackable_door_07 -->
+        <spawn npc_id="800118">
+            <spot x="601.66516" y="605.05322" z="134.18852" entity_id="1022"/>
+			<spot x="620.62262" y="605.05334" z="134.18791" entity_id="1023"/>
+			<spot x="637.70593" y="605.05334" z="134.18791" entity_id="1024"/>
+			<spot x="601.28931" y="546.87573" z="134.18852" entity_id="1025"/>
+			<spot x="620.29419" y="546.87585" z="134.18791" entity_id="1026"/>
+			<spot x="637.49316" y="546.87585" z="134.18791" entity_id="1027"/>
+        </spawn>
+		<!-- idtiamatlab_war_attackable_door_08 -->
+        <spawn npc_id="800119">
+		    <spot x="663.88922" y="505.71555" z="148.36992" entity_id="41"/>
+			<spot x="722.68408" y="515.00488" z="152.94524" entity_id="44"/>
+            <spot x="735.12457" y="515.00488" z="152.94524" entity_id="55"/>
+			<spot x="742.81409" y="472.09293" z="152.90446" entity_id="138"/>
+			<spot x="742.81409" y="454.13734" z="152.90446" entity_id="141"/>
+			<spot x="741.60358" y="423.24307" z="152.90446" entity_id="143"/>
+			<spot x="729.17847" y="423.24307" z="152.90446" entity_id="145"/>
+			<spot x="663.88922" y="493.18567" z="148.36992" entity_id="194"/>
+			<spot x="671.82416" y="513.73712" z="148.36992" entity_id="195"/>
+			<spot x="684.26733" y="513.73712" z="148.36992" entity_id="196"/>
+			<spot x="664.54871" y="659.24042" z="148.44695" entity_id="197"/>
+			<spot x="664.54871" y="646.59583" z="148.44695" entity_id="198"/>
+			<spot x="672.32098" y="639.88776" z="148.44695" entity_id="199"/>
+			<spot x="684.80774" y="639.88776" z="148.44695" entity_id="200"/>
+			<spot x="716.75964" y="423.24307" z="152.90446" entity_id="243"/>
+			<spot x="698.81012" y="423.24307" z="152.90446" entity_id="244"/>
+			<spot x="686.35681" y="423.24307" z="152.90446" entity_id="245"/>
+			<spot x="673.87836" y="423.24307" z="152.90446" entity_id="246"/>
+			<spot x="661.39606" y="423.24307" z="152.90446" entity_id="247"/>
+			<spot x="660.87506" y="695.55701" z="153.04807" entity_id="248"/>
+			<spot x="660.71692" y="728.71741" z="153.08311" entity_id="249"/>
+			<spot x="673.20551" y="728.71741" z="153.08311" entity_id="250"/>
+			<spot x="685.66705" y="728.71741" z="153.08311" entity_id="251"/>
+			<spot x="704.24219" y="728.71741" z="153.08311" entity_id="252"/>
+			<spot x="716.72044" y="728.71741" z="153.08311" entity_id="253"/>
+			<spot x="729.22809" y="728.71741" z="153.08311" entity_id="254"/>
+			<spot x="741.64594" y="728.71741" z="153.08311" entity_id="255"/>
+			<spot x="722.70123" y="638.11457" z="153.08311" entity_id="256"/>
+        </spawn>
+		<!-- idtiamatlab_war_invincible_barriere -->
+		<spawn npc_id="206173">
+            <spot x="824.45154" y="677.57764" z="163.37500" h="27"/>
+            <spot x="829.48975" y="676.84420" z="163.30276" h="27"/>
+            <spot x="826.91270" y="672.61990" z="163.29361" h="27"/>
+            <spot x="823.78050" y="472.36374" z="162.86052" h="95"/>
+            <spot x="816.34924" y="470.38828" z="162.95390" h="95"/>
+            <spot x="819.65840" y="476.61740" z="162.86026" h="93"/>
+        </spawn>
+	</spawn_map>
+</spawns>

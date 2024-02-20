@@ -1,0 +1,39 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Aerdina
+	Re-newed By Rinzler
+ -->
+<spawns>
+	<spawn_map map_id="310030000">
+		<!-- lizardmanfighter_20_an -->
+        <spawn npc_id="211624">
+            <spot x="268.11798" y="228.18762" z="212.4901" h="95"/>
+            <spot x="264.59494" y="216.74745" z="210.4252" h="95"/>
+            <spot x="253.36334" y="222.91618" z="211.91263" h="95"/>
+            <spot x="244.71017" y="207.06342" z="204.82410" h="0" walker_id="idabgatel1_mobpath_n_lizardmanfighter_20"/>
+            <spot x="281.49390" y="221.41315" z="206.28624" h="0" walker_id="idabgatel1_mobpath_n_lizardmanfighter_20_2"/>
+        </spawn>
+        <!-- lizardmanassassin_20_an -->
+        <spawn npc_id="211625">
+            <spot x="268.56696" y="243.75407" z="217.9883" h="92"/>
+            <spot x="254.14246" y="238.06398" z="218.15292" h="95"/>
+        </spawn>
+		<!-- nagafightersq_21_an -->
+		<spawn npc_id="210753">
+            <spot x="255.89127" y="250.864" z="224.23518" h="95"/>
+        </spawn>
+		
+		<!-- portaltrigger_idabgatel1 -->
+        <spawn npc_id="700142">
+            <spot x="261.418396" y="229.531143" z="214.820313" entity_id="75"/>
+        </spawn>
+        <!-- dragonportal_idabgatel1 -->
+        <spawn npc_id="700143">
+            <spot x="250.911484" y="270.455017" z="235.000000" entity_id="8"/>
+        </spawn>
+        <!-- dragonportal_idabgatel1_exit -->
+        <spawn npc_id="700186">
+            <spot x="276.124695" y="161.653183" z="208.083328" entity_id="17"/>
+        </spawn>
+	</spawn_map>
+</spawns>

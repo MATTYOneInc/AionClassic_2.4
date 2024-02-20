@@ -1,0 +1,166 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Abyssal Splinter
+	Re-newed By Rinzler
+ -->
+<spawns>
+	<spawn_map map_id="300220000">
+		<!-- idabre_core_silikacannon_ra_55_ah -->
+		<spawn npc_id="216942">
+			<spot x="644.2296" y="281.9138" z="462.87057" h="89"/>
+            <spot x="641.0626" y="243.04953" z="462.51718" h="89"/>
+            <spot x="649.9115" y="216.81348" z="456.61218" h="96"/>
+		</spawn>
+		<!-- idabre_core_souledstone_as_55_ah -->
+		<spawn npc_id="216943">
+			<spot x="647.3417" y="286.79254" z="463.20212" h="89"/>
+            <spot x="641.01526" y="286.87817" z="463.17474" h="89"/>
+            <spot x="642.02527" y="248.98787" z="462.67084" h="89"/>
+            <spot x="636.9905" y="246.12195" z="462.9064" h="89"/>
+            <spot x="644.6327" y="220.73866" z="458.45297" h="96"/>
+            <spot x="651.0701" y="222.94907" z="458.45343" h="96"/>
+		</spawn>
+		<!-- idabre_core_cyclops_fi_55_ah -->
+		<spawn npc_id="216944">
+			<spot x="522.2446" y="666.4486" z="430.1473" h="0"/>
+            <spot x="581.2245" y="640.3863" z="419.922" h="67"/>
+			<spot x="534.34" y="666.23" z="426.17184" h="0" walker_id="idabre_core_path_11"/>
+		</spawn>
+		<!-- idabre_core_agrint_kn_55_ah -->
+		<spawn npc_id="216945">
+			<spot x="698.433105" y="431.000214" z="465.901886" h="0"/>
+		</spawn>
+		<!-- idabre_core_flyingworm_el_55_ah -->
+		<spawn npc_id="216946">
+			<spot x="790.539368" y="655.982910" z="456.360443" h="0" walker_id="idabre_core_path_3"/>
+            <spot x="737.648987" y="645.093445" z="441.360443" h="0" walker_id="idabre_core_path_4"/>
+		</spawn>
+		<!-- idabre_core_millipede_sc_55_an -->
+		<spawn npc_id="216947">
+			<spot x="812.025452" y="633.053284" z="457.360443" h="0"/>
+            <spot x="707.638062" y="622.528564" z="435.360443" h="0"/>
+            <spot x="791.631104" y="654.245483" z="458.462311" h="0"/>
+            <spot x="754.858887" y="652.887573" z="449.824524" h="0"/>
+            <spot x="735.213867" y="644.630493" z="442.360443" h="0"/>
+			<spot x="796.955811" y="617.290283" z="458.462311" h="0" walker_id="idabre_core_path_6"/>
+			<spot x="808.331970" y="647.463989" z="457.360443" h="0" walker_id="idabre_core_path_8"/>
+            <spot x="756.436462" y="648.559998" z="449.824524" h="0" walker_id="idabre_core_path_9"/>
+		</spawn>
+		<!-- idabre_core_boss_octaside_kn_55_al -->
+		<spawn npc_id="216950">
+			<spot x="634.7293" y="557.0301" z="423.15295" h="96" walker_id="idabre_core_prime"/>
+		</spawn>
+		<!-- idabre_core_boss_tempestelemental_el_55_al -->
+		<spawn npc_id="216951">
+			<spot x="669.8603" y="334.8842" z="465.89728" h="55"/>
+		</spawn>
+		<!-- idabre_core_flyingworm_el_54_ah -->
+		<spawn npc_id="216957">
+			<spot x="806.976746" y="629.211914" z="459.360443" h="0" walker_id="idabre_core_path_2"/>
+            <spot x="762.459290" y="605.458008" z="463.921570" h="0" walker_id="idabre_core_path_1"/>
+		</spawn>
+		<!-- idabre_core_millipede_sc_53_an -->
+		<spawn npc_id="216958">
+			<spot x="799.478027" y="620.157593" z="457.478577" h="0"/>
+            <spot x="704.276733" y="612.282837" z="432.399292" h="0"/>
+            <spot x="745.206177" y="644.526428" z="445.458923" h="0"/>
+            <spot x="782.465576" y="617.005371" z="460.583801" h="0"/>
+            <spot x="794.507629" y="655.343384" z="455.542267" h="0"/>
+			<spot x="780.074890" y="651.933899" z="454.652985" h="0" walker_id="idabre_core_path_7"/>
+		</spawn>
+		<!-- idabre_core_millipede_sc_54_an -->
+		<spawn npc_id="216959">
+			<spot x="777.218567" y="649.030640" z="454.360443" h="0"/>
+            <spot x="767.008972" y="609.984436" z="467.462311" h="0"/>
+            <spot x="712.008301" y="635.402893" z="438.360443" h="0"/>
+            <spot x="804.354980" y="647.814331" z="457.540588" h="0"/>
+            <spot x="758.393799" y="603.926331" z="467.462311" h="0"/>
+            <spot x="756.815796" y="601.008240" z="466.540588" h="0" walker_id="idabre_core_path_5"/>
+			<spot x="707.908569" y="619.870239" z="438.360443" h="0" walker_id="idabre_core_path_10"/>
+		</spawn>
+		<!-- idabre_core_decoration_fi_lizard -->
+        <spawn npc_id="281922">
+            <spot x="699.34686" y="406.3516" z="462.8240" h="82" walker_id="idabre_core_lizard_path_1"/>
+            <spot x="699.34686" y="406.3516" z="462.8240" h="82" walker_id="idabre_core_lizard_path_1"/>
+            <spot x="716.66296" y="381.4000" z="463.9946" h="108" walker_id="idabre_core_lizard_path_2"/>
+            <spot x="716.66296" y="381.4000" z="463.9946" h="108" walker_id="idabre_core_lizard_path_2"/>
+            <spot x="687.42896" y="430.5644" z="461.6811" h="98" walker_id="idabre_core_lizard_path_3"/>
+            <spot x="687.42896" y="430.5644" z="461.6811" h="98" walker_id="idabre_core_lizard_path_3"/>
+            <spot x="692.24100" y="469.1927" z="460.7090" h="98" walker_id="idabre_core_lizard_path_4"/>
+            <spot x="692.24100" y="469.1927" z="460.7090" h="98" walker_id="idabre_core_lizard_path_4"/>
+        </spawn>
+		<!-- idabre_core_decoration_fi_crystal -->
+        <spawn npc_id="281923">
+            <spot x="660.526794" y="187.875549" z="452.468628" h="0"/>
+        </spawn>
+		<!-- idabre_core_finmd_combine -->
+		<spawn npc_id="282010">
+		    <spot x="458.32898" y="690.2454" z="432.435" h="114"/>
+		</spawn>
+		<!-- idabre_core_sum_deaddrakan -->
+		<spawn npc_id="282067">
+		    <spot x="669.0286" y="157.08469" z="448.58548" h="58"/>
+            <spot x="668.3557" y="154.79533" z="448.85474" h="58"/>
+            <spot x="658.05426" y="144.34326" z="448.78522" h="32"/>
+            <spot x="654.41284" y="144.51721" z="448.42114" h="31"/>
+            <spot x="648.9216" y="139.75273" z="448.19995" h="35"/>
+            <spot x="646.59094" y="137.47733" z="448.17914" h="35"/>
+            <spot x="646.86676" y="156.27498" z="447.6594" h="111"/>
+            <spot x="649.1436" y="160.914" z="447.9267" h="111"/>
+            <spot x="648.6082" y="165.7931" z="448.2999" h="109"/>
+            <spot x="656.183" y="167.47089" z="448.21222" h="16"/>
+		</spawn>
+		
+		<!-- idabre_core_shugoexhausted_q30263 -->
+		<spawn npc_id="207945">
+            <spot x="671.21484" y="420.37387" z="462.78702" h="59"/>
+        </spawn>
+		<!-- idabre_core_treasurebox_common -->
+        <spawn npc_id="700859">
+            <spot x="347.35345" y="735.8599" z="419.6725" h="18"/>
+            <spot x="306.50696" y="715.2716" z="368.3994" h="65"/>
+            <spot x="280.9925" y="767.55676" z="287.4333" h="65"/>
+            <spot x="368.2921" y="771.30316" z="347.4754" h="65"/>
+            <spot x="344.2876" y="778.731" z="397.5779" h="65"/>
+            <spot x="360.12698" y="684.13025" z="390.97522" h="16"/>
+            <spot x="311.645" y="768.0681" z="343.8408" h="16"/>
+            <spot x="290.21616" y="729.6007" z="253.7787" h="16"/>
+            <spot x="270.47104" y="743.9896" z="319.379" h="16"/>
+            <spot x="350.45486" y="788.7392" z="320.67593" h="16"/>
+            <spot x="389.8283" y="763.123" z="274.26398" h="16"/>
+            <spot x="346.96774" y="742.37823" z="365.1365" h="50"/>
+        </spawn>
+		<!-- idabre_core_sum_teleport1_03 -->
+		<spawn npc_id="282038">
+            <spot x="334.415009" y="708.805542" z="199.152359" entity_id="52"/>
+        </spawn>
+		<!-- idabre_core_sum_teleport1_06 -->
+		<spawn npc_id="282039">
+            <spot x="361.114380" y="741.872375" z="199.152359" entity_id="54"/>
+        </spawn>
+		<!-- idabre_core_sum_teleport1 -->
+		<spawn npc_id="281905">
+            <spot x="302.220276" y="735.607117" z="199.152359" entity_id="53"/>
+        </spawn>
+		<!-- idabre_core_exit -->
+        <spawn npc_id="730317">
+		    <spot x="708.977722" y="160.172852" z="453.921539" entity_id="84"/>
+        </spawn>
+		<!-- idabre_core_artifact -->
+		<spawn npc_id="700856">
+		    <spot x="326.149170" y="766.933533" z="203.183182" entity_id="58"/>
+		</spawn>
+		<!-- idabre_core_brokensilika -->
+		<spawn npc_id="700862">
+		    <spot x="755.403809" y="567.237610" z="465.317200" entity_id="21"/>
+		</spawn>
+		<!-- idabre_core_sword -->
+        <spawn npc_id="700864">
+		    <spot x="421.325745" y="679.921387" z="441.866119" entity_id="3"/>
+		</spawn>
+		<!-- idabre_core_diary -->
+        <spawn npc_id="700865">
+		    <spot x="462.927734" y="734.942139" z="439.317200" entity_id="1"/>
+		</spawn>
+	</spawn_map>
+</spawns>

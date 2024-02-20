@@ -1,0 +1,35 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Forgotten Space
+	Re-newed By Rinzler
+ -->
+<spawns>
+    <spawn_map map_id="300540000">
+        <!-- idldf1_gate_tiamat_noble_20_an -->
+        <spawn npc_id="219345">
+            <spot x="236.09962" y="253.23944" z="209.62477" h="0"/>
+        </spawn>
+        <!-- idldf1_gate_tiamat_assassin_20_an -->
+        <spawn npc_id="219346">
+            <spot x="269.9508" y="270.51508" z="209.62477" h="84" random_walk="1"/>
+            <spot x="244.87758" y="270.6078" z="209.62479" h="109" random_walk="1"/>
+            <spot x="257.84424" y="234.96684" z="209.62477" h="20" random_walk="1"/>
+            <spot x="258.88763" y="253.39058" z="209.62477" h="9" random_walk="1"/>
+        </spawn>
+        <!-- idldf1_gate_tiamat_fighter_20_an -->
+        <spawn npc_id="219347">
+            <spot x="257.83084" y="270.7457" z="209.62479" h="96" random_walk="1"/>
+            <spot x="245.15796" y="235.27156" z="209.62477" h="13" random_walk="1"/>
+            <spot x="270.0312" y="235.48961" z="209.62477" h="27" random_walk="1"/>
+        </spawn>
+		
+		<!-- ldf1_fobj_restrict_device -->
+        <spawn npc_id="701415">
+			<spot x="228.94589" y="253.79085" z="208.48186" entity_id="10"/>
+        </spawn>
+		<!-- idldf1_gate_sienora -->
+        <spawn npc_id="800716">
+            <spot x="228.94589" y="253.79085" z="208.48186" h="0"/>
+        </spawn>
+	</spawn_map>
+</spawns>

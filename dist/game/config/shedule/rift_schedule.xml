@@ -1,0 +1,56 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Rift [Aion Classic]
+	Made By Rinzler (Encom)
+ -->
+<rift_schedule xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="rift_schedule.xsd">
+	<!-- ELTNEN -->
+	<rift id="210020000">
+		<open schedule="0 0 13,17 ? * MON *" spawn="true"/>
+		<open schedule="0 0 17 ? * THU *" spawn="true"/>
+		<open schedule="0 0 13 ? * FRI *" spawn="true"/>
+		<open schedule="0 0 17 ? * SAT *" spawn="true"/>
+		<open schedule="0 0 15 ? * SUN *" spawn="true"/>
+	</rift>
+	<!-- HEIRON -->
+	<rift id="210040000">
+		<open schedule="0 0 1,15,19 ? * MON *" spawn="true"/>
+		<open schedule="0 0 1,15 ? * THU *" spawn="true"/>
+		<open schedule="0 0 19 ? * FRI *" spawn="true"/>
+		<open schedule="0 0 1 ? * SAT *" spawn="true"/>
+		<open schedule="0 0 19 ? * SUN *" spawn="true"/>
+	</rift>
+	<!-- INGGISON -->
+	<rift id="210050000">
+	    <open schedule="0 0 11,16,23 ? * MON *" spawn="true"/>
+		<open schedule="0 0 11,23 ? * THU *" spawn="true"/>
+		<open schedule="0 0 16 ? * FRI *" spawn="true"/>
+		<open schedule="0 0 1,13 ? * SAT *" spawn="true"/>
+		<open schedule="0 0 3,19 ? * SUN *" spawn="true"/>
+	</rift>
+	
+	<!-- MORHEIM -->
+	<rift id="220020000">
+		<open schedule="0 0 13,17 ? * TUE *" spawn="true"/>
+		<open schedule="0 0 13 ? * THU *" spawn="true"/>
+		<open schedule="0 0 17 ? * FRI *" spawn="true"/>
+		<open schedule="0 0 15 ? * SAT *" spawn="true"/>
+		<open schedule="0 0 17 ? * SUN *" spawn="true"/>
+	</rift>
+	<!-- BELUSLAN -->
+	<rift id="220040000">
+		<open schedule="0 0 1,15,19 ? * TUE *" spawn="true"/>
+		<open schedule="0 0 19 ? * THU *" spawn="true"/>
+		<open schedule="0 0 1,15 ? * FRI *" spawn="true"/>
+		<open schedule="0 0 19 ? * SAT *" spawn="true"/>
+		<open schedule="0 0 1 ? * SUN *" spawn="true"/>
+	</rift>
+	<!-- GELKMAROS -->
+	<rift id="220070000">
+	    <open schedule="0 0 11,16,23 ? * TUE *" spawn="true"/>
+		<open schedule="0 0 16 ? * THU *" spawn="true"/>
+		<open schedule="0 0 11,23 ? * FRI *" spawn="true"/>
+		<open schedule="0 0 3,19 ? * SAT *" spawn="true"/>
+		<open schedule="0 0 1,13 ? * SUN *" spawn="true"/>
+	</rift>
+</rift_schedule>

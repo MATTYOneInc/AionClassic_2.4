@@ -1,0 +1,195 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<npc_walker xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xmlns:xsd="http://www.w3.org/2001/XMLSchema">
+    <walker_template route_id="iddf2a_adma_coffina_path" pool="1">
+	    <routestep step="1" x="601.0927" y="764.8753" z="198.61382"/>
+		<routestep step="2" x="601.0927" y="760.6244" z="198.12762"/>
+		<routestep step="3" x="601.0927" y="755.64056" z="197.72096"/>
+		<routestep step="4" x="601.0927" y="750.9499" z="197.72096"/>
+		<routestep step="5" x="601.0927" y="745.9661" z="197.72096"/>
+		<routestep step="6" x="601.1209" y="742.6168" z="197.72093"/>
+		<routestep step="7" x="601.0927" y="741.7152" z="197.72093"/>
+    </walker_template>
+    <walker_template route_id="iddf2a_adma_coffinb_path" pool="1">
+	    <routestep step="1" x="619.0100" y="724.8100" z="198.53238"/>
+		<routestep step="2" x="615.64435" y="728.1104" z="197.77208"/>
+		<routestep step="3" x="611.39166" y="731.9522" z="197.72089"/>
+		<routestep step="4" x="607.5825" y="735.7287" z="197.7209"/>
+		<routestep step="5" x="603.70807" y="739.5216" z="197.72092"/>
+		<routestep step="6" x="600.52386" y="742.66455" z="197.72093"/>
+		<routestep step="7" x="600.1065" y="743.16766" z="197.72093"/>
+    </walker_template>
+    <walker_template route_id="iddf2a_adma_coffinc_path" pool="1">
+	    <routestep step="1" x="575.5508" y="723.8942" z="198.63734"/>
+		<routestep step="2" x="581.33923" y="727.9943" z="197.72086"/>
+		<routestep step="3" x="587.7148" y="733.18805" z="197.72089"/>
+		<routestep step="4" x="593.25867" y="737.2729" z="197.7209"/>
+		<routestep step="5" x="598.19257" y="740.7964" z="197.72092"/>
+		<routestep step="6" x="598.8278" y="741.25183" z="197.72092"/>
+    </walker_template>
+    <walker_template route_id="iddf2a_adma_coffind_path" pool="1">
+	    <routestep step="1" x="596.3500" y="723.8900" z="198.4238"/>
+		<routestep step="2" x="596.3500" y="730.2296" z="197.72087"/>
+		<routestep step="3" x="596.3500" y="735.5412" z="197.7209"/>
+		<routestep step="4" x="596.33673" y="741.5976" z="197.72092"/>
+		<routestep step="5" x="596.3500" y="742.0522" z="197.72093"/>
+    </walker_template>
+    <walker_template route_id="iddf2a_adma_coffine_path" pool="1">
+	    <routestep step="1" x="584.9700" y="749.2700" z="198.60771"/>
+		<routestep step="2" x="588.7334" y="748.4337" z="198.58147"/>
+		<routestep step="3" x="592.9149" y="747.3186" z="197.72096"/>
+		<routestep step="4" x="597.51465" y="746.20355" z="197.72096"/>
+		<routestep step="5" x="600.9741" y="745.0748" z="197.72275"/>
+		<routestep step="6" x="601.83563" y="744.8097" z="197.72095"/>
+    </walker_template>
+    <walker_template route_id="iddf2a_adma_coffinf_path" pool="1">
+	    <routestep step="1" x="620.2332" y="758.6150" z="198.60608"/>
+		<routestep step="2" x="615.9823" y="757.00256" z="197.84793"/>
+		<routestep step="3" x="611.2916" y="755.24365" z="197.72089"/>
+		<routestep step="4" x="607.0408" y="753.338" z="197.72092"/>
+		<routestep step="5" x="602.9364" y="750.9927" z="197.72095"/>
+		<routestep step="6" x="600.59106" y="747.1815" z="197.72096"/>
+		<routestep step="7" x="599.0751" y="744.6042" z="197.72095"/>
+		<routestep step="8" x="598.6855" y="743.9567" z="197.72095"/>
+    </walker_template>
+    <walker_template route_id="iddf2a_adma_common_f_dirpath_adma_com_bansheeblue_50_ae_4" pool="1">
+	    <routestep step="1" x="581.1112" y="506.53143" z="190.5193"/>
+		<routestep step="2" x="580.76984" y="506.8611" z="190.51982"/>
+		<routestep step="3" x="581.4811" y="506.1743" z="190.51875"/>
+		<routestep step="4" x="581.3388" y="506.31165" z="190.51897"/>
+    </walker_template>
+    <walker_template route_id="iddf2a_adma_common_f_dirpath_adma_com_bansheeblue_50_ae_5" pool="1">
+	    <routestep step="1" x="380.45807" y="379.87415" z="186.77664"/>
+		<routestep step="2" x="380.45807" y="379.39957" z="186.77664"/>
+		<routestep step="3" x="380.45807" y="380.38828" z="186.77664"/>
+		<routestep step="4" x="380.45807" y="380.19055" z="186.77664"/>
+    </walker_template>
+    <walker_template route_id="iddf2a_adma_common_f_dirpath_adma_com_bansheeblue_50_ae_6" pool="1">
+	    <routestep step="1" x="364.76276" y="469.31866" z="185.68578"/>
+		<routestep step="2" x="364.28818" y="469.31866" z="185.68558"/>
+		<routestep step="3" x="365.2769" y="469.31866" z="185.68602"/>
+		<routestep step="4" x="365.07916" y="469.31866" z="185.68591"/>
+    </walker_template>
+    <walker_template route_id="iddf2a_adma_common_p_mobpath_adma_com_bansheetea_50_ae_8" pool="1">
+	    <routestep step="1" x="457.24924" y="518.6979" z="188.57288"/>
+		<routestep step="2" x="453.09384" y="517.1853" z="188.57288"/>
+		<routestep step="3" x="448.3550" y="515.9671" z="188.57301"/>
+		<routestep step="4" x="444.0967" y="516.06885" z="188.5731"/>
+		<routestep step="5" x="448.31207" y="516.0512" z="188.57301"/>
+		<routestep step="6" x="453.0772" y="517.2833" z="188.57288"/>
+		<routestep step="7" x="457.75192" y="518.9645" z="188.57288"/>
+		<routestep step="8" x="459.5314" y="520.4111" z="188.57288"/>
+		<routestep step="9" x="458.15622" y="519.0221" z="188.57288"/>
+    </walker_template>
+    <walker_template route_id="iddf2a_adma_common_p_mobpath_adma_com_graveknight_50_ae" pool="1">
+	    <routestep step="1" x="402.60413" y="299.76843" z="170.98045"/>
+		<routestep step="2" x="393.9524" y="299.8965" z="170.94608"/>
+		<routestep step="3" x="384.9269" y="299.98898" z="169.3577"/>
+		<routestep step="4" x="378.50287" y="300.05084" z="168.30565"/>
+		<routestep step="5" x="371.36877" y="300.21228" z="167.13734"/>
+		<routestep step="6" x="361.39188" y="300.13394" z="165.52238"/>
+		<routestep step="7" x="371.3559" y="300.15704" z="167.13849"/>
+		<routestep step="8" x="378.5490" y="300.0025" z="168.31322"/>
+		<routestep step="9" x="384.92877" y="299.9182" z="169.358"/>
+		<routestep step="10" x="393.9539" y="299.8627" z="170.94656"/>
+		<routestep step="11" x="403.1794" y="299.75113" z="170.98045"/>
+		<routestep step="12" x="406.20535" y="299.79062" z="170.98045"/>
+		<routestep step="13" x="403.90543" y="299.73788" z="170.98045"/>
+    </walker_template>
+    <walker_template route_id="iddf2a_adma_common_p_mobpath_adma_com_graveknight_50_ae_2" pool="1">
+	    <routestep step="1" x="499.73593" y="299.7073" z="170.98045"/>
+		<routestep step="2" x="508.38766" y="299.8354" z="171.0927"/>
+		<routestep step="3" x="517.41315" y="299.92786" z="169.50339"/>
+		<routestep step="4" x="523.83716" y="299.98972" z="168.44731"/>
+		<routestep step="5" x="530.97125" y="300.15115" z="167.27899"/>
+		<routestep step="6" x="540.9481" y="300.0728" z="165.66408"/>
+		<routestep step="7" x="530.98413" y="300.09592" z="167.27689"/>
+		<routestep step="8" x="523.7910" y="299.94138" z="168.45486"/>
+		<routestep step="9" x="517.41125" y="299.8571" z="169.49965"/>
+		<routestep step="10" x="508.38617" y="299.80157" z="171.09036"/>
+		<routestep step="11" x="499.16064" y="299.69" z="170.98045"/>
+		<routestep step="12" x="496.13470" y="299.7101" z="170.98282"/>
+		<routestep step="13" x="498.43463" y="299.67676" z="170.98045"/>
+    </walker_template>
+    <walker_template route_id="iddf2a_adma_common_p_mobpath_adma_com_graveknight_50_ae_5" pool="1">
+	    <routestep step="1" x="464.71307" y="342.7973" z="173.98683"/>
+		<routestep step="2" x="473.76373" y="342.7973" z="173.98683"/>
+		<routestep step="3" x="485.0344" y="342.7973" z="177.07051"/>
+		<routestep step="4" x="498.02875" y="342.7973" z="181.3164"/>
+		<routestep step="5" x="504.77036" y="342.72995" z="181.77075"/>
+		<routestep step="6" x="497.98798" y="342.9344" z="181.30266"/>
+		<routestep step="7" x="485.0344" y="342.86548" z="177.07103"/>
+		<routestep step="8" x="473.79822" y="342.96802" z="173.98683"/>
+		<routestep step="9" x="463.94235" y="342.96356" z="173.98683"/>
+		<routestep step="10" x="459.85904" y="342.91083" z="173.98683"/>
+		<routestep step="11" x="463.44513" y="342.84827" z="173.98683"/>
+    </walker_template>
+    <walker_template route_id="iddf2a_adma_common_p_mobpath_adma_com_graveknight_50_ae_6" pool="1">
+	    <routestep step="1" x="436.43643" y="343.03348" z="173.98683"/>
+		<routestep step="2" x="423.1271" y="342.82248" z="173.9734"/>
+		<routestep step="3" x="406.16043" y="343.03348" z="174.18188"/>
+		<routestep step="4" x="392.27216" y="343.12918" z="176.91306"/>
+		<routestep step="5" x="376.82758" y="343.1226" z="179.96404"/>
+		<routestep step="6" x="363.57114" y="343.1116" z="182.61366"/>
+		<routestep step="7" x="354.68765" y="342.94144" z="183.4438"/>
+		<routestep step="8" x="363.5329" y="343.0252" z="182.62312"/>
+		<routestep step="9" x="376.7558" y="343.03525" z="179.98022"/>
+		<routestep step="10" x="392.34396" y="343.08734" z="176.89893"/>
+		<routestep step="11" x="406.17978" y="342.91064" z="174.17809"/>
+		<routestep step="12" x="423.18466" y="342.78607" z="173.97359"/>
+		<routestep step="13" x="437.00256" y="342.92178" z="173.98683"/>
+		<routestep step="14" x="443.87857" y="343.1307" z="173.98683"/>
+		<routestep step="15" x="437.46173" y="343.05905" z="173.98683"/>
+    </walker_template>
+    <walker_template route_id="iddf2a_adma_deathknight_mobpath_adma_deathknightnamed_50_ah" pool="1">
+	    <routestep step="1" x="606.5639" y="745.4533" z="197.72092"/>
+		<routestep step="2" x="607.15735" y="749.69995" z="197.72092"/>
+		<routestep step="3" x="608.84393" y="750.9306" z="197.7209"/>
+		<routestep step="4" x="611.90106" y="750.96466" z="197.72089"/>
+		<routestep step="5" x="612.9926" y="752.16614" z="197.72087"/>
+		<routestep step="6" x="612.96216" y="754.85724" z="197.72087"/>
+		<routestep step="7" x="611.1128" y="756.3657" z="197.72089"/>
+		<routestep step="8" x="605.7410" y="756.3854" z="197.72093"/>
+		<routestep step="9" x="600.45154" y="756.3465" z="197.72098"/>
+		<routestep step="10" x="595.7594" y="756.3952" z="197.72101"/>
+		<routestep step="11" x="594.1469" y="754.12775" z="197.72101"/>
+		<routestep step="12" x="593.7399" y="749.1736" z="197.72096"/>
+		<routestep step="13" x="593.3198" y="744.3812" z="197.72093"/>
+		<routestep step="14" x="591.2576" y="742.02185" z="197.72093"/>
+		<routestep step="15" x="586.10504" y="742.0175" z="197.7209"/>
+		<routestep step="16" x="582.48096" y="742.0043" z="197.73482"/>
+		<routestep step="17" x="580.96857" y="740.69135" z="197.72086"/>
+		<routestep step="18" x="581.03644" y="737.3649" z="197.72086"/>
+		<routestep step="19" x="581.03644" y="733.9707" z="197.72086"/>
+		<routestep step="20" x="581.11743" y="730.42346" z="197.74094"/>
+		<routestep step="21" x="582.8354" y="728.815" z="197.72086"/>
+		<routestep step="22" x="585.4308" y="728.82806" z="197.72086"/>
+		<routestep step="23" x="589.5712" y="728.78864" z="197.72086"/>
+		<routestep step="24" x="593.83417" y="728.815" z="197.7386"/>
+		<routestep step="25" x="598.1337" y="728.8127" z="197.72087"/>
+		<routestep step="26" x="602.9674" y="728.82135" z="197.72087"/>
+		<routestep step="27" x="607.4312" y="728.82996" z="197.72087"/>
+		<routestep step="28" x="611.57086" y="728.8299" z="197.72087"/>
+		<routestep step="29" x="612.9454" y="730.2656" z="197.72087"/>
+		<routestep step="30" x="612.9454" y="734.1941" z="197.72087"/>
+		<routestep step="31" x="612.9367" y="737.7567" z="197.72087"/>
+		<routestep step="32" x="611.7197" y="739.2779" z="197.72089"/>
+		<routestep step="33" x="606.8370" y="739.2816" z="197.72092"/>
+		<routestep step="34" x="605.81305" y="740.8959" z="197.72093"/>
+		<routestep step="35" x="606.40094" y="744.7079" z="197.72092"/>
+    </walker_template>
+    <walker_template route_id="iddf2a_adma_jewel_p_mobpath_adma_jewel_lichblue_50_ae" pool="1">
+	    <routestep step="1" x="424.2200" y="551.9900" z="182.48975"/>
+		<routestep step="2" x="424.14096" y="545.0970" z="183.27803"/>
+		<routestep step="3" x="424.14096" y="538.3699" z="184.58057"/>
+		<routestep step="4" x="424.00644" y="531.3737" z="185.45604"/>
+		<routestep step="5" x="424.00644" y="524.64667" z="188.2167"/>
+		<routestep step="6" x="424.00644" y="519.39954" z="189.4237"/>
+		<routestep step="7" x="424.06625" y="524.65393" z="188.21356"/>
+		<routestep step="8" x="424.05783" y="531.38245" z="185.45245"/>
+		<routestep step="9" x="424.1860" y="538.37946" z="184.58057"/>
+		<routestep step="10" x="424.18518" y="545.1067" z="183.2757"/>
+		<routestep step="11" x="424.26962" y="552.4718" z="182.48994"/>
+		<routestep step="12" x="424.26245" y="556.2273" z="182.4897"/>
+		<routestep step="13" x="424.21036" y="552.88617" z="182.49004"/>
+    </walker_template>
+</npc_walker>

@@ -1,0 +1,91 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<zones>
+	<zone mapid="300510000" name="IDF4RE_SOLO_SEEWER_1_300510000" area_type="POLYGON" zone_type="SUB" priority="14" flags="0">
+		<points bottom="80.099998" top="180.100006">
+            <point x="392.000000" y="450.000000"/>
+            <point x="392.000000" y="538.000000"/>
+            <point x="436.000000" y="538.000000"/>
+            <point x="436.000000" y="450.000000"/>
+        </points>
+	</zone>
+	<zone mapid="300510000" name="IDF4RE_SOLO_PASSAGE_4_300510000" area_type="POLYGON" zone_type="SUB" priority="14" flags="0">
+		<points bottom="80.099998" top="280.100006">
+            <point x="263.000000" y="542.000000"/>
+            <point x="265.000000" y="676.000000"/>
+            <point x="362.000000" y="676.000000"/>
+            <point x="363.000000" y="542.000000"/>
+        </points>
+	</zone>
+	<zone mapid="300510000" name="IDF4RE_SOLO_ALL_300510000" area_type="POLYGON" zone_type="SUB" priority="16" flags="0">
+		<points bottom="80.099998" top="380.100006">
+            <point x="112.000000" y="272.000000"/>
+            <point x="112.000000" y="864.000000"/>
+            <point x="816.000000" y="880.000000"/>
+            <point x="816.000000" y="272.000000"/>
+        </points>
+	</zone>
+	<zone mapid="300510000" name="IDF4RE_SOLO_LAB_2_300510000" area_type="POLYGON" zone_type="SUB" priority="14" flags="0">
+		<points bottom="80.099998" top="280.100006">
+            <point x="376.000000" y="536.000000"/>
+            <point x="376.000000" y="692.000000"/>
+            <point x="536.000000" y="692.000000"/>
+            <point x="536.000000" y="536.000000"/>
+        </points>
+	</zone>
+	<zone mapid="300510000" name="IDF4RE_SOLO_SEEWER_2_300510000" area_type="POLYGON" zone_type="SUB" priority="14" flags="0">
+		<points bottom="80.099998" top="180.100006">
+            <point x="432.000000" y="450.000000"/>
+            <point x="432.000000" y="538.000000"/>
+            <point x="476.000000" y="538.000000"/>
+            <point x="476.000000" y="450.000000"/>
+        </points>
+	</zone>
+	<zone mapid="300510000" name="IDF4RE_SOLO_SEEWER_3_300510000" area_type="POLYGON" zone_type="SUB" priority="14" flags="0">
+		<points bottom="80.099998" top="180.100006">
+            <point x="476.000000" y="450.000000"/>
+            <point x="476.000000" y="538.000000"/>
+            <point x="520.000000" y="538.000000"/>
+            <point x="520.000000" y="450.000000"/>
+        </points>
+	</zone>
+	<zone mapid="300510000" name="IDF4RE_SOLO_PASSAGE_2_300510000" area_type="POLYGON" zone_type="SUB" priority="14" flags="0">
+		<points bottom="80.099998" top="280.100006">
+            <point x="517.000000" y="314.000000"/>
+            <point x="517.000000" y="448.000000"/>
+            <point x="613.000000" y="448.000000"/>
+            <point x="613.000000" y="315.000000"/>
+        </points>
+	</zone>
+	<zone mapid="300510000" name="IDF4RE_SOLO_LOBBY_300510000" area_type="POLYGON" zone_type="SUB" priority="14" flags="0">
+		<points bottom="80.099998" top="280.100006">
+            <point x="784.000000" y="376.000000"/>
+            <point x="784.000000" y="396.000000"/>
+            <point x="804.000000" y="396.000000"/>
+            <point x="804.000000" y="376.000000"/>
+        </points>
+	</zone>
+	<zone mapid="300510000" name="IDF4RE_SOLO_PRISON_1_300510000" area_type="POLYGON" zone_type="SUB" priority="14" flags="0">
+		<points bottom="80.099998" top="280.100006">
+            <point x="404.000000" y="324.000000"/>
+            <point x="404.000000" y="444.000000"/>
+            <point x="520.000000" y="444.000000"/>
+            <point x="520.000000" y="324.000000"/>
+        </points>
+	</zone>
+	<zone mapid="300510000" name="IDF4RE_SOLO_BOSS_300510000" area_type="POLYGON" zone_type="SUB" priority="14" flags="0">
+		<points bottom="80.099998" top="180.100006">
+            <point x="144.000000" y="540.000000"/>
+            <point x="144.000000" y="668.000000"/>
+            <point x="265.000000" y="668.000000"/>
+            <point x="265.000000" y="539.000000"/>
+        </points>
+	</zone>
+	<zone mapid="300510000" name="IDF4RE_SOLO_LAB_1_300510000" area_type="POLYGON" zone_type="SUB" priority="14" flags="0">
+		<points bottom="80.099998" top="280.100006">
+            <point x="631.000000" y="307.000000"/>
+            <point x="631.000000" y="464.000000"/>
+            <point x="788.000000" y="464.000000"/>
+            <point x="788.000000" y="308.000000"/>
+        </points>
+	</zone>
+</zones>

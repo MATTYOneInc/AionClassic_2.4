@@ -1,0 +1,32 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+<!--
+    Quest Adventure Book
+	Make By Encom
+ -->
+	<!-- [모험의 서] 수상한 문장 조각 -->
+	<report_to_many id="19508" start_npc_ids="798913" end_npc_ids="203807" start_dialog_id="1011">
+        <npc_infos npc_id="203807" var="0" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- [모험의 서] 수상한 문장 완성하기 -->
+	<item_collecting id="19509" start_npc_ids="203807" end_npc_ids="203807"/>
+	<!-- [모험의 서] 수상한 문장 조사 1 -->
+	<report_to_many id="19510" start_npc_ids="203752" end_npc_ids="203807" start_dialog_id="1011">
+        <npc_infos npc_id="203807" var="0" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- [모험의 서] 수상한 문장 조사 2 -->
+	<report_to_many id="19511" start_npc_ids="203701" end_npc_ids="203701" start_dialog_id="1011">
+        <npc_infos npc_id="203701" var="0" quest_dialog="2375" close_dialog="1009"/>
+    </report_to_many>
+	<!-- [모험의 서] 포피우스의 정보 1 -->
+	<item_collecting id="19512" start_npc_ids="798363" end_npc_ids="798363" action_item_ids="701422"/>
+	<!-- [모험의 서] 포피우스의 정보 2 -->
+	<item_collecting id="19513" start_npc_ids="798363" end_npc_ids="798363" action_item_ids="701423"/>
+	<!-- [모험의 서] 포피우스의 정보 3 -->
+	<item_collecting id="19514" start_npc_ids="798363" end_npc_ids="798363" action_item_ids="701424"/>
+	<!-- [모험의 서] 포피우스의 정보 4 -->
+	<item_collecting id="19515" start_npc_ids="798363" end_npc_ids="798363" action_item_ids="701425"/>
+	
+	<!-- [모험의 서] 수상한 문장 완성하기 -->
+	<item_collecting id="29509" start_npc_ids="204116" end_npc_ids="204116"/>
+</quest_scripts>

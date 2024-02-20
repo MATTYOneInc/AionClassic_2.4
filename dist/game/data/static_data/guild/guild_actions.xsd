@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:include schemaLocation="../global_types.xsd"/>
+    <xs:include schemaLocation="../import.xsd"/>
+    <xs:element name="guild_actions">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="guild_action" type="GuildActionTemplate" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:complexType name="GuildActionTemplate">
+        <xs:sequence>
+            <xs:element name="required" type="GuildActionRequired" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:int" use="required"/>
+        <xs:attribute name="type" type="GuildActionType" use="required"/>
+        <xs:attribute name="count" type="xs:int" use="required"/>
+    </xs:complexType>
+    <xs:complexType name="GuildActionRequired">
+        <xs:attribute name="type" type="GuildRequiredType" use="optional"/>
+        <xs:attribute name="value" type="IntListType" use="optional"/>
+    </xs:complexType>
+    <xs:simpleType name="GuildRequiredType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="SPECIFIC"/>
+            <xs:enumeration value="ALL"/>
+        </xs:restriction>
+    </xs:simpleType>
+    <xs:simpleType name="GuildActionType">
+        <xs:restriction base="xs:string">
+            <xs:enumeration value="QUEST"/>
+            <xs:enumeration value="HUNT"/>
+            <xs:enumeration value="BUY_NPC"/>
+            <xs:enumeration value="BROKER"/>
+            <xs:enumeration value="ITEM_PLAY"/>
+            <xs:enumeration value="GATHERING"/>
+            <xs:enumeration value="PVP"/>
+            <xs:enumeration value="ENTER_WORLD"/>
+            <xs:enumeration value="RIFT"/>
+            <xs:enumeration value="JOIN_LEGION"/>
+            <xs:enumeration value="SUCCESS_ENCHANT"/>
+            <xs:enumeration value="CHANGE_AP"/>
+            <xs:enumeration value="BUY_AP"/>
+            <xs:enumeration value="COLLECT_ITEM"/>
+            <xs:enumeration value="MORPH"/>
+        </xs:restriction>
+    </xs:simpleType>
+</xs:schema>

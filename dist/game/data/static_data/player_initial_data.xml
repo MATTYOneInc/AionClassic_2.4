@@ -1,0 +1,85 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Player Initial Data
+	Develop: ADev.Team
+ -->
+<player_initial_data xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="player_initial_data.xsd">
+	
+	<!-- Ishalgen - Poeta Spawn Location -->
+	<asmodian_spawn_location map_id="220010000" x="582.3742" y="2790.7642" z="299.3282" heading="66"/>
+	<elyos_spawn_location map_id="210010000" x="1207.7640" y="1044.5725" z="140.14894" heading="59"/>
+	
+	<!-- Telos Spawn Location -->
+	<asmodian_telos_location map_id="220080000" x="1400.3100" y="220.5531" z="228.3999" heading="116"/>
+	<elyos_telos_location map_id="210070000" x="1400.3100" y="220.5531" z="228.3999" heading="116"/>
+	
+	<player_data class="WARRIOR">
+		<items>
+			<item id="100000093" count="1" race="ASMODIANS"/> <!-- Asmodian Wish-Fulfilling Sword -->
+			<item id="110500017" count="1" race="ASMODIANS"/> <!-- Hauberk For Practice -->
+			<item id="113500015" count="1" race="ASMODIANS"/> <!-- Chausses For Practice -->
+			<item id="160000002" count="12" race="ASMODIANS"/> <!-- Raider's Fruit Juice -->
+			<item id="100000094" count="1" race="ELYOS"/> <!-- Sword For Training -->
+			<item id="110500003" count="1" race="ELYOS"/> <!-- Hauberk For Training -->
+			<item id="113500001" count="1" race="ELYOS"/> <!-- Chausses For Training -->
+			<item id="160000001" count="12" race="ELYOS"/> <!-- Mercenary's Fruit Juice -->
+			<item id="169300002" count="20" race="PC_ALL"/> <!-- Bandage -->
+			<item id="188052029" count="1" race="PC_ALL"/> <!-- [Event] Level 1 Empyrean Lord's Upgrade Support Box -->
+		</items>
+	</player_data>
+	<player_data class="MAGE">
+		<items>
+			<item id="100600046" count="1" race="ASMODIANS"/> <!-- Spellbook For Practice -->
+			<item id="110100024" count="1" race="ASMODIANS"/> <!-- Tunic For Practice -->
+			<item id="113100019" count="1" race="ASMODIANS"/> <!-- Leggings For Practice -->
+			<item id="160000002" count="12" race="ASMODIANS"/> <!-- Raider's Fruit Juice -->
+			<item id="100600034" count="1" race="ELYOS"/> <!-- Spellbook For Training -->
+			<item id="110100009" count="1" race="ELYOS"/> <!-- Tunic For Training -->
+			<item id="113100005" count="1" race="ELYOS"/> <!-- Leggings For Training -->
+			<item id="160000001" count="12" race="ELYOS"/> <!-- Mercenary's Fruit Juice -->
+			<item id="169300002" count="20" race="PC_ALL"/> <!-- Bandage -->
+			<item id="188052029" count="1" race="PC_ALL"/> <!-- [Event] Level 1 Empyrean Lord's Upgrade Support Box -->
+		</items>
+	</player_data>
+	<player_data class="PRIEST">
+		<items>
+			<item id="100100023" count="1" race="ASMODIANS"/> <!-- Mace For Practice -->
+			<item id="110300293" count="1" race="ASMODIANS"/> <!-- Leather Armor For Practice -->
+			<item id="113300279" count="1" race="ASMODIANS"/> <!-- Leather Leg Armor For Practice -->
+			<item id="160000002" count="12" race="ASMODIANS"/> <!-- Raider's Fruit Juice -->
+			<item id="100100011" count="1" race="ELYOS"/> <!-- Mace For Training -->
+			<item id="110300292" count="1" race="ELYOS"/> <!-- Leather Armor For Training -->
+			<item id="113300278" count="1" race="ELYOS"/> <!-- Leather Leg Armor For Training -->
+			<item id="160000001" count="12" race="ELYOS"/> <!-- Mercenary's Fruit Juice -->
+			<item id="169300002" count="20" race="PC_ALL"/> <!-- Bandage -->
+			<item id="188052029" count="1" race="PC_ALL"/> <!-- [Event] Level 1 Empyrean Lord's Upgrade Support Box -->
+		</items>
+	</player_data>
+	<player_data class="SCOUT">
+		<items>
+			<item id="100200124" count="1" race="ASMODIANS"/> <!-- Dagger For Practice -->
+			<item id="110300029" count="1" race="ASMODIANS"/> <!-- Practice Jerkin -->
+			<item id="113300019" count="1" race="ASMODIANS"/> <!-- Breeches For Practice -->
+			<item id="160000002" count="12" race="ASMODIANS"/> <!-- Raider's Fruit Juice -->
+			<item id="100200112" count="1" race="ELYOS"/> <!-- Dagger For Training -->
+			<item id="110300015" count="1" race="ELYOS"/> <!-- Training Jerkin -->
+			<item id="113300005" count="1" race="ELYOS"/> <!-- Breeches For Training -->
+			<item id="160000001" count="12" race="ELYOS"/> <!-- Mercenary's Fruit Juice -->
+			<item id="169300002" count="20" race="PC_ALL"/> <!-- Bandage -->
+			<item id="188052029" count="1" race="PC_ALL"/> <!-- [Event] Level 1 Empyrean Lord's Upgrade Support Box -->
+		</items>
+	</player_data>
+	<player_data class="MONK">
+		<items>
+		    <item id="102400013" count="1" race="PC_ALL"/>
+			<item id="110301338" count="1" race="PC_ALL"/>
+			<item id="111301283" count="1" race="PC_ALL"/>
+			<item id="113301306" count="1" race="PC_ALL"/>
+			<item id="114301341" count="1" race="PC_ALL"/>
+			<item id="160000002" count="12" race="ASMODIANS"/> <!-- Raider's Fruit Juice -->
+			<item id="160000001" count="12" race="ELYOS"/> <!-- Mercenary's Fruit Juice -->
+			<item id="169300002" count="20" race="PC_ALL"/> <!-- Bandage -->
+			<item id="188052029" count="1" race="PC_ALL"/> <!-- [Event] Level 1 Empyrean Lord's Upgrade Support Box -->
+		</items>
+	</player_data>
+</player_initial_data>

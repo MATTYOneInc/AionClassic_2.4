@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Haramel
+	Re-newed By Rinzler
+ -->
+<spawns>
+	<spawn_map map_id="300200000">
+		<!-- saam_1_n -->
+		<spawn npc_id="210595">
+            <spot x="381.7742" y="324.93243" z="85.96611" h="14" random_walk="1"/>
+            <spot x="350.03323" y="328.037" z="85.75094" h="113" random_walk="1"/>
+            <spot x="358.0244" y="357.84494" z="88.6005" h="84" random_walk="1"/>
+        </spawn>
+        <!-- idnovice_02_dbrowniewwa_named_18_an -->
+        <spawn npc_id="216897">
+            <spot x="181.08188" y="81.2474" z="145.42949" h="60"/>
+        </spawn>
+        <!-- idnovice_02_dbrowniewwa_smelt_18_an -->
+        <spawn npc_id="216898">
+            <spot x="183.6846" y="96.13226" z="152.09451" h="0"/>
+            <spot x="175.69421" y="102.101746" z="144.3119" h="101"/>
+            <spot x="175.31285" y="63.75931" z="144.30716" h="102"/>
+            <spot x="183.75502" y="58.309963" z="150.98775" h="6"/>
+        </spawn>
+        <!-- idnovice_02_dbrowniemsc_18_an -->
+        <spawn npc_id="216899">
+            <spot x="129.42764" y="96.98075" z="144.31146" h="0"/>
+			<spot x="177.6100" y="146.1900" z="141.7017" h="0" walker_id="npcpathidnovice_mob10"/>
+        </spawn>
+        <!-- idnovice_02_dbrowniemwa_18_an -->
+        <spawn npc_id="216901">
+            <spot x="141.7618" y="104.1160" z="144.3863" h="0" walker_id="npcpathidnovice_mob_16"/>
+            <spot x="150.2351" y="58.03674" z="143.7961" h="0" walker_id="npcpathidnovice_mob_54"/>
+            <spot x="221.2900" y="148.1200" z="137.0531" h="0" walker_id="npcpathidnovice_mob_38"/>
+        </spawn>
+        <!-- idnovice_02_dbrowniewwa_18_an -->
+        <spawn npc_id="216902">
+            <spot x="207.87282" y="220.53871" z="87.24301" h="119"/>
+            <spot x="151.61687" y="144.99313" z="144.24586" h="113"/>
+            <spot x="242.83905" y="206.24286" z="87.70791" h="0"/>
+            <spot x="128.92412" y="71.71692" z="144.30843" h="0"/>
+			<spot x="147.3600" y="83.8800" z="143.7961" h="0" walker_id="npcpathidnovice_mob_50"/>
+        </spawn>
+        <!-- idnovice_02_dbrowniemwo_18_an -->
+        <spawn npc_id="216903">
+            <spot x="88.892006" y="78.20343" z="142.72159" h="109"/>
+            <spot x="73.86435" y="102.09793" z="138.3913" h="37"/>
+            <spot x="100.3779" y="102.12033" z="139.2991" h="119"/>
+            <spot x="86.10448" y="124.8051" z="140.00583" h="26"/>
+        </spawn>
+        <!-- idnovice_02_dbrowniewwo_18_an -->
+        <spawn npc_id="216904">
+            <spot x="70.83059" y="100.149956" z="138.13925" h="40"/>
+            <spot x="97.8521" y="109.43364" z="139.05243" h="5"/>
+            <spot x="81.24371" y="124.55343" z="139.8126" h="21"/>
+        </spawn>
+        <!-- idnovice_04_dbrowniewwa_rope_18_an -->
+        <spawn npc_id="216905">
+            <spot x="225.6168" y="217.63687" z="139.81961" h="59"/>
+        </spawn>
+        <!-- idnovice_04_ratmanmwa_rope_18_an -->
+        <spawn npc_id="216906">
+            <spot x="225.2576" y="209.34435" z="139.8196" h="0"/>
+        </spawn>
+        <!-- idnovice_05_ratmanmwa_named_19_an -->
+        <spawn npc_id="216907">
+            <spot x="282.82822" y="275.66306" z="90.101746" h="1"/>
+        </spawn>
+        <!-- idnovice_05_ratmanmwa_study_19_an -->
+        <spawn npc_id="216908">
+            <spot x="289.90906" y="289.90854" z="90.0806" h="46"/>
+            <spot x="298.0214" y="298.8788" z="90.0806" h="46"/>
+        </spawn>
+        <!-- idnovice_05_ratmanmwa_19_an -->
+        <spawn npc_id="216909">
+            <spot x="208.08905" y="205.14543" z="87.24449" h="0"/>
+            <spot x="308.86438" y="258.73514" z="89.02671" h="105"/>
+            <spot x="314.542" y="300.71848" z="89.02672" h="97"/>
+            <spot x="243.02483" y="221.7266" z="87.70751" h="0"/>
+            <spot x="293.41843" y="258.4816" z="90.08059" h="0"/>
+            <spot x="333.31122" y="287.57773" z="90.0806" h="4"/>
+			<spot x="325.8168" y="254.0531" z="90.0805" h="0" walker_id="npcpathidnovice_mob_52"/>
+        </spawn>
+        <!-- idnovice_05_ratmanmsc_19_an -->
+        <spawn npc_id="216910">
+            <spot x="308.71027" y="283.58478" z="89.02671" h="0"/>
+            <spot x="332.9894" y="271.75388" z="90.0806" h="10"/>
+        </spawn>
+        <!-- idnovice_05_ratmanmwo_19_an -->
+        <spawn npc_id="216911">
+            <spot x="346.6179" y="317.16855" z="88.05621" h="0"/>
+            <spot x="343.93845" y="337.59702" z="86.9307" h="0"/>
+            <spot x="379.78534" y="338.84525" z="87.08514" h="0"/>
+            <spot x="379.49707" y="293.1827" z="88.695724" h="116"/>
+            <spot x="382.28607" y="315.46478" z="86.96209" h="11"/>
+            <spot x="333.14682" y="329.8993" z="88.24423" h="8"/>
+            <spot x="333.12973" y="342.15607" z="87.05439" h="7"/>
+            <spot x="351.6085" y="367.81805" z="90.428314" h="82"/>
+        </spawn>
+        <!-- idnovice_05_ratmangatherermwa_19_an -->
+        <spawn npc_id="216912">
+            <spot x="357.6600" y="341.5600" z="86.1950" h="0" walker_id="npcpathidnovice_mob_8"/>
+            <spot x="311.5487" y="401.4110" z="86.4854" h="0" walker_id="npcpathidnovice_mob_9"/>
+            <spot x="303.6139" y="214.8654" z="88.1452" h="0" walker_id="npcpathidnovice_mob_6"/>
+        </spawn>
+        <!-- idnovice_07_tkrallwa_prion_18_an -->
+        <spawn npc_id="216913">
+            <spot x="261.51114" y="305.29807" z="142.7657" h="55"/>
+            <spot x="262.21713" y="310.78552" z="142.7657" h="70"/>
+            <spot x="186.92957" y="332.927" z="142.7657" h="0"/>
+        </spawn>
+        <!-- idnovice_07_lycanwa_prion_18_an -->
+        <spawn npc_id="216914">
+            <spot x="262.1859" y="332.45602" z="142.7657" h="60"/>
+            <spot x="184.04929" y="303.63535" z="142.7657" h="16"/>
+            <spot x="186.4099" y="308.3234" z="142.7657" h="115"/>
+        </spawn>
+        <!-- idnovice_07_dbrowniewwa_named_20_an -->
+        <spawn npc_id="216915">
+            <spot x="223.4435" y="298.9173" z="141.8921" h="0" walker_id="npcpathidnovice_mob_49"/>
+        </spawn>
+        <!-- idnovice_07_dbrowniemsc_keeper_20_an -->
+        <spawn npc_id="216916">
+            <spot x="200.2400" y="307.3200" z="142.7657" h="0" walker_id="npcpathidnovice_mob_42"/>
+        </spawn>
+        <!-- idnovice_07_dbrowniewwa_keeper_20_an -->
+        <spawn npc_id="216919">
+            <spot x="224.16469" y="348.70993" z="141.68416" h="30"/>
+			<spot x="246.7727" y="306.4537" z="142.7657" h="0" walker_id="npcpathidnovice_mob_19"/>
+        </spawn>
+        <!-- idnovice_07_dbrowniemwa_pray_20_an -->
+        <spawn npc_id="216920">
+            <spot x="220.72252" y="314.26993" z="141.89227" h="90"/>
+            <spot x="233.67659" y="314.10858" z="141.89227" h="89"/>
+            <spot x="217.11398" y="318.35522" z="141.89233" h="90"/>
+            <spot x="220.75809" y="322.70544" z="141.89238" h="90"/>
+        </spawn>
+        <!-- idnovice_07_dbrowniewwa_pray_20_an 216921 -->
+        <spawn npc_id="216921">
+            <spot x="227.22833" y="314.27646" z="141.89229" h="90"/>
+            <spot x="223.91084" y="318.3691" z="141.89233" h="90"/>
+            <spot x="215.03763" y="322.7283" z="141.89238" h="89"/>
+            <spot x="233.69046" y="322.7773" z="141.89238" h="90"/>
+        </spawn>
+        <!-- idnovice_07_darkdevakn_named_20_an -->
+        <spawn npc_id="216922">
+            <spot x="224.42564" y="274.15378" z="144.77586" h="30"/>
+        </spawn>
+        <!-- idnovice_chest_common_20_n -->
+        <spawn npc_id="216925">
+            <spot x="91.8559" y="97.71807" z="139.23082" h="60"/>
+            <spot x="310.64093" y="302.3114" z="89.02672" h="119"/>
+            <spot x="217.72717" y="378.40607" z="85.0" h="21"/>
+        </spawn>
+        <!-- idnovice_04_ratmanmwa_key_18_an -->
+        <spawn npc_id="217025">
+            <spot x="218.00319" y="213.53253" z="89.27873" h="0"/>
+        </spawn>
+        <!-- idnovice_07_ratmanmsc_pray_1_an -->
+        <spawn npc_id="217067">
+            <spot x="215.08446" y="314.028" z="141.89227" h="90"/>
+            <spot x="231.15723" y="318.41016" z="141.89233" h="90"/>
+            <spot x="227.29674" y="322.735" z="141.89238" h="90"/>
+        </spawn>
+        <!-- idnovice_04_ratmanmwa_num_18_an -->
+        <spawn npc_id="217108">
+            <spot x="233.3994" y="213.4360" z="89.2787" h="0"/>
+			<spot x="196.3900" y="202.0900" z="131.670" h="0" walker_id="idnovice_npcpathidnovice_art_6.4"/>
+			<spot x="229.4098" y="191.0289" z="87.6848" h="0" walker_id="idnovice_npcpathmain1"/>
+			<spot x="200.1900" y="195.5900" z="94.3635" h="0" walker_id="idnovice_npcpathidnovice_art_6.2"/>
+			<spot x="222.3976" y="235.5204" z="87.6974" h="0" walker_id="npcpathidnovice_mob_51"/>
+        </spawn>
+		
+        <!-- idnovice_fobj_odbox -->
+        <spawn npc_id="700833">
+            <spot x="121.646584" y="100.53481" z="146.98396" entity_id="94"/>
+            <spot x="122.983261" y="111.51347" z="149.02011" entity_id="118"/>
+            <spot x="135.406921" y="60.923302" z="146.06585" entity_id="131"/>
+            <spot x="132.386337" y="112.43794" z="146.37289" entity_id="48"/>
+            <spot x="122.495903" y="60.791485" z="146.29620" entity_id="123"/>
+        </spawn>
+        <!-- idnovice_fobj_odgrass -->
+        <spawn npc_id="700834">
+            <spot x="373.480011" y="330.54998" z="86.000000" entity_id="54"/>
+            <spot x="339.156982" y="323.21853" z="88.371284" entity_id="115"/>
+            <spot x="350.922211" y="366.01330" z="90.955711" entity_id="50"/>
+            <spot x="333.817261" y="345.08410" z="87.599953" entity_id="17"/>
+            <spot x="365.372101" y="357.36517" z="90.670715" entity_id="53"/>
+        </spawn>
+        <!-- idnovice_woodenbox -->
+        <spawn npc_id="700853">
+            <spot x="231.031021" y="223.091141" z="140.000000" h="0"/>
+        </spawn>
+        <!-- idnovice_jail_door -->
+        <spawn npc_id="700855">
+            <spot x="189.402481" y="332.43420" z="142.90248" entity_id="119"/>
+            <spot x="259.072540" y="307.28381" z="143.02993" entity_id="52"/>
+            <spot x="189.482254" y="307.18051" z="142.90190" entity_id="114"/>
+            <spot x="258.964600" y="332.23336" z="143.05413" entity_id="55"/>
+        </spawn>
+        <!-- idnovice_ore_cart -->
+        <spawn npc_id="700950">
+            <spot x="85.3617940" y="83.481209" z="142.77679" entity_id="31"/>
+            <spot x="142.374573" y="80.152710" z="144.97583" entity_id="116"/>
+            <spot x="151.935303" y="88.885078" z="144.97583" entity_id="111"/>
+        </spawn>
+        <!-- idnovice_rough_odum -->
+        <spawn npc_id="700951">
+            <spot x="95.8721010" y="76.120117" z="143.60408" entity_id="171"/>
+            <spot x="87.2191620" y="99.918953" z="139.26416" entity_id="137"/>
+            <spot x="90.2554630" y="112.17431" z="139.69172" entity_id="177"/>
+            <spot x="116.283270" y="83.009232" z="144.78373" entity_id="246"/>
+            <spot x="82.9600680" y="88.399391" z="142.00935" entity_id="245"/>
+        </spawn>
+        <!-- idnovice_burning_odella -->
+        <spawn npc_id="700953">
+            <spot x="294.046600" y="250.02629" z="90.379639" entity_id="285"/>
+            <spot x="314.067078" y="263.25994" z="89.547905" entity_id="282"/>
+            <spot x="314.040131" y="288.41784" z="89.375618" entity_id="283"/>
+        </spawn>
+        <!-- idnovice_driedsam -->
+        <spawn npc_id="700954">
+            <spot x="321.573792" y="250.83633" z="91.339035" entity_id="100"/>
+            <spot x="322.395203" y="255.48078" z="90.234756" entity_id="101"/>
+            <spot x="321.272552" y="255.16778" z="91.343353" entity_id="102"/>
+            <spot x="327.224640" y="243.46241" z="91.840889" entity_id="99"/>
+            <spot x="324.927643" y="261.07009" z="90.912292" entity_id="103"/>
+        </spawn>
+        <!-- idnovice_entrance_out -->
+        <spawn npc_id="730320">
+            <spot x="185.738083" y="20.143583" z="144.72607" entity_id="117"/>
+        </spawn>
+        <!-- idnovice_elevator_lever_up -->
+        <spawn npc_id="730321">
+            <spot x="220.868271" y="213.26289" z="89.582619" entity_id="79"/>
+        </spawn>
+        <!-- idnovice_jar -->
+        <spawn npc_id="730359">
+            <spot x="293.999329" y="295.61148" z="91.159958" entity_id="169"/>
+        </spawn>
+        <!-- shugo_idnovice_1 -->
+        <spawn npc_id="799522">
+            <spot x="141.98042" y="21.479553" z="144.2455" h="0"/>
+        </spawn>
+        <!-- shugo_idnovice_2 -->
+        <spawn npc_id="799523">
+            <spot x="228.48305" y="160.90904" z="137.05888" h="60"/>
+        </spawn>
+        <!-- shugo_idnovice_3 -->
+        <spawn npc_id="799524">
+            <spot x="289.84256" y="422.4344" z="89.54683" h="89"/>
+        </spawn>
+	</spawn_map>
+</spawns>

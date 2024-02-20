@@ -1,0 +1,94 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Convent Of Marchutan
+	Re-newed By Rinzler
+  -->
+<spawns>
+	<spawn_map map_id="120020000">
+		<!-- Mailbox -->
+	    <spawn npc_id="700079" respawn_time="60">
+            <spot x="1519.4200" y="1412.4000" z="271.3900" h="117"/>
+        </spawn>
+		<!-- Convent Of Marchutan To Pandaemonium -->
+		<spawn npc_id="730269" respawn_time="60">
+			<spot x="1558.9000" y="1429.5000" z="265.6700" entity_id="12"/>
+		</spawn>
+		
+		<!-- Angulof -->
+		<spawn npc_id="798700" respawn_time="60">
+			<spot x="1516.7" y="1402.1" z="271.824" h="10"/>
+		</spawn>
+		<!-- Garvan -->
+		<spawn npc_id="798701" respawn_time="60">
+			<spot x="1540.13" y="1395.22" z="266.014" h="36"/>
+		</spawn>
+		<!-- Hongerverth -->
+		<spawn npc_id="798702" respawn_time="60">
+			<spot x="1525.96" y="1421.96" z="266.042" h="100"/>
+		</spawn>
+		<!-- Heszti -->
+		<spawn npc_id="798703" respawn_time="60">
+			<spot x="1529.99" y="1397.27" z="269.616" h="20"/>
+		</spawn>
+		<!-- Margel -->
+		<spawn npc_id="798704" respawn_time="60">
+			<spot x="1521.89" y="1412.24" z="269.616"/>
+		</spawn>
+		<!-- Hodorski -->
+		<spawn npc_id="798705" respawn_time="60">
+			<spot x="1550.62" y="1362.8" z="271.424" h="40"/>
+		</spawn>
+		<!-- Deltandra -->
+		<spawn npc_id="798706" respawn_time="60">
+			<spot x="1552.2" y="1363.77" z="271.424" h="40"/>
+		</spawn>
+		<!-- Psyros -->
+		<spawn npc_id="798707" respawn_time="60">
+			<spot x="1545.67" y="1367.54" z="271.406" h="10"/>
+		</spawn>
+		<!-- Eldsul -->
+		<spawn npc_id="798708" respawn_time="60">
+			<spot x="1544.53" y="1369.89" z="271.406" h="10"/>
+		</spawn>
+		<!-- Rodrigo -->
+		<spawn npc_id="798709" respawn_time="60">
+			<spot x="1506.97" y="1449.37" z="271.424" h="100"/>
+		</spawn>
+		<!-- Imever -->
+		<spawn npc_id="798710" respawn_time="60">
+			<spot x="1514.65" y="1453.42" z="271.424" h="100"/>
+		</spawn>
+		<!-- Vilnus -->
+		<spawn npc_id="798711" respawn_time="60">
+			<spot x="1561.52" y="1426.49" z="265.685" h="100"/>
+		</spawn>
+		<!-- Bredren -->
+		<spawn npc_id="798712" respawn_time="60">
+			<spot x="1564.04" y="1421.61" z="265.685" h="40"/>
+		</spawn>
+		<!-- Fjoersvith -->
+		<spawn npc_id="798713" respawn_time="60">
+			<spot x="1542.78" y="1413.52" z="266.034" h="10"/>
+		</spawn>
+		<!-- Agehia -->
+		<spawn npc_id="798800" respawn_time="60">
+			<spot x="1516.26" y="1399.61" z="271.887" h="10"/>
+		</spawn>
+		<!-- Nunor -->
+		<spawn npc_id="798801" respawn_time="60">
+			<spot x="1505.37" y="1448.54" z="271.424" h="100"/>
+		</spawn>
+		<!-- Leokev -->
+		<spawn npc_id="798802" respawn_time="60">
+			<spot x="1560.4" y="1368.23" z="271.424" h="40"/>
+		</spawn>
+		<!-- Louizze -->
+		<spawn npc_id="798803" respawn_time="60">
+			<spot x="1558.86" y="1367.43" z="271.424" h="40"/>
+		</spawn>
+		<!-- Kijan -->
+		<spawn npc_id="798804" respawn_time="60">
+			<spot x="1518.8" y="1397.08" z="271.724" h="10"/>
+		</spawn>
+	</spawn_map>
+</spawns>

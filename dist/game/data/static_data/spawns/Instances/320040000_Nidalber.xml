@@ -1,0 +1,18 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Nidalber
+	Re-newed By Rinzler
+ -->
+<spawns>
+    <spawn_map map_id="320040000">
+        <!-- kargate_q2041 -->
+        <spawn npc_id="204432">
+            <spot x="272.66403" y="175.63103" z="204.34718" h="36"/>
+        </spawn>
+        
+        <!-- dragonportal_idabgated2_exit -->
+        <spawn npc_id="700185">
+            <spot x="275.682983" y="162.617218" z="205.515976" entity_id="17"/>
+        </spawn>
+	</spawn_map>
+</spawns>

@@ -1,0 +1,328 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Indratu Fortress
+	Re-newed By Rinzler
+ -->
+<spawns>
+    <spawn_map map_id="310090000">
+        <!-- erebos -->
+        <spawn npc_id="204651">
+            <spot x="571.47500" y="354.72200" z="1013.19000" h="79"/>
+        </spawn>
+		
+        <!-- idlf3ci_feb_lizardfi_46_ae -->
+        <spawn npc_id="219121">
+            <spot x="543.31464" y="394.12357" z="1006.83826" h="95"/>
+            <spot x="552.0342" y="394.90768" z="1007.4441" h="95"/>
+            <spot x="647.71045" y="635.2089" z="1018.09766" h="69"/>
+            <spot x="648.64716" y="632.3788" z="1017.65356" h="70"/>
+            <spot x="483.1498" y="642.665" z="1007.7624" h="61"/>
+            <spot x="483.05392" y="639.5255" z="1007.8696" h="61"/>
+            <spot x="416.79465" y="617.62415" z="995.78644" h="37"/>
+            <spot x="413.95996" y="616.44257" z="995.3638" h="37"/>
+            <spot x="339.64505" y="471.5093" z="987.28406" h="98"/>
+            <spot x="342.7087" y="472.11264" z="987.4767" h="98"/>
+            <spot x="558.36884" y="423.91122" z="1006.71796" h="101"/>
+			<spot x="575.47000" y="440.71000" z="1008.19257" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_mob_3.2"/>
+        </spawn>
+        <!-- idlf3ci_feb_lizardfi_47_ae -->
+        <spawn npc_id="214106">
+            <spot x="672.55286" y="505.6895" z="1013.985" h="64"/>
+            <spot x="318.37387" y="504.40964" z="983.7499" h="58"/>
+            <spot x="529.8461" y="606.03503" z="1012.1867" h="56"/>
+            <spot x="406.23468" y="507.25024" z="995.7446" h="64"/>
+        </spawn>
+        <!-- idlf3ci_aea_lizardas_46_ae -->
+        <spawn npc_id="214107">
+            <spot x="602.3302" y="387.43622" z="1012.46045" h="59"/>
+            <spot x="601.98224" y="379.94687" z="1013.8505" h="59"/>
+            <spot x="357.227" y="549.1853" z="987.50006" h="87"/>
+            <spot x="354.1249" y="548.7694" z="986.2899" h="87"/>
+            <spot x="505.84604" y="391.37396" z="1008.5044" h="4"/>
+            <spot x="506.8849" y="385.53387" z="1008.0509" h="4"/>
+        </spawn>
+        <!-- idlf3ci_aea_lizardas_47_ae -->
+        <spawn npc_id="214108">
+            <spot x="607.9347" y="670.6779" z="1019.3267" h="66"/>
+            <spot x="609.2799" y="668.0361" z="1019.1822" h="66"/>
+            <spot x="573.01843" y="694.8285" z="1018.66895" h="77"/>
+            <spot x="570.28546" y="697.5653" z="1018.1416" h="77"/>
+            <spot x="558.44104" y="723.96063" z="1019.7124" h="83"/>
+            <spot x="552.91254" y="725.69934" z="1019.2422" h="83"/>
+			<spot x="518.32740" y="691.81600" z="1011.01380" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_1_mob_18"/>
+        </spawn>
+        <!-- idlf3ci_lizardbreeder_46_ae -->
+        <spawn npc_id="214109">
+            <spot x="633.34186" y="368.64813" z="1023.14154" h="32"/>
+            <spot x="612.7804" y="531.65717" z="1012.4067" h="12"/>
+			<spot x="270.78998" y="507.50950" z="983.903500" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_1_mob_3"/>
+			<spot x="644.70056" y="537.48380" z="1015.80740" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_1_mob_12"/>
+			<spot x="665.83264" y="584.98590" z="1015.78735" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_1_mob_4"/>
+			<spot x="603.04846" y="412.40390" z="1009.56490" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_1_mob_2"/>
+			<spot x="427.95636" y="425.38260" z="1006.38824" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_1_mob_7"/>
+			<spot x="330.95870" y="455.71747" z="987.067260" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_1_mob_6"/>
+			<spot x="640.62415" y="333.30460" z="1029.08730" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_1_mob_8"/>
+			<spot x="295.79230" y="556.12164" z="980.574200" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_1_mob_13"/>
+			<spot x="565.31305" y="659.75650" z="1015.43030" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_1_mob_10"/>
+        </spawn>
+        <!-- idlf3ci_lizardpet_drake_46_ae -->
+        <spawn npc_id="214111">
+            <spot x="245.28885" y="509.0736" z="985.10596" h="0" random_walk="3"/>
+            <spot x="578.86536" y="398.2357" z="1009.29297" h="0" random_walk="3"/>
+            <spot x="660.00854" y="334.46826" z="1032.1517" h="0" random_walk="3"/>
+            <spot x="347.72556" y="590.2192" z="985.2075" h="0" random_walk="3"/>
+            <spot x="533.3053" y="716.2026" z="1014.3743" h="0" random_walk="3"/>
+            <spot x="512.7097" y="719.1689" z="1009.7886" h="0" random_walk="3"/>
+            <spot x="490.16254" y="388.0654" z="1009.53656" h="0" random_walk="3"/>
+            <spot x="617.7688" y="386.5016" z="1015.848" h="0" random_walk="3"/>
+            <spot x="640.71814" y="526.9743" z="1016.2929" h="0" random_walk="3"/>
+            <spot x="294.17142" y="604.4984" z="978.00726" h="0" random_walk="3"/>
+            <spot x="322.87595" y="537.1567" z="983.04553" h="0" random_walk="3"/>
+            <spot x="423.24603" y="427.69717" z="1005.49054" h="0" random_walk="3"/>
+            <spot x="464.20206" y="629.22833" z="1005.4389" h="0" random_walk="3"/>
+            <spot x="373.28204" y="589.9223" z="991.8874" h="0" random_walk="3"/>
+            <spot x="631.4173" y="589.78345" z="1013.55005" h="0" random_walk="3"/>
+            <spot x="312.84467" y="455.6278" z="986.9253" h="0" random_walk="3"/>
+            <spot x="636.4249" y="423.32956" z="1014.7009" h="0" random_walk="3"/>
+            <spot x="648.59314" y="406.72412" z="1016.54047" h="0" random_walk="3"/>
+            <spot x="712.0314" y="358.6705" z="1036.2516" h="0" random_walk="3"/>
+            <spot x="641.4076" y="565.0099" z="1015.0281" h="0" random_walk="3"/>
+            <spot x="432.3715" y="395.8835" z="1011.5861" h="0" random_walk="3"/>
+            <spot x="596.53235" y="693.5144" z="1020.01624" h="0" random_walk="3"/>
+            <spot x="313.5781" y="573.6718" z="980.5894" h="0" random_walk="3"/>
+            <spot x="444.5775" y="651.89984" z="1001.9382" h="0" random_walk="3"/>
+            <spot x="583.3761" y="668.5006" z="1018.25446" h="0" random_walk="3"/>
+            <spot x="302.49106" y="525.25903" z="982.8995" h="0" random_walk="3"/>
+            <spot x="467.13193" y="395.22278" z="1011.5582" h="0" random_walk="3"/>
+            <spot x="606.53503" y="621.9169" z="1013.77185" h="0" random_walk="3"/>
+            <spot x="277.04163" y="517.5281" z="983.81995" h="0" random_walk="3"/>
+            <spot x="328.364" y="442.7894" z="987.90717" h="0" random_walk="3"/>
+            <spot x="643.636" y="393.64572" z="1018.3984" h="0" random_walk="3"/>
+            <spot x="265.91318" y="490.47794" z="984.9074" h="0" random_walk="3"/>
+            <spot x="287.5518" y="495.38043" z="983.7474" h="0" random_walk="3"/>
+            <spot x="467.47223" y="694.1103" z="1005.66833" h="0" random_walk="3"/>
+            <spot x="300.68732" y="592.70557" z="978.7144" h="0" random_walk="3"/>
+            <spot x="395.91046" y="437.58264" z="1000.2743" h="0" random_walk="3"/>
+            <spot x="692.17444" y="396.6369" z="1028.3411" h="0" random_walk="3"/>
+            <spot x="627.12585" y="319.36417" z="1028.6621" h="0" random_walk="3"/>
+            <spot x="362.03714" y="456.77417" z="988.8538" h="0" random_walk="3"/>
+            <spot x="621.9272" y="616.98096" z="1013.8087" h="0" random_walk="3"/>
+            <spot x="503.12836" y="701.8629" z="1008.55786" h="0" random_walk="3"/>
+            <spot x="376.2779" y="624.27637" z="989.9192" h="0" random_walk="3"/>
+            <spot x="653.6552" y="478.8109" z="1013.02155" h="0" random_walk="3"/>
+            <spot x="643.7028" y="549.9534" z="1015.22845" h="0" random_walk="3"/>
+            <spot x="527.74225" y="393.87106" z="1006.8349" h="0" random_walk="3"/>
+            <spot x="344.8821" y="624.673" z="988.0534" h="0" random_walk="3"/>
+            <spot x="610.34906" y="604.1206" z="1012.9465" h="0" random_walk="3"/>
+            <spot x="652.58185" y="502.83197" z="1015.325" h="0" random_walk="3"/>
+            <spot x="673.27454" y="502.29797" z="1013.74066" h="64"/>
+            <spot x="318.14227" y="500.39337" z="983.8897" h="58"/>
+			<spot x="518.32740" y="691.81600" z="1011.01380" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_1_mob_18"/>
+        </spawn>
+        <!-- idlf3ci_kea_nagakn_46_ae -->
+        <spawn npc_id="214112">
+            <spot x="675.4017" y="583.66565" z="1016.4297" h="72"/>
+            <spot x="320.14377" y="604.58966" z="980.6189" h="91"/>
+            <spot x="529.0639" y="517.15546" z="1014.83954" h="69"/>
+            <spot x="492.81955" y="500.90436" z="1014.84" h="8"/>
+            <spot x="474.84235" y="543.9823" z="1014.8395" h="8"/>
+            <spot x="508.03708" y="558.8109" z="1014.8395" h="69"/>
+        </spawn>
+        <!-- idlf3ci_kea_nagakn_47_ae -->
+        <spawn npc_id="214113">
+            <spot x="677.08704" y="581.4133" z="1016.5003" h="72"/>
+            <spot x="323.0212" y="605.8754" z="981.07355" h="91"/>
+            <spot x="443.0031" y="416.18362" z="1009.5432" h="77"/>
+			<spot x="490.64243" y="523.27014" z="1029.25400" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_2_mob_2"/>
+			<spot x="512.99810" y="534.04890" z="1029.23120" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_2_mob_3"/>
+        </spawn>
+        <!-- idlf3ci_kea_nagakn_48_ae -->
+        <spawn npc_id="214114">
+            <spot x="521.04694" y="414.50934" z="1008.1607" h="3"/>
+        </spawn>
+        <!-- idlf3ci_keb_nagakn_46_ae -->
+        <spawn npc_id="214115">
+            <spot x="575.11285" y="539.1722" z="1013.3013" h="3"/>
+			<spot x="509.28394" y="502.92136" z="1014.48890" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_2_mob_5"/>
+            <spot x="420.42040" y="684.12140" z="1001.36460" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_1_mob_15"/>
+            <spot x="439.53485" y="695.17560" z="1004.69073" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_1_mob_14"/>
+            <spot x="504.46536" y="548.29720" z="1014.52045" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_2_mob_6"/>
+            <spot x="442.28452" y="687.93520" z="1002.72424" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_1_mob_17"/>
+            <spot x="487.08548" y="510.71610" z="1014.51990" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_2_mob_1"/>
+            <spot x="423.17007" y="676.88100" z="1000.34937" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_1_mob_16"/>
+            <spot x="525.0356" y="528.207200" z="1014.52136" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_2_mob_4"/>
+        </spawn>
+        <!-- idlf3ci_keb_nagakn_47_ae -->
+        <spawn npc_id="219122">
+            <spot x="529.8831" y="458.96237" z="1012.2842" h="97"/>
+            <spot x="537.68823" y="462.33218" z="1012.12646" h="97"/>
+            <spot x="476.42252" y="598.3855" z="1011.9641" h="38"/>
+            <spot x="465.12778" y="593.2781" z="1011.90753" h="38"/>
+            <spot x="472.12375" y="539.0225" z="1026.9739" h="113"/>
+            <spot x="488.83585" y="500.44928" z="1027.554" h="21"/>
+            <spot x="531.293" y="521.80615" z="1027.553" h="54"/>
+            <spot x="513.18744" y="557.8924" z="1026.9738" h="83"/>
+        </spawn>
+        <!-- idlf3ci_keb_nagakn_48_ae -->
+        <spawn npc_id="214117">
+            <spot x="609.0585" y="488.3069" z="1018.27466" h="109"/>
+            <spot x="480.60016" y="720.3742" z="1007.0722" h="94"/>
+            <spot x="290.92087" y="541.78186" z="981.57434" h="118"/>
+        </spawn>
+        <!-- idlf3ci_wea_nagawi_46_ae -->
+        <spawn npc_id="214118">
+            <spot x="660.18494" y="372.7358" z="1025.23" h="59"/>
+            <spot x="633.5239" y="457.69437" z="1012.12256" h="84"/>
+            <spot x="620.00256" y="585.21594" z="1013.6656" h="4"/>
+            <spot x="550.63275" y="658.6457" z="1013.3985" h="14"/>
+            <spot x="373.51752" y="434.0759" z="994.36456" h="119"/>
+            <spot x="383.62183" y="470.98892" z="999.5317" h="99"/>
+            <spot x="443.4777" y="377.9871" z="1014.21436" h="24"/>
+            <spot x="416.57013" y="553.3197" z="1000.18555" h="61"/>
+        </spawn>
+        <!-- idlf3ci_wea_nagawi_47_ae -->
+        <spawn npc_id="214119">
+            <spot x="660.2978" y="366.23456" z="1026.5637" h="59"/>
+            <spot x="445.92227" y="376.8165" z="1014.3684" h="24"/>
+            <spot x="443.23697" y="488.05426" z="1008.0539" h="81"/>
+            <spot x="471.6141" y="456.58133" z="1010.4937" h="80"/>
+        </spawn>
+        <!-- idlf3ci_wea_nagawi_48_ae -->
+        <spawn npc_id="214120">
+            <spot x="491.84628" y="561.4854" z="1014.4349" h="58"/>
+            <spot x="482.5381" y="556.83826" z="1014.44635" h="23"/>
+        </spawn>
+        <!-- idlf3ci_pea2_nagapr_46_ae -->
+        <spawn npc_id="214121">
+            <spot x="525.59240" y="684.41790" z="1011.12994" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_1_mob_1"/>
+        </spawn>
+        <!-- idlf3ci_pea2_nagapr_47_ae -->
+        <spawn npc_id="214122">
+            <spot x="445.03513" y="414.14606" z="1009.9416" h="77"/>
+			<spot x="511.54535" y="647.62317" z="1014.39510" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_1_mob_9"/>
+        </spawn>
+        <!-- idlf3ci_pea3_nagapr_48_ae -->
+        <spawn npc_id="219123">
+            <spot x="546.09600" y="401.92970" z="1007.00570" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_1_mob_5"/>
+        </spawn>
+        <!-- idlf3ci_drakanfighter_47_ae -->
+        <spawn npc_id="219117">
+            <spot x="510.80646" y="509.3427" z="1014.94794" h="98"/>
+            <spot x="505.90158" y="537.52606" z="1007.4394" h="110"/>
+            <spot x="492.70523" y="531.19037" z="1007.5717" h="82"/>
+            <spot x="469.79163" y="521.74475" z="997.16376" h="59"/>
+            <spot x="469.6807" y="519.09467" z="996.4693" h="59"/>
+            <spot x="487.44498" y="474.3842" z="986.2708" h="64"/>
+            <spot x="488.53137" y="470.2859" z="986.4657" h="65"/>
+			<spot x="491.08252" y="487.42330" z="967.40295" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_3_mob_8"/>
+			<spot x="491.08252" y="487.42330" z="967.40295" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_3_mob_8"/>
+			<spot x="523.72864" y="475.98886" z="966.70593" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_3_mob_9"/>
+        </spawn>
+        <!-- idlf3ci_drakanfighter_48_ae -->
+        <spawn npc_id="214125">
+            <spot x="505.2644" y="521.9707" z="1007.65076" h="38"/>
+            <spot x="535.46594" y="565.8603" z="996.70197" h="101"/>
+            <spot x="545.3537" y="551.8578" z="996.70197" h="41"/>
+        </spawn>
+        <!-- idlf3ci_drakanassassin_47_ae -->
+        <spawn npc_id="219115">
+            <spot x="471.0075" y="535.3841" z="1002.1233" h="16"/>
+            <spot x="468.44113" y="491.12463" z="992.29706" h="37"/>
+            <spot x="517.61316" y="502.1557" z="967.40295" h="112"/>
+            <spot x="519.9986" y="508.57306" z="967.40295" h="112"/>
+            <spot x="504.55536" y="531.61694" z="969.2653" h="10"/>
+            <spot x="489.65622" y="496.6884" z="969.26605" h="99"/>
+			<spot x="517.35000" y="556.78000" z="1001.8500" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_mob_3.1"/>
+			<spot x="603.04846" y="412.40390" z="1009.5649" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_1_mob_2"/>
+			<spot x="640.62415" y="333.30460" z="1029.0873" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_1_mob_8"/>
+			<spot x="427.95636" y="425.38260" z="1006.3882" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_1_mob_7"/>
+			<spot x="541.13670" y="529.81714" z="992.61694" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_3_mob_5"/>
+			<spot x="544.94140" y="485.66930" z="981.04395" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_3_mob_3"/>
+            <spot x="524.66570" y="548.15717" z="998.47986" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_3_mob_4"/>
+        </spawn>
+        <!-- idlf3ci_drakanassassin_48_ae -->
+        <spawn npc_id="219116">
+            <spot x="630.295" y="368.15952" z="1022.94275" h="32"/>
+            <spot x="507.24423" y="511.46555" z="969.2721" h="116"/>
+            <spot x="505.78708" y="508.04498" z="969.2721" h="108"/>
+			<spot x="509.08694" y="470.30954" z="969.08020" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_3_mob_10"/>
+        </spawn>
+        <!-- idlf3ci_drakanwizard_47_ae -->
+        <spawn npc_id="219120">
+            <spot x="533.773" y="484.24927" z="966.15497" h="39"/>
+            <spot x="543.22186" y="509.62997" z="966.1569" h="64"/>
+            <spot x="511.39175" y="484.4854" z="966.1551" h="69"/>
+			<spot x="490.64243" y="523.27014" z="1029.25400" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_2_mob_2"/>
+			<spot x="512.99810" y="534.04890" z="1029.23120" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_2_mob_3"/>
+        </spawn>
+        <!-- idlf3ci_drakanwizard_48_ae -->
+        <spawn npc_id="214129">
+            <spot x="543.4591" y="494.78226" z="967.0702" h="52"/>
+            <spot x="537.92786" y="523.78064" z="966.61774" h="76"/>
+			<spot x="531.66920" y="500.22253" z="967.40295" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_3_mob_7"/>
+        </spawn>
+        <!-- idlf3ci_drakanpriest_47_ae -->
+        <spawn npc_id="214130">
+            <spot x="506.60034" y="527.5514" z="969.2689" h="1"/>
+        </spawn>
+        <!-- idlf3ci_drakanpriest_48_ae -->
+        <spawn npc_id="219118">
+            <spot x="494.43484" y="498.6752" z="969.26965" h="102"/>
+        </spawn>
+        <!-- idlf3ci_attacktower_46_ae -->
+        <spawn npc_id="214155">
+            <spot x="516.0724" y="448.14572" z="1012.06537" h="107"/>
+            <spot x="554.7969" y="466.35553" z="1010.836" h="80"/>
+            <spot x="490.66312" y="608.5479" z="1009.5718" h="65"/>
+            <spot x="450.40436" y="592.2026" z="1008.92267" h="13"/>
+        </spawn>
+        <!-- idlf3ci_drakanasnamed_48_ah -->
+        <spawn npc_id="214156">
+            <spot x="501.16464" y="528.48224" z="1028.8584" h="98"/>
+        </spawn>
+        <!-- idlf3ci_drakanwinamed_48_ah -->
+        <spawn npc_id="214158">
+            <spot x="550.79474" y="491.52353" z="967.0836" h="55"/>
+        </spawn>
+        <!-- idlf3ci_drakanpriestnamedq_48_ah -->
+        <spawn npc_id="219119">
+            <spot x="494.54105" y="515.03424" z="969.2407" h="112"/>
+        </spawn>
+        <!-- idlf3ci_peb_lizardpr_46_ae -->
+        <spawn npc_id="214160">
+            <spot x="561.118" y="425.63882" z="1006.8692" h="101"/>
+			<spot x="270.78998" y="507.50950" z="983.90350" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_1_mob_3"/>
+			<spot x="644.70056" y="537.48380" z="1015.8074" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_1_mob_12"/>
+			<spot x="665.83264" y="584.98590" z="1015.7873" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_1_mob_4"/>
+			<spot x="330.95870" y="455.71747" z="987.06726" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_1_mob_6"/>
+			<spot x="295.79230" y="556.12164" z="980.57420" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_1_mob_13"/>
+			<spot x="565.31305" y="659.75650" z="1015.4303" h="0" walker_id="idlf3_castle_indratoo_npcpathidlf3_castle_indratoo_1_mob_10"/>
+        </spawn>
+        <!-- idlf3ci_peb_lizardpr_47_ae -->
+        <spawn npc_id="214161">
+            <spot x="614.8966" y="528.8677" z="1012.6738" h="13"/>
+        </spawn>
+        <!-- idlf3ci_drakanpriestnamed_48_ah -->
+        <spawn npc_id="214163">
+            <spot x="551.3605" y="566.8212" z="997.0809" h="72"/>
+        </spawn>
+        <!-- idlf3ci_nagafinamed_48_ah -->
+        <spawn npc_id="214164">
+            <spot x="427.03107" y="695.8533" z="1005.2949" h="99"/>
+        </spawn>
+		
+        <!-- idlf3_castle_indratoo_dragonportal_q1063 -->
+        <spawn npc_id="700361">
+            <spot x="564.178772" y="327.079712" z="1021.35168" entity_id="28"/>
+        </spawn>
+        <!-- idlf3_castle_indratoo_door -->
+        <spawn npc_id="700372">
+            <spot x="480.012939" y="575.755493" z="1017.47357" entity_id="53"/>
+            <spot x="524.283691" y="480.831024" z="1017.23407" entity_id="52"/>
+        </spawn>
+        <!-- idlf3indratoo_fobj_q3908 -->
+        <spawn npc_id="700515">
+            <spot x="492.296021" y="516.604736" z="969.838745" entity_id="54"/>
+        </spawn>
+	</spawn_map>
+</spawns>

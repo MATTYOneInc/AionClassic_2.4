@@ -1,0 +1,13 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Npc Faction
+	Develop: ADev.Team
+ -->
+<npc_factions xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="npc_factions.xsd">
+	<npc_faction id="2" name="Alabaster Order" npcid="799803" nameId="2258001" category="DAILY" minlevel="30" maxlevel="55" race="ELYOS"/>
+	<npc_faction id="3" name="Radiant Ops" npcid="799828" nameId="2258003" category="DAILY" minlevel="40" maxlevel="55" race="ELYOS"/>
+	<npc_faction id="4" name="Fortuneers" npcid="799840" nameId="2258005" category="DAILY" minlevel="50" maxlevel="55" race="ELYOS"/>
+	<npc_faction id="5" name="Field Wardens" npcid="799845" nameId="2258007" category="DAILY" minlevel="30" maxlevel="55" race="ASMODIANS"/>
+	<npc_faction id="6" name="Blood Crusade" npcid="799868" nameId="2258009" category="DAILY" minlevel="40" maxlevel="55" race="ASMODIANS"/>
+	<npc_faction id="7" name="Charlirunerk's Daemons" npcid="799886" nameId="2258011" category="DAILY" minlevel="50" maxlevel="55" race="ASMODIANS"/>
+</npc_factions>

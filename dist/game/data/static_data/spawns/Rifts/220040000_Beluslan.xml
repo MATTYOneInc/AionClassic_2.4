@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Rift Beluslan
+	Re-newed By Rinzler
+ -->
+<spawns>
+	<spawn_map map_id="220040000">
+		<!-- directportal_start -->
+		<spawn npc_id="700137" handler="RIFT">
+			<spot x="413.68480" y="518.6784" z="219.8750" anchor="BELUSLAN_AM"/>
+			<spot x="226.33570" y="171.2299" z="240.7080" anchor="BELUSLAN_BM"/>
+			<spot x="1367.2630" y="735.7268" z="274.2236" anchor="BELUSLAN_CM"/>
+			<spot x="718.80310" y="2246.004" z="244.7755" anchor="BELUSLAN_DM"/>
+			<spot x="2078.3080" y="212.3149" z="382.3750" anchor="BELUSLAN_EM"/>
+			<spot x="2834.4390" y="579.5166" z="509.5302" anchor="BELUSLAN_FM"/>
+			<spot x="2724.9912" y="2599.932" z="655.3750" anchor="BELUSLAN_GM"/>
+		    <spot x="1561.1523" y="2006.184" z="580.2425" anchor="BELUSLAN_HM"/>
+		</spawn>
+		<!-- directportal_destination -->
+		<spawn npc_id="700138" handler="RIFT">
+			<spot x="346.92890" y="1091.003" z="299.8750" anchor="BELUSLAN_AS"/>
+			<spot x="871.47876" y="708.9504" z="290.0000" anchor="BELUSLAN_BS"/>
+			<spot x="1175.1508" y="448.7115" z="340.9641" anchor="BELUSLAN_CS"/>
+			<spot x="765.16907" y="2192.037" z="278.0084" anchor="BELUSLAN_DS"/>
+			<spot x="2148.6990" y="379.2519" z="420.0619" anchor="BELUSLAN_ES"/>
+			<spot x="2576.8690" y="1121.203" z="456.8659" anchor="BELUSLAN_FS"/>
+			<spot x="2940.9285" y="2184.460" z="621.2892" anchor="BELUSLAN_GS"/>
+			<spot x="2019.1216" y="1966.504" z="710.8200" anchor="BELUSLAN_HS"/>
+		</spawn>
+		
+		<!-- Not Used -->
+        <rift_spawn id="2140">
+        </rift_spawn>
+        <rift_spawn id="2141">
+        </rift_spawn>
+        <rift_spawn id="2142">
+        </rift_spawn>
+        <rift_spawn id="2143">
+        </rift_spawn>
+        <rift_spawn id="2144">
+        </rift_spawn>
+        <rift_spawn id="2145">
+        </rift_spawn>
+        <rift_spawn id="2146">
+        </rift_spawn>
+		<rift_spawn id="2147">
+        </rift_spawn>
+	</spawn_map>
+</spawns>

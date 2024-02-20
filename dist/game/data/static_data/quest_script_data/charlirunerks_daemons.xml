@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+<!--
+    Quest Charlirunerk's Daemon's
+	Make By Encom
+ -->
+	<item_collecting id="46015" start_npc_ids="0" end_npc_ids="799882 799883" action_item_ids="700781"/>
+	<item_collecting id="46016" start_npc_ids="0" end_npc_ids="799882 799883" action_item_ids="700782"/>
+	<item_collecting id="46017" start_npc_ids="799882 799883" end_npc_ids="799882 799883" action_item_ids="700807"/>
+	<item_collecting id="46503" start_npc_ids="0" end_npc_ids="799882 799883"/>
+	<item_collecting id="46509" start_npc_ids="0" end_npc_ids="799882 799883"/>
+	<item_collecting id="46515" start_npc_ids="0" end_npc_ids="799882 799883"/>
+	<item_collecting id="46519" start_npc_ids="799882 799883" end_npc_ids="799882 799883"/>
+	<item_collecting id="46521" start_npc_ids="0" end_npc_ids="799882 799883"/>
+	<item_collecting id="46524" start_npc_ids="0" end_npc_ids="799882 799883"/>
+	<item_collecting id="46525" start_npc_ids="0" end_npc_ids="799882 799883"/>
+	<item_collecting id="46526" start_npc_ids="0" end_npc_ids="799882 799883"/>
+	<item_collecting id="46528" start_npc_ids="0" end_npc_ids="799882 799883"/>
+	
+	<monster_hunt id="46500" start_npc_ids="0" end_npc_ids="799882 799883">
+		<monster end_var="1" var="0" npc_ids="216624"/>
+	</monster_hunt>
+	<monster_hunt id="46502" start_npc_ids="0" end_npc_ids="799882 799883">
+		<monster end_var="1" var="0" npc_ids="216626"/>
+	</monster_hunt>
+	<monster_hunt id="46504" start_npc_ids="0" end_npc_ids="799882 799883">
+		<monster end_var="1" var="0" npc_ids="216640"/>
+	</monster_hunt>
+	<monster_hunt id="46505" start_npc_ids="0" end_npc_ids="799882 799883">
+		<monster end_var="1" var="0" npc_ids="216628"/>
+	</monster_hunt>
+	<monster_hunt id="46506" start_npc_ids="0" end_npc_ids="799882 799883">
+		<monster end_var="1" var="0" npc_ids="216632"/>
+	</monster_hunt>
+	<monster_hunt id="46508" start_npc_ids="0" end_npc_ids="799882 799883">
+		<monster end_var="1" var="0" npc_ids="216634"/>
+	</monster_hunt>
+	<monster_hunt id="46510" start_npc_ids="0" end_npc_ids="799882 799883">
+		<monster end_var="1" var="0" npc_ids="216641"/>
+	</monster_hunt>
+	<monster_hunt id="46511" start_npc_ids="0" end_npc_ids="799882 799883">
+		<monster end_var="1" var="0" npc_ids="216629"/>
+	</monster_hunt>
+	<monster_hunt id="46512" start_npc_ids="0" end_npc_ids="799882 799883">
+		<monster end_var="1" var="0" npc_ids="216636"/>
+	</monster_hunt>
+	<monster_hunt id="46514" start_npc_ids="0" end_npc_ids="799882 799883">
+		<monster end_var="1" var="0" npc_ids="216638"/>
+	</monster_hunt>
+	<monster_hunt id="46516" start_npc_ids="0" end_npc_ids="799882 799883">
+		<monster end_var="1" var="0" npc_ids="216642"/>
+	</monster_hunt>
+	<monster_hunt id="46517" start_npc_ids="0" end_npc_ids="799882 799883">
+		<monster end_var="1" var="0" npc_ids="216643"/>
+	</monster_hunt>
+	<monster_hunt id="46518" start_npc_ids="799882 799883" end_npc_ids="799882 799883">
+		<monster end_var="1" var="0" npc_ids="216630"/>
+	</monster_hunt>
+	<monster_hunt id="46520" start_npc_ids="0" end_npc_ids="799882 799883">
+		<monster end_var="1" var="0" npc_ids="217016"/>
+	</monster_hunt>
+	<monster_hunt id="46522" start_npc_ids="0" end_npc_ids="799882 799883">
+		<monster end_var="1" var="0" npc_ids="217018"/>
+	</monster_hunt>
+	<monster_hunt id="46523" start_npc_ids="0" end_npc_ids="799882 799883">
+		<monster end_var="1" var="0" npc_ids="217019"/>
+	</monster_hunt>
+	<monster_hunt id="46527" start_npc_ids="0" end_npc_ids="799882 799883">
+		<monster end_var="1" var="0" npc_ids="217023"/>
+	</monster_hunt>
+</quest_scripts>

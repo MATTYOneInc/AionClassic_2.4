@@ -1,0 +1,49 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Rift Heiron
+	Re-newed By Rinzler
+ -->
+<spawns>
+	<spawn_map map_id="210040000">
+		<!-- directportal_start -->
+		<spawn npc_id="700137" handler="RIFT">
+			<spot x="2664.4030" y="433.99370" z="398.7755" anchor="HEIRON_AM"/>
+			<spot x="2564.8140" y="511.12085" z="386.1250" anchor="HEIRON_BM"/>
+			<spot x="1311.4467" y="1495.4810" z="114.6960" anchor="HEIRON_CM"/>
+			<spot x="1543.8934" y="149.14780" z="102.3750" anchor="HEIRON_DM"/>
+			<spot x="657.18445" y="1885.0510" z="113.8980" anchor="HEIRON_EM"/>
+			<spot x="257.62604" y="2759.4937" z="107.2735" anchor="HEIRON_FM"/>
+			<spot x="529.30170" y="573.96954" z="142.7481" anchor="HEIRON_GM"/>
+			<spot x="2792.4946" y="2121.7734" z="140.0000" anchor="HEIRON_HM"/>
+		</spawn>
+		<!-- directportal_destination -->
+		<spawn npc_id="700138" handler="RIFT">
+			<spot x="1779.6060" y="1114.1453" z="186.7067" anchor="HEIRON_AS"/>
+			<spot x="1998.5150" y="485.07837" z="231.4034" anchor="HEIRON_BS"/>
+			<spot x="1675.4920" y="1617.8237" z="165.3860" anchor="HEIRON_CS"/>
+			<spot x="912.45920" y="973.87380" z="160.5523" anchor="HEIRON_DS"/>
+			<spot x="978.93695" y="2262.7310" z="237.2108" anchor="HEIRON_ES"/>
+			<spot x="578.08356" y="2443.0222" z="204.7226" anchor="HEIRON_FS"/>
+			<spot x="467.83660" y="1045.6348" z="164.7295" anchor="HEIRON_GS"/>
+			<spot x="1846.2971" y="2645.6472" z="147.3485" anchor="HEIRON_HS"/>
+		</spawn>
+		
+		<!-- Not Used -->
+        <rift_spawn id="2240">
+        </rift_spawn>
+        <rift_spawn id="2241">
+        </rift_spawn>
+        <rift_spawn id="2242">
+        </rift_spawn>
+        <rift_spawn id="2243">
+        </rift_spawn>
+        <rift_spawn id="2244">
+        </rift_spawn>
+        <rift_spawn id="2245">
+        </rift_spawn>
+        <rift_spawn id="2246">
+        </rift_spawn>
+		<rift_spawn id="2247">
+        </rift_spawn>
+	</spawn_map>
+</spawns>

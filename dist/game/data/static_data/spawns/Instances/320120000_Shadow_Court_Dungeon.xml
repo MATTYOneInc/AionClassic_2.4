@@ -1,0 +1,132 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Shadow Court Dungeon
+	Re-newed By Rinzler
+ -->
+<spawns>
+	<spawn_map map_id="320120000">
+		<!-- arena_3f_slime_43_an -->
+        <spawn npc_id="214342">
+            <spot x="547.0088" y="454.9929" z="202.9827" h="0"/>
+            <spot x="553.4339" y="450.3751" z="202.9827" h="0"/>
+            <spot x="546.9671" y="445.61295" z="202.9827" h="0"/>
+            <spot x="554.5038" y="445.5916" z="202.9827" h="0"/>
+            <spot x="554.5455" y="454.97156" z="202.9827" h="0"/>
+        </spawn>
+        <!-- arena_3f_mudthorn_43_an -->
+        <spawn npc_id="214343">
+            <spot x="635.7149" y="446.17426" z="202.96854" h="60"/>
+            <spot x="635.7889" y="454.5729" z="202.96854" h="60"/>
+            <spot x="627.9933" y="455.20963" z="202.96854" h="60"/>
+            <spot x="628.05945" y="450.60248" z="202.96854" h="60"/>
+            <spot x="628.031" y="445.70377" z="202.96854" h="60"/>
+        </spawn>
+        <!-- arena_3f_zombie_43_an -->
+        <spawn npc_id="214344">
+            <spot x="587.1667" y="524.51483" z="206.07169" h="89"/>
+            <spot x="587.19495" y="517.81396" z="206.07169" h="90"/>
+            <spot x="591.19635" y="519.20386" z="206.07169" h="90"/>
+            <spot x="595.72797" y="517.63605" z="206.07169" h="90"/>
+            <spot x="595.5480" y="524.3548" z="206.07169" h="90"/>
+        </spawn>
+        <!-- arena_3f_skeleton_43_an -->
+        <spawn npc_id="214345">
+            <spot x="587.1471" y="479.16714" z="202.97383" h="0" walker_id="npcpathiddc1_arena_3f_b1"/>
+            <spot x="595.6764" y="478.58597" z="202.97383" h="0" walker_id="npcpathiddc1_arena_3f_b2"/>
+        </spawn>
+        <!-- arena_3f_kalnifre_44_an -->
+        <spawn npc_id="214348">
+            <spot x="507.05383" y="598.6417" z="222.48643" h="90"/>
+            <spot x="515.8582" y="598.1305" z="222.48643" h="90"/>
+            <spot x="515.9686" y="590.26874" z="222.48643" h="90"/>
+            <spot x="511.1642" y="590.53925" z="222.48643" h="90"/>
+            <spot x="506.58752" y="590.5565" z="222.48643" h="90"/>
+        </spawn>
+        <!-- arena_3f_kalnifkey_45_an -->
+        <spawn npc_id="214349">
+            <spot x="511.4706" y="596.95355" z="222.48643" h="90"/>
+        </spawn>
+        <!-- arena_3f_direbeast_44_an -->
+        <spawn npc_id="214350">
+            <spot x="515.7156" y="518.2674" z="222.5006" h="30"/>
+            <spot x="506.9116" y="518.80615" z="222.5006" h="30"/>
+            <spot x="506.46695" y="510.79633" z="222.5006" h="30"/>
+            <spot x="515.81647" y="510.43082" z="222.5006" h="30"/>
+        </spawn>
+        <!-- arena_3f_direbeastkey_45_an -->
+        <spawn npc_id="214351">
+            <spot x="511.12958" y="514.23615" z="222.5006" h="30"/>
+        </spawn>
+        <!-- arena_3f_mosbearre_44_an -->
+        <spawn npc_id="214352">
+            <spot x="437.24802" y="554.59576" z="225.59222" h="0"/>
+            <spot x="435.83896" y="559.20300" z="225.58958" h="0"/>
+            <spot x="435.46152" y="550.63135" z="225.58958" h="0"/>
+            <spot x="444.45554" y="552.30900" z="225.58958" h="0"/>
+            <spot x="444.31223" y="556.78630" z="225.58958" h="0"/>
+        </spawn>
+		<!-- arena_3f_mosbearrekey_45_an -->
+        <spawn npc_id="214353">
+            <spot x="440.281372" y="554.515564" z="227.904510" h="0"/>
+        </spawn>
+        <!-- arena_3f_trollre2_44_an -->
+        <spawn npc_id="214354">
+            <spot x="484.7949" y="549.2428" z="222.49184" h="0" walker_id="npcpathiddc1_arena_3f_b3"/>
+            <spot x="484.96884" y="558.4703" z="222.49184" h="0" walker_id="npcpathiddc1_arena_3f_b4"/>
+        </spawn>
+        <!-- arena_3f_undeadlightfi_45_an -->
+        <spawn npc_id="214355">
+            <spot x="368.28732" y="475.17932" z="242.00453" h="0"/>
+            <spot x="363.40094" y="479.70395" z="242.00453" h="0"/>
+            <spot x="372.7297" y="470.81085" z="242.00453" h="0"/>
+            <spot x="371.97086" y="479.2769" z="242.00453" h="0"/>
+        </spawn>
+        <!-- arena_3f_undeadlightwi_45_an -->
+        <spawn npc_id="214356">
+            <spot x="363.17023" y="469.92023" z="242.00453" h="0"/>
+        </spawn>
+        <!-- arena_3f_undeadlightpr_46_an -->
+        <spawn npc_id="214357">
+            <spot x="363.72015" y="475.09808" z="242.00453" h="0"/>
+        </spawn>
+        <!-- arena_3f_undeaddarkfi_45_an -->
+        <spawn npc_id="214358">
+            <spot x="451.7272" y="479.75436" z="242.01869" h="60"/>
+            <spot x="447.68756" y="474.89578" z="242.01869" h="60"/>
+            <spot x="451.81644" y="469.67114" z="242.01869" h="60"/>
+            <spot x="441.77853" y="471.4358" z="242.01869" h="60"/>
+        </spawn>
+        <!-- arena_3f_undeaddarkwi_45_an -->
+        <spawn npc_id="214359">
+            <spot x="441.85654" y="477.19168" z="242.01869" h="60"/>
+        </spawn>
+        <!-- arena_3f_undeaddarkra_46_an -->
+        <spawn npc_id="214360">
+            <spot x="450.42343" y="474.8593" z="242.01869" h="60"/>
+        </spawn>
+        <!-- arena_3f_undeaddarkfih_45_an -->
+        <spawn npc_id="214361">
+            <spot x="407.21024" y="402.7218" z="245.10768" h="30"/>
+            <spot x="403.1714" y="407.88794" z="245.10768" h="30"/>
+            <spot x="402.6426" y="399.34067" z="245.10768" h="30"/>
+        </spawn>
+        <!-- arena_3f_undeaddarkrah_45_an -->
+        <spawn npc_id="214362">
+            <spot x="410.44250" y="407.82513" z="245.10768" h="30"/>
+            <spot x="412.20407" y="399.2687" z="245.10768" h="30"/>
+        </spawn>
+        <!-- arena_3f_guardda_45_an -->
+        <spawn npc_id="214530">
+            <spot x="401.80118" y="447.6345" z="242.00992" h="0" walker_id="npcpathiddc1_arena_3f_b5"/>
+        </spawn>
+        <!-- arena_3f_guardda_46_an -->
+        <spawn npc_id="214531">
+            <spot x="412.56342" y="447.26654" z="242.00983" h="0" walker_id="npcpathiddc1_arena_3f_b6"/>
+        </spawn>
+		
+        <!-- iddc1_arena_3f_exit -->
+        <spawn npc_id="700369">
+            <spot x="407.544342" y="396.794006" z="246.000000" entity_id="3"/>
+        </spawn>
+	</spawn_map>
+</spawns>

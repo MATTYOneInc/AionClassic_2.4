@@ -1,0 +1,60 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<quest_scripts xmlns:xsi="http://www.w3.org/2001/XMLSchema-instance" xsi:noNamespaceSchemaLocation="quest_script_data.xsd">
+<!--
+    Quest Haramel
+	Make By Encom
+ -->
+	<!-- Shugo Indemnity -->
+	<item_collecting id="18501" start_npc_ids="799522" end_npc_ids="799523" action_item_ids="700833 700951" movie="456"/>
+	<!-- Odella For Gaurinerk -->
+	<item_collecting id="18503" start_npc_ids="799523" end_npc_ids="798001" action_item_ids="700834"/>
+	<!-- A Touch Of Odium -->
+	<monster_hunt id="18504" start_npc_ids="203166" end_npc_ids="203166">
+		<monster var="0" npc_ids="216897 216898 216899 216901 216902 216903 216904 216905 216906 216907" end_var="65"/>
+		<monster var="0" npc_ids="216908 216909 216910 216911 216912 216915 216916 216919 216913" end_var="65"/>
+		<monster var="0" npc_ids="216914 216920 216921 216922 217025 217067 217108 282041 282042" end_var="65"/>
+	</monster_hunt>
+	<!-- The Big Sleep -->
+	<item_collecting id="18505" start_npc_ids="203167" end_npc_ids="203167"/>
+	<!-- The Third Shugo -->
+	<report_to id="18506" start_npc_ids="799523" end_npc_ids="799524"/>
+	<!-- The Big Boss -->
+	<monster_hunt id="18507" start_npc_ids="799524" end_npc_ids="203166">
+		<monster var="0" npc_ids="216922" end_var="1"/>
+	</monster_hunt>
+	<!-- A Handshake Deal -->
+	<monster_hunt id="18508" start_npc_ids="799522" end_npc_ids="799523">
+		<monster var="0" npc_ids="216898" end_var="2"/>
+		<monster var="1" npc_ids="216901" end_var="3"/>
+		<monster var="2" npc_ids="216902" end_var="3"/>
+	</monster_hunt>
+	<!-- This Shugo For Hire -->
+	<item_collecting id="18509" start_npc_ids="799523" end_npc_ids="798001" action_item_ids="700853"/>
+	
+	<!-- The Price Of Loyalty -->
+	<item_collecting id="28501" start_npc_ids="799522" end_npc_ids="799523" action_item_ids="700833 700951" movie="456"/>
+	<!-- Odella For Chauminerk -->
+	<item_collecting id="28503" start_npc_ids="799523" end_npc_ids="798029" action_item_ids="700834"/>
+	<!-- Follow The Leaders...And Kill 'em -->
+	<monster_hunt id="28504" start_npc_ids="203649" end_npc_ids="203649">
+		<monster var="0" npc_ids="216897 216898 216899 216901 216902 216903 216904 216905 216906 216907" end_var="65"/>
+		<monster var="0" npc_ids="216908 216909 216910 216911 216912 216915 216916 216919 216913" end_var="65"/>
+		<monster var="0" npc_ids="216914 216920 216921 216922 217025 217067 217108 282041 282042" end_var="65"/>
+	</monster_hunt>
+	<!-- Overseers Under Attack -->
+	<item_collecting id="28505" start_npc_ids="203659" end_npc_ids="203659"/>
+	<!-- Guess Who -->
+	<report_to id="28506" start_npc_ids="799523" end_npc_ids="799524"/>
+	<!-- Hammertime -->
+	<monster_hunt id="28507" start_npc_ids="799524" end_npc_ids="203649">
+		<monster var="0" npc_ids="216922" end_var="1"/>
+	</monster_hunt>
+	<!-- Securing Moofrenerk's Retreat -->
+	<monster_hunt id="28508" start_npc_ids="799522" end_npc_ids="799523">
+		<monster var="0" npc_ids="216898" end_var="2"/>
+		<monster var="1" npc_ids="216901" end_var="3"/>
+		<monster var="2" npc_ids="216902" end_var="3"/>
+	</monster_hunt>
+	<!-- What Is Inside The Box? -->
+	<item_collecting id="28509" start_npc_ids="799523" end_npc_ids="798029" action_item_ids="700853"/>
+</quest_scripts>

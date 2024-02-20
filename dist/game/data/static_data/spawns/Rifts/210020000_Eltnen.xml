@@ -1,0 +1,45 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!--
+	Rift Eltnen
+	Re-newed By Rinzler
+ -->
+<spawns>
+	<spawn_map map_id="210020000">
+		<!-- directportal_start -->
+		<spawn npc_id="700137" handler="RIFT">
+			<spot x="225.09428" y="2942.9639" z="155.6807" anchor="ELTNEN_AM"/>
+			<spot x="768.04060" y="1879.6875" z="263.8359" anchor="ELTNEN_BM"/>
+			<spot x="1627.8823" y="1760.4395" z="345.2426" anchor="ELTNEN_CM"/>
+			<spot x="1039.4309" y="52.244410" z="317.0791" anchor="ELTNEN_DM"/>
+			<spot x="1426.8889" y="415.91855" z="365.4565" anchor="ELTNEN_EM"/>
+			<spot x="2429.2002" y="2253.4546" z="269.1250" anchor="ELTNEN_FM"/>
+			<spot x="2413.9458" y="721.20530" z="371.9606" anchor="ELTNEN_GM"/>
+		</spawn>
+		<!-- directportal_destination -->
+		<spawn npc_id="700138" handler="RIFT">
+			<spot x="699.58730" y="2673.4558" z="250.2106" anchor="ELTNEN_AS"/>
+			<spot x="152.13107" y="1644.5100" z="262.8586" anchor="ELTNEN_BS"/>
+			<spot x="1247.4799" y="2778.8250" z="307.8447" anchor="ELTNEN_CS"/>
+			<spot x="49.984287" y="285.46637" z="113.9087" anchor="ELTNEN_DS"/>
+			<spot x="1386.9507" y="412.10767" z="368.9400" anchor="ELTNEN_ES"/>
+			<spot x="2451.3325" y="2353.6233" z="270.9058" anchor="ELTNEN_FS"/>
+			<spot x="2502.7960" y="669.04260" z="359.3489" anchor="ELTNEN_GS"/>
+		</spawn>
+		
+		<!-- Not Used -->
+        <rift_spawn id="2220">
+		</rift_spawn>
+        <rift_spawn id="2221">
+		</rift_spawn>
+        <rift_spawn id="2222">
+		</rift_spawn>
+        <rift_spawn id="2223">
+        </rift_spawn>
+        <rift_spawn id="2224">
+		</rift_spawn>
+        <rift_spawn id="2225">
+		</rift_spawn>
+        <rift_spawn id="2226">
+        </rift_spawn>
+	</spawn_map>
+</spawns>

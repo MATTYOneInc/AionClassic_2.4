@@ -1,0 +1,34 @@
+<?xml version="1.0" encoding="UTF-8" standalone="yes"?>
+<xs:schema version="1.0" xmlns:xs="http://www.w3.org/2001/XMLSchema">
+    <xs:include schemaLocation="../global_types.xsd"/>
+    <xs:include schemaLocation="../import.xsd"/>
+    <xs:include schemaLocation="../battle_pass/battlepass_actions.xsd"/>
+    <xs:element name="guild_achievement_templates">
+        <xs:complexType>
+            <xs:sequence>
+                <xs:element name="guild_achievement_template" type="GuildAchievement" minOccurs="0" maxOccurs="unbounded"/>
+            </xs:sequence>
+        </xs:complexType>
+    </xs:element>
+    <xs:complexType name="GuildAchievement">
+        <xs:sequence>
+            <xs:element name="guild_action" type="GuildAction" minOccurs="0" maxOccurs="unbounded"/>
+            <xs:element name="guild_achievement_reward" type="GuildAchievementReward" minOccurs="0" maxOccurs="unbounded"/>
+        </xs:sequence>
+        <xs:attribute name="id" type="xs:int" use="required"/>
+        <xs:attribute name="name" type="xs:string" use="optional"/>
+        <xs:attribute name="min_level" type="xs:int" use="required"/>
+        <xs:attribute name="max_level" type="xs:int" use="required"/>
+        <xs:attribute name="type" type="xs:string" use="required"/>
+        <xs:attribute name="max_stage" type="xs:int" use="required"/>
+    </xs:complexType>
+    <xs:complexType name="GuildAction">
+        <xs:attribute name="id" type="xs:int" use="required"/>
+    </xs:complexType>
+    <xs:complexType name="GuildAchievementReward">
+        <xs:attribute name="completecount" type="xs:int" use="required"/>
+        <xs:attribute name="exp" type="xs:int" use="optional"/>
+        <xs:attribute name="essence_amount" type="xs:int" use="optional"/>
+        <xs:attribute name="essence_piece_amount" type="xs:int" use="optional"/>
+    </xs:complexType>
+</xs:schema>
